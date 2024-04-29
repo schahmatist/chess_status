@@ -1,0 +1,189 @@
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
+[White "Rick48"]
+[Black "Halogen11-pext-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
+[White "Koivisto_9.2-windows-avx2-pgo-pext"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+1/2 - 1/2
+
+
+[Event "0_League_Season2a"]
+[White "Fire_8.NN.MC.3_x64_real"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2 - 1/2
+
+[White "BlackCore-bmi2-win-6.0"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+1-0 (remove Illegal flag)
+
+
+
+[White "Coiled_1.1_x64"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2 - 1/2
+
+
+[White "Weiss-pext2.1"]
+[Black "Combusken_windows_amd64"]
+[Result "1-0"]
+1/2 - 1/2
+
+[White "Clover.3.3-avx2"]
+[Black "Fire_8.NN.MC.3 updated"]
+[Result "0-1"]
+-----remove game and result
+
+
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Halogen 11.4 avx2"]
+[Result "1-0"]
+1/2 - 1/2
+
+
+[White "Allie_v0.8-dev New Net"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+
+1-0 (remove Illegal flag)
+
+[White "Mantissa-3.7.2-avx2"]
+[Black "Combusken_windows_amd64"]
+[Result "1-0"]
+1-0 (remove Illegal flag)
+
+[Event "1a_League_Season2b"]
+[White "Booot7_avx2_pext"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
++[Event "1a_League_Season2b"]
+[Site "DESKTOP-50V1D33"]
+[White "Blackmarlin-7.0-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
+[White "Houdini 6.03 Pro pext"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
++[Event "1a_League_Season2b"]
+[White "Clover.3.3-avx2"]
+[Black "Scorpio"]
+[Result "0-1"]
+1-0
+
+
+[White "Halogen 11.4 avx2"]
+[Black "Frozenight-6.0.0-windows-x86-64-v2"]
+[Result "0-1"]
+1/2-1/2
+
+
++[Event "1a_League_Season2b"]
+[White "Wasp650-windows-avx"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+1-0 (remove Illegal flag)
+
+
++[Event "1a_League_Season2b"]
+[White "Rick48"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
++[Event "1a_League_Season2b"]
+[White "Blackmarlin-7.0-avx2"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
+[White "Lc0_30"]
+[Black "Koivisto_9.2-windows-avx2-pgo-pext"]
+[Result "1-0"]
+-----remove game and result
+
+
++[Event "1a_League_Season2b"]
+[White "Scorpio"]
+[Black "Uralochka]
+[Result "1-0"]
+1/2-1/2
+
+
++[Event "1a_League_Season2b"]
+[White "Devre_4.0-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "1-0"]
+0-1
+
+
+[White "Topple_0.8.1_popcnt"]
+[Black "Avalanche-x86_64-windows-haswell-1.4.0"]
+[Result "0-1"]
+remove game
+
++[Event "1a_League_Season2b"]
+[White "PowerFritz 18 AVX2"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
+[Event "Season2_League_ALL_Weak"]
+[White "Combusken_windows_amd64"]
+[Black "Drofa_3.3.0_fixed"]
+[Result "1-0"]
+-----remove game and result
+
+
+[Event "Season2b_League_ALL_New"]
+[White "Toga411-avx2"]
+[Black "Halogen 11.4 avx2"]
+[Result "1-0"]
+0-1
+
+
+[White "Rick48"]
+[Black "Halogen 11.4 avx2"]
+[Result "1-0"]
+0-1
+
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Uralochka3.39d-avx2"]
+[Result "1-0"]
+1/2-1/2
+
+
+[White "Clover.3.3-avx2"]
+[Black "Frozenight-6.0.0-windows-x86-64-v2"]
+[Result "0-1"]
+1/2-1/2
+
+
+
+
+
+
+
+

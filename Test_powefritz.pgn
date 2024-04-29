@@ -1,0 +1,340 @@
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "1"]
+[White "PowerFritz 18 AVX2"]
+[Black "Fritz 18 NNUE AVX2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "11:53:41"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "181"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Nb5 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Kd8 13.
+Re1 Nd7 14. Kc1 Nb6 15. Bd3 Bd7 16. Re4 Re8 17. Rhe1 Rxe4 18. Rxe4 g6 19.
+a4 c6 20. Nc3 a5 21. Rf4 Ke7 22. Ne4 Nd5 23. Rh4 h5 24. Bc4 b6 25. Bxd5
+cxd5 26. Nc3 Bc6 27. Rd4 Kd6 28. Kd2 f6 29. Ne2 g5 30. b3 h4 31. Rd3 Rg8
+32. Rf3 Rg6 33. Nd4 Bd7 34. Kd3 h3 35. g3 Ke5 36. Re3+ Kd6 37. f3 g4 38.
+Ne2 Rg7 39. Kd2 Rg5 40. Nd4 Re5 41. f4 Re4 42. Kd3 f5 43. c3 Kc5 44. Ke2
+Kd6 45. Kd2 Ke7 46. Kd3 Be6 47. Nc2 Kd7 48. b4 Kc7 49. Rxe4 dxe4+ 50. Kd4
+Bb3 51. Ne3 Bxa4 52. Nxf5 Bd7 53. Ne3 a4 54. Nc2 Bf5 55. Na3 Bh7 56. c4 Kd6
+57. Ke3 Kc6 58. Kd2 Kd7 59. Nc2 Bg8 60. Kc3 Kc6 61. f5 Bh7 62. f6 Bg8 63.
+Ne3 Kd6 64. b5 a3 65. Kb3 Kc5 66. Kxa3 Kd4 67. Kb2 Kxe3 68. c5 Kf2 69. cxb6
+e3 70. b7 e2 71. b8=Q e1=Q 72. Qxg8 Qe5+ 73. Ka3 Kg1 74. Qxg4 Qc3+ 75. Ka4
+Qxf6 76. Qe2 Qd4+ 77. Kb3 Qd5+ 78. Kb4 Qd4+ 79. Ka3 Qd6+ 80. Kb2 Qb4+ 81.
+Kc2 Qc5+ 82. Kb1 Qb4+ 83. Kc1 Qa3+ 84. Qb2 Qe3+ 85. Kb1 Qe4+ 86. Kc1 Qe3+
+87. Kd1 Qd3+ 88. Kc1 Qf1+ 89. Kd2 Kxh2 90. b6 Qf2+ 91. Kc1 {Arena
+Adjudication} 1/2-1/2
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "2"]
+[White "Fritz 18 NNUE AVX2"]
+[Black "PowerFritz 18 AVX2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C84"]
+[Opening "Spanish"]
+[Time "11:59:03"]
+[Variation "Closed, Centre Attack, 7.e5 Ne4 8.Nxd4 O-O"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "119"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Ne4 8.
+Nxd4 O-O 9. Re1 Nxd4 10. Rxe4 Ne6 11. Nc3 Nc5 12. Rd4 f6 13. Bf4 fxe5 14.
+Bxe5 d6 15. Bb3+ Nxb3 16. cxb3 Be6 17. Qe2 Bf7 18. Rad1 Bg5 19. Qg4 Bf6 20.
+Bxf6 Qxf6 21. Rf4 Qh6 22. Rf5 Rfe8 23. Qb4 Qe6 24. g4 Rab8 25. h3 h6 26.
+Kh2 Qd7 27. Rd2 Bg6 28. Rf4 Re6 29. Kg3 c6 30. Ne4 Bxe4 31. Rxe4 a5 32. Qd4
+Rxe4 33. Qxe4 Re8 34. Qa4 Qd8 35. Re2 Rxe2 36. Qc4+ d5 37. Qxe2 d4 38. Qd3
+c5 39. h4 b6 40. f4 Qd7 41. h5 Qe8 42. Kf2 b5 43. Qf3 Kh8 44. g5 hxg5 45.
+fxg5 c4 46. g6 d3 47. Qe3 Qd8 48. Ke1 Qh4+ 49. Kf1 Qh1+ 50. Kf2 Qh4+ 51.
+Kg2 Qd8 52. Qe5 Kg8 53. h6 gxh6 54. Qe6+ Kh8 55. Qf7 Qg8 56. Qf6+ Qg7 57.
+Qd8+ Qg8 58. Qf6+ Qg7 59. Qd8+ Qg8 60. Qf6+ {3-fold repetition} 1/2-1/2
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "3"]
+[White "PowerFritz 18 AVX2"]
+[Black "Fritz 18 NNUE AVX2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[Time "12:01:12"]
+[Variation "3.Nxe5"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "131"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. d4 Nd7 5. Qh5 g6 6. Qe2 Nxe5 7. dxe5 Qd4
+8. Nc3 Qxe5 9. Nxe4 Be7 10. Bd2 Nf6 11. Nxf6+ Bxf6 12. Qxe5+ Bxe5 13. O-O-O
+O-O 14. Bc4 Re8 15. Be3 h5 16. a4 Bg4 17. Rd2 Rad8 18. Rxd8 Rxd8 19. a5 a6
+20. h3 Bf5 21. Re1 Bf6 22. c3 h4 23. Rd1 Re8 24. Bd3 Bc8 25. Bf4 c6 26. Kc2
+Be6 27. Bc7 Kg7 28. c4 Re7 29. Bd8 Rd7 30. Bxf6+ Kxf6 31. Kc3 Bf5 32. Rd2
+c5 33. Bxf5 Rxd2 34. Kxd2 Kxf5 35. Ke3 g5 36. Kf3 g4+ 37. hxg4+ Kg5 38. Ke4
+Kxg4 39. Ke5 f5 40. Kd5 f4 41. Ke4 f3 42. gxf3+ Kh3 43. f4 Kg4 44. f5 h3
+45. f6 h2 46. f3+ Kg3 47. f7 h1=Q 48. f8=Q Qb1+ 49. Kd5 Qxb2 50. Qg8+ Kxf3
+51. Kxc5 Ke3 52. Qg3+ Ke4 53. Qg6+ Ke3 54. Qh6+ Kd3 55. Qh7+ Ke3 56. Qh3+
+Ke4 57. Qe6+ Kd3 58. Qf5+ Ke3 59. Qg5+ Kd3 60. Qd5+ Ke3 61. Qd1 Qa3+ 62.
+Kb6 Qb4+ 63. Ka7 Qxa5 64. Qd6 Qa4 65. Kxb7 Qxc4 66. Qxa6 {Arena
+Adjudication} 1/2-1/2
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "4"]
+[White "Fritz 18 NNUE AVX2"]
+[Black "PowerFritz 18 AVX2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C77"]
+[Opening "Spanish"]
+[Time "12:03:45"]
+[Variation "Anderssen Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "160"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. O-O b5 7. Bb3 d6 8.
+a4 b4 9. c3 O-O 10. Bg5 h6 11. Bh4 g5 12. Bg3 Rb8 13. Nbd2 Kh8 14. a5 g4
+15. Nh4 Nh5 16. Bd5 Ne7 17. Bc4 Ba7 18. Re1 Ng6 19. Nf5 Qg5 20. Nf1 Bxf5
+21. exf5 Qxf5 22. d4 Qg5 23. dxe5 Nxg3 24. Nxg3 Nxe5 25. Bxa6 f5 26. cxb4
+f4 27. Ne4 Qg6 28. Kh1 f3 29. Bf1 fxg2+ 30. Bxg2 Nf3 31. Re2 Nd4 32. Re3
+Rxb4 33. Qd2 Rfb8 34. Qc3 Qf7 35. Rd3 d5 36. Ng3 c6 37. Rad1 Rc4 38. Qd2
+Qg7 39. a6 Rc2 40. Qe1 Rf8 41. R3d2 Rc4 42. b3 Rb4 43. Nh5 Qf7 44. Rd3 Rbb8
+45. Qe5+ Kh7 46. Rxd4 Bxd4 47. Qxd4 Qxh5 48. Re1 Rbe8 49. Rf1 Qf5 50. b4
+Qf6 51. Qxg4 Kh8 52. Qg3 Ra8 53. Qd3 Rfb8 54. Rg1 Rxb4 55. Bf1 Re4 56. Qd2
+Rf8 57. Qa5 Re7 58. f3 Qxf3+ 59. Bg2 Qe3 60. Qa1+ Rg7 61. Rb1 Qf2 62. Rb2
+Qf6 63. Ra2 Qxa1+ 64. Rxa1 Ra7 65. Ra5 Kg7 66. h3 Kf6 67. Bf3 Ke7 68. Kg2
+Kd6 69. h4 c5 70. Kg3 Kc6 71. Be2 c4 72. Bd1 Rd8 73. Ba4+ Kb6 74. Rb5+ Kxa6
+75. Kg4 Rc7 76. Kf3 c3 77. Rb1 Rf8+ 78. Ke3 Re7+ 79. Kd4 Re4+ 80. Kxd5 Rxa4
+{Arena Adjudication} 0-1
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "5"]
+[White "PowerFritz 18 AVX2"]
+[Black "Fritz 18 NNUE AVX2"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:07:03"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "108"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Qb4+ 8. Qxb4 Bxb4+ 9. c3 Bc5 10. Nd2 Bf5 11. Be2 Nd7 12. f4 f6 13. b4 Bb6
+14. Nc4 O-O 15. a4 a5 16. Nxb6 cxb6 17. Bf3 Rac8 18. Bxb7 Rxc3 19. O-O Rd3
+20. Ba6 Rc3 21. Ba3 Ra8 22. Bb5 fxe5 23. Rfd1 Nf8 24. fxe5 h6 25. Rd6 Rb8
+26. h3 h5 27. Bc1 axb4 28. Bd2 Rc5 29. Bxb4 Rxe5 30. Bc3 Re4 31. Bd4 Rf4
+32. Re1 Rb7 33. Rd8 g6 34. Bc6 Rxd4 35. Rxd4 Rc7 36. Rd6 Kg7 37. Bb5 Rb7
+38. Kh2 Kh6 39. Re8 Kg7 40. Ra8 Ne6 41. Rd7+ Rxd7 42. Bxd7 Be4 43. Ra7 Nc5
+44. Bc6+ Kh6 45. Bxe4 Nxe4 46. Rc7 Nf6 47. Rc6 Nd5 48. h4 Kg7 49. Kg3 Kf7
+50. Kf3 Ke7 51. Ke4 Nf6+ 52. Rxf6 Kxf6 53. Kd5 Kg7 54. Kc6 Kf7 {Arena
+Adjudication} 1-0
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "6"]
+[White "Fritz 18 NNUE AVX2"]
+[Black "PowerFritz 18 AVX2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Time "12:09:18"]
+[Variation "Najdorf, Adams Attack, 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "65"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. Qf3 Qc7 8.
+g4 b5 9. g5 Nfd7 10. a3 Bb7 11. h4 Nc6 12. Nxc6 Bxc6 13. h5 Be7 14. g6 O-O
+15. gxh7+ Kxh7 16. Bf4 Ne5 17. Bxe5 dxe5 18. Bd3 Rab8 19. Nd5 Qd8 20. Nxe7
+Qxe7 21. Qg3 Qf6 22. Rh4 b4 23. axb4 Rxb4 24. Rxa6 Rc8 25. Ra5 Ba4 26. Rxe5
+Bxc2 27. Rc5 Qxb2 28. e5+ Bxd3 29. Qxd3+ Kh6 30. Qe3+ Kh7 31. Qd3+ Kh6 32.
+Qe3+ Kh7 33. Qd3+ {3-fold repetition} 1/2-1/2
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "7"]
+[White "PowerFritz 18 AVX2"]
+[Black "Fritz 18 NNUE AVX2"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:10:39"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "171"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Bf4 f6 11. O-O-O Bb4 12. Nb5 Ba5 13. Bd2
+Bb6 14. Be3 Bxe3+ 15. fxe3 Bg4 16. Nxc7+ Kf7 17. Rd4 Rac8 18. Nb5 Kg6 19.
+a3 a6 20. Nd6 Rc7 21. Bc4 b5 22. Bd5 Bd7 23. Rhd1 Rb8 24. Kb1 h5 25. h3 Bc6
+26. e4 a5 27. Bxc6 Rxc6 28. Nf5 Rcb6 29. b3 a4 30. Ka2 axb3+ 31. cxb3 Ra8
+32. Rd6 Rb7 33. Nd4 Rc8 34. Rd2 Kg5 35. Rd5 b4 36. Nf5 Rb6 37. a4 Rc7 38.
+Rf2 Kg6 39. Rd4 Rbb7 40. Rfd2 Rb8 41. Kb1 Kg5 42. Kb2 Kf4 43. Rd5 Rb6 44.
+Rf2+ Kg5 45. Re2 Kf4 46. Red2 Kg5 47. R5d4 Rb8 48. Ne3 Kh4 49. Ka2 Kg3 50.
+Nd5 Rcb7 51. Rc2 h4 52. Rcd2 Kh2 53. Re2 Rc8 54. Rxb4 Ra7 55. Rd4 Rc1 56.
+Ne3 Rg1 57. Ka3 Ng6 58. Ng4+ Kh1 59. Rc2 Ra1+ 60. Kb2 Re1 61. Nf2+ Kh2 62.
+Rd1 Rxd1 63. Nxd1 Nf4 64. Ne3 Kg1 65. Ka3 g5 66. Ng4 Re7 67. Nxf6 Re6 68.
+Ng4 Rxe4 69. a5 Re1 70. b4 Nd5 71. Rd2 Nc7 72. Rb2 Nd5 73. Ka4 Kh1 74. Kb5
+Rc1 75. Ka6 Nxb4+ 76. Rxb4 Kxg2 77. Rb3 Rc8 78. Kb7 Rg8 79. a6 Rg7+ 80. Kb6
+Rg6+ 81. Kb5 Rg7 82. Ra3 Rg8 83. a7 Ra8 84. Kb6 Re8 85. Rb3 Rd8 86. Kc6
+{Arena Adjudication} 1-0
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "8"]
+[White "Fritz 18 NNUE AVX2"]
+[Black "PowerFritz 18 AVX2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C77"]
+[Opening "Spanish"]
+[Time "12:14:08"]
+[Variation "Centre Attack, 5...Nxd4"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "134"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxd4 6. Nxd4 exd4 7. e5 Ne4
+8. Qxd4 Nc5 9. Nc3 Be7 10. Be3 O-O 11. Nd5 Nxa4 12. Qxa4 d6 13. O-O-O Be6
+14. Rhe1 Bxd5 15. Rxd5 Re8 16. Red1 c6 17. R5d3 d5 18. Qg4 Qc8 19. Qxc8
+Raxc8 20. f4 f6 21. e6 f5 22. Re1 b5 23. Re2 Bd6 24. Bd2 g6 25. b4 Kf8 26.
+Kb1 Re7 27. Ra3 Ra7 28. h3 Ke7 29. g4 Rf8 30. g5 a5 31. Rxa5 Rxa5 32. bxa5
+Ra8 33. Bc3 Ke8 34. Bd2 Bc7 35. Bb4 Bxa5 36. Bd6 Bc3 37. Re3 Rd8 38. Bc7 d4
+39. Re2 Rd5 40. e7 Bb4 41. Be5 c5 42. Kc1 c4 43. h4 d3 44. Rh2 Ba3+ 45. Kd1
+Kxe7 46. h5 Bd6 47. Bxd6+ Rxd6 48. cxd3 Rxd3+ 49. Kc1 Kd7 50. hxg6 hxg6 51.
+Rh8 Kc6 52. Ra8 Kc5 53. Rg8 Rd6 54. Kc2 Kb4 55. Ra8 Rd3 56. Kb2 Rd2+ 57.
+Kc1 Rf2 58. Kd1 Rxf4 59. Ra6 Rg4 60. Rxg6 Kc3 61. a3 Kb3 62. Rb6 Rg1+ 63.
+Kd2 c3+ 64. Kd3 Rd1+ 65. Ke2 c2 66. Rxb5+ Kxa3 67. Rc5 c1=Q {Arena
+Adjudication} 0-1
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "9"]
+[White "PowerFritz 18 AVX2"]
+[Black "Fritz 18 NNUE AVX2"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:16:52"]
+[Variation "Classical, Marshall, 8.c4 c6"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "116"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bb4+ 7. c3 Bd6
+8. O-O O-O 9. c4 c6 10. Re1 Nd7 11. Bxe4 dxe4 12. Rxe4 Nf6 13. Re1 Bg4 14.
+h3 Bh5 15. Qb3 Re8 16. Rxe8+ Qxe8 17. Bd2 Ne4 18. Qe3 Qe6 19. c5 Bf8 20.
+Ne5 Nxd2 21. Nxd2 Re8 22. Qc3 f6 23. Nef3 Qd5 24. a4 Rd8 25. a5 Rb8 26. Ra4
+Qd8 27. Nf1 Qc7 28. Ne3 Bf7 29. a6 b5 30. Ra1 b4 31. Qd2 h5 32. Nc2 b3 33.
+Ne3 Qf4 34. Qc3 Be7 35. Ra4 Bd8 36. Rb4 Qc7 37. Nf5 Rxb4 38. Qxb4 Be6 39.
+Nd6 Kf8 40. Nh4 Kg8 41. Ng6 Bf7 42. Nf4 h4 43. Qb7 Kh7 44. Kh2 Bc4 45. g3
+hxg3+ 46. Kxg3 Bg8 47. h4 f5 48. h5 Kh6 49. Nxf5+ Kh7 50. Nd6 Kh6 51. Ne8
+Qf7 52. Qxc6+ Bf6 53. d5 Bh7 54. Nxf6 gxf6 55. Qc8 Qg7+ 56. Kf3 Bc2 57. c6
+Qh7 58. d6 Be4 {Arena Adjudication} 1-0
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "10"]
+[White "Fritz 18 NNUE AVX2"]
+[Black "PowerFritz 18 AVX2"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Time "12:19:13"]
+[Variation "Kan, 5.Nc3 Qc7"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "146"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Qf3 Nf6 7. Bd3 d6 8.
+g4 h5 9. gxh5 Nbd7 10. h6 Ne5 11. Qe2 g6 12. Bg5 Nh7 13. h4 Nxg5 14. hxg5
+Qc5 15. Rd1 Bd7 16. Nb3 Nxd3+ 17. Rxd3 Qxg5 18. Rg3 Qf4 19. h7 Be7 20. Kd1
+Rc8 21. Nc1 Qe5 22. Qe3 Qc5 23. Qd2 b5 24. a3 a5 25. Nb3 Qb6 26. Rf3 g5 27.
+Rh5 b4 28. axb4 axb4 29. Ne2 Qc6 30. Re3 e5 31. Nbc1 Kf8 32. Na2 b3 33.
+cxb3 Qb7 34. Nb4 Qa7 35. Rg3 Qa1+ 36. Nc1 Be6 37. Nd5 Qb1 38. Nc3 Rxc3 39.
+Qxc3 Qxe4 40. Rh6 Bf5 41. Qd3 Qf4 42. Qd2 Kg7 43. Rh2 Qxd2+ 44. Kxd2 Bxh7
+45. Rgh3 d5 46. Ne2 d4 47. Ng3 Bd6 48. Rh1 Bc5 49. Ke1 Bb4+ 50. Kd1 d3 51.
+f3 Bc5 52. Ne4 Be7 53. Nf2 f5 54. b4 e4 55. fxe4 fxe4 56. b5 e3 57. Nxd3
+Bxd3 58. Rxh8 e2+ 59. Kd2 Bxb5 60. R8h7+ Kf8 61. Kc1 g4 62. R7h5 Ba6 63.
+Ra5 Bb7 64. Re1 g3 65. Rxe2 Bd6 66. Rf5+ Kg7 67. Rd2 Be7 68. Rf4 Bg5 69.
+Rg4 Kf6 70. Rxg3 Bf4 71. Rg4 Be3 72. Kc2 Bc5 73. Rf2+ Ke6 {Arena
+Adjudication} 1-0
+
+[Event "Test_powefritz"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.01.31"]
+[Round "11"]
+[White "PowerFritz 18 AVX2"]
+[Black "Fritz 18 NNUE AVX2"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:22:10"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "unterminated"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Bf4 *
+

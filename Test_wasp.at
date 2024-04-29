@@ -1,0 +1,76 @@
+[Settings]
+TournamentName=Test_wasp
+Type=0
+CurrSwissRound=0
+Rounds=50
+CurrentPair=1
+CurrentRound=2
+Level=2 0\10/1#0
+[Options]
+QuitAfterTournament=0
+ShutDownAfterTournament=0
+RestartEngines=0
+RepeatStartPosition=1
+Startposition=0
+Variant=0
+StartPGNEPD=
+Resign=1
+ResignValue=-900
+MaxGameLength=250
+EarlyDrawFromMove=30
+TablebaseDraw=1
+Autoflag=0
+Ponder=0
+AutoRotateInGautlet=0
+RutschSystem=1
+RestartArenaAfterGamesValue=20
+RestartArenaAtHour1=0
+RestartArenaAtHourValue=2
+ShutdownComputerAfterGames1=0
+ShutdownComputerAfterGamesValue=10
+[Save]
+SaveGamesPGN=1
+SaveIncompleteGamesPGN=1
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Test_wasp.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Test_wasp.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Test_wasp.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Test_wasp.html
+SaveTurTabText=1
+SaveTurTabHTML=1
+HTMLuseCountry=0
+HTMLuseFlags=0
+HTMLuseEnglish=0
+HTMLshortResults=0
+HTMLonlyPoints=0
+HTMLFlagsFromWebsite=0
+HTMLshowPGNfilename=1
+HTMLshowBenchmark=0
+PGNwebsite=
+HTMLWinPercent=1
+HTMLStartELO=1
+HTMLShowConditions=0
+HTMLConditions=
+HTMLTopLineColorized=0
+HTMLTableTopLineColor=6737151
+SaveGamesFCH=0
+FCHdir=
+FCHnames=
+[Data]
+LastPGNEPDindex=1
+FirstGameDate=2022.04.17
+FirstGameTime=19:45:52
+Country=United States
+Site=DESKTOP-50V1D33
+Hardware=Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+OS=Windows 10 Home Home Edition (Build 9200) 64 bit
+Website=
+E-Mail=
+ArenaVersion=Arena 3.5.1
+LastGameDate=2022.04.24
+LastGameTime=11:23:29
+[PairingResults]
+Wasp520-windows-avx ------ Wasp550-NN-avx [001]=1½½½1½½½½½11½½½10½½0½½½½10½1111½0½½½½½½011½11½0½01
+Wasp520-windows-avx ------ Wasp550-windows-avx [001]=11?
+[Participants]
+Engine1=Wasp520-windows-avx
+Engine2=Wasp550-windows-avx [001]

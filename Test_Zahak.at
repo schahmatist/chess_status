@@ -1,0 +1,75 @@
+[Settings]
+TournamentName=Test_Zahak
+Type=0
+CurrSwissRound=0
+Rounds=30
+CurrentPair=1
+CurrentRound=30
+Level=2 0\10/1#0
+[Options]
+QuitAfterTournament=0
+ShutDownAfterTournament=0
+RestartEngines=0
+RepeatStartPosition=1
+Startposition=0
+Variant=0
+StartPGNEPD=
+Resign=1
+ResignValue=-900
+MaxGameLength=250
+EarlyDrawFromMove=30
+TablebaseDraw=1
+Autoflag=0
+Ponder=0
+AutoRotateInGautlet=0
+RutschSystem=1
+RestartArenaAfterGamesValue=20
+RestartArenaAtHour1=0
+RestartArenaAtHourValue=2
+ShutdownComputerAfterGames1=0
+ShutdownComputerAfterGamesValue=10
+[Save]
+SaveGamesPGN=1
+SaveIncompleteGamesPGN=1
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Test_Zahak.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Test_Zahak.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Test_Zahak.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Test_Zahak.html
+SaveTurTabText=1
+SaveTurTabHTML=1
+HTMLuseCountry=0
+HTMLuseFlags=0
+HTMLuseEnglish=0
+HTMLshortResults=0
+HTMLonlyPoints=0
+HTMLFlagsFromWebsite=0
+HTMLshowPGNfilename=1
+HTMLshowBenchmark=0
+PGNwebsite=
+HTMLWinPercent=1
+HTMLStartELO=1
+HTMLShowConditions=0
+HTMLConditions=
+HTMLTopLineColorized=0
+HTMLTableTopLineColor=6737151
+SaveGamesFCH=0
+FCHdir=
+FCHnames=
+[Data]
+LastPGNEPDindex=1
+FirstGameDate=2022.05.10
+FirstGameTime=06:55:46
+Country=United States
+Site=DESKTOP-50V1D33
+Hardware=Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+OS=Windows 10 Home Home Edition (Build 9200) 64 bit
+Website=
+E-Mail=
+ArenaVersion=Arena 3.5.1
+LastGameDate=2022.05.10
+LastGameTime=08:32:16
+[PairingResults]
+Zahak-10.0-avx ------ Zahak-9.0-64-avx=1½½½1½½½½0½½½½½0½½½½½½1½1½½½1½
+[Participants]
+Engine1=Zahak-10.0-avx
+Engine2=Zahak-9.0-64-avx

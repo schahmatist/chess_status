@@ -1,0 +1,56 @@
+    Engine                             Score                 Sp
+01: SpectralByLOBO-bmi2                537.5/616 ·············· 
+02: Dragon-3-64bit-avx2                6.0/14    0====0======== 
+03: Igel-x64_bmi2_avx2_3_4_0           5.0/14    ==0=0==00===== 
+03: Berserk-11-x64-avx2-pext           5.0/14    0===0===0=0=== 
+05: FatFritz3                          4.5/14    ==0==00=====00 
+05: Koivisto_9.2-windows-avx2-pgo-pext 4.5/14    0===0=0===0=0= 
+07: RubiChess-20221203_x86-64-bmi2     3.5/14    0=0=00000===== 
+07: Revenge_3_(Pedone)_avx2            3.5/14    ===00===000=00 
+07: Lc0                                3.5/14    0=00=0==00==0= 
+07: Fire_8.NN.MC.3_x64_real            3.5/14    =0000=00====0= 
+07: Rebel-16.2                         3.5/14    0=0=00==0===00 
+12: Uralochka3.39d-avx2                3.0/14    0===0=000=0=00 
+12: Arasanx-23.4-64-avx2               3.0/14    =00000===000== 
+12: Scorpio                            3.0/14    000000==0===0= 
+15: AsmFishWCP_2019-10-16_bmi2         2.5/14    =000=0000=00== 
+15: Slow64-avx2                        2.5/14    000==000===000 
+17: Devre_4.0-avx2                     2.0/14    00==0==0000000 
+17: Minic_mingw_x64_skylake            2.0/14    0=00000=0=00=0 
+19: RofChade 3.0                       1.5/14    0===0000000000 
+19: Gogobello_win_avx2                 1.5/14    000=00000=000= 
+19: Nemorino_6.00_win64_avx2           1.5/14    00000=0=00000= 
+19: Coiled_1.1_x64                     1.5/14    00000=00000=0= 
+23: Wasp-windows-avx                   1.0/14    0000000=00000= 
+23: PowerFritz 18 AVX2                 1.0/14    000=0000000=00 
+23: Seer_v2.6_x64_avx2_popcnt          1.0/14    00000000000=0= 
+23: Booot7_popcnt                      1.0/14    000000000=000= 
+23: Toga411-avx2                       1.0/14    =00000000=0000 
+23: Smallbrain7.0-x86-64-bmi2          1.0/14    0=000000000=00 
+23: Caissa_1.5_AVX2_BMI2               1.0/14    0=0000000=0000 
+30: BlackCore-bmi2-win-5.1             0.5/14    000000000=0000 
+30: RukChess.3.0.15.NNUE               0.5/14    00000=00000000 
+30: Ethereal-13.88-Plus-NNUE-avx2      0.5/14    0=000000000000 
+30: Marvin_x86_64_avx2                 0.5/14    0=000000000000 
+30: Clover.3.3-avx2                    0.5/14    00000000000=00 
+30: Velvet-v5.1.0-x86_64-avx2          0.5/14    0000=000000000 
+30: Allie_v0.8-dev_8e93f68_20200812    0.5/14    000=0000000000 
+30: Blackmarlin-7.0-avx2               0.5/14    =0000000000000 
+30: Frozenight-6.0.0-windows-x86-64-v2 0.5/14    0000000000000= 
+30: Tucano 10.0                        0.5/14    0000000000000= 
+40: Viridithas7.0.0-avx2               0.0/14    00000000000000 
+40: Xiphos-0.6.1-w64-bmi2              0.0/14    00000000000000 
+40: Halogen11-pext-avx2                0.0/14    00000000000000 
+40: Rick48                             0.0/14    00000000000000 
+40: Houdini_6.0.2_Pro_x64-pext         0.0/14    00000000000000 
+40: Alexandria-3.5-x86-64-bmi2         0.0/14    00000000000000 
+
+616 games played / Tournament is finished
+Name of the tournament: Gauntlet top Spectral
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/2
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Gauntlet top Spectral.pgn
+Website: 
+E-Mail Address: 

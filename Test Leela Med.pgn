@@ -1,0 +1,18 @@
+[Event "Test Leela Med"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.06.02"]
+[Round "1"]
+[White "Lc0"]
+[Black "Lc0_30"]
+[Result "*"]
+[Time "01:39:40"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 6. O-O O-O 7. d3 h6 8.
+e3 Bg4 *
+

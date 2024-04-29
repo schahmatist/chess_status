@@ -1,0 +1,286 @@
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "1"]
+[White "ClassicAra"]
+[Black "ClassicAra 1.05"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Time "01:27:19"]
+[Variation "Pytel-Czech, 4.f4 Qa5"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "unterminated"]
+[PlyCount "85"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. fxe5 dxe5 8.
+Be3 Nbd7 9. Qd2 Bb4 10. a3 exd4 11. Nxd4 O-O 12. Nb3 Bxc3 13. Nxa5 Bxd2+
+14. Kxd2 Rfe8 15. h3 Bh5 16. Nxb7 Bg6 17. Rhe1 Nxe4+ 18. Kc1 Nef6 19. Ba6
+Re5 20. Bd2 Rxe1+ 21. Bxe1 Re8 22. Bh4 Nd5 23. Kd2 N7f6 24. Re1 Ne4+ 25.
+Kc1 Nf4 26. Bf1 h6 27. Bg3 Nd5 28. Nc5 f5 29. Nxe4 fxe4 30. c4 Ne7 31. Bf2
+Nc8 32. Be3 Bf7 33. b3 a5 34. a4 Nd6 35. g4 Bg6 36. Rd1 Nf7 37. Rd7 h5 38.
+Be2 hxg4 39. hxg4 Ne5 40. Ra7 Rd8 41. Rxa5 Nd3+ 42. Kc2 Ne1+ 43. Kc3 *
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "1"]
+[White "ClassicAra"]
+[Black "ClassicAra 1.05"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C11"]
+[Opening "French"]
+[Time "01:42:49"]
+[Variation "Steinitz, Boleslavsky, 7...a6"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8.
+Ne2 Be7 9. c3 O-O 10. g3 b5 11. Bh3 b4 12. O-O bxc3 13. bxc3 cxd4 14. cxd4
+Nb6 15. g4 Nc4 16. Bc1 Rb8 17. Kh1 f6 18. exf6 Bxf6 19. g5 Be7 20. Ng3 Bd6
+21. Nh5 Qe8 22. Ne5 Bxe5 23. fxe5 Rxf1+ 24. Bxf1 Bd7 25. Nf6+ gxf6 26. gxf6
+Kh8 27. Bd3 Qf7 28. Bh6 Nxd4 29. Bg7+ Kg8 30. Qg1 Nf5 31. Bxf5 exf5 32.
+Bh6+ Kh8 33. Bg7+ Kg8 34. Bh6+ Kh8 35. Bg7+ Kg8 {3-fold repetition} 1/2-1/2
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "2"]
+[White "ClassicAra 1.05"]
+[Black "ClassicAra"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C11"]
+[Opening "French"]
+[Time "01:45:26"]
+[Variation "Steinitz, Boleslavsky, 7...a6"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "109"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8.
+Ne2 Be7 9. c3 O-O 10. g3 b5 11. Bh3 b4 12. O-O bxc3 13. bxc3 cxd4 14. cxd4
+Nb6 15. g4 Nc4 16. Bc1 Rb8 17. Kh1 f6 18. exf6 Bxf6 19. g5 Be7 20. Ng3 Bd6
+21. Ne5 Bxe5 22. dxe5 Qb6 23. Qc2 Bd7 24. g6 h6 25. Qd1 Qd4 26. Qxd4 Nxd4
+27. Rf2 Be8 28. Ne2 Nc2 29. Bxe6+ Kh8 30. Bxd5 Nxe5 31. Kg1 Ng4 32. Rg2 Nf6
+33. Be6 Bc6 34. Rg3 Nxa1 35. f5 Rfd8 36. Nc3 Nc2 37. Bf4 Rb7 38. Be5 Nd4
+39. Rd3 Nxe6 40. Rxd8+ Nxd8 41. Bxf6 gxf6 42. Kf2 Kg7 43. Ke3 Rd7 44. Ne2
+Re7+ 45. Kf2 Rxe2+ 46. Kg3 Rg2+ 47. Kh3 Rxa2 48. Kg3 Rg2+ 49. Kh4 Rxh2+ 50.
+Kg3 Rh5 51. Kg4 Rg5+ 52. Kh3 a5 53. Kh4 a4 54. Kh3 a3 55. Kh4 {Arena
+Adjudication} 0-1
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "3"]
+[White "ClassicAra"]
+[Black "ClassicAra 1.05"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A16"]
+[Opening "English"]
+[Time "01:49:21"]
+[Variation "Anglo-Indian, 2.Nc3 g6 3.g3 Bg7 4.Bg2"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "140"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 d6 5. d3 c5 6. e4 Nc6 7. Nge2 Bg4 8.
+f3 Bd7 9. Be3 a6 10. d4 cxd4 11. Nxd4 Rc8 12. Nxc6 Rxc6 13. Bf1 Qa5 14. Qd2
+O-O 15. Rc1 b5 16. b3 e6 17. Bd3 bxc4 18. bxc4 Rfc8 19. Ne2 Qxd2+ 20. Kxd2
+Be8 21. Nd4 R6c7 22. Nb3 Nd7 23. f4 f5 24. exf5 exf5 25. Rhe1 Bf7 26. Rc2
+Rb8 27. Rec1 Nc5 28. Nxc5 dxc5 29. Ke1 a5 30. Be2 a4 31. Rd1 h5 32. Rd3 Kh7
+33. Bf3 Rb1+ 34. Kf2 Rb4 35. Bd5 Be8 36. Kf3 Bf6 37. Re2 Bf7 38. Bxf7 Rxf7
+39. Rc2 Rc7 40. h3 Kg7 41. g4 hxg4+ 42. hxg4 fxg4+ 43. Kxg4 Kf7 44. Rd6 a3
+45. Ra6 Rb2 46. Rd2 Rxd2 47. Bxd2 Rd7 48. Be3 Bd4 49. Rxa3 Bxe3 50. Rxe3
+Rd4 51. a4 Rxc4 52. Ra3 Rb4 53. a5 Rb7 54. Kf3 Ke6 55. a6 Ra7 56. Ke4 Kd6
+57. Rg3 Rg7 58. Kd3 Kc7 59. Kc4 Rf7 60. Rg4 Rf6 61. Kb5 Kb8 62. Rh4 c4 63.
+Rh8+ Ka7 64. Rh7+ Ka8 65. Rc7 Rxf4 66. Rg7 c3 67. Rxg6 c2 68. Rc6 Rf2 69.
+Kb6 c1=Q 70. Rxc1 Rb2 {Arena Adjudication (Tablebases)} 1/2-1/2
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "4"]
+[White "ClassicAra 1.05"]
+[Black "ClassicAra"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A16"]
+[Opening "English"]
+[Time "01:54:14"]
+[Variation "Anglo-Indian, 2.Nc3 g6 3.g3 Bg7 4.Bg2"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "151"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 Nf6 4. Bg2 d6 5. d3 c5 6. e4 Nc6 7. Nge2 Bg4 8.
+f3 Bd7 9. Be3 a6 10. d4 cxd4 11. Nxd4 b5 12. cxb5 Nxd4 13. Bxd4 axb5 14. a3
+O-O 15. O-O Qa5 16. f4 Bc6 17. e5 dxe5 18. fxe5 Bxg2 19. Kxg2 Rad8 20. exf6
+Bxf6 21. Rxf6 exf6 22. b4 Qa8+ 23. Kg1 Rfe8 24. Qg4 Re6 25. Qf4 f5 26. Nxb5
+Re4 27. Qf2 Qc6 28. a4 Qc4 29. Bf6 Rd3 30. Qf1 Ree3 31. Rc1 Qe6 32. Bd4 Rd2
+33. Rc8+ Qxc8 34. Bxe3 Rb2 35. Qd3 Rxb4 36. Nc3 Rb3 37. Bd4 Qc6 38. Qd2 f6
+39. a5 Ra3 40. Ne2 g5 41. Qb4 Rd3 42. Qb6 Qxb6 43. axb6 Kf7 44. Bc5 Ke6 45.
+Bf2 Rd1+ 46. Kg2 Rb1 47. h4 f4 48. gxf4 gxh4 49. Nd4+ Kd5 50. Nf3 Rb4 51.
+f5 Rb3 52. Nxh4 Ke4 53. Kf1 Rb2 54. Kg1 Kf4 55. Bd4 Rb4 56. Bf2 Rb2 57. Kf1
+Kg4 58. Kg2 Rxb6 59. Bxb6 Kxh4 60. Kf3 Kg5 61. Ke4 h5 62. Be3+ Kg4 63. Bd4
+Kg5 64. Be3+ Kg4 65. Bd4 Kg5 66. Bc5 Kg4 67. Be7 Kg5 68. Bd6 Kg4 69. Be5
+Kg5 70. Bf4+ Kg4 71. Be5 Kg5 72. Bc7 Kg4 73. Bd8 Kg5 74. Be7 h4 75. Bd6 Kg4
+76. Bc7 {User Adjudication} 1/2-1/2
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "5"]
+[White "ClassicAra"]
+[Black "ClassicAra 1.05"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A26"]
+[Opening "English"]
+[Time "02:03:53"]
+[Variation "Botvinnik System"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "88"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c4 e5 2. g3 g6 3. Nc3 Bg7 4. Bg2 d6 5. d3 Nc6 6. e4 Nd4 7. Nge2 Bg4 8.
+h3 Bxe2 9. Nxe2 Nxe2 10. Qxe2 Ne7 11. h4 Nc6 12. h5 Nd4 13. Qd1 c6 14. Be3
+Qb6 15. Rb1 O-O 16. b4 Qd8 17. Bxd4 exd4 18. a4 Re8 19. O-O Qg5 20. hxg6
+hxg6 21. b5 c5 22. e5 Rab8 23. exd6 Be5 24. f4 Qxg3 25. fxe5 Qe3+ 26. Rf2
+Rxe5 27. Qf3 Rf8 28. Qxe3 dxe3 29. Re2 Rd8 30. Rbe1 Rxd6 31. Rxe3 Rg5 32.
+Re5 Rg3 33. R1e3 Rxe3 34. Rxe3 b6 35. Bd5 Kf8 36. Rf3 f5 37. Re3 g5 38. Re5
+Rf6 39. Kg2 Kg7 40. Re7+ Kg6 41. Rxa7 g4 42. a5 bxa5 43. Rxa5 Kg5 44. Ra6
+Rf8 {User Adjudication} 1-0
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "6"]
+[White "ClassicAra 1.05"]
+[Black "ClassicAra"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "A26"]
+[Opening "English"]
+[Time "02:07:03"]
+[Variation "Botvinnik System"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "unterminated"]
+[PlyCount "41"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c4 e5 2. g3 g6 3. Nc3 Bg7 4. Bg2 d6 5. d3 Nc6 6. e4 Nd4 7. Nge2 Bg4 8.
+h3 Bxe2 9. Nxe2 Nxe2 10. Qxe2 Ne7 11. Be3 c5 12. h4 h5 13. Bh3 Nc6 14. O-O
+Bh6 15. Kg2 Kf8 16. f4 exf4 17. Bxf4 Qe7 18. Rae1 Kg7 19. Qd2 Bxf4 20. Rxf4
+Raf8 21. Ref1 *
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "6"]
+[White "ClassicAra 1.05"]
+[Black "ClassicAra"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A26"]
+[Opening "English"]
+[Time "02:12:13"]
+[Variation "Botvinnik System"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "101"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c4 e5 2. g3 g6 3. Nc3 Bg7 4. Bg2 d6 5. d3 Nc6 6. e4 Nd4 7. Nge2 Bg4 8.
+h3 Bxe2 9. Nxe2 Nxe2 10. Qxe2 Ne7 11. h4 h5 12. Bg5 c5 13. O-O Qc7 14. Bxe7
+Qxe7 15. Bh3 O-O 16. Kg2 Rab8 17. a4 Bh6 18. Rfb1 a5 19. b3 Ra8 20. Ra2 Ra6
+21. Rf1 Rb6 22. Rb1 Rb4 23. Rab2 Ra8 24. Rf1 Ra6 25. Rfb1 Rab6 26. Qc2 Kf8
+27. Qe2 Ke8 28. Qc2 Kd8 29. Qe2 Kc7 30. Qc2 Kb8 31. Qe2 Ka7 32. Qc2 g5 33.
+hxg5 Bxg5 34. Qe2 h4 35. Bf5 Qf6 36. Bd7 Qh6 37. Rh1 Rxb3 38. Bb5 Rb4 39.
+Rc2 Qg7 40. Qg4 hxg3 41. fxg3 d5 42. Qc8 Bf4 43. g4 f5 44. Qxf5 dxe4 45.
+Rh7 Qg8 46. dxe4 Rg6 47. Qd7 Rxg4+ 48. Kf3 Rg3+ 49. Ke2 Re3+ 50. Kf1 Rb1+
+51. Rc1 {Arena Adjudication} 0-1
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "7"]
+[White "ClassicAra"]
+[Black "ClassicAra 1.05"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Time "02:15:39"]
+[Variation "4.Nge2 Bg7"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "105"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nge2 Bg7 5. g3 O-O 6. Bg2 e5 7. O-O c6 8.
+a4 Na6 9. h3 Nb4 10. Be3 a5 11. Qd2 Be6 12. Rad1 Bc4 13. Rfe1 Re8 14. b3
+Ba6 15. Nc1 Qc7 16. N1a2 Rad8 17. d5 Nxa2 18. Nxa2 cxd5 19. exd5 Nd7 20. c4
+Nc5 21. Rb1 f5 22. Nc3 b6 23. b4 axb4 24. Rxb4 f4 25. Bxc5 bxc5 26. Nb5 Qe7
+27. Rb3 fxg3 28. fxg3 Rf8 29. h4 Ra8 30. a5 Bc8 31. Be4 Bf5 32. Ra3 Ra6 33.
+Qe2 Qd8 34. Rea1 Bh6 35. Kg2 Qd7 36. Rf3 Rfa8 37. Rfa3 Rf8 38. Kh2 Bg4 39.
+Bf3 Bf5 40. g4 Bf4+ 41. Kg1 e4 42. gxf5 exf3 43. Qe6+ Qf7 44. Rxf3 Be5 45.
+Raf1 Raa8 46. fxg6 Qxe6 47. dxe6 Rxf3 48. Rxf3 hxg6 49. e7 Re8 50. a6 Rxe7
+51. a7 Re8 52. Nc7 Rc8 53. a8=Q {User Adjudication} 1-0
+
+[Event "Test ClassicAra"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.08.09"]
+[Round "8"]
+[White "ClassicAra 1.05"]
+[Black "ClassicAra"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Time "02:37:35"]
+[Variation "4.Nge2 Bg7"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "unterminated"]
+[PlyCount "96"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nge2 Bg7 5. g3 O-O 6. Bg2 e5 7. O-O c6 8.
+a4 Na6 9. h3 Re8 10. Be3 exd4 11. Bxd4 b6 12. Qd2 Nc5 13. f3 Ba6 14. Rfe1
+Qc7 15. Nf4 Rad8 16. a5 bxa5 17. Bxf6 Bxf6 18. Ncd5 cxd5 19. Nxd5 Nxe4 20.
+Nxc7 Nxd2 21. Rxe8+ Rxe8 22. Nxe8 Bxb2 23. Rxa5 Be2 24. Nxd6 Bd4+ 25. Kh1
+Nxf3 26. c4 Nd2 27. Bd5 Nf1 28. Nxf7 Nxg3+ 29. Kg2 Nf1 30. Ng5+ Kh8 31. Ne6
+Bb6 32. Ra2 Ne3+ 33. Kg3 Bxc4 34. Bxc4 Nxc4 35. Rc2 Nd6 36. Kf4 Kg8 37. Ke5
+Ne8 38. Rc8 Kf7 39. Rb8 Ba5 40. Rb7+ Kg8 41. Rxa7 Bc3+ 42. Kd5 Bf6 43. Rb7
+Ng7 44. Nc5 Nh5 45. Ke4 Ng7 46. Kf4 Nf5 47. Ne4 Be7 48. Ke5 Kf7 *
+

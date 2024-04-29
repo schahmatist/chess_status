@@ -1,0 +1,59 @@
+    Engine                                 Score           LG
+01: LGEvolution_3.17_NN_64-Bit             211.5/376 ········ 
+02: Zahak-10.0-avx                         6.5/8     1=110111 
+02: Tenax-0.7.8-x64                        6.5/8     =1=111=1 
+04: Combusken_windows_amd64                6.0/8     11110=1= 
+05: Xiphos-0.6.1-w64-bmi2                  5.5/8     11=011== 
+06: Deep Rybka 4 SSE42 x64                 5.0/8     10=10=11 
+06: Stash-34.0-windows-x86_64-bmi2         5.0/8     0011==11 
+06: Defenchess_23dev4                      5.0/8     =11===== 
+06: Frozenight-6.0.0-windows-x86-64-v2     5.0/8     ======11 
+06: Weiss-pext2.1                          5.0/8     1===1=01 
+06: Rodent-nn                              5.0/8     1=====1= 
+12: Danasah90_64bit_avx2                   4.5/8     =101==== 
+12: Equinox 3.30-x64 Ponder                4.5/8     =1==1=0= 
+12: Mantissa-3.7.2-avx2                    4.5/8     1=010101 
+12: Kuma_1.1_x64_bmi2                      4.5/8     0=110==1 
+12: Drofa_4.0.0_pext                       4.5/8     0=1=01=1 
+17: Schooner2.2-generic                    4.0/8     0=01=101 
+17: Ultron 4.0                             4.0/8     ====0011 
+17: Rice-6.0.0-avx2-win64                  4.0/8     =0=11001 
+17: Expositor_2BR17                        4.0/8     ==0=110= 
+21: Nirvanachess (64-Bit Popcount)         3.5/8     10=1=00= 
+21: Counter-5.0                            3.5/8     00==0=11 
+21: Bob_avx2                               3.5/8     ====100= 
+21: Strelka6                               3.5/8     =01=0=10 
+21: Orion64-v0.9-fixed                     3.5/8     =010==== 
+21: Carp_v2.0-x86_64                       3.5/8     0011==0= 
+21: Gull 3 x64 BMI2                        3.5/8     =0==0==1 
+28: Gogobello_win_avx2                     3.0/8     000===1= 
+28: ClassicAra                             3.0/8     0==010== 
+28: Tornado                                3.0/8     =000===1 
+28: Roc_TCEC19_5                           3.0/8     0===0=01 
+28: StockNemo-5.7.0.0                      3.0/8     =00===== 
+33: Invictus.r382.pext                     2.5/8     100100=0 
+33: Beef_0.3.6_popcnt                      2.5/8     100=0001 
+33: Pawn_1.0_win_haswell                   2.5/8     =00=010= 
+33: Winter_2.0_fixed                       2.5/8     00=====0 
+33: Avalanche-x86_64-windows-haswell-1.4.0 2.5/8     0=0===0= 
+33: Fizbo2x64_bmi2                         2.5/8     ==000=== 
+39: Flounder.0.5.0.0                       2.0/8     00=0=0== 
+39: Dice4-x64-modern                       2.0/8     =0==000= 
+39: GreKo-NN-fixed                         2.0/8     0=00==0= 
+39: Darktoga_avx2                          2.0/8     0=000=== 
+39: Svart-x86_64-win-v3                    2.0/8     =0000=01 
+44: Demolito_pext                          1.5/8     00==00=0 
+44: Critter_1.6a_64bit                     1.5/8     0=0000== 
+44: Laser-1_7-BMI2                         1.5/8     0=0=000= 
+44: EngineDeepShredder13UCIx64             1.5/8     0===0000 
+48: Chiron-4-64bit                         1.0/8     0=00=000 
+
+376 games played / Tournament is finished
+Name of the tournament: Little_Goliath_Season3_League_Gauntlet
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/2
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Little_Goliath_Season3_League_Gauntlet.pgn
+Website: 
+E-Mail Address: 

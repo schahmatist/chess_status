@@ -1,0 +1,65 @@
+Engine-Match Wednesday, February 8, 2023 7:39:39 PM
+ Blitz 0:02/2 
+
+Pairing 1/1 :    Caissa_1.5_AVX2_BMI2  -  Caissa_1.6_AVX2_BMI2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_caissa.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 = =    0.5:0.5        0.5:0.5       7:43:03 PM     0.00    46 18.957 :18.000  0-0-1
+   2 = =    1.0:1.0        1.0:1.0       7:46:42 PM     0.00    50 19.170 :18.011  0-0-2
+   3 = =    1.5:1.5        1.5:1.5       7:53:54 PM     0.00    98 18.955 :17.955  0-0-3
+   4 = =    2.0:2.0        2.0:2.0       7:58:32 PM     0.00    63 18.870 :17.806  0-0-4
+   5 = =    2.5:2.5        2.5:2.5       8:00:21 PM     0.00    24 18.803 :17.838  0-0-5
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, February 8, 2023 8:00:31 PM
+ Blitz 0:02/2 
+
+Pairing 1/1 :    Caissa_1.5_AVX2_BMI2  -  Caissa_1.6_AVX2_BMI2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_caissa.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   6 * *     2.5:2.5        2.5:2.5       8:01:03 PM    +0.23     2 17.500 :16.000  0-0-5
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, February 8, 2023 8:25:44 PM
+ Blitz 0:02/2 
+
+Pairing 1/1 :    Caissa_1.5_AVX2_BMI2  -  Caissa_1.6_AVX2_BMI2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_caissa.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   6 * *     2.5:2.5        2.5:2.5       8:27:01 PM    +0.74     3 17.750 :17.333  0-0-5
+   6 = =    3.0:3.0        3.0:3.0       8:29:35 PM     0.00    32 19.361 :18.971  0-0-6
+   7 = =    3.5:3.5        3.5:3.5       8:31:50 PM     0.00    30 19.742 :19.215  0-0-7
+   8 = =    4.0:4.0        4.0:4.0       8:39:33 PM     0.00   105 19.910 :19.198  0-0-8
+   9 = =    4.5:4.5        4.5:4.5       8:42:01 PM     0.00    33 19.614 :18.856  0-0-9
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, February 8, 2023 8:42:11 PM
+ Blitz 0:02/2 
+
+Pairing 1/1 :    Caissa_1.5_AVX2_BMI2  -  Caissa_1.6_AVX2_BMI2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_caissa.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  10 = =    5.0:5.0        5.0:5.0       8:47:22 PM     0.00    71 18.500 :18.140  0-0-10
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, February 8, 2023 8:55:54 PM
+ Blitz 0:02/2 
+
+Pairing 1/1 :    Caissa_1.5_AVX2_BMI2  -  Caissa_1.6_AVX2_BMI2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_caissa.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  11 * *     5.0:5.0        5.0:5.0       8:56:04 PM    +0.26     2 17.000 :0 0-0-10

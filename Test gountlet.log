@@ -1,0 +1,45 @@
+Engine-Match Thursday, February 16, 2023 5:25:07 AM
+ Blitz 0:02/2 
+
+Pairing 1/5 :    AI 27.0_ad9b x64m  -  Alexandria-3.1.0
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test gountlet.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 * *     0.0:0.0        0.0:0.0       5:25:26 AM    +0.31     1 53.000 :0 0-0-0
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, February 16, 2023 5:26:11 AM
+ Blitz 0:02/2 
+
+Pairing 1/5 :    Berserk-10-dev-02-11-avx2-pext  -  AI 27.0_ad9b x64m
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test gountlet.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 = =    0.5:0.5        0.5:0.5       5:26:34 AM    +0.58     6 17.667 :42.500  0-0-1
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, February 16, 2023 5:26:44 AM
+ Blitz 0:02/2 
+
+Pairing 2/5 :    Berserk-10-dev-02-11-avx2-pext  -  Alexandria-3.5-x86-64-bmi2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test gountlet.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 = =    0.5:0.5        0.5:0.5       5:27:02 AM    +0.25     7 16.500 :13.857  0-0-1
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, February 16, 2023 5:27:12 AM
+ Blitz 0:02/2 
+
+Pairing 3/5 :    Berserk-10-dev-02-11-avx2-pext  -  Allie 0.7 LeelaStein
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test gountlet.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 * *     0.0:0.0        0.0:0.0       5:28:27 AM    +0.10    18 18.167 :8.500  0-0-0

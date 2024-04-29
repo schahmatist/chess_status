@@ -1,0 +1,85 @@
+    Engine                           Score            Sw         Bl         Ka         St         Su         Ra         Fa         St         Co         Sh         Cf         Br         Cr         Dr         Fa    S-B
+01: Swordfish 14.7-bmi2              78.0/140 ·········· =========0 ========== =====1==1= =1==1===== ========== ========== ====1===== ========== ========== =====1===1 ==1======= ======1=1= 1===1===11 ==11===1==  5369.0
+02: Blue Marlin 14.7-bmi2            76.5/140 =========1 ·········· ========== ========== 0=====1=== ========== ========== ========== ========== ======1=== ========== ==1=====1= 1====1=0== ==1==11=== 1111=====1  5264.7
+03: Kayra 1.1 bmi2                   75.5/140 ========== ========== ·········· =====0=0== =0===1==== ========== =1======0= ==0======= ========1= =1======== =1====1=== ======1==1 =====1==1= =1=11===== =1====0111  5198.0
+04: Stockfish_14.1_win_x64_avx2      75.0/140 =====0==0= ========== =====1=1== ·········· ========== ========== ========== ========== 1========= ====1===== ========== =1======== ====11===1 ====1===11 =====1====  5180.5
+05: SugaR AI 2.50 bmi2               74.0/140 =0==0===== 1=====0=== =1===0==== ========== ·········· ========== 1======1== =====1==== =1=======0 ========== ======1=1= ===1====== 1==1=====0 ========== =====111==  5130.2
+06: Raubfisch X48c3_nn_sl-bmi2       74.0/140 ========== ========== ========== ========== ========== ·········· ====0===== ========== =====1==== ========== ========== ========== ===1====1= =1====1=== =1=1=1===1  5109.0
+07: Fat_titz_2_win64-bmi2            73.5/140 ========== ========== =0======1= ========== 0======0== ====1===== ·········· ========1= ========== ========1= =======0== ========== ====1=1=== ==1==1==== 1011=1=1=0  5084.2
+08: Stockfish_22012210_x64_bmi2      73.0/140 ====0===== ========== ==1======= ========== =====0==== ========== ========0= ·········· ====1===== ========== =====1==== ======1=== =1======== 1========= ==1=1===1=  5057.0
+09: Corchess_x64_bmi2                70.5/140 ========== ========== ========0= 0========= =0=======1 =====0==== ========== ====0===== ·········· =====1==== =========0 ========== ==11====== =1=11==1== 0===1=010=  4894.5
+10: ShashChess20.2-x86-64-bmi2       69.5/140 ========== ======0=== =0======== ====0===== ========== ========== ========0= ========== =====0==== ·········· ====1===== ========== ========== ===1=====1 1=01======  4836.5
+11: Cfish_x64_290721_ELTO_AVX_sparse 69.5/140 =====0===0 ========== =0====0=== ========== ======0=0= ========== =======1== =====0==== =========1 ====0===== ·········· ===1====== =========1 ===1====== ==1======1  4824.5
+12: BrainLearn15.2-x86-64-bmi2       67.0/140 ==0======= ==0=====0= ======0==0 =0======== ===0====== ========== ========== ======0=== ========== ========== ===0====== ·········· ==11====== ========== =0=1==1===  4667.5
+13: Crystal.4.0.x64.bmi2             61.0/140 ======0=0= 0====0=1== =====0==0= ====00===0 0==0=====1 ===0====0= ====0=0=== =0======== ==00====== ========== =========0 ==00====== ·········· ========== ===0====11  4275.7
+14: Dragon-2.6-64bit-avx2            56.5/140 0===0===00 ==0==00=== =0=00===== ====0===00 ========== =0====0=== ==0==0==== 0========= =0=00==0== ===0=====0 ===0====== ========== ========== ·········· =0==0=====  3985.2
+15: FatFritz2                        56.5/140 ==00===0== 0000=====0 =0====1000 =====0==== =====000== =0=0=0===0 0100=0=0=1 ==0=0===0= 1===0=101= 0=10====== ==0======0 =1=0==0=== ===1====00 =1==1===== ··········  3953.2
+
+1050 games played / Tournament is finished
+Name of the tournament: stockfish_clones.at
+Site/ Country: LAPTOP-DN5U69CQ, United States
+Level: Blitz 0:10/1
+Hardware: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz with 15.9 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Arena.pgn
+Website: 
+E-Mail Address: 
+[Settings]
+TournamentName=TestPedone
+Type=0
+CurrSwissRound=0
+Rounds=10
+CurrentPair=1
+CurrentRound=10
+Level=2 2\0/6#0
+[Options]
+QuitAfterTournament=0
+ShutDownAfterTournament=0
+RestartEngines=0
+RepeatStartPosition=1
+Startposition=0
+Variant=0
+StartPGNEPD=
+Resign=1
+ResignValue=-900
+MaxGameLength=250
+EarlyDrawFromMove=9998
+TablebaseDraw=0
+Autoflag=1
+Ponder=0
+AutoRotateInGautlet=1
+RutschSystem=1
+RestartArenaAfterGamesValue=20
+RestartArenaAtHour1=0
+RestartArenaAtHourValue=2
+ShutdownComputerAfterGames1=0
+ShutdownComputerAfterGamesValue=10
+[Save]
+SaveGamesPGN=1
+SaveIncompleteGamesPGN=1
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\TestPedone.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\TestPedone.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\TestPedone.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\TestPedone.html
+SaveTurTabText=1
+SaveTurTabHTML=1
+HTMLuseCountry=0
+HTMLuseFlags=0
+HTMLuseEnglish=0
+HTMLshortResults=0
+HTMLonlyPoints=0
+HTMLFlagsFromWebsite=0
+HTMLshowPGNfilename=1
+HTMLshowBenchmark=0
+PGNwebsite=
+HTMLWinPercent=1
+HTMLStartELO=1
+HTMLShowConditions=0
+HTMLConditions=
+HTMLTopLineColorized=0
+HTMLTableTopLineColor=6737151
+SaveGamesFCH=0
+FCHdir=
+FCHnames=
+[Data]
+LastPGNEPDindex=1

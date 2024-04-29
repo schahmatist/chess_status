@@ -1,0 +1,56 @@
+    Engine                             Score                 Ch
+01: Charisma Light 2-bmi2              534.5/616 ·············· 
+02: FatFritz3                          7.0/14    ============== 
+03: Dragon-3-64bit-avx2                6.5/14    ============0= 
+04: Berserk-11-x64-avx2-pext           5.5/14    ====00==0===== 
+05: Lc0                                5.0/14    =0==0=0==0==== 
+06: Igel-x64_bmi2_avx2_3_4_0           4.0/14    0=====0=000=0= 
+06: Fire_8.NN.MC.3_x64_real            4.0/14    0=0===0=0=0=0= 
+06: Rebel-16.2                         4.0/14    0===0000=====0 
+09: Koivisto_9.2-windows-avx2-pgo-pext 3.5/14    0==00=00==0=0= 
+09: Arasanx-23.4-64-avx2               3.5/14    0=0===0=0000== 
+11: RubiChess-20221203_x86-64-bmi2     3.0/14    =0=0===00=0000 
+12: Seer_v2.6_x64_avx2_popcnt          2.5/14    0=0=00000===00 
+12: RofChade 3.0                       2.5/14    000===00000=0= 
+14: RukChess.3.0.15.NNUE               2.0/14    00000=000=0=0= 
+14: Revenge_3_(Pedone)_avx2            2.0/14    0=0=00000=0=00 
+14: Allie_v0.8-dev_8e93f68_20200812    2.0/14    0=000000001=00 
+14: Uralochka3.39d-avx2                2.0/14    0=0=0==0000000 
+14: Blackmarlin-7.0-avx2               2.0/14    =00=0=0000000= 
+19: Booot7_popcnt                      1.5/14    0000000=00==00 
+19: Slow64-avx2                        1.5/14    000=00000=000= 
+19: Scorpio                            1.5/14    0=000=0000=000 
+19: Minic_mingw_x64_skylake            1.5/14    000=0=0000000= 
+19: Devre_4.0-avx2                     1.5/14    00=000000000== 
+19: Smallbrain7.0-x86-64-bmi2          1.5/14    0=0=00000=0000 
+25: Wasp-windows-avx                   1.0/14    0000000=00000= 
+25: Rick48                             1.0/14    0=0000000=0000 
+25: Nemorino_6.00_win64_avx2           1.0/14    0000=00000000= 
+25: Ethereal-13.88-Plus-NNUE-avx2      1.0/14    00000=0=000000 
+25: Halogen11-pext-avx2                1.0/14    0=0=0000000000 
+25: Gogobello_win_avx2                 1.0/14    0=0000000=0000 
+25: Viridithas7.0.0-avx2               1.0/14    0=0000000=0000 
+25: Coiled_1.1_x64                     1.0/14    000000000000== 
+33: Alexandria-3.5-x86-64-bmi2         0.5/14    000=0000000000 
+33: Clover.3.3-avx2                    0.5/14    0=000000000000 
+33: Velvet-v5.1.0-x86_64-avx2          0.5/14    0000000000000= 
+33: PowerFritz 18 AVX2                 0.5/14    00000000000=00 
+33: Tucano 10.0                        0.5/14    0000000000=000 
+33: BlackCore-bmi2-win-5.1             0.5/14    000=0000000000 
+33: Caissa_1.5_AVX2_BMI2               0.5/14    000=0000000000 
+40: Frozenight-6.0.0-windows-x86-64-v2 0.0/14    00000000000000 
+40: AsmFishWCP_2019-10-16_bmi2         0.0/14    00000000000000 
+40: Marvin_x86_64_avx2                 0.0/14    00000000000000 
+40: Houdini_6.0.2_Pro_x64-pext         0.0/14    00000000000000 
+40: Toga411-avx2                       0.0/14    00000000000000 
+40: Xiphos-0.6.1-w64-bmi2              0.0/14    00000000000000 
+
+616 games played / Tournament is finished
+Name of the tournament: Gauntlet top Charisma Light 2
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/2
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Gauntlet top Charisma Light 2.pgn
+Website: 
+E-Mail Address: 

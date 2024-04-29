@@ -1,0 +1,77 @@
+[Settings]
+TournamentName=Test Avalanche
+Type=0
+CurrSwissRound=0
+Rounds=40
+CurrentPair=1
+CurrentRound=40
+Level=2 0\2/2#0
+[Options]
+QuitAfterTournament=0
+ShutDownAfterTournament=0
+RestartEngines=1
+RepeatStartPosition=1
+Startposition=2
+Variant=0
+StartPGNEPD=D:\CHESS\books\Perfect.pgn
+Resign=1
+ResignValue=-900
+MaxGameLength=225
+EarlyDrawFromMove=32
+TablebaseDraw=1
+Autoflag=0
+Ponder=0
+AutoRotateInGautlet=0
+RutschSystem=1
+RestartArenaAfterGamesValue=10
+RestartArenaAtHour1=0
+RestartArenaAtHourValue=2
+ShutdownComputerAfterGames1=0
+ShutdownComputerAfterGamesValue=10
+[Save]
+SaveGamesPGN=0
+SaveIncompleteGamesPGN=0
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Test Avalanche.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Test Avalanche.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Test Avalanche.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Test Avalanche.html
+SaveTurTabText=0
+SaveTurTabHTML=1
+HTMLuseCountry=0
+HTMLuseFlags=0
+HTMLuseEnglish=0
+HTMLshortResults=0
+HTMLonlyPoints=0
+HTMLFlagsFromWebsite=0
+HTMLshowPGNfilename=1
+HTMLshowBenchmark=0
+PGNwebsite=
+HTMLWinPercent=1
+HTMLStartELO=0
+HTMLShowConditions=0
+HTMLConditions=
+HTMLTopLineColorized=0
+HTMLTableTopLineColor=6737151
+SaveGamesFCH=0
+FCHdir=
+FCHnames=
+[Data]
+LastPGNEPDindex=3712
+FirstGameDate=2023.07.26
+FirstGameTime=11:17:17
+Country=United States
+Site=DESKTOP-50V1D33
+Hardware=Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+OS=Windows 10 Home Home Edition (Build 9200) 64 bit
+Website=
+E-Mail=
+ArenaVersion=Arena 3.5.1
+LastGameDate=2023.07.26
+LastGameTime=14:28:25
+[PairingResults]
+Avalanche-haswell-1.5.0 ------ Avalanche-x86_64-windows-1.5.0=½½½½½½1½½½½10½111½½½½½½½½½½11½0½10101½½½
+[PairingLastPGNEPDindex]
+Avalanche-haswell-1.5.0 ------ Avalanche-x86_64-windows-1.5.0=3712
+[Participants]
+Engine1=Avalanche-haswell-1.5.0
+Engine2=Avalanche-x86_64-windows-1.5.0

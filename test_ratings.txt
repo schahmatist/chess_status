@@ -1,0 +1,123 @@
+
+   # PLAYER                                :  RATING  POINTS  PLAYED   (%)
+   1 Stockfish_15_x64_avx2                 :  3810.5   272.0     316    86
+   2 Dragon-3-64bit-avx2                   :  3777.9   264.5     315    84
+   3 FatFritz3                             :  3755.4   260.0     316    82
+   4 Koivisto_9x64-windows-avx2            :  3673.6   236.5     314    75
+   5 Revenge_3_(Pedone)_avx2               :  3670.8   210.0     306    69
+   6 Berserk-10-dev-02-11-avx2-pext        :  3666.9   232.5     312    75
+   7 Rebel-16-avx2                         :  3627.1   225.0     318    71
+   8 RubiChess-20220223_x86-64-bmi2        :  3602.1   215.5     317    68
+   9 Lc0                                   :  3602.0   211.0     312    68
+  10 Igel-x64_bmi2_avx2_3_4_0              :  3597.1   193.0     295    65
+  11 Fire_8.NN.MC.3_x64_real               :  3578.6   189.0     298    63
+  12 Slow64-avx2                           :  3541.0   193.5     317    61
+  13 Igel-x64_bmi2_avx2_3_3_0              :  3540.8   100.5     149    67
+  14 Seer_v2.6_x64_avx2_popcnt             :  3539.7   194.0     318    61
+  15 Uralochka3.39d-avx2                   :  3539.1   192.0     316    61
+  16 RofChade 3.0                          :  3531.3   190.0     317    60
+  17 Arasanx-23.4-64-avx2                  :  3511.1   180.0     314    57
+  18 Minic_mingw_x64_skylake               :  3489.6   174.5     318    55
+  19 Pedone_win_bmi2                       :  3466.5   147.0     263    56
+  20 PowerFritz 18 AVX2                    :  3464.2   132.5     254    52
+  21 Fire_8.NN.MC.3_x64_bmi2               :  3461.9    74.5     129    58
+  22 AsmFishWCP_2019-10-16_bmi2            :  3461.8   147.5     269    55
+  23 Allie 0.7 LeelaStein                  :  3443.3     2.0       3    67
+  24 Booot7_popcnt                         :  3440.6   135.5     260    52
+  25 Devre_4.0-avx2                        :  3433.2   136.5     268    51
+  26 Houdini_6.0.2_Pro_x64-pext            :  3427.4   132.0     263    50
+  27 Rick48                                :  3419.9   129.5     262    49
+  28 Igel-x64_bmi2_avx2_3_0_5              :  3419.8     6.5      13    50
+  29 Scorpio                               :  3419.2   133.5     272    49
+  30 Caissa_1.5_AVX2_BMI2                  :  3417.7   128.0     262    49
+  31 Ethereal-13.88-Plus-NNUE-avx2         :  3412.7   128.0     263    49
+  32 Smallbrain7.0-x86-64-bmi2             :  3407.4   112.0     243    46
+  33 Nemorino_6.00_win64_avx2              :  3402.8   123.5     262    47
+  34 Blackmarlin-7.0-avx2                  :  3401.2   122.5     261    47
+  35 Clover.3.2-avx2                       :  3383.1   116.0     260    45
+  36 Clover.3.3-avx2                       :  3379.3     4.5      10    45
+  37 Caissa_1.6_AVX2_BMI2                  :  3374.9    77.0     188    41
+  38 Marvin_x86_64_avx2                    :  3374.8   114.5     264    43
+  39 Velvet-x86_64-avx2                    :  3373.0   115.0     266    43
+  40 Allie_v0.8-dev_8e93f68_20200812       :  3371.5   117.0     272    43
+  41 Wasp-windows-avx                      :  3364.2   114.0     271    42
+  42 Caissa_x64_BMI2                       :  3355.7     5.0      12    42
+  43 Halogen11-pext-avx2                   :  3347.7   108.0     270    40
+  44 Ethereal-14-noNN-avx2                 :  3345.0    10.5      28    38
+  45 Fritz 18 NNUE AVX2                    :  3340.4    59.0     147    40
+  46 Coiled_1.1_x64                        :  3338.7   105.0     268    39
+  47 Xiphos-0.6.1-w64-bmi2                 :  3336.8   339.0     645    53
+  48 Frozenight-6.0.0-windows-x86-64-v2    :  3335.9   131.5     304    43
+  49 Alexandria-3.5-x86-64-bmi2            :  3335.2    35.5      64    55
+  50 Ethereal-avx2                         :  3324.0     1.5       3    50
+  51 Toga411-avx2                          :  3322.1    98.0     266    37
+  52 Viridithas7.0.0-avx2                  :  3316.9   144.5     331    44
+  53 RukChess.3.0.15.NNUE                  :  3316.2   310.5     611    51
+  54 Tucano 10.0                           :  3316.2    90.0     256    35
+  55 Gogobello_win_avx2                    :  3312.1    99.0     274    36
+  56 RukChess.3.0.13.NNUE                  :  3305.8   119.5     177    68
+  57 Combusken_windows_amd64               :  3301.9   306.0     574    53
+  58 BlackCore-bmi2-win-5.1                :  3298.1   308.5     631    49
+  59 Zahak-10.0-avx                        :  3293.2   319.5     665    48
+  60 Smallbrain6.0-x86-64-bmi2             :  3291.0    99.5     213    47
+  61 DON 230416.64 sse                     :  3290.4   313.0     659    47
+  62 Alexandria-3.1.0                      :  3289.1   245.5     493    50
+  63 Laser-1_7-BMI2                        :  3279.4   213.0     426    50
+  64 Weiss-pext                            :  3272.4   294.0     641    46
+  65 Arasanx-23.3-64-avx2                  :  3269.7    15.5      42    37
+  66 Stash-34.0-windows-x86_64-bmi2        :  3269.1   214.5     432    50
+  67 Little Goliath                        :  3260.5   162.0     286    57
+  68 BlackCore-bmi2-win                    :  3260.5   100.0     179    56
+  69 TucanoNN_FIXED                        :  3258.5    30.5      94    32
+  70 Defenchess_23dev4                     :  3256.2   194.0     383    51
+  71 Caissa_1.6_NN_AVX2_BMI2               :  3251.9     2.0       7    29
+  72 Schooner2.2-generic                   :  3245.1   192.5     421    46
+  73 Expo-skylake-skylake                  :  3235.2   194.5     452    43
+  74 Lc0.0.29                              :  3233.6     1.0       4    25
+  75 Ultron 4.0                            :  3226.9   149.0     286    52
+  76 EngineDeepShredder13UCIx64            :  3223.6   149.0     287    52
+  77 Darktoga_avx2                         :  3214.5   146.0     288    51
+  78 Strelka6                              :  3205.1   141.0     287    49
+  79 Andscacs                              :  3201.6   139.0     284    49
+  80 ClassicAra                            :  3198.6   131.0     247    53
+  81 Danasah90_64bit_avx2                  :  3197.7   132.0     248    53
+  82 Critter_1.6a_64bit                    :  3194.3   127.5     244    52
+  83 Mantissa-3.7.2-windows-avx2           :  3187.8   128.5     248    52
+  84 RukChess.3.0.13.NNUE2                 :  3186.3    18.0      32    56
+  85 Gull 3 x64 BMI2                       :  3179.3   125.5     249    50
+  86 GreKo-NN-Windows-64                   :  3177.6   118.5     238    50
+  87 Viridithas6.0.0-avx2                  :  3175.8    52.5     124    42
+  88 Demolito_pext                         :  3165.1   120.5     248    49
+  89 Tornado                               :  3150.2   116.0     249    47
+  90 Roc_TCEC19_5                          :  3146.7   114.5     249    46
+  91 Counter-5.0-windows-amd64             :  3136.8   118.0     289    41
+  92 Fizbo2x64_bmi2                        :  3135.8   112.0     252    44
+  93 Winter_2.0_New                        :  3135.4   103.0     235    44
+  94 Chiron-4-64bit                        :  3131.1   110.0     251    44
+  95 Beef_0.3.6_popcnt                     :  3129.5   109.5     249    44
+  96 Vajolet2_2.8_bmi                      :  3114.4   103.5     248    42
+  97 Kuma_0.1                              :  3114.2   103.0     249    41
+  98 Nirvanachess (64-Bit Popcount)        :  3111.8   103.0     250    41
+  99 Zahak-windows-amd64-10.0-avx          :  3090.5    31.5     130    24
+ 100 StockNemo-5.7.0.0                     :  3089.1    93.5     246    38
+ 101 Orion64-v0.9-pop-avx-fma              :  3081.3    92.0     247    37
+ 102 Equinox 3.30-x64 Ponder               :  3079.1    93.5     252    37
+ 103 Dice4-x64-modern                      :  3073.3    89.5     247    36
+ 104 Drofa_3.3.0_popcnt                    :  3062.1    87.5     252    35
+ 105 Deep Rybka 4 SSE42 x64                :  3061.8    87.0     249    35
+ 106 Sting-sf-bh-4                         :  3051.7    45.0     140    32
+ 107 Bit-Genie-9-bmi2                      :  3036.5    64.5     199    32
+ 108 Chess22k                              :  3022.9    62.5     202    31
+ 109 Winter_1.0_New                        :  3015.5    26.5      79    34
+ 110 Invictus.r382.pext                    :  3009.9    58.5     201    29
+ 111 Bob_x64_popcnt                        :  3006.8    46.5     149    31
+ 112 Topple_0.8.1_popcnt                   :  2985.5    43.0     150    29
+ 113 Sturddle-1.04                         :  2947.9    10.5      42    25
+ 114 Mayhem-7.2-x86-windows-avx2-64bit     :  2944.6    10.5      39    27
+ 115 Rodent-nnue                           :  2940.1    10.5      40    26
+ 116 Robboh6SSE4.2                         :  2881.3     6.5      32    20
+ 117 GreKo-Windows-64                    < :  2448.5     0.0      17     0
+
+White advantage = 0.00
+Draw rate (equal opponents) = 50.00 %
+

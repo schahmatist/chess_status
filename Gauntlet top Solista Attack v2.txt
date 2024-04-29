@@ -1,0 +1,56 @@
+    Engine                             Score                 So
+01: Solista Attack v2-bmi2             518.5/616 ·············· 
+02: Dragon-3-64bit-avx2                6.5/14    ===0========== 
+03: FatFritz3                          5.5/14    ====0===10=00= 
+03: Berserk-11-x64-avx2-pext           5.5/14    0===0===0===== 
+05: Rebel-16.2                         5.0/14    0=00==0======= 
+06: Igel-x64_bmi2_avx2_3_4_0           4.0/14    0=0===0=0=0=0= 
+06: Slow64-avx2                        4.0/14    ==0=0=0==00=0= 
+06: Koivisto_9.2-windows-avx2-pgo-pext 4.0/14    0=====000=0=0= 
+06: Fire_8.NN.MC.3_x64_real            4.0/14    0=0=0=0=0===0= 
+10: Lc0                                3.5/14    0=0=0=0=0=0=0= 
+11: RubiChess-20221203_x86-64-bmi2     3.0/14    0=0=0=0=0=000= 
+11: Scorpio                            3.0/14    00=0=0=0=0=0=0 
+11: PowerFritz 18 AVX2                 3.0/14    =000000=0=0=== 
+14: Seer_v2.6_x64_avx2_popcnt          2.5/14    00000=0=0=0=0= 
+14: RofChade 3.0                       2.5/14    0=0=000=0=0=00 
+14: Arasanx-23.4-64-avx2               2.5/14    000===0=00000= 
+14: Devre_4.0-avx2                     2.5/14    0==00=000=0=00 
+14: Ethereal-13.88-Plus-NNUE-avx2      2.5/14    0=000=0=0=0=00 
+14: Revenge_3_(Pedone)_avx2            2.5/14    0=000=000=0=0= 
+14: Booot7_popcnt                      2.5/14    00000=0=0=0=0= 
+14: Blackmarlin-7.0-avx2               2.5/14    ==0=00=00=0000 
+14: Nemorino_6.00_win64_avx2           2.5/14    00000===0=0=00 
+23: Wasp-windows-avx                   2.0/14    0=00=00=0=0000 
+23: Minic_mingw_x64_skylake            2.0/14    0000=00000==0= 
+23: Allie_v0.8-dev_8e93f68_20200812    2.0/14    0==000=000000= 
+23: Frozenight-6.0.0-windows-x86-64-v2 2.0/14    0==0000=00000= 
+27: AsmFishWCP_2019-10-16_bmi2         1.5/14    00000000==000= 
+27: Viridithas7.0.0-avx2               1.5/14    000=000=00000= 
+27: Clover.3.3-avx2                    1.5/14    00000=000=000= 
+27: Uralochka3.39d-avx2                1.5/14    000=000=00000= 
+27: Halogen11-pext-avx2                1.5/14    0=0000==000000 
+27: Gogobello_win_avx2                 1.5/14    000=0=0000000= 
+33: Xiphos-0.6.1-w64-bmi2              1.0/14    000=0000000=00 
+33: Tucano 10.0                        1.0/14    000=0=00000000 
+33: Smallbrain7.0-x86-64-bmi2          1.0/14    0=000=00000000 
+33: Marvin_x86_64_avx2                 1.0/14    0=0000000000=0 
+37: Toga411-avx2                       0.5/14    0=000000000000 
+37: Rick48                             0.5/14    0000000=000000 
+37: BlackCore-bmi2-win-5.1             0.5/14    00000000000=00 
+37: RukChess.3.0.15.NNUE               0.5/14    000000=0000000 
+37: Houdini_6.0.2_Pro_x64-pext         0.5/14    000=0000000000 
+37: Caissa_1.5_AVX2_BMI2               0.5/14    000=0000000000 
+43: Coiled_1.1_x64                     0.0/14    00000000000000 
+43: Velvet-v5.1.0-x86_64-avx2          0.0/14    00000000000000 
+43: Alexandria-3.5-x86-64-bmi2         0.0/14    00000000000000 
+
+616 games played / Tournament is finished
+Name of the tournament: Gauntlet top Solista Attack v2
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/2
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Gauntlet top Solista Attack v2.pgn
+Website: 
+E-Mail Address: 

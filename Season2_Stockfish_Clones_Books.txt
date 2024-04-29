@@ -1,0 +1,36 @@
+    Engine                      Score BiBlZeEMCfBrAISwPRDaStSuChRaShSoSoSpFaGeHoKaKoPoPr    S-B
+01: Big-ballz_x64_bmi2          1.0/2 ·     = =                                            1.00
+01: Blue Marlin 15.6-bmi2       1.0/2   · = =                                              1.00
+01: Zeus 27.0_ad9b x64m         1.0/2   = ·     =                                          1.00
+01: EMAN 8.70 64-bit BMI2       1.0/2 = =   ·                                              1.00
+01: Cfish 010422 [001]          1.0/2 =       ·   =                                        1.00
+06: BrainLearn21.1-x86-64-bmi2  1.0/2     =     ·   =                                      0.75
+06: AI 27.0_ad9b x64m           1.0/2         =   ·   =                                    0.75
+08: Swordfish 15.3a 64-bit BMI2 0.5/1           =   ·                                      0.50
+08: PREDATOR_X5-x86-64-bmi2     0.5/1             =   ·                                    0.50
+10: Dark Sister 1.9a_bmi2       0.5/1                   · =                                0.25
+10: Stockfish_15_x64_avx2       0.5/1                   = ·                                0.25
+10: SugaR AI 2.50 bmi2          0.5/1                       · =                            0.25
+10: Charisma Saphir-bmi2        0.5/1                       = ·                            0.25
+14: Raubfisch X48e_nn_sl-bmi2   0.0/0                           ·                          0.00
+14: ShashChess28-x86-64-bmi2    0.0/0                             ·                        0.00
+14: Solista Attack v2-bmi2      0.0/0                               ·                      0.00
+14: Solo                        0.0/0                                 ·                    0.00
+14: SpectralByLOBO-bmi2         0.0/0                                   · ?                0.00
+14: Fat_titz_2_win64-bmi2       0.0/0                                   ? ·                0.00
+14: Genko 1.1 bmi2              0.0/0                                       ·              0.00
+14: Honey-v14_bmi               0.0/0                                         ·            0.00
+14: Kayra 1.7 bmi2              0.0/0                                           ·          0.00
+14: Kookaburra v1.03a-bmi2      0.0/0                                             ·        0.00
+14: Polyfish_230115_x86-64-bmi2 0.0/0                                               ·      0.00
+14: ProteusSF-Piranha-15.1-bmi2 0.0/0                                                 ·    0.00
+
+10 of 3000 games played
+Name of the tournament: Season2_Stockfish_Clones_Books
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/1
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season2_Stockfish_Clones_Books.pgn
+Website: 
+E-Mail Address: 

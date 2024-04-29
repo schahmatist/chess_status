@@ -1,0 +1,142 @@
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "1"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Andscacsnnue01"]
+[Result "*"]
+[BlackElo "2200"]
+[Time "11:36:08"]
+[WhiteElo "2200"]
+[TimeControl "120+6"]
+[Termination "unterminated"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+ *
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "1"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Andscacsnnue01"]
+[Result "1/2-1/2"]
+[Time "11:36:51"]
+[WhiteElo "2200"]
+[TimeControl "120+6"]
+[Termination "adjudication"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. Bg5 b4 6. a3 h6 7. Bh4 a5 8. axb4
+cxb4 {User Adjudication} 1/2-1/2
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "1"]
+[White "Arasanx-23.5-avx2"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[Time "11:37:01"]
+[WhiteElo "2200"]
+[TimeControl "120+6"]
+[Termination "adjudication"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. O-O Nc6 5. c4 e6 6. Nc3 Nge7 7. d3 O-O 8.
+Ne4 d6 {User Adjudication} 1/2-1/2
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "1"]
+[White "Andscacsnnue01"]
+[Black "Arasanx-23.5-avx2"]
+[Result "1/2-1/2"]
+[Time "11:37:18"]
+[WhiteElo "2200"]
+[TimeControl "120+6"]
+[Termination "adjudication"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8.
+Qxg5 Qxg5 {User Adjudication} 1/2-1/2
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "2"]
+[White "Andscacsnnue01"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[Time "11:37:31"]
+[TimeControl "120+6"]
+[Termination "adjudication"]
+[PlyCount "16"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. Bg5 b4 6. a3 h6 7. Bh4 a5 8. axb4
+cxb4 {User Adjudication} 1/2-1/2
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "2"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Arasanx-23.5-avx2"]
+[Result "1/2-1/2"]
+[Time "11:37:38"]
+[TimeControl "120+6"]
+[Termination "adjudication"]
+[PlyCount "16"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. O-O Nc6 5. c4 e6 6. Nc3 Nge7 7. d3 O-O 8.
+Ne4 d6 {User Adjudication} 1/2-1/2
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "2"]
+[White "Arasanx-23.5-avx2"]
+[Black "Andscacsnnue01"]
+[Result "1/2-1/2"]
+[Time "11:37:45"]
+[WhiteElo "2200"]
+[TimeControl "120+6"]
+[Termination "adjudication"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8.
+Qxg5 Qxg5 {User Adjudication} 1/2-1/2
+
+[Event "Test openings"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.04.09"]
+[Round "3"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Andscacsnnue01"]
+[Result "*"]
+[Time "11:37:54"]
+[WhiteElo "2200"]
+[TimeControl "120+6"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. c4 e6 2. d4 d5 3. Nf3 Nf6 4. Bg5 dxc4 5. Qa4+ Nbd7 6. e3 c6 7. Bxf6 Qxf6
+8. Qxc4 e5 *
+

@@ -1,0 +1,294 @@
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "1"]
+[White "Clover.3.3-avx2"]
+[Black "Clover-3.3_Windows_x86-64-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:10:44"]
+[Variation "3.cxd5"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "103"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Bf4 Nf6 5. e3 Bb4+ 6. Nd2 c5 7. dxc5 O-O
+8. Nf3 Bxc5 9. Rc1 Bb6 10. h3 d4 11. e4 d3 12. Qb3 Na6 13. Qxd3 Nc5 14.
+Qxd8 Rxd8 15. Bc4 Nfxe4 16. Nxe4 Nxe4 17. O-O Bd7 18. Rce1 Re8 19. b3 Bc6
+20. Ne5 Rxe5 21. Bxe5 Nd2 22. Bc3 Nxf1 23. Kxf1 Bc5 24. Re5 b6 25. Rf5 Be8
+26. Rg5 Bf8 27. Rd5 Rc8 28. Bd2 Be7 29. Bf4 Kf8 30. Be3 h6 31. f3 Bh4 32.
+Rd2 Bg3 33. Bf2 Be5 34. h4 b5 35. Bd3 a5 36. Ke2 Bd7 37. Bb6 Bc3 38. Rc2 h5
+39. Ke3 Re8+ 40. Kf2 Rc8 41. Be3 a4 42. bxa4 bxa4 43. Ke2 Bb4 44. Rxc8+
+Bxc8 45. Bb5 a3 46. Kd3 Bf5+ 47. Kd4 Be7 48. Bf2 Bf6+ 49. Kc5 Be7+ 50. Kd4
+Bf6+ 51. Kc5 Be7+ 52. Kd4 {3-fold repetition} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "2"]
+[White "Clover-3.3_Windows_x86-64-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:12:53"]
+[Variation "3.Nf3 Nf6 4.e3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "91"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. e3 e6 3. Nf3 Nf6 4. c4 Be7 5. cxd5 exd5 6. Bd3 O-O 7. O-O c6 8.
+Nc3 Re8 9. h3 Bd6 10. Qc2 h6 11. Re1 Be6 12. Bd2 Nbd7 13. Rec1 a6 14. Be1
+a5 15. a3 Nb6 16. Ne2 Qe7 17. Ne5 Qc7 18. a4 Nbd7 19. f4 Ne4 20. Nc3 Nxc3
+21. Bxc3 Nf6 22. Rf1 Qb6 23. Rad1 c5 24. Qf2 Re7 25. Rfe1 cxd4 26. Bxd4 Bc5
+27. Bb1 Bxd4 28. Rxd4 Rc7 29. e4 Re8 30. exd5 Bxd5 31. Kh2 Be6 32. Re2 Rc1
+33. Bc2 Rc8 34. Rc4 Qxf2 35. Rxc8+ Bxc8 36. Rxf2 Kf8 37. Bb3 Ne4 38. Re2
+Nd6 39. Bxf7 Nxf7 40. Ng6+ Kg8 41. Re8+ Kh7 42. Nf8+ Kh8 43. Ng6+ Kh7 44.
+Nf8+ Kg8 45. Ne6+ Kh7 46. Nf8+ {3-fold repetition} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "3"]
+[White "Clover.3.3-avx2"]
+[Black "Clover-3.3_Windows_x86-64-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:14:51"]
+[Variation "3.Nf3 Nf6 4.e3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "125"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 Be7 5. Nbd2 O-O 6. Be2 c5 7. dxc5 dxc4
+8. Bxc4 Nbd7 9. c6 bxc6 10. b3 a5 11. a4 Nb6 12. Be2 c5 13. Bb2 Nfd5 14.
+O-O Bb7 15. Ne5 Bf6 16. Qc1 Qc7 17. Nec4 Nxc4 18. Nxc4 Ba6 19. Bxf6 Nxf6
+20. Rd1 Rab8 21. Qc2 Rb4 22. h3 Rfb8 23. Rab1 Bb7 24. Nd2 h6 25. Rbc1 Rc8
+26. Bc4 Qe5 27. Qd3 Qg5 28. Qf1 Rc7 29. Be2 Bd5 30. Bc4 Bc6 31. Bd3 Rh4 32.
+g3 Rb4 33. Qe2 Rh4 34. Qf1 Rb4 35. e4 Nd7 36. Qe2 Ne5 37. h4 Qd8 38. Nc4
+Qf6 39. Qe3 Nxc4 40. Bxc4 Qe5 41. f4 Qb2 42. Rd8+ Kh7 43. Rd3 Rc8 44. Rd6
+Kh8 45. Qc3 Qxc3 46. Rxc3 Bxe4 47. Kf2 g6 48. Re3 Bc6 49. Re5 Bxa4 50. Bxe6
+fxe6 51. bxa4 c4 52. Rexe6 c3 53. Rc6 Rxc6 54. Rxc6 Rxa4 55. Rxc3 h5 56. f5
+gxf5 57. Rc7 f4 58. Rc5 fxg3+ 59. Kxg3 Rg4+ 60. Kh3 Rb4 61. Rxh5+ Kg7 62.
+Rxa5 Re4 63. Ra6 {Arena Adjudication (Tablebases)} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "4"]
+[White "Clover-3.3_Windows_x86-64-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:17:32"]
+[Variation "3.Nf3 Nf6 4.e3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "126"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. e3 e6 3. c4 Nf6 4. Nf3 Be7 5. cxd5 exd5 6. Bd3 O-O 7. O-O h6 8.
+h3 Re8 9. Qc2 c6 10. Nc3 Nbd7 11. Re1 Bd6 12. Bd2 a5 13. a4 Bc7 14. Re2 Nb6
+15. Rae1 Be6 16. e4 dxe4 17. Nxe4 Nbd7 18. Ng3 Nf8 19. Nf5 Nd5 20. Ne5 Nb4
+21. Bxb4 axb4 22. Bc4 Ra5 23. Re3 Bxe5 24. Rxe5 Rxe5 25. dxe5 Bxf5 26. Qxf5
+Qd7 27. Qh5 Rd8 28. Re4 b5 29. axb5 cxb5 30. Bb3 Ne6 31. Rg4 Kh8 32. Kh2
+Qa7 33. Bxe6 fxe6 34. Qg6 Qe7 35. Qe4 Rd5 36. f4 Rd2 37. b3 Rd1 38. Qc6 Rd5
+39. Rg3 Qf7 40. Rf3 Rd4 41. Qc8+ Kh7 42. Qc2+ Kg8 43. Kg3 Qd7 44. Qg6 Rd2
+45. h4 Rd5 46. Qe4 Rd4 47. Qg6 Rd5 48. Kg4 Rc5 49. Rf1 Qd5 50. Kh5 Rc8 51.
+g4 Rf8 52. Qc2 Qd4 53. Kg6 Qd7 54. Kh5 Qd4 55. Qg6 Qd5 56. Rf2 Rf6 57. Qc2
+Rf8 58. g5 hxg5 59. hxg5 Qh1+ 60. Kg4 Qg1+ 61. Kh5 Qg3 62. Kg6 Qh4 63. Rh2
+Qxf4 {Arena Adjudication} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "5"]
+[White "Clover.3.3-avx2"]
+[Black "Clover-3.3_Windows_x86-64-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:20:23"]
+[Variation "3.Nf3 Nf6"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "60"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. cxd5 exd5 5. Bf4 Be7 6. h3 c5 7. e3 Qb6 8.
+Qc2 Nc6 9. dxc5 Bxc5 10. a3 Be6 11. Bd3 d4 12. e4 O-O 13. O-O Be7 14. Nbd2
+Rac8 15. Qb1 h6 16. Rd1 a5 17. Nc4 Qd8 18. Nce5 Qb6 19. Nc4 Qd8 20. Bf1 Bc5
+21. Nxa5 Qxa5 22. b4 Nxb4 23. Bd2 d3 24. Bxb4 Bxf2+ 25. Kxf2 Nxe4+ 26. Kg1
+Qb6+ 27. Kh2 Qc7+ 28. Kg1 Qb6+ 29. Kh2 Qc7+ 30. Kg1 Qb6+ {3-fold
+repetition} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "6"]
+[White "Clover-3.3_Windows_x86-64-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:21:46"]
+[Variation "Tarrasch without Nc3: 4.e3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "130"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. e3 e6 3. Nf3 c5 4. c4 Nc6 5. dxc5 Bxc5 6. a3 a5 7. cxd5 exd5 8.
+Nc3 Nf6 9. h3 O-O 10. Bb5 Bf5 11. O-O Rc8 12. Re1 h6 13. Na4 Bd6 14. Nc3
+Ne5 15. Nd4 Bg6 16. Qb3 Bb8 17. Be2 Qc7 18. Ncb5 Qb6 19. Nc3 Qc7 20. Ncb5
+Qe7 21. Nc3 Nc4 22. Nxd5 Nxd5 23. Bxc4 a4 24. Qxa4 Nb6 25. Qb4 Qc7 26.
+Bxf7+ Bxf7 27. g3 Bd5 28. f4 Nc4 29. b3 Ne5 30. Qd2 Nf3+ 31. Nxf3 Bxf3 32.
+Bb2 Rfd8 33. Bd4 Qf7 34. Rac1 Qxb3 35. Qb2 Qxb2 36. Bxb2 Rxc1 37. Rxc1 Bc6
+38. Bd4 Bd6 39. g4 Ra8 40. Bb2 Ra6 41. Rc3 Rb6 42. Rc2 Rb3 43. Kf2 Bxa3 44.
+Bd4 Be7 45. Ra2 Kf7 46. Ra5 Ra3 47. Rxa3 Bxa3 48. Bb6 Bb2 49. h4 Ke6 50. h5
+Bf6 51. Kg3 Be4 52. Bc5 b5 53. Bf8 Bc3 54. g5 b4 55. Bxb4 Bxb4 56. gxh6
+gxh6 57. Kh3 Kf5 58. Kg3 Be1+ 59. Kh2 Bf2 60. Kh3 Bxe3 61. Kh2 Kxf4 62. Kh3
+Bg1 63. Kh4 Kf3 64. Kh3 Bf5+ 65. Kh4 Bf2# 0-1
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "7"]
+[White "Clover.3.3-avx2"]
+[Black "Clover-3.3_Windows_x86-64-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C01"]
+[Opening "French"]
+[Time "23:24:30"]
+[Variation "Exchange, 4.Nc3 Nf6 5.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "102"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Nc3 Bd6 6. Nb5 O-O 7. Nxd6
+Qxd6 8. Be2 h6 9. O-O Bf5 10. Re1 a5 11. Be3 a4 12. Qc1 Nbd7 13. Bf4 Qc6
+14. c3 Rfe8 15. h3 Qb6 16. Bf1 c6 17. Be3 Nf8 18. Ne5 Bh7 19. Be2 Ne4 20.
+c4 Ne6 21. c5 Qd8 22. b4 axb3 23. axb3 Rxa1 24. Qxa1 f6 25. Nf3 f5 26. b4
+Bg6 27. Qb2 Bh5 28. Ne5 Bxe2 29. Rxe2 f4 30. Bc1 Kh7 31. b5 cxb5 32. Nf3
+Qa5 33. Qb3 Rd8 34. Qd3 Qa1 35. Rxe4 dxe4 36. Qxe4+ Kh8 37. Qxe6 Qxc1+ 38.
+Kh2 Qc4 39. Qb6 Qd5 40. Qxb5 Kg8 41. Qa4 Qe4 42. Qb3+ Qd5 43. Qa4 Rd7 44.
+Qc2 Re7 45. Ne5 Qxd4 46. Qb3+ Kh7 47. Qb1+ Kg8 48. Qa2+ Kh7 49. Qc2+ Kg8
+50. Qa2+ Kh7 51. Qc2+ Kg8 {3-fold repetition} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "8"]
+[White "Clover-3.3_Windows_x86-64-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:26:43"]
+[Variation "3.cxd5"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "145"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Bf4 Bb4+ 5. Nd2 Nf6 6. Nf3 O-O 7. e3 Re8
+8. a3 Bd6 9. Bxd6 Qxd6 10. Qc2 Be6 11. Be2 h6 12. O-O a5 13. Rfc1 Rc8 14.
+Nb1 c6 15. h3 Ne8 16. Nc3 Nd7 17. Bd3 Qe7 18. Ne2 a4 19. Nf4 Nd6 20. Re1
+Re8 21. b4 axb3 22. Qxb3 Ra7 23. Nxe6 Qxe6 24. a4 Rea8 25. Rec1 Qe7 26. Nd2
+Nb8 27. Ra2 g6 28. Rca1 Kg7 29. Qc2 Qd8 30. Nb3 b6 31. Qd2 Qf6 32. a5 b5
+33. Qc3 Na6 34. Re2 Nc4 35. e4 Qd6 36. Rb1 Qb4 37. Qc1 Na3 38. Rbb2 Nc4 39.
+Rb1 Nc7 40. Ra2 Qe7 41. e5 h5 42. Bf1 Ne6 43. Rba1 f6 44. exf6+ Qxf6 45.
+Qd1 Rf8 46. a6 Kh7 47. Kh1 Kg7 48. Re2 Nd6 49. Qe1 Nxd4 50. Nxd4 Qxd4 51.
+Rd1 Qf4 52. Qc3+ Rf6 53. Qxc6 Ne4 54. Qxb5 Rfxa6 55. Rde1 Ra1 56. Qxd5 Rxe1
+57. Rxe1 Nxf2+ 58. Kg1 Nxh3+ 59. gxh3 Qg3+ 60. Kh1 Qxe1 61. Qd4+ Kh6 62.
+Qxa7 Qxf1+ 63. Kh2 Qf4+ 64. Kg2 Qe4+ 65. Kg3 h4+ 66. Kf2 Qf4+ 67. Ke2 Qc4+
+68. Kf2 Qf4+ 69. Ke2 Qc4+ 70. Kf2 Qd3 71. Qe3+ Qxe3+ 72. Kxe3 Kg5 73. Ke4
+{Arena Adjudication (Tablebases)} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "9"]
+[White "Clover.3.3-avx2"]
+[Black "Clover-3.3_Windows_x86-64-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:29:47"]
+[Variation "3.Nf3 Nf6 4.e3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "91"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. e3 Nf6 4. Nf3 Be7 5. cxd5 exd5 6. Bd3 O-O 7. O-O h6 8.
+Nc3 Nbd7 9. h3 Bd6 10. Qc2 c6 11. Bd2 Nb6 12. Ne5 c5 13. f4 cxd4 14. exd4
+Nc4 15. Nxc4 dxc4 16. Bxc4 Qb6 17. Kh2 Bd7 18. Qd3 Rfe8 19. a4 Rac8 20. b3
+a6 21. Rae1 Bc6 22. d5 Bd7 23. Kh1 Qc7 24. Rxe8+ Rxe8 25. Rf3 Bc5 26. g4
+Qc8 27. f5 Bb4 28. Kg2 Qc5 29. Re3 Bxc3 30. Rxe8+ Bxe8 31. Bxc3 b5 32. axb5
+axb5 33. Bxf6 gxf6 34. Qe4 bxc4 35. Qxe8+ Kg7 36. bxc4 Qxc4 37. Qc6 Qe2+
+38. Kg1 Qe1+ 39. Kg2 Qe2+ 40. Kg3 Qe3+ 41. Kg2 h5 42. gxh5 Qe2+ 43. Kg3
+Qe3+ 44. Kg2 Qe2+ 45. Kg3 Qe3+ 46. Kg2 {3-fold repetition} 1/2-1/2
+
+[Event "Test Clover"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.13"]
+[Round "10"]
+[White "Clover-3.3_Windows_x86-64-avx2"]
+[Black "Clover.3.3-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D30"]
+[Opening "QGD"]
+[Time "23:31:48"]
+[Variation "3.cxd5"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "93"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Bf4 Nf6 5. e3 c5 6. Nf3 c4 7. Nfd2 Nc6 8.
+Nc3 Bb4 9. Be2 O-O 10. O-O h6 11. a3 Bxc3 12. bxc3 Bf5 13. a4 Na5 14. Ra2
+Re8 15. h3 Re6 16. Re1 Rb6 17. f3 Bg6 18. Bf1 Re6 19. Rb2 a6 20. Be5 Qe7
+21. e4 Rxe5 22. dxe5 Qxe5 23. Qc1 Re8 24. Rb1 dxe4 25. Nxe4 Bxe4 26. fxe4
+Nb3 27. Qe3 b5 28. Rbd1 g5 29. axb5 axb5 30. g4 Kg7 31. Bg2 Nc5 32. Qd4 Nd3
+33. Qxe5 Rxe5 34. Re3 Kg6 35. Kh2 Kg7 36. Ra1 Nf4 37. Ra5 N6d5 38. Rf3 Nb6
+39. Re3 Nd3 40. Rf3 Nf4 41. Re3 Na4 42. Bf1 Nb2 43. Kg3 Kf6 44. Ra6+ Kg7
+45. Ra5 Kf6 46. Ra6+ Kg7 47. Ra5 {3-fold repetition} 1/2-1/2
+

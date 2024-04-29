@@ -1,0 +1,64 @@
+    Engine                       Score                          Sp
+01: SpectralByLOBO-bmi2          578.5/1106 ······················ 
+02: AI 27.0_ad9b x64m            12.0/22    ===1=========1=10===== 
+02: Solista Attack v2-bmi2       12.0/21    ==1=====11===========  
+02: TealOracle                   12.0/21    ===1=====1=1=========  
+05: Genko 1.1 bmi2               11.5/22    =====================1 
+05: Charisma Light 2-bmi2        11.5/21    01=======1===1=======  
+05: Kayra 1.7 bmi2               11.5/22    ===================1== 
+05: StockfishMZ 170522 bmi2      11.5/21    ===========1=====1===  
+05: Charisma Gold-bmi2           11.5/21    =============1===1===  
+10: EMAN 8.70 64-bit BMI2        11.0/21    =1========1==0=======  
+10: Corchess_x64_bmi2            11.0/22    ===1==0=============== 
+10: Stockfish_23012306_x64_bmi2  11.0/21    =101=================  
+10: Kookaburra v1.03a-bmi2       11.0/22    ================01==== 
+10: Polyfish_230115_x86-64-bmi2  11.0/22    ===1====0============= 
+10: Stockfish_23022721_x64_bmi2  11.0/22    ====================== 
+10: Leptir Classic-bmi2          11.0/21    ==========1==========  
+17: Fat_titz_2_win64-bmi2        10.5/22    ========0============= 
+17: PREDATOR_X5_no_books         10.5/21    =====================  
+17: BrainLearn21.1-x86-64-bmi2   10.5/22    ====0=========01====== 
+17: ProteusSF-Piranha-15.1-bmi2  10.5/21    =============1====0==  
+17: Patzer AI 020223             10.5/21    ===============1===0=  
+17: Honey-v14_bmi                10.5/22    ==============0======= 
+17: Nebula-vortex_x64_bmi2       10.5/21    ========0====1=======  
+17: Charisma Blitz-bmi2          10.5/21    ==========0======1===  
+17: Charisma 240223-bmi2         10.5/21    ===1==00===1=========  
+17: Charisma Diamond-bmi2        10.5/21    =========0======1====  
+17: Dark Sister 1.9a_bmi2        10.5/22    ===========0========== 
+28: Bluefish-NNUE-180921-bmi2    10.0/21    ===============0=====  
+28: Fisherov chess monk 1.2 bmi2 10.0/22    ======0===========0=== 
+28: ShashChess28-x86-64-bmi2     10.0/21    ================0====  
+28: Leptir 280223-bmi2           10.0/21    0========1==0========  
+28: Big-ballz_x64_bmi2           10.0/22    ==00================== 
+28: Swordfish 15.3a 64-bit BMI2  10.0/21    ====================0  
+28: Blue Marlin 15.6-bmi2        10.0/22    ==========0======0==== 
+28: Cool Iris 5.2_BMI2           10.0/21    ==============0======  
+28: Charisma-bmi2                10.0/21    ====0================  
+28: Dragon-3-64bit-avx2          10.0/21    =1=0=====0===========  
+38: Zeus 27.0_ad9b x64m          9.5/21     ==========0========0=  
+38: Solo                         9.5/21     =========0=====0=====  
+38: SugaR AI 2.50 bmi2           9.5/21     0===0================  
+38: Redfish-avx2-230122          9.5/21     ======0=0============  
+38: Charisma 250223-bmi2         9.5/21     =0========0==========  
+38: Charisma Saphir-bmi2         9.5/21     ======0=========0====  
+38: Crystal 5 KWK bmi2           9.5/21     ==0=0================  
+38: CFishNN_230217_6_AspLine64_2 9.5/21     ================0=0==  
+46: Vulkan 031222-bmi2           9.0/21     =========0=======00==  
+46: Stockfish_14.1_win_x64_avx2  9.0/21     ==0====0==========0==  
+46: Stockfish-15.1-x86-64-avx2   9.0/21     ==========0=======0=0  
+46: Raubfisch X48e_nn_sl-bmi2    9.0/21     ==0=0============0===  
+46: YuliGM+PrO+5                 9.0/21     0===0============0===  
+51: Flamiing Titz 230822-bmi2    8.0/21     0=01====0==0===00====  
+52: Yoda                         7.0/21     =====00===0=0=00====0  
+53: FatFritz3                    5.5/21     ====00==0==0=00000==0  
+
+1106 of 5200 games played
+Name of the tournament: Gauntlet_Spectral_Clones
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/1
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Gauntlet_Spectral_Clones.pgn
+Website: 
+E-Mail Address: 

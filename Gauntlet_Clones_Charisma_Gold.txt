@@ -1,0 +1,64 @@
+    Engine                       Score                         Ch
+01: Charisma Gold-bmi2           530.5/1046 ····················· 
+02: Dark Sister 1.9a_bmi2        13.0/20    =1==1==1=1===1=====1  
+03: EMAN 8.70 64-bit BMI2        12.5/20    =1=1===1===1=======1  
+04: Honey-v14_bmi                11.5/20    =1=11==1===========0  
+05: Polyfish_230115_x86-64-bmi2  11.0/20    =========1=====1====  
+05: ShashChess28-x86-64-bmi2     11.0/20    ====0====1=1===1====  
+05: Swordfish 15.3a 64-bit BMI2  11.0/20    ====1=====0=1==1====  
+05: AI 27.0_ad9b x64m            11.0/21    =======1============= 
+05: Charisma Light 2-bmi2        11.0/20    ======0====1=1=1====  
+05: PREDATOR_X5_no_books         11.0/20    =====1=======1======  
+11: Solo                         10.5/20    =============1======  
+11: Kayra 1.7 bmi2               10.5/20    0====1===1==========  
+11: Nebula-vortex_x64_bmi2       10.5/20    =1===1=10===0=======  
+11: Kookaburra v1.03a-bmi2       10.5/20    =1=============10===  
+11: Fat_titz_2_win64-bmi2        10.5/20    =======1============  
+11: BrainLearn21.1-x86-64-bmi2   10.5/21    ===================== 
+11: Patzer AI 020223             10.5/20    =1==================  
+11: Charisma 250223-bmi2         10.5/20    =========1==========  
+11: Leptir 280223-bmi2           10.5/20    ===================1  
+20: Corchess_x64_bmi2            10.0/21    ================0==== 
+20: Solista Attack v2-bmi2       10.0/20    ===0===========1====  
+20: Genko 1.1 bmi2               10.0/20    ====================  
+20: SpectralByLOBO-bmi2          10.0/20    ====================  
+20: TealOracle                   10.0/20    =======1===========0  
+20: Cool Iris 5.2_BMI2           10.0/20    ====================  
+20: Bluefish-NNUE-180921-bmi2    10.0/20    ==010=0==1=1========  
+20: SugaR AI 2.50 bmi2           10.0/20    =============10==0=1  
+20: Stockfish_23022721_x64_bmi2  10.0/21    ======01============0 
+20: Zeus 27.0_ad9b x64m          10.0/20    ====================  
+20: Charisma Blitz-bmi2          10.0/20    ================0==1  
+20: Charisma 240223-bmi2         10.0/20    ====================  
+20: CFishNN_230217_6_AspLine64_2 10.0/20    ====================  
+33: YuliGM+PrO+5                 9.5/20     ==0==============10=  
+33: Fisherov chess monk 1.2 bmi2 9.5/20     ========0===========  
+33: Crystal 5 KWK bmi2           9.5/20     ========0===========  
+33: Raubfisch X48e_nn_sl-bmi2    9.5/20     ======0=============  
+33: Dragon-3-64bit-avx2          9.5/20     ===0=0=========1====  
+33: Charisma Diamond-bmi2        9.5/20     ===================0  
+33: Charisma-bmi2                9.5/20     ========0===========  
+33: Redfish-avx2-230122          9.5/20     ==0=================  
+41: Stockfish_23012306_x64_bmi2  9.0/20     =====0=0============  
+41: Big-ballz_x64_bmi2           9.0/21     0=0====011======0==0= 
+41: Blue Marlin 15.6-bmi2        9.0/21     0=======0=======0==== 
+41: Stockfish-15.1-x86-64-avx2   9.0/20     0==1====0=0=======01  
+41: StockfishMZ 170522 bmi2      9.0/20     ===========0=0======  
+41: Charisma Saphir-bmi2         9.0/20     ======0=0===========  
+41: Leptir Classic-bmi2          9.0/20     ==00==0=====1=======  
+41: FatFritz3                    9.0/20     ======100==========0  
+41: ProteusSF-Piranha-15.1-bmi2  9.0/20     ==========0===0=====  
+50: Vulkan 031222-bmi2           8.5/20     0=====0=======0=====  
+51: Flamiing Titz 230822-bmi2    8.0/20     ==11==0===0=00==0=0=  
+52: Stockfish_14.1_win_x64_avx2  7.5/20     0=====0=0=0=======0=  
+53: Yoda                         7.0/20     ==0==0=00=======0=0=  
+
+1046 of 5200 games played
+Name of the tournament: Gauntlet_Clones_Charisma_Gold
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/1
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Gauntlet_Clones_Charisma_Gold.pgn
+Website: 
+E-Mail Address: 

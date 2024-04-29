@@ -1,0 +1,17 @@
+BaseInfoVersion,0=23
+AllModes,0=0
+DoTrimFirst,2=FALSE
+DoTrimTail,2=FALSE
+ReadOnly,2=FALSE
+UseOEMCoding,2=FALSE
+CopyEventToSite,2=FALSE
+ShowDeleted,2=TRUE
+BaseType,0=0
+TrackChanges,2=FALSE
+TransDataFileID,3=
+TransBaseID,3=
+Folders,0=0
+[FoldersInfo]
+ Folders,0=0
+[ENDSECTION]
+[ENDSECTION]

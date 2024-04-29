@@ -1,0 +1,321 @@
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "1"]
+[White "Andscacs"]
+[Black "Andscacsnnue01"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "D00"]
+[Opening "Queen's Pawn, Mason, Steinitz Countergambit"]
+[Time "00:42:26"]
+[Variation "Mason Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "78"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. Bf4 c5 3. Nc3 cxd4 4. Qxd4 Nf6 5. Bxb8 Rxb8 6. O-O-O g6 7. e4
+Bh6+ 8. Kb1 O-O 9. e5 Nh5 10. Nf3 e6 11. g4 Ng7 12. Ne4 Ne8 13. g5 Qc7 14.
+Nf6+ Nxf6 15. exf6 e5 16. Qh4 Bg7 17. fxg7 Re8 18. Rxd5 Bf5 19. Bc4 Rbc8
+20. Nd2 b5 21. Bb3 a5 22. a3 a4 23. Ba2 Qxc2+ 24. Ka1 Rcd8 25. Qb4 Rxd5 26.
+Bxd5 Kxg7 27. Qd6 Kg8 28. Re1 Bd3 29. Rxe5 Qc8 30. Qf6 Qd7 31. Qxf7+ Qxf7
+32. Rxe8+ Kg7 33. Bxf7 Kxf7 34. Re5 Kf8 35. Rd5 Bf5 36. Rxb5 Ke7 37. Rb4
+Bc2 38. Ne4 Ke6 39. Nc5+ Ke5 {Arena Adjudication} 1-0
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "2"]
+[White "Andscacsnnue01"]
+[Black "Andscacs"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C07"]
+[Opening "French"]
+[Time "00:44:08"]
+[Variation "Tarrasch, Open, Eliskases Variation, 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd8"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "131"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd8 7. Nb3 Nf6
+8. Nbxd4 Qc7 9. Qe2 a6 10. O-O Be7 11. Re1 Nc6 12. Nxc6 bxc6 13. Bg5 O-O
+14. Ne5 c5 15. Rad1 Rd8 16. Rxd8+ Bxd8 17. b3 a5 18. a4 h6 19. Bh4 Qb6 20.
+f4 Bb7 21. f5 Ne4 22. Qh5 Bxh4 23. Qxf7+ Kh8 24. Ng6+ Kh7 25. Nxh4 Qd8 26.
+Nf3 Nd6 27. Qg6+ Kh8 28. Rxe6 Nxc4 29. f6 gxf6 30. Qxh6+ Kg8 31. Qg6+ Kh8
+32. Rxf6 Be4 33. Qxe4 Qxf6 34. Qxa8+ Kg7 35. Qa7+ Kg6 36. Qxc5 Qb6 37.
+Qxb6+ Nxb6 38. Kf2 Kf5 39. Ke3 Nd5+ 40. Kd4 Nf4 41. Ne1 Ne2+ 42. Kd3 Nf4+
+43. Ke3 Nd5+ 44. Kd4 Nf4 45. c4 Ne6+ 46. Kd5 Nc7+ 47. Kc6 Ne8 48. c5 Ke6
+49. Nf3 Kf5 50. Kd7 Nf6+ 51. Kd8 Nd5 52. c6 Ke4 53. c7 Nxc7 54. Kxc7 Ke3
+55. h4 Kd3 56. h5 Ke4 57. h6 Kf4 58. h7 Ke3 59. h8=Q Kf2 60. Qd4+ Kxg2 61.
+Nd2 Kg3 62. Kb6 Kg2 63. Qh4 Kg1 64. Ne4 Kg2 65. Qg3+ Kf1 66. Qf2# 1-0
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "3"]
+[White "Andscacs"]
+[Black "Andscacsnnue01"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A45"]
+[Opening "Indian"]
+[Time "00:46:49"]
+[Variation "2.Bf4"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "normal"]
+[PlyCount "101"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Bf4 c5 3. dxc5 Na6 4. Qd4 Qa5+ 5. Qc3 Qa4 6. e3 e6 7. Bxa6
+Qxa6 8. Ne2 Qc6 9. O-O Nd5 10. Qd4 Nxf4 11. Nxf4 Qxc5 12. Qxc5 Bxc5 13. Nc3
+b6 14. Rfd1 Ba6 15. a4 Ke7 16. Nb5 Rhc8 17. Nd3 d5 18. h4 Bb7 19. c3 a5 20.
+Kf1 Bc6 21. Ne5 Be8 22. Ke1 f6 23. Nd3 e5 24. Kd2 Ke6 25. Rf1 h5 26. f4
+Bxb5 27. axb5 a4 28. Ra2 Bd6 29. Rfa1 a3 30. bxa3 Ra4 31. g3 Kf5 32. Nb2
+Re4 33. Nd1 Bc5 34. a4 d4 35. cxd4 exd4 36. Ke2 dxe3 37. Rc1 Ra8 38. a5 Rb4
+39. a6 Rxb5 40. a7 Kg4 41. Nxe3+ Bxe3 42. Kxe3 Ra5 43. Rxa5 bxa5 44. Rc7 g6
+45. f5 gxf5 46. Rg7+ Kh3 47. Kd4 Rc8 48. Rb7 Ra8 49. Rg7 Rc8 50. Rb7 Ra8
+51. Rg7 {3-fold repetition} 1/2-1/2
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "4"]
+[White "Andscacsnnue01"]
+[Black "Andscacs"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C02"]
+[Opening "French"]
+[Time "00:50:20"]
+[Variation "Advance, 4.c3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "240"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Ne7 5. Bd3 a6 6. Ne2 Nec6 7. Nd2 Nd7 8.
+O-O Be7 9. Nf3 b5 10. a3 c4 11. Bc2 Bb7 12. Qd2 h6 13. Re1 g5 14. h3 Qa5
+15. Qd1 b4 16. cxb4 Bxb4 17. Nc3 Rb8 18. Bd2 Be7 19. b3 cxb3 20. Bxb3 Qb6
+21. Ne2 Qa7 22. Ba4 Nb6 23. Ng3 Nxa4 24. Qxa4 h5 25. Be3 h4 26. Ne2 Rg8 27.
+Nh2 Qb6 28. Rab1 Qa5 29. Qc2 Rg6 30. Rec1 Qc7 31. f4 Qd7 32. Qc3 Na7 33.
+Qd3 Nb5 34. Rb3 Rc8 35. a4 Na7 36. Rcb1 Rc7 37. fxg5 Nc6 38. Nf4 Rxg5 39.
+Nxe6 Qxe6 40. Bxg5 Bxg5 41. Rxb7 Rxb7 42. Rxb7 Nd8 43. Rb1 Qg6 44. Qxg6
+Be3+ 45. Kf1 fxg6 46. Nf3 Ne6 47. Rb6 Nxd4 48. Nxd4 Bxd4 49. Rxg6 a5 50.
+Rd6 Ke7 51. Rxd5 Bc3 52. Rc5 Bb4 53. Rc6 Kd7 54. Ra6 Ke7 55. Ke2 Bc3 56.
+Kf3 Bxe5 57. Ke3 Bc3 58. Ke2 Kf7 59. Rb6 Kg7 60. Rb3 Bf6 61. Kf3 Be5 62.
+Ke4 Bf6 63. Rb6 Kf7 64. Kf5 Bc3 65. Re6 Bd4 66. Rc6 Bf2 67. Rc7+ Ke8 68.
+Ke4 Kd8 69. Rc6 Kd7 70. Kd5 Be3 71. Rd6+ Kc7 72. Re6 Bf2 73. Re7+ Kd8 74.
+Re2 Bg3 75. Kc6 Bf4 76. Re6 Bc7 77. Re4 Bg3 78. Rd4+ Kc8 79. Rd5 Kb8 80.
+Rd7 Bf2 81. Rb7+ Ka8 82. Rf7 Be3 83. Re7 Bg1 84. Rh7 Bf2 85. Kd5 Kb8 86.
+Ke4 Kc8 87. Rh6 Kc7 88. Rf6 Be1 89. Kd5 Kd7 90. Rf7+ Ke8 91. Rf1 Bc3 92.
+Ke6 Bb4 93. Rd1 Kf8 94. Rd7 Be1 95. Rd4 Kg7 96. Rg4+ Kf8 97. Re4 Bg3 98.
+Kf6 Bd6 99. Rc4 Be7+ 100. Ke6 Bg5 101. Rd4 Be7 102. Rf4+ Ke8 103. Rc4 Kd8
+104. Rg4 Bb4 105. Rxh4 Be1 106. Rc4 Bb4 107. h4 Be7 108. g3 Bb4 109. g4 Bf8
+110. h5 Bh6 111. Kf5 Kd7 112. g5 Bg7 113. h6 Bf8 114. Rc2 Kd6 115. Rc8 Ke7
+116. Ra8 Bxh6 117. gxh6 Kd6 118. Rc8 Kd7 119. Rc2 Kd6 120. h7 Ke7 {Arena
+Adjudication} 1-0
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "5"]
+[White "Andscacs"]
+[Black "Andscacsnnue01"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "D00"]
+[Opening "Queen's Pawn, Mason, Steinitz Countergambit"]
+[Time "00:55:16"]
+[Variation "Mason Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "145"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. Bf4 c5 3. Nc3 Nf6 4. e3 cxd4 5. exd4 a6 6. Nf3 Bf5 7. Ne5 Nc6
+8. Nxc6 bxc6 9. Bd3 Bxd3 10. Qxd3 e6 11. Be5 Nd7 12. O-O Nxe5 13. dxe5 Qb8
+14. Rae1 Bb4 15. Re2 c5 16. a3 Bxc3 17. Qxc3 Qb5 18. Ree1 O-O 19. b3 a5 20.
+Rb1 Rfc8 21. Rfd1 a4 22. Qd2 h6 23. f4 Qb6 24. Qf2 Qc7 25. Rf1 Rcb8 26.
+bxa4 Rxb1 27. Rxb1 Rxa4 28. Qe3 Qa5 29. Ra1 Re4 30. Qf2 Qc3 31. Rc1 Qxa3
+32. Rd1 Qe3 33. Qxe3 Rxe3 34. Kf2 Re4 35. g3 g5 36. fxg5 hxg5 37. h3 Rxe5
+38. Rd3 Kg7 39. Rc3 c4 40. Ra3 Rf5+ 41. Ke3 Rf1 42. h4 gxh4 43. gxh4 Rh1
+44. Kd4 Rxh4+ 45. Kc5 f5 46. Kd6 Re4 47. Rh3 f4 48. Ra3 Kf6 49. Ra1 Kf5 50.
+Rf1 Re2 51. c3 Re3 52. Rh1 f3 53. Rh8 Kf4 54. Rf8+ Kg3 55. Rg8+ Kf2 56. Rb8
+Kg2 57. Rg8+ Kf1 58. Kc5 f2 59. Ra8 Kg2 60. Ra2 Kg1 61. Ra7 f1=Q 62. Rg7+
+Kf2 63. Kc6 Ke2 64. Ra7 Rxc3 65. Rh7 Rb3 66. Rg7 d4 67. Rg5 Qf3+ 68. Kd6
+Qf4+ 69. Re5+ Kd3 70. Kxe6 Rb6+ 71. Ke7 Qxe5+ 72. Kd7 Qg7+ 73. Kc8 {Arena
+Adjudication} 0-1
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "6"]
+[White "Andscacsnnue01"]
+[Black "Andscacs"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C02"]
+[Opening "French"]
+[Time "00:58:17"]
+[Variation "Advance, Euwe, 6.a3"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "118"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 f6 7. Bd3 fxe5 8.
+Nxe5 Nxe5 9. dxe5 g6 10. Nd2 Bg7 11. Nf3 Nh6 12. O-O O-O 13. Re1 Qc7 14.
+Bg5 Ng4 15. Qe2 Qb6 16. Rad1 Rf7 17. h3 Rxf3 18. Qxf3 Nxe5 19. Qg3 Ba4 20.
+Rd2 Nf7 21. c4 Bb3 22. cxd5 Nxg5 23. Qxg5 exd5 24. Rde2 Rf8 25. Re8 d4 26.
+Rxf8+ Bxf8 27. Re8 Qc7 28. Qf6 Qf7 29. Qe5 b6 30. Be4 Bc4 31. h4 Qg7 32.
+Qd6 Qf7 33. Ra8 Qg7 34. g3 Bb3 35. Qd8 Be6 36. b4 Qf7 37. h5 Qg7 38. bxc5
+bxc5 39. h6 Qf7 40. Qd6 Bb3 41. Qxc5 d3 42. Bxd3 Qf3 43. Bc4+ Bxc4 44.
+Qxc4+ Qf7 45. Qd4 a5 46. a4 Qe7 47. Qd5+ Qf7 48. Qe5 g5 49. Rb8 g4 50. Qxa5
+Qf6 51. Qd5+ Kh8 52. Qd4 Kg8 53. Qxg4+ Kh8 54. Qc8 Kg8 55. Qxf8+ Qxf8 56.
+Rxf8+ Kxf8 57. a5 Kf7 58. a6 Kg6 59. a7 Kxh6 {Arena Adjudication} 1-0
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "7"]
+[White "Andscacs"]
+[Black "Andscacsnnue01"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A45"]
+[Opening "Indian"]
+[Time "01:00:43"]
+[Variation "2.Bf4"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "195"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Bf4 c5 3. dxc5 Na6 4. Qd4 Qa5+ 5. Bd2 Qxc5 6. e3 Qxc2 7. Nf3
+Qe4 8. Qxe4 Nxe4 9. Nc3 Nxd2 10. Kxd2 e6 11. Rc1 b6 12. Bb5 Bb4 13. a3
+Bxc3+ 14. Kxc3 Bb7 15. b4 Rc8+ 16. Kb2 Ke7 17. Rhd1 Nb8 18. Be2 h6 19. g3
+a5 20. bxa5 bxa5 21. Nd4 Ba6 22. Bf3 Bc4 23. Nb3 Bxb3 24. Kxb3 Na6 25. Rxc8
+Rxc8 26. Ka4 Rc5 27. Be2 Nc7 28. Rd2 Nd5 29. Kb3 Nb6 30. e4 f5 31. exf5
+Rxf5 32. f4 g5 33. fxg5 hxg5 34. Kc2 Nd5 35. Kd3 Nf6 36. Ke3 Re5+ 37. Kd4
+Re4+ 38. Kc5 Re3 39. Bd3 d6+ 40. Kb5 Nd7 41. Kxa5 Ne5 42. Be2 Rxa3+ 43. Kb4
+Re3 44. Bb5 Re1 45. Be2 Rh1 46. Bh5 g4 47. Re2 Kf6 48. Be8 Rc1 49. Ba4 d5
+50. Rf2+ Ke7 51. Rc2 Ra1 52. Rd2 Kd6 53. Be8 Ra8 54. Ba4 Rh8 55. Bd1 Nf3
+56. Ra2 Rxh2 57. Ra6+ Ke5 58. Ra3 Ke4 59. Ba4 Kd4 60. Kb5 Rb2+ 61. Kc6 Ne5+
+62. Kc7 Nc4 63. Ra1 e5 64. Bd7 e4 65. Bxg4 e3 66. Bf3 Rf2 67. Bh5 Ke5 68.
+Kc6 Nd6 69. Ra3 Nf5 70. Ra8 Nxg3 71. Re8+ Kd4 72. Bg4 Rf6+ 73. Kb5 Rf4 74.
+Bd1 Ne4 75. Kc6 Nc3 76. Bh5 Rf5 77. Bg4 Rf6+ 78. Kd7 Kd3 79. Ke7 Rf4 80.
+Rg8 Kc2 81. Bh5 d4 82. Bg6+ d3 83. Re8 e2 84. Kd8 Rd4+ 85. Kc7 Kd2 86. Kc6
+Ne4 87. Rxe4 Rxe4 88. Bxe4 e1=Q 89. Bf5 Ke3 90. Kb5 d2 91. Bg4 d1=Q 92.
+Bxd1 Qxd1 93. Kc6 Qd4 94. Kb5 Qd5+ 95. Kb6 Kd4 96. Ka6 Kc5 97. Ka7 Kc6 98.
+Kb8 {Arena Adjudication} 0-1
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "8"]
+[White "Andscacsnnue01"]
+[Black "Andscacs"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C07"]
+[Opening "French"]
+[Time "01:04:43"]
+[Variation "Tarrasch, Open, 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "90"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qc5 7. Qe2 Nf6
+8. Nb3 Qc7 9. Nbxd4 a6 10. O-O Be7 11. Re1 h6 12. Ne5 O-O 13. Bf4 Bd6 14.
+Rad1 Nc6 15. Ndxc6 bxc6 16. Bg3 Nd5 17. Bb3 f5 18. Ng6 f4 19. Nxf8 Bxf8 20.
+Bh4 g5 21. Bxg5 hxg5 22. Qh5 Qg7 23. Qe8 Qe7 24. Qxc6 Nc7 25. Qf3 Rb8 26.
+c3 a5 27. Qg4 Bg7 28. Re4 Bd7 29. h4 gxh4 30. Qxf4 Rb7 31. Rd6 Bf8 32. Qg4+
+Bg7 33. Qd1 Ne8 34. Bxe6+ Kf8 35. Rf4+ Bf6 36. Rxd7 Rxd7 37. Bxd7 Nd6 38.
+Qd5 Qe1+ 39. Kh2 Ke7 40. Rxf6 Kxf6 41. Qxd6+ Kf7 42. Qf4+ Ke7 43. Bb5 Ke6
+44. Qe3+ Qxe3 45. fxe3 Kd6 {Arena Adjudication} 1-0
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "9"]
+[White "Andscacs"]
+[Black "Andscacsnnue01"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "D00"]
+[Opening "Queen's Pawn, Mason, Steinitz Countergambit"]
+[Time "01:06:38"]
+[Variation "Mason Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "123"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. Bf4 c5 3. Nc3 cxd4 4. Qxd4 e6 5. Bxb8 Rxb8 6. e4 dxe4 7. Qxa7
+Bd7 8. O-O-O Nf6 9. Bb5 Qc7 10. Bxd7+ Nxd7 11. Nge2 Bc5 12. Qa4 e3 13. fxe3
+Bxe3+ 14. Kb1 Qc6 15. Qg4 O-O 16. Nd4 Bxd4 17. Rxd4 Nf6 18. Qf3 Rbc8 19.
+Qxc6 Rxc6 20. h3 Rfc8 21. Rf1 Kf8 22. a3 Ke7 23. Rb4 b6 24. Ra4 h5 25. Rd1
+Ne8 26. Ka2 f5 27. g3 g5 28. Re1 Kf6 29. Nb5 Rd8 30. Nd4 Rcd6 31. Nb5 Rd1
+32. Rxd1 Rxd1 33. Rb4 Rg1 34. Rb3 e5 35. a4 f4 36. gxf4 gxf4 37. Na3 Kf5
+38. Nc4 Rg6 39. Nxb6 Rxb6 40. Rxb6 f3 41. Rb8 Nf6 42. Rb3 e4 43. a5 f2 44.
+a6 Nd5 45. a7 Nc7 46. Rb7 f1=Q 47. Rxc7 Qa6+ 48. Kb3 e3 49. Re7 Kf4 50. c4
+Kf3 51. Kb4 Kf2 52. Rf7+ Ke1 53. c5 e2 54. Rc7 Qa2 55. b3 Qd2+ 56. Kb5 Qd8
+57. c6 Qd3+ 58. Ka4 Qa6+ 59. Kb4 Kf2 60. Rf7+ Kg3 61. Rg7+ Kh2 62. Re7
+{Arena Adjudication} 0-1
+
+[Event "Test Andscacs"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.30"]
+[Round "10"]
+[White "Andscacsnnue01"]
+[Black "Andscacs"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C07"]
+[Opening "French"]
+[Time "01:09:13"]
+[Variation "Tarrasch, Open, 4.exd5 Qxd5, Main Line, 10.Qxd4 Qxd4"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "160"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Qxd4 Qxd4 11. Nxd4 Bc5 12. Nb3 Bb6 13. a4 Bd7
+14. a5 Bc7 15. Be2 Bc6 16. Nd4 Be4 17. f3 Bc6 18. c4 Bd7 19. Be3 a6 20. Nb3
+Bc6 21. Rfd1 h6 22. Nd4 Bd7 23. b4 O-O-O 24. b5 e5 25. bxa6 bxa6 26. Nc2
+Bc6 27. Rdb1 Bb7 28. Nb4 Nd7 29. c5 Nb8 30. Rc1 Kd7 31. Bd1 Kc8 32. c6
+Rxd1+ 33. Rxd1 Nxc6 34. Nd5 Bxa5 35. Rdc1 Kd7 36. Rxc6 Bxc6 37. Rxa5 Bb5
+38. h4 Rb8 39. Ba7 Rb7 40. Bf2 Rb8 41. h5 Rd8 42. Nc3 Rb8 43. Ba7 Rb7 44.
+Be3 Rb8 45. Ne4 Ke7 46. Bc5+ Ke6 47. Ba3 Rb6 48. Bf8 f5 49. Nc3 Kf7 50. Bc5
+Rb7 51. Be3 Ke6 52. Na4 Kd5 53. Nc5 Rf7 54. Nxa6 Kc4 55. Nc5 e4 56. fxe4
+Re7 57. Ra2 fxe4 58. Rc2+ Kd5 59. Nb3 Bc4 60. Na5 Bd3 61. Rc5+ Kd6 62. Kf2
+Rc7 63. Rxc7 Kxc7 64. Bd4 g6 65. hxg6 e3+ 66. Bxe3 Bxg6 67. Bxh6 Kd6 68. g4
+Bf7 69. Kf3 Bd5+ 70. Kf4 Ke6 71. Bg7 Kf7 72. Bc3 Kg6 73. Bd4 Ba2 74. Nc6
+Bb3 75. Ne5+ Kf6 76. g5+ Kg7 77. Kg4 Kf8 78. g6 Ke7 79. Kg5 Kd6 80. Nf7+
+Kc6 {Arena Adjudication} 1-0
+

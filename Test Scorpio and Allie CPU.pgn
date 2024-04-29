@@ -1,0 +1,264 @@
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "1"]
+[White "Scorpio"]
+[Black "BlackCore-bmi2-win-6.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D31"]
+[Opening "QGD"]
+[Time "00:57:32"]
+[Variation "3.Nc3 Bb4"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "normal"]
+[PlyCount "99"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. cxd5 exd5 5. Bf4 c5 6. dxc5 Nf6 7. e3 O-O
+8. Bd3 Bxc3+ 9. bxc3 Qa5 10. Ne2 Nbd7 11. Bd6 Re8 12. a4 a6 13. Bc2 Nxc5
+14. Qd4 Nce4 15. Bb4 Qd8 16. O-O a5 17. Ba3 b6 18. Rfb1 Ba6 19. Ng3 Nxg3
+20. hxg3 Re6 21. Bf5 Rc6 22. Rb2 Bc8 23. Bd3 Ba6 24. Bxa6 Rxa6 25. Rd1 Qe8
+26. Rb5 Rc4 27. Qd3 Rxa4 28. Bb2 Qc6 29. Rxd5 Nxd5 30. Qxa6 h6 31. Qd3 Nf6
+32. f3 Qc7 33. g4 Rc4 34. Kf2 Qc5 35. Qd8+ Kh7 36. Qd3+ Kg8 37. Ba3 Qc6 38.
+Qd8+ Kh7 39. Bb2 Qc5 40. g5 hxg5 41. g4 Qb5 42. Ba1 Ne8 43. Qe7 Qa4 44.
+Qxf7 Qxd1 45. Qh5+ Kg8 46. Qxe8+ Kh7 47. Qh5+ Kg8 48. Qe8+ Kh7 49. Qh5+ Kg8
+50. Qe8+ {3-fold repetition} 1/2-1/2
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "1"]
+[White "Scorpio"]
+[Black "Blackmarlin-7.0-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "E11"]
+[Opening "Bogo-Indian"]
+[Time "01:00:03"]
+[Variation "4.Bd2 Be7 5.g3 d5 6.Bg2 O-O 7.O-O c6 8.Qc2 b6"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "normal"]
+[PlyCount "120"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 O-O 7. Qc2 c6 8.
+O-O b6 9. Ne5 Ba6 10. Rd1 Nfd7 11. cxd5 cxd5 12. e4 Nxe5 13. exd5 Be2 14.
+dxe5 Bxd1 15. Qxd1 exd5 16. Nc3 Nd7 17. Nxd5 Nxe5 18. Bc3 Bd6 19. Qh5 Re8
+20. Rd1 Rc8 21. h4 g6 22. Qe2 h5 23. Bh3 Ng4 24. Qf3 Be5 25. Bb4 Kg7 26.
+Ne7 Qc7 27. Nxc8 Qxc8 28. b3 a5 29. Bd2 Rd8 30. Bxg4 hxg4 31. Qe2 Bd4 32.
+Bg5 Re8 33. Qd3 Bc5 34. Bd2 f6 35. Bc3 Qf5 36. Qxf5 gxf5 37. Kf1 f4 38.
+gxf4 Re4 39. Rd7+ Kg6 40. Bd2 f5 41. Rd5 Rd4 42. Rxd4 Bxd4 43. Kg2 Kh5 44.
+Kg3 Bf6 45. a4 Bxh4+ 46. Kg2 Be7 47. Kg3 Bb4 48. Be3 Bc5 49. Bd2 Be7 50. f3
+Bh4+ 51. Kg2 Bd8 52. Be3 Kg6 53. Kg3 gxf3 54. Kxf3 Kf7 55. Ke2 Ke6 56. Kd3
+Kd5 57. Bg1 Bc7 58. Be3 Bd8 59. Bg1 Bc7 60. Be3 Bd8 {3-fold repetition}
+1/2-1/2
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "1"]
+[White "Scorpio"]
+[Black "Caissa_1.7_AVX2_BMI2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Time "01:02:48"]
+[Variation "4...Bb4+ 5.Bd2"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "normal"]
+[PlyCount "184"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 a5 6. Nf3 O-O 7. Qc2 c5 8.
+cxd5 cxd4 9. Nxd4 Qb6 10. e3 exd5 11. O-O Nc6 12. Nxc6 Qxc6 13. Nc3 Rd8 14.
+Rfc1 Bg4 15. a3 Bf8 16. Be1 Qe6 17. Nb5 Qb6 18. a4 Rac8 19. Qd3 Bc5 20. Bc3
+h5 21. h3 Be6 22. Bxf6 gxf6 23. Rd1 h4 24. g4 Kg7 25. b3 Rc6 26. Rac1 Bd6
+27. Nd4 Rxc1 28. Rxc1 Qb4 29. Rd1 Be5 30. Qb1 Rd7 31. Bf3 Qc3 32. Kg2 Rd8
+33. Rd3 Qb4 34. Qc2 Rd7 35. Qd1 Rd6 36. Kg1 Rd8 37. Kf1 Kh6 38. Kg2 Rd6 39.
+Kg1 Qc5 40. Kg2 Kg7 41. Rd2 Qb4 42. Kg1 Rd8 43. Bg2 Qc3 44. Rd3 Qb2 45. Ne2
+f5 46. f4 Bf6 47. g5 Be7 48. Rd2 Qa3 49. Kf2 Bc5 50. Nd4 Bxd4 51. Rxd4 Rc8
+52. Bxd5 Rc1 53. Qd2 Qa1 54. Bg2 b6 55. Rd3 Qb1 56. Rc3 Rd1 57. Qc2 Qxc2+
+58. Rxc2 Bxb3 59. Rb2 Bxa4 60. Rxb6 Rd2+ 61. Kg1 Bd1 62. Rb5 a4 63. Ra5 Bb3
+64. Bc6 Ra2 65. Bd5 Re2 66. Bc6 Rxe3 67. Kg2 Rc3 68. Bxa4 Rc2+ 69. Kh1 Ra2
+70. Bxb3 Rxa5 71. Kg2 Ra3 72. Bd5 Rg3+ 73. Kh2 Rd3 74. Bb7 Rd4 75. Kg2 Rxf4
+76. Ba6 Kg6 77. Bb5 Rb4 78. Be8 Kxg5 79. Bxf7 Kf4 80. Bd5 Rb2+ 81. Kg1 Kg3
+82. Kf1 Kxh3 83. Ba8 f4 84. Bf3 Kh2 85. Be4 h3 86. Bh7 Kg3 87. Be4 f3 88.
+Bxf3 Kxf3 89. Kg1 h2+ 90. Kh1 Kf2 91. Kxh2 Rb3 92. Kh1 Rh3# 0-1
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "2"]
+[White "BlackCore-bmi2-win-6.0"]
+[Black "Scorpio"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "E11"]
+[Opening "Bogo-Indian"]
+[Time "01:06:50"]
+[Variation "4.Bd2 Be7 5.g3 d5"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "adjudication"]
+[PlyCount "238"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Qc2 c6 7. Bg2 O-O 8.
+Bf4 dxc4 9. Qxc4 Nd5 10. O-O Nxf4 11. gxf4 Nd7 12. e3 Nb6 13. Qc2 Kh8 14.
+a3 f6 15. Nc3 Nd5 16. Rfd1 Bd7 17. Ne4 Be8 18. Ng3 Bd6 19. Rac1 Qe7 20. Re1
+Rd8 21. b4 Bb8 22. Qc5 Qf7 23. h4 Rg8 24. Kh2 h6 25. Rh1 g6 26. Kg1 Rg7 27.
+Rh3 Bd7 28. Rh2 a6 29. Bf1 Re8 30. Bd3 e5 31. dxe5 Bg4 32. exf6 Qxf6 33.
+Ne1 Bc7 34. Nf1 h5 35. Qc4 Rge7 36. Ng2 Qb2 37. Ng3 Rg7 38. a4 Qxb4 39. Qc2
+Rd8 40. Bxg6 Nf6 41. Bd3 Ba5 42. Rb1 Qa3 43. Bf5 Rd2 44. Qc4 Bf3 45. Ne4
+Bxe4 46. Bxe4 Ng4 47. Qe6 Qe7 48. Qf5 Kg8 49. Rf1 Nxh2 50. Kxh2 Bd8 51. Kh1
+Qf7 52. Qe5 Bc7 53. Qc3 Qd7 54. Qc4+ Kf8 55. Qb4+ Re7 56. Kg1 Qd6 57. Qc3
+Rg7 58. Rb1 b5 59. Qxc6 Qxc6 60. Bxc6 bxa4 61. Bxa4 Bd8 62. Rb8 Rc7 63. Kh2
+Rc4 64. Bb3 Rc6 65. Ra8 a5 66. f5 Rc3 67. Be6 Ke7 68. Kg3 Bc7+ 69. Nf4
+Bxf4+ 70. Kxf4 Rxf2+ 71. Kg5 Rg2+ 72. Kh6 Rxe3 73. Rxa5 Rg4 74. Ra6 Rxh4
+75. Kg5 Rg4+ 76. Kxh5 Rg1 77. f6+ Kxf6 78. Bg4+ Ke7 79. Ra4 Rb1 80. Rd4 Kf6
+81. Rd6+ Kf7 82. Rd7+ Ke8 83. Rd4 Re5+ 84. Kh4 Rh1+ 85. Kg3 Rh6 86. Rd2 Rg6
+87. Kf3 Kf8 88. Kg3 Re4 89. Rf2+ Kg7 90. Rf4 Re5 91. Kf2 Rh6 92. Kg3 Ra5
+93. Bf3 Ra3 94. Rf5 Rg6+ 95. Kh2 Kg8 96. Bd5+ Kh7 97. Rf3 Ra5 98. Bf7 Rc6
+99. Rh3+ Kg7 100. Rf3 Rg5 101. Be8 Re6 102. Bd7 Re7 103. Bc8 Re2+ 104. Kh1
+Re8 105. Bh3 Re1+ 106. Bf1 Ra1 107. Rf4 Rh5+ 108. Kg1 Ra3 109. Rg4+ Kh8
+110. Bg2 Ra1+ 111. Kf2 Ra7 112. Ke3 Rh2 113. Be4 Rh6 114. Bf5 Rh1 115. Rd4
+Ra3+ 116. Kf4 Rh4+ 117. Ke5 Ra5+ 118. Rd5 Rxd5+ 119. Kxd5 Rh5 {Arena
+Adjudication (Tablebases)} 1/2-1/2
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "2"]
+[White "Blackmarlin-7.0-avx2"]
+[Black "Scorpio"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C54"]
+[Opening "Giuoco Pianissimo"]
+[Time "01:11:52"]
+[Variation "5.d3 d6 6.Nbd2"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "normal"]
+[PlyCount "135"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 h6 7. b4 Bb6 8.
+a4 a5 9. b5 Ne7 10. O-O O-O 11. Ba2 Ng6 12. Nc4 Ba7 13. Nxa5 Bg4 14. h3 Bh5
+15. Nc4 Nh4 16. Ncd2 c6 17. Ba3 Re8 18. Bxf7+ Bxf7 19. Nxh4 d5 20. Nf5 Bg6
+21. Nd6 Re6 22. Nxb7 Qc7 23. Nc5 Bxc5 24. Bxc5 cxb5 25. Bb4 Rxa4 26. Rxa4
+bxa4 27. Qxa4 dxe4 28. Nxe4 Nxe4 29. Qa8+ Kh7 30. dxe4 Rf6 31. Qd5 Qb6 32.
+Qxe5 Re6 33. Qc5 Bxe4 34. f3 Bd3 35. Qxb6 Rxb6 36. Rd1 Bc4 37. Rd7 Be6 38.
+Ra7 Kg8 39. Bc5 Rb1+ 40. Kh2 Rb2 41. Bd4 g5 42. Rg7+ Kf8 43. Rh7 Bc4 44.
+Kg3 Bf1 45. Bf2 Rxf2 46. Kxf2 Bd3 47. Rxh6 Kg7 48. Rd6 Bf5 49. Rd5 Kf6 50.
+Rxf5+ Kxf5 51. Kg3 Ke5 52. Kg4 Kf6 53. Kh5 Ke6 54. Kxg5 Kf7 55. f4 Ke8 56.
+h4 Kf7 57. f5 Kg8 58. Kg6 Kh8 59. f6 Kg8 60. c4 Kf8 61. h5 Ke8 62. f7+ Kf8
+63. h6 Ke7 64. h7 Kf8 65. h8=Q+ Ke7 66. Qc8 Kd6 67. Kf5 Ke7 68. f8=Q# 1-0
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "2"]
+[White "Caissa_1.7_AVX2_BMI2"]
+[Black "Scorpio"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Time "01:15:02"]
+[Variation "4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "normal"]
+[PlyCount "99"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4
+8. O-O Bc5 9. Bf4 g5 10. Bg3 h5 11. Be2 h4 12. Bxg4 hxg3 13. hxg3 f5 14.
+Qd3 fxg4 15. Qg6+ Kf8 16. Qxc6 Bb6 17. Qxa8 Kg7 18. Qc6 Rh6 19. Qxh6+ Kxh6
+20. Nd2 Qe7 21. Rfe1 Be6 22. Nb3 a5 23. c3 c5 24. Nd2 c4 25. Re2 a4 26. Rd1
+Kg6 27. a3 Bc5 28. Nf1 Qa7 29. Ne3 d4 30. cxd4 Bxd4 31. Rdd2 Kf7 32. Nd1
+Bf5 33. Nc3 Bxc3 34. e6+ Bxe6 35. bxc3 Qb6 36. Rb2 Qd6 37. Kh2 Kf6 38. Rb4
+Qc6 39. Rd2 Bd5 40. Rd4 Bxg2 41. Rdxc4 Qd5 42. Rd4 Qf3 43. Rxg4 Qxf2 44.
+Rgf4+ gxf4 45. Rxf4+ Qxf4 46. gxf4 Be4 47. Kg3 Bf5 48. Kh4 Bc2 49. Kg4 Ke6
+50. Kg5 {White resigns} 0-1
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "3"]
+[White "Scorpio"]
+[Black "BlackCore-bmi2-win-6.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "D36"]
+[Opening "QGD"]
+[Time "01:17:32"]
+[Variation "Exchange, Main Line, 9.Nge2 h6 10.Bh4"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "normal"]
+[PlyCount "154"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 h6 8.
+Bh4 c6 9. Nge2 Nbd7 10. Qc2 Re8 11. O-O Nh5 12. Bxe7 Qxe7 13. Rab1 a5 14.
+Na4 g6 15. a3 Ng7 16. b4 axb4 17. axb4 b5 18. Nc5 Nxc5 19. dxc5 Bf5 20. Nd4
+Qf6 21. Ra1 Bxd3 22. Qxd3 Rxa1 23. Rxa1 Nf5 24. h3 Nxd4 25. Qxd4 Qxd4 26.
+exd4 Re4 27. Ra6 Rxd4 28. Rxc6 Kf8 29. Rd6 Ke7 30. Kf1 Rxb4 31. Rxd5 Rc4
+32. Ke2 Ke6 33. Rd6+ Ke5 34. Rd7 f6 35. Rd6 Rxc5 36. Rb6 g5 37. Kd3 h5 38.
+g3 h4 39. Rb8 f5 40. Re8+ Kd5 41. Rg8 b4 42. Rxg5 Rc3+ 43. Kd2 Ke4 44. gxh4
+Rxh3 45. h5 Kf4 46. Rg6 Rxh5 47. Rb6 Kf3 48. Rxb4 f4 49. Rd4 Rh1 50. Rb4
+Rf1 51. Ra4 Rxf2+ 52. Ke1 Kg2 53. Rb4 Kg1 54. Rb8 f3 55. Rf8 Re2+ 56. Kd1
+Kf2 57. Rh8 Kf1 58. Rh3 Kg2 59. Rh8 f2 60. Rg8+ Kf1 61. Rg7 Re3 62. Kd2 Rh3
+63. Rg8 Rh2 64. Rg6 Rg2 65. Rf6 Kg1 66. Ke2 f1=Q+ 67. Ke3 Qxf6 68. Kd3 Qd4+
+69. Kxd4 Kf2 70. Ke4 Ke2 71. Kd5 Kd3 72. Ke6 Kd4 73. Kf5 Re2 74. Kg6 Ke5
+75. Kh5 Kf5 76. Kh4 Re3 77. Kh5 Rh3# 0-1
+
+[Event "Test Scorpio and Allie CPU"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.31"]
+[Round "3"]
+[White "Scorpio"]
+[Black "Blackmarlin-7.0-avx2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Time "01:20:37"]
+[Variation "4...Bb4+ 5.Bd2"]
+[WhiteElo "2200"]
+[TimeControl "10+1"]
+[Termination "adjudication"]
+[PlyCount "171"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Qc2 O-O 7. Nf3 b6 8.
+cxd5 exd5 9. O-O c5 10. Be3 Na6 11. a3 Re8 12. Nc3 Bb7 13. Rfd1 h6 14. Bf4
+Nc7 15. Be5 Ng4 16. e3 Nxe5 17. Nxe5 Bf6 18. Ng4 Be7 19. dxc5 bxc5 20. Ne5
+Bf8 21. Qf5 Re7 22. Nd3 Rd7 23. Ne5 Re7 24. Nc4 g6 25. Qd3 Rd7 26. Na5 Ba6
+27. Qc2 Rc8 28. Qa4 Rd6 29. Rac1 Bg7 30. Nc6 Qd7 31. Na5 d4 32. exd4 cxd4
+33. Qxd7 Rxd7 34. Ne4 Ne6 35. Rxc8+ Bxc8 36. b4 Rc7 37. b5 Nd8 38. Nb3 Bg4
+39. Rc1 Rxc1+ 40. Nxc1 Bd1 41. Nd3 Ba4 42. Nd6 Bf8 43. Nb2 Bxd6 44. Nxa4
+Bxa3 45. b6 axb6 46. Nxb6 Ne6 47. Nc4 Bb4 48. Ne5 Bd6 49. Nc4 Bb4 50. Ne5
+Bd6 51. Nc4 Bf8 52. Kf1 Bg7 53. f4 Kf8 54. Nb2 Nc5 55. Ke2 f5 56. Nd3 Ne4
+57. Nf2 Nc3+ 58. Kd3 Ke7 59. Bf3 Kd6 60. Kc4 Na4 61. Nd3 Nb6+ 62. Kb5 Nd5
+63. g4 Nc3+ 64. Kc4 Nb1 65. Kb5 Nd2 66. Be2 fxg4 67. Bxg4 Kd5 68. Nc5 d3
+69. Nxd3 Ke4 70. Nc5+ Kxf4 71. Bd7 Bf6 72. h3 Nf3 73. Be8 g5 74. Kc4 Be7
+75. Ne6+ Kg3 76. Bh5 Nh2 77. Ng7 Kxh3 78. Nf5 Bf8 79. Kd5 Nf1 80. Be2 Ng3
+81. Nxg3 Kxg3 82. Ke4 Kh4 83. Kf3 g4+ 84. Kg2 Kg5 85. Bxg4 Kxg4 86. Kh1
+{Arena Adjudication (Tablebases)} 1/2-1/2
+

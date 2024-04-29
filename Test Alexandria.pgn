@@ -1,0 +1,492 @@
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "1"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C68"]
+[Opening "Spanish"]
+[Time "11:38:06"]
+[Variation "Exchange, 5.O-O Bg4 6.h3"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "normal"]
+[PlyCount "187"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. d3 Bd6
+8. Nbd2 Ne7 9. c3 c5 10. Nc4 Nc6 11. Ne3 O-O 12. g4 Bg6 13. h4 f6 14. h5
+Bf7 15. Nh4 Be6 16. Nef5 Rf7 17. Be3 Bf8 18. Qc2 Rd7 19. Rad1 Qe8 20. f3 b6
+21. a3 Rad8 22. Qe2 g6 23. Nh6+ Kh8 24. b4 Bxh6 25. Bxh6 cxb4 26. axb4 g5
+27. Nf5 Bxf5 28. exf5 Qf7 29. Rfe1 Ne7 30. d4 exd4 31. f4 Ng8 32. fxg5 d3
+33. Qe4 Nxh6 34. gxh6 Qf8 35. Qf4 a5 36. bxa5 bxa5 37. Re6 Qc5+ 38. Kh1
+Qxc3 39. Qe4 Rg8 40. Re8 Rd8 41. Rxg8+ Rxg8 42. Rxd3 Qc1+ 43. Kh2 Qxh6 44.
+Kh3 c5 45. Qc6 Qg7 46. Rg3 Qe7 47. Rd3 h6 48. Qe6 Qxe6 49. fxe6 Re8 50. Rd6
+Kg8 51. Kg3 c4 52. Kf4 c3 53. Rc6 a4 54. Kf5 a3 55. Rxc3 Ra8 56. Rc1 a2 57.
+Ra1 Kg7 58. e7 Kf7 59. e8=B+ Kxe8 60. Kxf6 Kf8 61. Kg6 Ra6+ 62. Kh7 Kf7 63.
+Rf1+ Ke6 64. Kxh6 a1=Q 65. Rxa1 Rxa1 66. Kg6 Ke7 67. g5 Kf8 68. Kh7 Ra7+
+69. Kg6 Rf7 70. h6 Ra7 71. Kf5 Ra6 72. g6 Rd6 73. Kg5 Rd1 74. Kf6 Re1 75.
+h7 Rf1+ 76. Ke6 Kg7 77. Kd7 Rd1+ 78. Ke6 Re1+ 79. Kd7 Kh8 80. Kd6 Rg1 81.
+Ke5 Rxg6 82. Kd5 Kxh7 83. Kc4 Rc6+ 84. Kb5 Re6 85. Kc5 Kg6 86. Kb5 Kf5 87.
+Kb4 Ke4 88. Kc5 Rg6 89. Kc4 Rc6+ 90. Kb5 Kd5 91. Kb4 Kd4 92. Kb3 Rc4 93.
+Kb2 Kd3 94. Kb3 {White resigns} 0-1
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "2"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "11:44:10"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "120"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Nb5 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Kd8 13.
+Re1 f6 14. f4 Nc6 15. Kc1 Bf5 16. g4 Bd7 17. Rg1 a5 18. g5 fxg5 19. Rxg5 g6
+20. h4 a4 21. h5 Bf5 22. Bg2 h6 23. Rg3 gxh5 24. Rg7 Ra5 25. Nxc7 h4 26.
+Nd5 h3 27. Bh1 Re8 28. Rxe8+ Kxe8 29. Rxb7 Nd4 30. Kd2 h2 31. c3 Ne6 32.
+Ke3 Kf8 33. Rb6 h5 34. Kf2 h4 35. Ne3 Ke7 36. Kf3 Bb1 37. a3 Nc5 38. Kg2
+Nd3 39. Kxh2 Nxf4 40. Rb4 Re5 41. Rxf4 Rxe3 42. Bf3 Kd6 43. Kg2 Rd3 44.
+Rxh4 Rd2+ 45. Kg3 Rxb2 46. Rxa4 Rc2 47. Rc4 Ra2 48. Kf4 Rxa3 49. Rc6+ Kd7
+50. Ke5 Ba2 51. Rc5 Be6 52. Bc6+ Ke7 53. Bb5 Ra5 54. Kd4 Ra8 55. Rc7+ Kf6
+56. c4 Rd8+ 57. Kc3 Ke5 58. Rh7 Bg4 59. Kb4 Bf3 60. Rc7 Rb8 {User
+Adjudication} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "3"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "11:48:08"]
+[Variation "Classical, Marshall, 8.c4 c6"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "148"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Re1 Nf6 10. c5 Bc7 11. h3 Nbd7 12. Nc3 Re8 13. b4 Nf8 14. b5
+Ne6 15. a4 h6 16. Bd2 Nh5 17. a5 Nef4 18. Bf1 Rxe1 19. Qxe1 Ne6 20. a6 Nf6
+21. Bd3 Nh5 22. Qb1 Nf6 23. axb7 Bxb7 24. Bf5 Nf8 25. Be3 Qe8 26. Ra2 Qd8
+27. Ra3 Qb8 28. Qa2 Ng6 29. Bd3 Nf4 30. Bb1 Ne6 31. Bc2 Nd8 32. Qb1 Ne6 33.
+Qa1 Nh5 34. Bf5 Nhf4 35. Qa2 Kh8 36. Qb1 Qe8 37. g3 g6 38. Bxe6 Nxe6 39.
+Bxh6 Kh7 40. Be3 Kg8 41. h4 Ng7 42. Bh6 Nh5 43. Nh2 Nf6 44. Kg2 Ne4 45. Ng4
+Qe6 46. Nxe4 dxe4 47. d5 cxd5 48. Qa1 f6 49. c6 Kf7 50. cxb7 Rb8 51. Ne3
+Be5 52. Qd1 Rxb7 53. Qxd5 Qxd5 54. Nxd5 g5 55. hxg5 fxg5 56. Ra5 e3 57.
+Nxe3 Bc3 58. Ra3 Bb4 59. Ra4 Be7 60. Kf3 Rxb5 61. Rxa7 Ke6 62. Kg4 Rb2 63.
+Nf5 Rb4+ 64. Kh5 Kxf5 65. Rxe7 g4 66. Rf7+ Ke6 67. Rf4 Rb8 68. Kxg4 Rb5 69.
+Bg5 Ra5 70. Kh5 Ra8 71. Bh6 Rg8 72. Rf8 Rxf8 73. Bxf8 Kf6 74. f4 Kf5 {Arena
+Adjudication} 1-0
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "4"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "11:53:10"]
+[Variation "Classical, Mason Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "209"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. Nbd2 Nf6 9. Re1 h6 10. c3 c5 11. dxc5 Bxc5 12. Nb3 Bd6 13. h3 Nc6 14.
+Be3 Re8 15. Rc1 Bd7 16. Nbd4 Na5 17. b3 Rc8 18. Bb1 Ne4 19. Ne2 Ba3 20. Rc2
+Bf5 21. Nf4 Nf6 22. Rce2 Bxb1 23. Qxb1 Rxc3 24. Bxa7 Rxe2 25. Nxe2 Rc8 26.
+Be3 Nc6 27. Rd1 Ne4 28. Nfd4 Qa5 29. Nf5 Re8 30. Qa1 Bf8 31. Qb2 Rc8 32. a4
+Rd8 33. Rc1 Nb4 34. Qd4 Na2 35. Rd1 Nb4 36. Qb6 Qxb6 37. Bxb6 Rc8 38. Ne3
+Bc5 39. Bxc5 Nxc5 40. h4 Kf8 41. h5 Nc6 42. Nf5 Nxb3 43. Rxd5 Rd8 44. Rb5
+Rd1+ 45. Kh2 Nba5 46. Nc3 Ra1 47. Ne3 Ra3 48. Ned5 Ke8 49. g3 Kf8 50. Kg2
+Ke8 51. Rc5 Ra1 52. g4 Ra3 53. f4 f6 54. Nc7+ Kf8 55. N7b5 Rb3 56. Nd5 Rd3
+57. Nb6 Nb3 58. Rc3 Rxc3 59. Nxc3 Nc5 60. Nb5 Ke7 61. Kf3 Kd8 62. Ke3 Ne6
+63. Nc4 Nc5 64. Nbd6 Ke7 65. Nf5+ Kf8 66. Nb6 Kf7 67. Nd4 Na5 68. Kf3 Ke7
+69. Nf5+ Kf8 70. Ke2 Nab3 71. Ke3 Kf7 72. Nc4 Nxa4 73. Ncd6+ Kf8 74. Nxb7
+Nbc5 75. Nbd6 Ne6 76. Nh4 Ke7 77. Ndf5+ Kd7 78. Ng2 Nc3 79. Kd3 Nd5 80. Ke4
+Ne7 81. Ng3 Ke8 82. Ne3 Kf8 83. Ngf5 Nxf5 84. Nxf5 Kf7 85. Ng3 Nc7 86. Kf3
+Nd5 87. Ke4 Nc3+ 88. Kf3 Nd5 89. Nf5 Ne7 90. Nd4 g6 91. f5 g5 92. Ke4 Ke8
+93. Nf3 Kd7 94. Nd2 Nc6 95. Nc4 Ke7 96. Kd5 Nb4+ 97. Kd4 Kf7 98. Ke4 Ke7
+99. Nb6 Kd6 100. Nc8+ Kd7 101. Nb6+ Kd6 102. Nc4+ Kc5 103. Na5 Kd6 104. Kd4
+Nc2+ 105. Ke4 {User Adjudication} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "5"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C69"]
+[Opening "Spanish"]
+[Time "12:02:33"]
+[Variation "Exchange, Gligoric, 8.Nb3 Queenswap"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "156"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1 9. Rxd1 Bd6 10. Na5 h5 11. a4 b6 12. Nc4 Be7 13. Nc3 Bd8 14. h4
+Be6 15. Ne3 Ne7 16. b3 O-O 17. Ne2 Re8 18. Ng3 Bf7 19. f3 Nc6 20. Bb2 g6
+21. Nd5 Bxd5 22. Rxd5 Nb4 23. Rd7 Nxc2 24. Rc1 Nb4 25. Rcd1 Be7 26. Rxc7
+Rac8 27. Rb7 Rb8 28. Ra7 Ra8 29. Rad7 b5 30. f4 c4 31. bxc4 bxc4 32. f5 Nd3
+33. Bd4 gxf5 34. Nxf5 Bf8 35. Ng3 Rad8 36. Nxh5 Rxd7 37. Nxf6+ Kf7 38. Nxd7
+Rxe4 39. Rf1+ Ke7 40. Nxf8 Rxd4 41. h5 Rd8 42. Ng6+ Kd6 43. Rd1 Kc5 44. Ne5
+Rh8 45. Nxd3+ cxd3 46. Rxd3 Rxh5 47. Rf3 Rd5 48. Kf2 a5 49. Kg3 Kd6 50. Rf4
+Rd3+ 51. Kg4 Ke6 52. Re4+ Kf6 53. Rc4 Ke6 54. Kg5 Rg3+ 55. Rg4 Re3 56. Kh4
+Kd6 57. Rg6+ Ke7 58. Rg5 Re4+ 59. Rg4 Rb4 60. Kg5 Ke6 61. g3 Rb3 62. Kh6
+Ra3 63. Kg6 Ke5 64. Kg5 Kd5 65. Kf6 Kd6 66. Kf5 Rf3+ 67. Kg6 Ra3 68. Kh5
+Kc5 69. Kh6 Kd6 70. Kh7 Kc5 71. Kg7 Kd5 72. Kf7 Ke5 73. Ke7 Kf5 74. Rh4
+Rxg3 75. Kd6 Rg6+ 76. Kc5 Rg1 77. Kb5 Ke5 78. Kxa5 Kd6 {Arena Adjudication
+(Tablebases)} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "6"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:07:38"]
+[Variation "Classical"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "50"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 Nf6 7. O-O O-O
+8. Re1 d5 9. h3 h6 10. Nc3 c5 11. dxc5 Bxc5 12. Bf4 a6 13. Qd2 Nc6 14. Bxh6
+Nh7 15. Nxd5 Bd4 16. c4 Bc5 17. Bf4 Nf6 18. Bg5 Be7 19. Rxe7 Nxd5 20. Rxf7
+Nf6 21. Bxf6 gxf6 22. Rh7 f5 23. Rh6 Rf7 24. Re1 Ne7 25. Qg5+ Rg7 {Arena
+Adjudication} 1-0
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "7"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C68"]
+[Opening "Spanish"]
+[Time "12:09:14"]
+[Variation "Exchange, 5.O-O Bg4"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "normal"]
+[PlyCount "113"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d3 Bd6 7. Be3 Ne7
+8. Nbd2 O-O 9. c3 c5 10. h3 Bh5 11. Re1 b6 12. Qc2 Qd7 13. a3 h6 14. d4
+cxd4 15. cxd4 exd4 16. Nxd4 c5 17. Nf5 Bc7 18. g4 Bg6 19. Rad1 Bxf5 20.
+exf5 Nd5 21. Nf1 Qc6 22. Qe4 Rad8 23. Qf3 Rd6 24. Bc1 Rfd8 25. Ng3 f6 26.
+Re4 b5 27. h4 Nb6 28. Rxd6 Bxd6 29. Bf4 Nc4 30. g5 fxg5 31. hxg5 hxg5 32.
+Bxg5 Bxg3 33. Bxd8 Nd2 34. Qxg3 Qxe4 35. f6 g6 36. Be7 Nf3+ 37. Kh1 Kf7 38.
+Bxc5 Kxf6 39. Bb4 Kf5 40. Kg2 Ne5+ 41. Kh2 Qf4 42. Qxf4+ Kxf4 43. Bd6 Ke4
+44. Bxe5 Kxe5 45. Kg3 Ke4 46. b4 Kd3 47. Kg4 Kd2 48. f4 Ke3 49. Kg3 Kd2 50.
+Kh3 Kc2 51. Kg4 Kd3 52. Kg5 Ke3 53. Kg4 Ke4 54. Kg3 Ke3 55. Kg4 Kf2 56. Kh4
+Ke3 57. Kg4 {3-fold repetition} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "8"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:12:50"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "126"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Nb5 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Kd8 13.
+Re1 Nd7 14. Kc1 Nb6 15. b3 a6 16. Nd4 c6 17. a4 a5 18. Bd3 h6 19. h4 Re8
+20. h5 Bd7 21. Bf5 Nd5 22. Rd1 Bxf5 23. Nxf5 Kc7 24. Rde1 b5 25. g3 bxa4
+26. bxa4 g6 27. Nxh6 gxh5 28. Rxe8 Rxe8 29. Rxh5 Re2 30. Rf5 f6 31. Kb2 Re4
+32. Ng8 Rxa4 33. Nxf6 Rb4+ 34. Kc1 Kd6 35. f3 Ke6 36. Nxd5 cxd5 37. Rf8 Rb7
+38. Re8+ Kd6 39. f4 Rg7 40. Re3 a4 41. Ra3 Rg8 42. Kb2 Ke6 43. Re3+ Kf6 44.
+c3 Rc8 45. g4 Rc4 46. g5+ Kf7 47. f5 Rg4 48. g6+ Kf6 49. Rf3 Rg5 50. Ka3
+Rg4 51. Rd3 Kxf5 52. Rxd5+ Kxg6 53. Rd3 Kf5 54. Re3 Rc4 55. Kb2 Rg4 56. Re7
+Re4 57. Rd7 Ke5 58. Rd3 Rh4 59. Ka2 Rc4 60. Kb1 a3 61. Kc2 a2 62. Rd1 a1=Q
+63. Rxa1 Kd5 {Arena Adjudication (Tablebases)} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "9"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C68"]
+[Opening "Spanish"]
+[Time "12:16:49"]
+[Variation "Exchange, 5.O-O Bg4"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "normal"]
+[PlyCount "175"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d3 Bd6 7. h3 Bh5
+8. Nbd2 Ne7 9. c3 c5 10. Re1 O-O 11. Nc4 Nc6 12. a3 Re8 13. Ne3 Bf8 14. Nf5
+f6 15. Be3 b6 16. Ng3 Bf7 17. b4 Qd7 18. Qc2 a5 19. b5 Na7 20. a4 c6 21.
+bxc6 Nxc6 22. Red1 Red8 23. Rab1 Rab8 24. Rb2 Bd6 25. Nh4 Be6 26. Nhf5 Bc7
+27. Bc1 Qe8 28. Ne3 Rd7 29. Rd2 Qf7 30. Nc4 Ne7 31. Qb1 Bxc4 32. dxc4 Rbd8
+33. Qa2 Qe6 34. Nf1 Rxd2 35. Bxd2 Rd3 36. Ne3 f5 37. Nd5 Qd7 38. f3 Bd8 39.
+Qb3 fxe4 40. fxe4 h6 41. Qc2 Rg3 42. Be1 Rg6 43. Kh2 Nc8 44. Bg3 Re6 45.
+Qd1 Qe8 46. Rd2 Qg6 47. Nf4 exf4 48. Rxd8+ Kh7 49. Bxf4 Qxe4 50. Bc7 Ne7
+51. Rd6 Qf4+ 52. Kh1 Qxc4 53. Rxe6 Qxe6 54. Qb1+ Ng6 55. Bxb6 Qc6 56. Qb5
+Qe4 57. Qxc5 Nf4 58. Qf2 Nxh3 59. Qe3 Qb1+ 60. Kh2 Nf4 61. c4 Qg6 62. Qxf4
+Qxb6 63. Qf5+ Kh8 64. Qc2 Qc5 65. Kh3 Qh5+ 66. Kg3 Qe5+ 67. Kf3 Qf6+ 68.
+Ke2 Qe5+ 69. Kf3 Qc5 70. g3 Qc6+ 71. Kf2 Qc5+ 72. Kg2 Qc6+ 73. Kh2 Qc5 74.
+Qe4 Qf2+ 75. Kh3 Qf1+ 76. Kg4 Qd1+ 77. Kf5 Qd7+ 78. Ke5 Qxa4 79. Qa8+ Kh7
+80. c5 Qb5 81. Qe4+ Kh8 82. Qd5 Qb8+ 83. Qd6 Qb5 84. Qb6 Qe8+ 85. Qe6 Qb8+
+86. Qd6 Qe8+ 87. Qe6 Qb8+ 88. Qd6 {3-fold repetition} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "10"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:22:33"]
+[Variation "Classical, Mason Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "157"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. Nbd2 Nf6 9. c3 Re8 10. Re1 Bd6 11. Rxe8+ Qxe8 12. Nf1 h6 13. Bd2 Nbd7
+14. Qc1 Nh5 15. Qc2 c6 16. Re1 Qd8 17. Ne3 Ndf6 18. g3 Be6 19. a3 a5 20. a4
+Qc8 21. Nh4 Bf8 22. Qd1 g6 23. Qc2 Ng7 24. Nf3 h5 25. Ng5 Ng4 26. Nxe6 Nxe3
+27. Rxe3 Nxe6 28. h4 Qd7 29. Kg2 Re8 30. Re2 Be7 31. Qc1 Bd6 32. Qe1 Kg7
+33. Qd1 Nc7 34. Qb3 Rxe2 35. Bxe2 Ne6 36. Bd3 Be7 37. Bc1 Bd8 38. Qd1 Nf8
+39. Qf3 Bc7 40. Qe3 Kg8 41. Qe1 Qe6 42. Qd2 Nd7 43. Qe3 Qxe3 44. Bxe3 Kf8
+45. Bc1 Nb6 46. Bc2 Nc4 47. Bd1 Ke7 48. f3 Ke6 49. g4 Nd6 50. Kh3 Ne8 51.
+Be2 Ng7 52. Bh6 Ne8 53. Bd1 b5 54. Bc2 Bd8 55. Bf8 Bc7 56. axb5 cxb5 57.
+Bd3 Nd6 58. Bxd6 Bxd6 59. Bxb5 Bf4 60. Ba4 Bd2 61. Bd1 f5 62. Ba4 Ke7 63.
+Bc6 fxg4+ 64. fxg4 hxg4+ 65. Kxg4 Bc1 66. b3 Bb2 67. Kg5 Bxc3 68. Kxg6 Bxd4
+69. h5 Bc3 70. h6 d4 71. Be4 d3 72. Bxd3 Kf8 73. Bc4 Ba1 74. Kf5 Ke7 75.
+Ke4 Kf6 76. Kd3 Kg6 77. h7 Kxh7 78. b4 axb4 79. Bb3 {Arena Adjudication
+(Tablebases)} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "11"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C68"]
+[Opening "Spanish"]
+[Time "12:27:34"]
+[Variation "Exchange, 5.O-O Bg4"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "177"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d3 Bd6 7. h3 Bh5
+8. c3 Nf6 9. Bg5 h6 10. Bh4 Qe7 11. Nbd2 O-O-O 12. Bg3 Qe6 13. Re1 Nd7 14.
+d4 f6 15. Qc2 Bxf3 16. Nxf3 g5 17. c4 h5 18. d5 cxd5 19. cxd5 Qe7 20. h4
+Kb8 21. Re3 Nb6 22. Rc3 Rhf8 23. Rc1 Rf7 24. Qb3 g4 25. Nd2 Qd7 26. Nc4
+Nxc4 27. Rxc4 f5 28. exf5 Rxf5 29. a4 Rdf8 30. Re4 R8f7 31. Rc2 Rf8 32. Qc4
+Re8 33. Rce2 Re7 34. Rd2 a5 35. Rc2 Re8 36. Qc3 Bb4 37. Qb3 Re7 38. Qd3 Bd6
+39. Qc3 Bb4 40. Qc4 Bd6 41. Kh2 Bb4 42. Qd3 Bd6 43. b3 Rh7 44. Qc3 Bb4 45.
+Qc4 Re7 46. Qd3 Re8 47. Rec4 Bd6 48. Qd2 Bb4 49. Qe3 Bd6 50. Re4 Bb4 51.
+Qd3 Bd6 52. Rd2 Bc5 53. Qc2 Bb4 54. Rde2 Bd6 55. Qc3 Bb4 56. Qc4 Bd6 57.
+Kg1 Re7 58. Rc2 Ba3 59. Qd3 Bb4 60. Rcc4 Ba3 61. Rc3 Bd6 62. Qc4 Ba3 63.
+Rd3 Bb4 64. Rde3 Bd6 65. Qc2 Ka7 66. Re2 Kb8 67. Qd3 Bc5 68. Kf1 Bd6 69.
+Rc2 Ba3 70. Rec4 Bd6 71. Qe3 Qe8 72. Re4 Qd7 73. Kg1 Ka8 74. Qc3 Bb4 75.
+Qc4 Kb8 76. Qd3 Re8 77. Rec4 Rc8 78. Re2 Re8 79. Ree4 Ba3 80. Qc2 Re7 81.
+Qd1 Re8 82. Qd2 Bb4 83. Qc2 Bd6 84. Qe2 Re7 85. Rc2 Re8 86. Qc4 Ref8 87.
+Qd3 Re8 88. Qd2 Bb4 89. Qd1 {User Adjudication} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "12"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:33:20"]
+[Variation "Classical, Mason Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "144"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 d5 7. O-O O-O
+8. Re1 Nc6 9. c3 Bf5 10. Qc2 Bd6 11. Nbd2 Nxd2 12. Bxd2 Bxd3 13. Qxd3 Ne7
+14. Re2 Qd7 15. Rae1 Rae8 16. Ne5 Qc8 17. h4 Nf5 18. h5 f6 19. Ng4 Rxe2 20.
+Rxe2 h6 21. b3 c6 22. g3 Qd7 23. Ne3 Nxe3 24. Qxe3 a5 25. a4 Qg4 26. Qe6+
+Qxe6 27. Rxe6 Bc7 28. Re7 Rf7 29. Re3 Kf8 30. Kg2 Re7 31. g4 Kf7 32. Rxe7+
+Kxe7 33. Kf3 b5 34. Bf4 Bd8 35. Bb8 Ke6 36. Kf4 Bb6 37. Ke3 Kd7 38. Bh2 Ke7
+39. Bf4 Ke6 40. Kd3 Ke7 41. Bg3 Kd7 42. Ke3 Bd8 43. Bf4 Ke6 44. Bh2 Bb6 45.
+Kd2 Kd7 46. Bb8 Ke6 47. Kd3 Bd8 48. Bf4 Kd7 49. Kd2 Ke6 50. Kc2 Kd7 51. Kd3
+Ke6 52. Bb8 Kd7 53. Kc2 Ke6 54. Bg3 Kd7 55. Kd2 Ke6 56. Ke2 Kd7 57. Ke3 Ke7
+58. Kd3 Kd7 59. Bh2 Ke6 60. Ke2 Kf7 61. Bg3 Ke6 62. Kd1 f5 63. f3 fxg4 64.
+fxg4 Kd7 65. Bf2 Bc7 66. Be3 Ke6 67. Bd2 Bd6 68. Kc2 Kd7 69. Kd3 Ke6 70.
+Be3 Be7 71. Kc2 {½-½ User Adjudication} Bd6 72. Kb2 Bc7 {User Adjudication}
+1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "13"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C68"]
+[Opening "Spanish"]
+[Time "12:37:50"]
+[Variation "Exchange, 5.O-O Bg4 6.h3"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "229"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. Re1 Qe7
+8. d3 f6 9. Nbd2 O-O-O 10. Nf1 g5 11. Be3 Qe8 12. Ng3 Bf7 13. Qe2 h5 14.
+Nh2 Be6 15. Red1 Bd6 16. d4 h4 17. Ngf1 exd4 18. Bxd4 Rh7 19. Ng4 Bxg4 20.
+Qxg4+ Kb8 21. Re1 Rhd7 22. Qf3 Qe6 23. Bc3 Be5 24. Bxe5 Qxe5 25. c3 b6 26.
+Rad1 Nh6 27. Rxd7 Rxd7 28. a4 Kb7 29. a5 b5 30. Ne3 Qe6 31. Nc2 Nf7 32. Nd4
+Qe7 33. b4 Ne5 34. Qe3 Qf7 35. Qe2 Qg8 36. Rf1 Rd8 37. Rd1 Rd6 38. Rb1 Kb8
+39. Re1 Ng6 40. Nf5 Rd8 41. Rd1 Rxd1+ 42. Qxd1 Qe6 43. Qd4 Kb7 44. Ng7 Qf7
+45. Nf5 Nf4 46. Kh2 Qe6 47. Qe3 Ng6 48. Nd4 Qc4 49. Nf5 Qf1 50. Nd6+ Kb8
+51. Nf5 Nf4 52. Nxh4 Kb7 53. e5 Nd5 54. Qf3 fxe5 55. Ng6 Qe1 56. Qf5 Qxc3
+57. Nxe5 Qxb4 58. Qxg5 Qxa5 59. h4 Qe1 60. h5 Qxf2 61. h6 Qf8 62. Ng4 Qf7
+63. Qh4 Qf4+ 64. g3 Qd2+ 65. Kh3 Qd3 66. Qg5 Qf1+ 67. Kh2 Qf7 68. Kh3 b4
+69. Qg7 Qf1+ 70. Kh4 Qh1+ 71. Kg5 Qc1+ 72. Kh5 b3 73. h7 b2 74. h8=Q b1=Q
+75. Qhf8 Qh1+ 76. Kg5 Qbc1+ 77. Kg6 Qc2+ 78. Kg5 Qd2+ 79. Kf5 Qf3+ 80. Ke6
+Qxf8 81. Qxf8 Qe1+ 82. Ne5 Qxg3 83. Nd7 Qh3+ 84. Qf5 Qh6+ 85. Kf7 Qd6 86.
+Qb1+ Nb6 87. Nf6 a5 88. Ne4 Qd5+ 89. Ke7 Qc4 90. Qd3 Qb4+ 91. Kf7 a4 92.
+Qc2 a3 93. Nc5+ Ka7 94. Nd3 Qd6 95. Nc1 Nd5 96. Kg7 Kb6 97. Qb3+ Qb4 98.
+Kg6 Ka5 99. Qd1 Qc4 100. Qe1+ Kb6 101. Kf7 Qf4+ 102. Kg7 Qg5+ 103. Kh8 c5
+104. Qd1 c4 105. Qd4+ Kb5 106. Na2 Qf6+ 107. Qxf6 Nxf6 108. Kg7 Nd5 109.
+Kf7 c3 110. Ke6 Kc4 111. Kd7 c2 112. Nc1 Nb4 113. Kxc7 Nd3 114. Na2 Kb3
+115. Kc6 {Arena Adjudication} 0-1
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "14"]
+[White "Alexandria-3.5-x86-64-bmi2"]
+[Black "Alexandria-3.1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "12:45:50"]
+[Variation "Damiano Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "189"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5
+Qb4+ 8. Qxb4 Bxb4+ 9. c3 Be7 10. f4 Nc6 11. Be3 Bf5 12. Bb5 f6 13. exf6
+Bxf6 14. Nd2 O-O-O 15. O-O-O a6 16. Bxc6 bxc6 17. Nb3 Rde8 18. Bd4 Re4 19.
+Nc5 Re2 20. Rd2 Rxd2 21. Kxd2 Rd8 22. Ke3 Be7 23. Nxa6 Be6 24. Nc5 Bxc5 25.
+Bxc5 Bxa2 26. Bd4 Re8+ 27. Be5 Bd5 28. Ra1 g5 29. g4 Re7 30. Ra8+ Kd7 31.
+Ra7 Kc8 32. Ra5 Kd7 33. Kf2 gxf4 34. Bxf4 Kc8 35. Ra8+ Kd7 36. Ra7 Kc8 37.
+h3 Kb8 38. Ra1 Re4 39. Be3 Kc8 40. Ra8+ Kd7 41. Rh8 Re7 42. Bg5 Rf7+ 43.
+Kg3 Rf3+ 44. Kh4 Be4 45. Rd8+ Ke6 46. Bd2 Ke7 47. Rg8 Bd3 48. Be1 c5 49.
+Rg7+ Rf7 50. Rg5 c4 51. Bg3 c6 52. Rg8 Kd7 53. Rb8 Rf6 54. Be5 Rf3 55. Rb6
+Ke6 56. Bh2 Kd5 57. Rb8 Rf1 58. Re8 c5 59. Bb8 Rf7 60. Bg3 Rf6 61. Re5+ Kc6
+62. Rh5 Rf3 63. Rg5 Rf6 64. Re5 Kd6 65. Rf5+ Ke7 66. Rxf6 Kxf6 67. Kh5 Bf1
+68. g5+ Kg7 69. Be5+ Kf7 70. h4 Bd3 71. Kh6 Be4 72. Bd6 Bc2 73. Bb8 Bf5 74.
+h5 Bb1 75. Ba7 Kf8 76. Bxc5+ Kg8 77. Bd4 Be4 78. g6 hxg6 79. hxg6 Bd3 80.
+Be5 Bb1 81. Kg5 Ba2 82. Bf4 Bb3 83. Kf6 Ba4 84. Bg5 Bc2 85. Bh4 Bd3 86. Be1
+Bc2 87. Bf2 Be4 88. Kg5 Kg7 89. Bd4+ Kg8 90. Kf6 Bb1 91. Be3 Be4 92. Bb6
+Bb1 93. Kg5 Bc2 94. Be3 Bb1 95. Ba7 {User Adjudication} 1/2-1/2
+
+[Event "Test Alexandria"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.12"]
+[Round "15"]
+[White "Alexandria-3.1.0"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "C68"]
+[Opening "Spanish"]
+[Time "12:51:54"]
+[Variation "Exchange, 5.O-O Bg4 6.h3"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "unterminated"]
+[PlyCount "14"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. d3 Bd6 *
+

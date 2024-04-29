@@ -1,0 +1,87 @@
+[Event "Test gountlet"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.16"]
+[Round "1"]
+[White "AI 27.0_ad9b x64m"]
+[Black "Alexandria-3.1.0"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Time "05:25:09"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "unterminated"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 *
+
+[Event "Test gountlet"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.16"]
+[Round "1"]
+[White "Berserk-10-dev-02-11-avx2-pext"]
+[Black "AI 27.0_ad9b x64m"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C67"]
+[Opening "Spanish"]
+[Time "05:26:13"]
+[Variation "Open Berlin, 5.Re1 Nd6 6.Nxe5"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 {User
+Adjudication} 1/2-1/2
+
+[Event "Test gountlet"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.16"]
+[Round "1"]
+[White "Berserk-10-dev-02-11-avx2-pext"]
+[Black "Alexandria-3.5-x86-64-bmi2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "C80"]
+[Opening "Spanish"]
+[Time "05:26:46"]
+[Variation "Open, 7.Bb3 d5"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "adjudication"]
+[PlyCount "14"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5
+{User Adjudication} 1/2-1/2
+
+[Event "Test gountlet"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.02.16"]
+[Round "1"]
+[White "Berserk-10-dev-02-11-avx2-pext"]
+[Black "Allie 0.7 LeelaStein"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Time "05:27:14"]
+[Variation "Najdorf, 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6"]
+[WhiteElo "2200"]
+[TimeControl "2+2"]
+[Termination "unterminated"]
+[PlyCount "36"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Be2 Be7 9. O-O Nbd7 10. a4 h6 11. a5 Rc8 12. Qd3 O-O 13. Nd5 Bxd5 14. exd5
+e4 15. Qd1 Ne5 16. Ra4 Qd7 17. Rb4 Bd8 18. h3 Re8 *
+

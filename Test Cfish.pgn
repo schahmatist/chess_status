@@ -1,0 +1,243 @@
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "1"]
+[White "Cfish 010422 [001]"]
+[Black "CFishNN_230315_AP"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Time "05:04:40"]
+[Variation "Open, 5.Nf3 Bb4+"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "104"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 Bb4+ 6. Bd2 c5 7. a3 Bxd2+
+8. Nbxd2 cxd4 9. Nxc4 Nc6 10. O-O O-O 11. b4 Re8 12. Rc1 h6 13. Qd2 Ne4 14.
+Qb2 Ng5 15. b5 Nxf3+ 16. exf3 Na5 17. f4 Nxc4 18. Rxc4 d3 19. Rd4 Qf6 20.
+Rd1 e5 21. R4xd3 exf4 22. Qxf6 gxf6 23. Rd8 Bg4 24. Rxa8 Rxa8 25. Rd4 Rc8
+26. Bxb7 Rc1+ 27. Kg2 Be2 28. a4 f3+ 29. Kh3 Rf1 30. Kg4 h5+ 31. Kf4 Rxf2
+32. h4 Rf1 33. Ke3 Kg7 34. Rf4 f5 35. Rxf5 Ra1 36. Rxh5 Ra3+ 37. Kf2 Rxa4
+38. Bd5 Bxb5 39. Rg5+ Kf6 40. Bxf7 Rb4 41. Bg8 a5 42. Rc5 a4 43. Kxf3 a3
+44. Rc3 Ra4 45. Ba2 Bd7 46. Rb3 Bg4+ 47. Ke3 Bf5 48. Ke2 Kg6 49. Rc3 Kh5
+50. Kf3 Be4+ 51. Ke3 Kg4 52. Rc7 Kxg3 {Arena Adjudication} 1/2-1/2
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "2"]
+[White "CFishNN_230315_AP"]
+[Black "Cfish 010422 [001]"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Time "05:07:22"]
+[Variation "Taimanov, 6.Be3 a6"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "87"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 b5 8.
+Qg3 Qxg3 9. hxg3 Bb7 10. Nxc6 Bxc6 11. f3 Bb4 12. g4 Ne7 13. O-O-O Bxc3 14.
+bxc3 f6 15. g5 fxg5 16. Bxg5 Rc8 17. Bd3 Ng6 18. Be3 O-O 19. Bc5 Rfe8 20.
+Bd6 Nh8 21. e5 h6 22. f4 Nf7 23. Bb4 Bd5 24. Be2 Bxg2 25. Rhg1 Be4 26. Bh5
+Rc7 27. Rg3 Rec8 28. Rdg1 g5 29. Kb2 Kg7 30. fxg5 hxg5 31. Bxf7 Kxf7 32.
+Rxg5 Rh8 33. Rg7+ Ke8 34. Rd1 Bd5 35. Rf1 Rc4 36. Be7 Be4 37. Bg5 Bf5 38.
+Bf6 Rh7 39. Rg8+ Kf7 40. Rfg1 d5 41. Kb3 a5 42. Rb8 d4 43. Rb7+ Kf8 44. Rb8
+{Arena Adjudication} 1/2-1/2
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "3"]
+[White "Cfish 010422 [001]"]
+[Black "CFishNN_230315_AP"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Time "05:09:02"]
+[Variation "Exchange, Rellstab Variation"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "142"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be7 7. exd6
+Qxd6 8. Nc3 Qxd5 9. Nxd5 Bd6 10. O-O-O Be6 11. Bb5+ Nbd7 12. Bxd7+ Kxd7 13.
+Nc3 a5 14. Bf4 Ra6 15. Rhe1 f6 16. Re3 Bg4 17. Nb5 Rb6 18. c4 a4 19. b3
+axb3 20. axb3 Ra8 21. Kb2 Bh5 22. b4 Rxb5 23. cxb5 Na4+ 24. Kc1 Nb6 25. Rd4
+g5 26. Bg3 Bg6 27. Nd2 Ra1+ 28. Kb2 Rd1 29. Bxd6 cxd6 30. Re2 Nc8 31. f4
+Na7 32. Rd5 Bh5 33. Rf2 Ke6 34. Rd3 gxf4 35. Rxf4 Bg6 36. Rf1 Rxf1 37. Re3+
+Kd7 38. Nxf1 Nxb5 39. Nd2 d5 40. Rh3 Ke6 41. Nf3 Nd6 42. Nh4 Be4 43. Nf3
+Nb5 44. Rg3 Kf7 45. Nd2 h5 46. Nxe4 dxe4 47. Kc1 b6 48. Kd2 Nc7 49. Rh3 Kg6
+50. Ke3 Ne6 51. Rg3+ Kf5 52. Rg8 Nf4 53. b5 Nd5+ 54. Kd4 Nc7 55. Kc4 e3 56.
+Kd3 Nxb5 57. Kxe3 Nc3 58. Kf3 Nd5 59. Rh8 Kg5 60. Rg8+ Kf5 61. Rd8 Ne7 62.
+Rd6 Kg6 63. Rxb6 Ng8 64. g4 h4 65. Kf4 Ne7 66. Rd6 Nc8 67. Rc6 Ne7 68. Rc5
+h3 69. g5 f5 70. Re5 Ng8 71. Re8 Kf7 {Arena Adjudication} 1-0
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "4"]
+[White "CFishNN_230315_AP"]
+[Black "Cfish 010422 [001]"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Time "05:12:09"]
+[Variation "Taimanov, 6.Be3 a6"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "73"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 Nf6
+8. O-O-O Ne5 9. Qg3 b5 10. a3 Bb7 11. Bxb5 Rc8 12. Ba4 Nxe4 13. Nxe4 Bxe4
+14. Bf4 Qa5 15. Bb3 Nc4 16. Bxc4 Rxc4 17. Bd6 Bxd6 18. Qxd6 Qc7 19. Qxc7
+Rxc7 20. f3 Ba8 21. Rhe1 g6 22. b3 h5 23. Re5 h4 24. Ra5 Bb7 25. c4 Ke7 26.
+Kb2 Rd8 27. f4 d6 28. Nc2 Rg8 29. Ne3 g5 30. f5 Rc5 31. Rxc5 dxc5 32. b4
+exf5 33. Nxf5+ Ke6 34. Nh6 Rg6 35. Re1+ Kf6 36. Rf1+ Ke6 37. Re1 {Arena
+Adjudication} 1/2-1/2
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "5"]
+[White "Cfish 010422 [001]"]
+[Black "CFishNN_230315_AP"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Time "05:13:35"]
+[Variation "Richter-Rauzer, 7...a6"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "160"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+Nxc6 bxc6 9. O-O-O Be7 10. Bxf6 gxf6 11. Bc4 Bb7 12. Qe2 Qc7 13. Rhe1 d5
+14. Bb3 Rd8 15. exd5 cxd5 16. Qh5 Qf4+ 17. Kb1 Qg5 18. Qf3 f5 19. Ba4+ Kf8
+20. Ne2 Bb4 21. c3 Bc5 22. Nd4 h5 23. Ka1 Qf6 24. Qe2 h4 25. f4 Rg8 26. g3
+Rg4 27. a3 Bb6 28. Rd3 Rg6 29. Qf2 hxg3 30. hxg3 Rc8 31. Rdd1 Kg7 32. Rh1
+Rc4 33. Bc2 Rc8 34. Ba4 Rc4 35. Bc2 Rc8 36. Qe1 a5 37. Rh2 Ba6 38. Nf3 Rg8
+39. Ne5 Rh6 40. Rg2 Qe7 41. g4 Kf8 42. Ba4 Bc8 43. g5 Rh3 44. g6 Bc7 45.
+Qf2 Bxe5 46. gxf7 Rxg2 47. Qxg2 Rh8 48. fxe5 Qxf7 49. Bb5 Qg7 50. Qf2 Qc7
+51. Qe3 Kf7 52. Rg1 Qe7 53. Qf2 Rg8 54. Rh1 Bb7 55. Qa7 d4 56. Bc6 dxc3 57.
+Kb1 Rg7 58. Qxb7 Qxb7 59. Bxb7 Rg3 60. Rh7+ Kf8 61. b3 Re3 62. Kc2 Rxe5 63.
+Rc7 f4 64. Rc4 Rf5 65. Bf3 Ke7 66. Kxc3 Rf8 67. Kd4 Rb8 68. Rc3 Kd6 69. Ke4
+e5 70. Be2 Rb7 71. Bc4 Rg7 72. Rd3+ Kc6 73. Kxe5 Rg5+ 74. Kd4 Rf5 75. Rf3
+Kd6 76. Rd3 Rh5 77. Ke4+ Kc5 78. Rd5+ Rxd5 79. Bxd5 f3 80. Bc4 f2 {Arena
+Adjudication} 1-0
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "6"]
+[White "CFishNN_230315_AP"]
+[Black "Cfish 010422 [001]"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Time "05:16:59"]
+[Variation "Taimanov, Bastrikov Variation, 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "125"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Ncb5 Qb8 7. Bd3 Nf6
+8. O-O a6 9. Nxc6 bxc6 10. Nc3 d5 11. Qe2 Be7 12. b3 O-O 13. Na4 e5 14. Bb2
+Re8 15. h3 Bf8 16. Rae1 Bd7 17. c4 Qb7 18. Rd1 Nxe4 19. Bxe4 dxe4 20. Qxe4
+Rab8 21. Qe3 Bf5 22. Bc3 f6 23. Ba5 Bg6 24. Rfe1 e4 25. Nc5 Bxc5 26. Qxc5
+Re5 27. Qa3 Rbe8 28. Bc3 R5e6 29. Qc5 h6 30. Qe3 Qf7 31. Rd4 Bh5 32. c5 Qe7
+33. Bb4 Qf7 34. Bd2 Qc7 35. Bc1 Qe5 36. Ra4 f5 37. Rxa6 Rg6 38. Kh1 Rf6 39.
+f4 exf3 40. Qxe5 Rxe5 41. Rf1 fxg2+ 42. Kxg2 Rg6+ 43. Kh1 Rxc5 44. Bf4 Rc3
+45. Kh2 Rc2+ 46. Kh1 Re6 47. Kg1 Bf7 48. Ra5 Rg6+ 49. Kh1 Bd5+ 50. Rxd5
+cxd5 51. b4 Rxa2 52. b5 Rb2 53. Be5 Rxb5 54. Rf2 Rb3 55. Rxf5 Rxh3+ 56. Bh2
+Re3 57. Bc7 Rh3+ 58. Bh2 Rb3 59. Bc7 d4 60. Rd5 Rc6 61. Bh2 Rc1+ 62. Bg1
+Rbb1 63. Kg2 {Arena Adjudication} 0-1
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "7"]
+[White "Cfish 010422 [001]"]
+[Black "CFishNN_230315_AP"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "C67"]
+[Opening "Spanish"]
+[Time "05:19:31"]
+[Variation "Open Berlin, 5.Re1 Nd6 6.Nxe5"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "182"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 d6
+14. Nd2 g5 15. Be3 Qe7 16. Bc4 Bd7 17. Nf1 Bc6 18. Bd2 Qxe1 19. Rxe1 Kg7
+20. h3 h5 21. Be2 Rh8 22. f4 gxf4 23. Bxf4 Re8 24. Kf2 h4 25. Bd3 Rxe1 26.
+Kxe1 Ne7 27. Kf2 Ng6 28. Be3 Bd7 29. Nh2 Be7 30. Nf3 f5 31. b4 b5 32. Ke2
+a6 33. c4 Bf6 34. Kd2 Kf7 35. Bh6 Ne7 36. Bg5 Bxg5+ 37. Nxg5+ Kf6 38. Nf3
+Ng6 39. Kc3 c6 40. Kd2 Be8 41. Be2 Bd7 42. a3 Ke7 43. Ke3 Kf6 44. Bd3 Ke7
+45. Bf1 Be8 46. Kd2 Kd8 47. Bd3 Bd7 48. c5 dxc5 49. dxc5 Ke7 50. Bc2 Kf6
+51. Bd1 Be6 52. Nd4 Ne5 53. Bf3 Bd7 54. Ke3 Kg5 55. Be2 Kf6 56. Bf1 Ng6 57.
+Bd3 Ne7 58. Be2 Be8 59. Bd1 Nd5+ 60. Kf2 Nf4 61. Bc2 Bd7 62. Nf3 Ng6 63.
+Bb3 Be8 64. Ke3 Bd7 65. Nd4 Be8 66. Ne2 Ke5 67. Ba2 Kf6 68. Nf4 Ne5 69. Kd4
+Ng6 70. Nd3 Bd7 71. Ke3 Ne5 72. Ne1 Be8 73. Bg8 Bg6 74. Ba2 Bh7 75. Nf3
+Nxf3 76. Kxf3 Ke5 77. g3 hxg3 78. Kxg3 Bg6 79. Bb3 f4+ 80. Kf2 Kd4 81. Bd1
+Bf5 82. h4 Kc3 83. Bf3 Kb3 84. Bxc6 Kxa3 85. Be8 Kxb4 86. c6 a5 87. Bd7 Be4
+88. c7 Bb7 89. h5 Kc5 90. h6 Ba6 91. h7 Kc4 {Arena Adjudication} 1-0
+
+[Event "Test Cfish"]
+[Site "DESKTOP-50V1D33"]
+[Date "2023.03.18"]
+[Round "8"]
+[White "CFishNN_230315_AP"]
+[Black "Cfish 010422 [001]"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Time "05:23:17"]
+[Variation "Taimanov, 6.Be3 a6 7.f4 b5"]
+[WhiteElo "2200"]
+[TimeControl "2+1"]
+[Termination "adjudication"]
+[PlyCount "84"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. f4 b5 8.
+Nb3 Bb7 9. Bd3 Nf6 10. O-O d6 11. a4 b4 12. Nb1 g6 13. c3 bxc3 14. Nxc3 Bg7
+15. a5 O-O 16. Rc1 Qe7 17. Bb1 Rac8 18. h3 Ba8 19. Na4 Na7 20. Nd2 Rxc1 21.
+Qxc1 Bc6 22. Nb6 Bb5 23. Rd1 Rd8 24. Bf2 Nh5 25. Ndc4 Nc6 26. b3 Bh6 27. g3
+e5 28. Nd5 Qe6 29. Bd3 exf4 30. g4 Nf6 31. Nxf4 Bxf4 32. Qxf4 h6 33. Rf1
+Nd7 34. Qxh6 Nxa5 35. Bd4 Ne5 36. Qg5 Nac6 37. Bb2 Re8 38. Be2 Qd7 39. Rf2
+Re6 40. Qh6 Qe7 41. Bc3 Qa7 42. Kg2 Nd4 {Arena Adjudication} 1/2-1/2
+

@@ -1,0 +1,13 @@
+   Engine                                Score    Be   Be    S-B
+1: Berserk-10-dev-02-11-avx2-pext        2.0/3  ···· ==1?    2.00
+2: Berserk-20230130b_Windows_x86-64-avx2 1.0/3  ==0? ····    2.00
+
+3 of 20 games played
+Name of the tournament: Test Berserk
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/1
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test Berserk.pgn
+Website: 
+E-Mail Address: 

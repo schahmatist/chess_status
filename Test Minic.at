@@ -1,0 +1,82 @@
+[Settings]
+TournamentName=Test Minic
+Type=0
+CurrSwissRound=0
+Rounds=50
+CurrentPair=2
+CurrentRound=16
+Level=2 0\2/2#0
+[Options]
+QuitAfterTournament=0
+ShutDownAfterTournament=0
+RestartEngines=1
+RepeatStartPosition=1
+Startposition=2
+Variant=0
+StartPGNEPD=D:\CHESS\BanksiaGui-0.58-win64\books\8moves_v3.pgn
+Resign=1
+ResignValue=-900
+MaxGameLength=225
+EarlyDrawFromMove=32
+TablebaseDraw=1
+Autoflag=0
+Ponder=0
+AutoRotateInGautlet=0
+RutschSystem=1
+RestartArenaAfterGamesValue=1
+RestartArenaAtHour1=0
+RestartArenaAtHourValue=2
+ShutdownComputerAfterGames1=0
+ShutdownComputerAfterGamesValue=10
+[Save]
+SaveGamesPGN=1
+SaveIncompleteGamesPGN=1
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Test Minic.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Test Minic.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Test Minic.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Test Minic.html
+SaveTurTabText=1
+SaveTurTabHTML=1
+HTMLuseCountry=0
+HTMLuseFlags=0
+HTMLuseEnglish=0
+HTMLshortResults=0
+HTMLonlyPoints=0
+HTMLFlagsFromWebsite=0
+HTMLshowPGNfilename=1
+HTMLshowBenchmark=0
+PGNwebsite=
+HTMLWinPercent=1
+HTMLStartELO=0
+HTMLShowConditions=0
+HTMLConditions=
+HTMLTopLineColorized=0
+HTMLTableTopLineColor=6737151
+SaveGamesFCH=0
+FCHdir=
+FCHnames=
+[Data]
+LastPGNEPDindex=20519
+FirstGameDate=2023.08.05
+FirstGameTime=16:58:47
+Country=United States
+Site=DESKTOP-50V1D33
+Hardware=Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+OS=Windows 10 Home Home Edition (Build 9200) 64 bit
+Website=
+E-Mail=
+ArenaVersion=Arena 3.5.1
+LastGameDate=2023.08.05
+LastGameTime=20:35:26
+[PairingResults]
+Minic_3.32_mingw_x64_skylake ------ Minic_mingw_x64_skylake=½1½½½½½½½½½½10½½
+Minic_3.32_mingw_x64_skylake ------ Minic_3.33_mingw_x64_skylake=0½½½½½1½1½½½½½½½
+Minic_3.33_mingw_x64_skylake ------ Minic_mingw_x64_skylake=1½0½½½½½½½0½½1½
+[PairingLastPGNEPDindex]
+Minic_3.32_mingw_x64_skylake ------ Minic_mingw_x64_skylake=23767
+Minic_3.32_mingw_x64_skylake ------ Minic_3.33_mingw_x64_skylake=20519
+Minic_3.33_mingw_x64_skylake ------ Minic_mingw_x64_skylake=1849
+[Participants]
+Engine1=Minic_3.32_mingw_x64_skylake
+Engine2=Minic_mingw_x64_skylake
+Engine3=Minic_3.33_mingw_x64_skylake

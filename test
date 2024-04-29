@@ -1,0 +1,3409 @@
+[Settings]
+TournamentName=Season2b_League_ALL_New
+Type=0
+CurrSwissRound=0
+Rounds=8
+CurrentPair=990
+CurrentRound=8
+Level=2 0\2/2#0
+[Options]
+QuitAfterTournament=0
+ShutDownAfterTournament=0
+RestartEngines=1
+RepeatStartPosition=1
+Startposition=0
+Variant=0
+StartPGNEPD=
+Resign=1
+ResignValue=-900
+MaxGameLength=225
+EarlyDrawFromMove=32
+TablebaseDraw=1
+Autoflag=0
+Ponder=0
+AutoRotateInGautlet=0
+RutschSystem=1
+RestartArenaAfterGamesValue=1
+RestartArenaAtHour1=0
+RestartArenaAtHourValue=2
+ShutdownComputerAfterGames1=0
+ShutdownComputerAfterGamesValue=10
+[Save]
+SaveGamesPGN=1
+SaveIncompleteGamesPGN=1
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Season2_League_ALL_New.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Season2b_League_ALL_New.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Season2b_League_ALL_New.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Season2b_League_ALL_New.html
+SaveTurTabText=1
+SaveTurTabHTML=1
+HTMLuseCountry=0
+HTMLuseFlags=0
+HTMLuseEnglish=0
+HTMLshortResults=0
+HTMLonlyPoints=0
+HTMLFlagsFromWebsite=0
+HTMLshowPGNfilename=1
+HTMLshowBenchmark=0
+PGNwebsite=
+HTMLWinPercent=1
+HTMLStartELO=0
+HTMLShowConditions=0
+HTMLConditions=
+HTMLTopLineColorized=0
+HTMLTableTopLineColor=6737151
+SaveGamesFCH=0
+FCHdir=
+FCHnames=
+[Data]
+LastPGNEPDindex=1
+FirstGameDate=2023.01.14
+FirstGameTime=18:43:36
+Country=United States
+Site=DESKTOP-50V1D33
+Hardware=Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+OS=Windows 10 Home Home Edition (Build 9200) 64 bit
+Website=
+E-Mail=
+ArenaVersion=Arena 3.5.1
+LastGameDate=2023.04.03
+LastGameTime=02:10:36
+[PairingResults]
+Allie_v0.8-dev_8e93f68_20200812 ------ Stash v34.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Stockfish dev-20230123-596a528c
+Berserk-10-dev-02-11-avx2-pext ------ Little Goliath
+DON 230416.64 ------ Ultron 4.0
+Andscacs ------ Velvet-x86_64-avx2
+Smallbrain6.0-x86-64-bmi2 ------ Wasp-windows-avx
+Uralochka v3.39d ------ Weiss-pext
+Devre 4.0 ------ Xiphos 0.6.1 BMI2
+Arasanx-23.3-64-avx2 ------ Zahak-windows-amd64-10.0-avx
+Allie 0.7 LeelaStein ------ TucanoNN_FIXED
+asmFishWCP_2019-10-16_bmi2 ------ Strelka6
+BlackCore v6.0 ------ RubiChess 20221203 (bmi2)
+Booot7_popcnt ------ Schooner 2.2 NON-POPCNT
+EngineDeepShredder13UCIx64 ------ Scorpio
+Ethereal-avx2 ------ Seer 2.6.0
+SlowChess Blitz 2.9 avx2 ------ Toga IV 1.1
+gogobello 3.0 ------ Rebel-16-avx2
+Fritz 18 NNUE AVX2 ------ Rick48
+Fire_8.NN.MC.3_x64_bmi2 ------ rofChade 3.0 BMI2 AVX2
+Fat Fritz 3 ------ Marvin 6.1.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Minic 3.33
+Defenchess_23dev4 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Darktoga_avx2 ------ Pedone_win_bmi2
+Combusken 2.0.0 ------ Laser-1_7-BMI2
+Coiled 1.1 x64 ------ Lc0.0.29
+Clover.3.2-avx2 ------ Igel-x64_bmi2_avx2_3_0_5
+Caissa_x64_BMI2 ------ Koivisto_9x64-windows-avx2
+Halogen11-pext-avx2 ------ Houdini_6.0.2_Pro_x64-pext
+Little Goliath ------ Stash v34.0
+Allie_v0.8-dev_8e93f68_20200812 ------ DON 230416.64
+Andscacs ------ Berserk-10-dev-02-11-avx2-pext
+Smallbrain6.0-x86-64-bmi2 ------ Ultron 4.0
+Uralochka v3.39d ------ Velvet-x86_64-avx2
+Devre 4.0 ------ Wasp-windows-avx
+Arasanx-23.3-64-avx2 ------ Weiss-pext
+Allie 0.7 LeelaStein ------ Xiphos 0.6.1 BMI2
+asmFishWCP_2019-10-16_bmi2 ------ Zahak-windows-amd64-10.0-avx
+BlackCore v6.0 ------ TucanoNN_FIXED
+Booot7_popcnt ------ Strelka6
+EngineDeepShredder13UCIx64 ------ RubiChess 20221203 (bmi2)
+Ethereal-avx2 ------ Schooner 2.2 NON-POPCNT
+Scorpio ------ Toga IV 1.1
+gogobello 3.0 ------ Seer 2.6.0
+Fritz 18 NNUE AVX2 ------ SlowChess Blitz 2.9 avx2
+Fire_8.NN.MC.3_x64_bmi2 ------ Rebel-16-avx2
+Fat Fritz 3 ------ Rick48
+Dragon 3.2 by Komodo Chess 64-bit ------ rofChade 3.0 BMI2 AVX2
+Defenchess_23dev4 ------ Marvin 6.1.0
+Darktoga_avx2 ------ Minic 3.33
+Combusken 2.0.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Coiled 1.1 x64 ------ Pedone_win_bmi2
+Clover.3.2-avx2 ------ Laser-1_7-BMI2
+Koivisto_9x64-windows-avx2 ------ Lc0.0.29
+Houdini_6.0.2_Pro_x64-pext ------ Igel-x64_bmi2_avx2_3_0_5
+Caissa_x64_BMI2 ------ Halogen11-pext-avx2
+DON 230416.64 ------ Stockfish dev-20230123-596a528c
+Andscacs ------ Stash v34.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Smallbrain6.0-x86-64-bmi2
+Berserk-10-dev-02-11-avx2-pext ------ Uralochka v3.39d
+Devre 4.0 ------ Ultron 4.0
+Arasanx-23.3-64-avx2 ------ Velvet-x86_64-avx2
+Allie 0.7 LeelaStein ------ Wasp-windows-avx
+asmFishWCP_2019-10-16_bmi2 ------ Weiss-pext
+BlackCore v6.0 ------ Xiphos 0.6.1 BMI2
+Booot7_popcnt ------ Zahak-windows-amd64-10.0-avx
+EngineDeepShredder13UCIx64 ------ TucanoNN_FIXED
+Ethereal-avx2 ------ Strelka6
+RubiChess 20221203 (bmi2) ------ Toga IV 1.1
+gogobello 3.0 ------ Schooner 2.2 NON-POPCNT
+Fritz 18 NNUE AVX2 ------ Scorpio
+Fire_8.NN.MC.3_x64_bmi2 ------ Seer 2.6.0
+Fat Fritz 3 ------ SlowChess Blitz 2.9 avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Rebel-16-avx2
+Defenchess_23dev4 ------ Rick48
+Darktoga_avx2 ------ rofChade 3.0 BMI2 AVX2
+Combusken 2.0.0 ------ Marvin 6.1.0
+Coiled 1.1 x64 ------ Minic 3.33
+Clover.3.2-avx2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Koivisto_9x64-windows-avx2 ------ Pedone_win_bmi2
+Houdini_6.0.2_Pro_x64-pext ------ Laser-1_7-BMI2
+Berserk-10-dev-02-11-avx2-pext ------ Stockfish dev-20230123-596a528c
+Little Goliath ------ Ultron 4.0
+DON 230416.64 ------ Velvet-x86_64-avx2
+Andscacs ------ Wasp-windows-avx
+Smallbrain6.0-x86-64-bmi2 ------ Weiss-pext
+Uralochka v3.39d ------ Xiphos 0.6.1 BMI2
+Devre 4.0 ------ Zahak-windows-amd64-10.0-avx
+Arasanx-23.3-64-avx2 ------ TucanoNN_FIXED
+Allie_v0.8-dev_8e93f68_20200812 ------ Lc0
+Berserk-10-dev-02-11-avx2-pext ------ Ethereal-13.88-Plus-NNUE-avx2
+Stash v34.0 ------ Ultron 4.0
+Stockfish dev-20230123-596a528c ------ Velvet-x86_64-avx2
+Little Goliath ------ Wasp-windows-avx
+DON 230416.64 ------ Weiss-pext
+Andscacs ------ Xiphos 0.6.1 BMI2
+Smallbrain6.0-x86-64-bmi2 ------ Zahak-windows-amd64-10.0-avx
+TucanoNN_FIXED ------ Uralochka v3.39d
+Devre 4.0 ------ Strelka6
+Arasanx-23.3-64-avx2 ------ RubiChess 20221203 (bmi2)
+asmFishWCP_2019-10-16_bmi2 ------ Schooner 2.2 NON-POPCNT
+BlackCore v6.0 ------ Scorpio
+Booot7_popcnt ------ Seer 2.6.0
+EngineDeepShredder13UCIx64 ------ SlowChess Blitz 2.9 avx2
+Rebel-16-avx2 ------ Toga IV 1.1
+gogobello 3.0 ------ Rick48
+Fritz 18 NNUE AVX2 ------ rofChade 3.0 BMI2 AVX2
+Fire_8.NN.MC.3_x64_bmi2 ------ Marvin 6.1.0
+Fat Fritz 3 ------ Minic 3.33
+Dragon 3.2 by Komodo Chess 64-bit ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Defenchess_23dev4 ------ Pedone_win_bmi2
+Darktoga_avx2 ------ Laser-1_7-BMI2
+Combusken 2.0.0 ------ Igel-x64_bmi2_avx2_3_0_5
+Caissa_x64_BMI2 ------ Coiled 1.1 x64
+Clover.3.2-avx2 ------ Halogen11-pext-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Koivisto_9x64-windows-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Ethereal-13.88-Plus-NNUE-avx2
+Lc0 ------ Stash v34.0
+Seer 2.6.0 ------ Toga IV 1.1
+gogobello 3.0 ------ SlowChess Blitz 2.9 avx2
+Fritz 18 NNUE AVX2 ------ Rebel-16-avx2
+Fire_8.NN.MC.3_x64_bmi2 ------ Rick48
+Fat Fritz 3 ------ rofChade 3.0 BMI2 AVX2
+Dragon 3.2 by Komodo Chess 64-bit ------ Marvin 6.1.0
+Defenchess_23dev4 ------ Minic 3.33
+Darktoga_avx2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Combusken 2.0.0 ------ Pedone_win_bmi2
+Coiled 1.1 x64 ------ Laser-1_7-BMI2
+Ethereal-13.88-Plus-NNUE-avx2 ------ Stockfish dev-20230123-596a528c
+Lc0 ------ Little Goliath
+Berserk-10-dev-02-11-avx2-pext ------ DON 230416.64
+Andscacs ------ Ultron 4.0
+Smallbrain6.0-x86-64-bmi2 ------ Velvet-x86_64-avx2
+Uralochka v3.39d ------ Wasp-windows-avx
+Devre 4.0 ------ Weiss-pext
+Arasanx-23.3-64-avx2 ------ Xiphos 0.6.1 BMI2
+Schooner 2.2 NON-POPCNT ------ Toga IV 1.1
+gogobello 3.0 ------ Scorpio
+Fritz 18 NNUE AVX2 ------ Seer 2.6.0
+Fire_8.NN.MC.3_x64_bmi2 ------ SlowChess Blitz 2.9 avx2
+Fat Fritz 3 ------ Rebel-16-avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Rick48
+Defenchess_23dev4 ------ rofChade 3.0 BMI2 AVX2
+Darktoga_avx2 ------ Marvin 6.1.0
+Combusken 2.0.0 ------ Minic 3.33
+Coiled 1.1 x64 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Clover.3.2-avx2 ------ Pedone_win_bmi2
+Koivisto_9x64-windows-avx2 ------ Laser-1_7-BMI2
+DON 230416.64 ------ Ethereal-13.88-Plus-NNUE-avx2
+Andscacs ------ Lc0
+Berserk-10-dev-02-11-avx2-pext ------ Smallbrain6.0-x86-64-bmi2
+Ultron 4.0 ------ Uralochka v3.39d
+Devre 4.0 ------ Velvet-x86_64-avx2
+Arasanx-23.3-64-avx2 ------ Wasp-windows-avx
+Strelka6 ------ Toga IV 1.1
+gogobello 3.0 ------ RubiChess 20221203 (bmi2)
+Fritz 18 NNUE AVX2 ------ Schooner 2.2 NON-POPCNT
+Fire_8.NN.MC.3_x64_bmi2 ------ Scorpio
+Fat Fritz 3 ------ Seer 2.6.0
+Dragon 3.2 by Komodo Chess 64-bit ------ SlowChess Blitz 2.9 avx2
+Defenchess_23dev4 ------ Rebel-16-avx2
+Darktoga_avx2 ------ Rick48
+Combusken 2.0.0 ------ rofChade 3.0 BMI2 AVX2
+Coiled 1.1 x64 ------ Marvin 6.1.0
+Clover.3.2-avx2 ------ Minic 3.33
+Koivisto_9x64-windows-avx2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Houdini_6.0.2_Pro_x64-pext ------ Pedone_win_bmi2
+Halogen11-pext-avx2 ------ Laser-1_7-BMI2
+Caissa_x64_BMI2 ------ Igel-x64_bmi2_avx2_3_0_5
+Allie_v0.8-dev_8e93f68_20200812 ------ Little Goliath
+Ethereal-13.88-Plus-NNUE-avx2 ------ Smallbrain6.0-x86-64-bmi2
+Lc0 ------ Uralochka v3.39d
+Berserk-10-dev-02-11-avx2-pext ------ Devre 4.0
+Arasanx-23.3-64-avx2 ------ Ultron 4.0
+asmFishWCP_2019-10-16_bmi2 ------ Velvet-x86_64-avx2
+BlackCore v6.0 ------ Wasp-windows-avx
+Booot7_popcnt ------ Weiss-pext
+EngineDeepShredder13UCIx64 ------ Xiphos 0.6.1 BMI2
+Toga IV 1.1 ------ Zahak-windows-amd64-10.0-avx
+gogobello 3.0 ------ TucanoNN_FIXED
+Fritz 18 NNUE AVX2 ------ Strelka6
+Fire_8.NN.MC.3_x64_bmi2 ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Schooner 2.2 NON-POPCNT
+Dragon 3.2 by Komodo Chess 64-bit ------ Scorpio
+Defenchess_23dev4 ------ Seer 2.6.0
+Darktoga_avx2 ------ SlowChess Blitz 2.9 avx2
+Combusken 2.0.0 ------ Rebel-16-avx2
+Coiled 1.1 x64 ------ Rick48
+Clover.3.2-avx2 ------ rofChade 3.0 BMI2 AVX2
+Koivisto_9x64-windows-avx2 ------ Marvin 6.1.0
+Houdini_6.0.2_Pro_x64-pext ------ Minic 3.33
+Halogen11-pext-avx2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Caissa_x64_BMI2 ------ Pedone_win_bmi2
+Igel-x64_bmi2_avx2_3_0_5 ------ Laser-1_7-BMI2
+Andscacs ------ Little Goliath
+Smallbrain6.0-x86-64-bmi2 ------ Stockfish dev-20230123-596a528c
+Stash v34.0 ------ Uralochka v3.39d
+Devre 4.0 ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasanx-23.3-64-avx2 ------ Lc0
+asmFishWCP_2019-10-16_bmi2 ------ Berserk-10-dev-02-11-avx2-pext
+Allie_v0.8-dev_8e93f68_20200812 ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Berserk-10-dev-02-11-avx2-pext
+Lc0 ------ Ultron 4.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Velvet-x86_64-avx2
+Stash v34.0 ------ Wasp-windows-avx
+Stockfish dev-20230123-596a528c ------ Weiss-pext
+Little Goliath ------ Xiphos 0.6.1 BMI2
+DON 230416.64 ------ Zahak-windows-amd64-10.0-avx
+Andscacs ------ TucanoNN_FIXED
+Smallbrain6.0-x86-64-bmi2 ------ Strelka6
+RubiChess 20221203 (bmi2) ------ Uralochka v3.39d
+Devre 4.0 ------ Schooner 2.2 NON-POPCNT
+Arasanx-23.3-64-avx2 ------ Scorpio
+asmFishWCP_2019-10-16_bmi2 ------ Seer 2.6.0
+BlackCore v6.0 ------ SlowChess Blitz 2.9 avx2
+Booot7_popcnt ------ Rebel-16-avx2
+EngineDeepShredder13UCIx64 ------ Rick48
+rofChade 3.0 BMI2 AVX2 ------ Toga IV 1.1
+gogobello 3.0 ------ Marvin 6.1.0
+Fritz 18 NNUE AVX2 ------ Minic 3.33
+Fire_8.NN.MC.3_x64_bmi2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Fat Fritz 3 ------ Pedone_win_bmi2
+Dragon 3.2 by Komodo Chess 64-bit ------ Laser-1_7-BMI2
+Defenchess_23dev4 ------ Igel-x64_bmi2_avx2_3_0_5
+Caissa_x64_BMI2 ------ Darktoga_avx2
+Combusken 2.0.0 ------ Halogen11-pext-avx2
+Coiled 1.1 x64 ------ Houdini_6.0.2_Pro_x64-pext
+Clover.3.2-avx2 ------ Koivisto_9x64-windows-avx2
+Alexandria-3.1.0 ------ Expo-skylake-skylake
+Counter-5.0-windows-amd64 ------ Lc0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Expo-skylake-skylake
+Alexandria-3.1.0 ------ Ethereal-13.88-Plus-NNUE-avx2
+Counter-5.0-windows-amd64 ------ Stash v34.0
+Expo-skylake-skylake ------ Stockfish dev-20230123-596a528c
+Alexandria-3.1.0 ------ Stockfish dev-20230123-596a528c
+Counter-5.0-windows-amd64 ------ Little Goliath
+DON 230416.64 ------ Expo-skylake-skylake
+Allie_v0.8-dev_8e93f68_20200812 ------ Andscacs
+Alexandria-3.1.0 ------ DON 230416.64
+Andscacs ------ Counter-5.0-windows-amd64
+Expo-skylake-skylake ------ Smallbrain6.0-x86-64-bmi2
+Allie_v0.8-dev_8e93f68_20200812 ------ Uralochka v3.39d
+Alexandria-3.1.0 ------ Smallbrain6.0-x86-64-bmi2
+Counter-5.0-windows-amd64 ------ Uralochka v3.39d
+Devre 4.0 ------ Expo-skylake-skylake
+Allie_v0.8-dev_8e93f68_20200812 ------ Arasanx-23.3-64-avx2
+BlackCore v6.0 ------ Ultron 4.0
+Booot7_popcnt ------ Velvet-x86_64-avx2
+EngineDeepShredder13UCIx64 ------ Wasp-windows-avx
+Toga IV 1.1 ------ Weiss-pext
+gogobello 3.0 ------ Xiphos 0.6.1 BMI2
+Fritz 18 NNUE AVX2 ------ Zahak-windows-amd64-10.0-avx
+Fire_8.NN.MC.3_x64_bmi2 ------ TucanoNN_FIXED
+Fat Fritz 3 ------ Strelka6
+Dragon 3.2 by Komodo Chess 64-bit ------ RubiChess 20221203 (bmi2)
+Defenchess_23dev4 ------ Schooner 2.2 NON-POPCNT
+Darktoga_avx2 ------ Scorpio
+Combusken 2.0.0 ------ Seer 2.6.0
+Coiled 1.1 x64 ------ SlowChess Blitz 2.9 avx2
+Clover.3.2-avx2 ------ Rebel-16-avx2
+Koivisto_9x64-windows-avx2 ------ Rick48
+Houdini_6.0.2_Pro_x64-pext ------ rofChade 3.0 BMI2 AVX2
+Halogen11-pext-avx2 ------ Marvin 6.1.0
+Caissa_x64_BMI2 ------ Minic 3.33
+Igel-x64_bmi2_avx2_3_0_5 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Laser-1_7-BMI2 ------ Pedone_win_bmi2
+Alexandria-3.1.0 ------ Devre 4.0
+Arasanx-23.3-64-avx2 ------ Counter-5.0-windows-amd64
+asmFishWCP_2019-10-16_bmi2 ------ Expo-skylake-skylake
+Allie_v0.8-dev_8e93f68_20200812 ------ BlackCore v6.0
+Berserk-10-dev-02-11-avx2-pext ------ Booot7_popcnt
+EngineDeepShredder13UCIx64 ------ Ultron 4.0
+Toga IV 1.1 ------ Velvet-x86_64-avx2
+gogobello 3.0 ------ Wasp-windows-avx
+Fritz 18 NNUE AVX2 ------ Weiss-pext
+Fire_8.NN.MC.3_x64_bmi2 ------ Xiphos 0.6.1 BMI2
+Fat Fritz 3 ------ Zahak-windows-amd64-10.0-avx
+Dragon 3.2 by Komodo Chess 64-bit ------ TucanoNN_FIXED
+Defenchess_23dev4 ------ Strelka6
+Darktoga_avx2 ------ RubiChess 20221203 (bmi2)
+Combusken 2.0.0 ------ Schooner 2.2 NON-POPCNT
+Coiled 1.1 x64 ------ Scorpio
+Clover.3.2-avx2 ------ Seer 2.6.0
+Koivisto_9x64-windows-avx2 ------ SlowChess Blitz 2.9 avx2
+Houdini_6.0.2_Pro_x64-pext ------ Rebel-16-avx2
+Halogen11-pext-avx2 ------ Rick48
+Caissa_x64_BMI2 ------ rofChade 3.0 BMI2 AVX2
+Igel-x64_bmi2_avx2_3_0_5 ------ Marvin 6.1.0
+Laser-1_7-BMI2 ------ Minic 3.33
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Pedone_win_bmi2
+Alexandria-3.1.0 ------ asmFishWCP_2019-10-16_bmi2
+BlackCore v6.0 ------ Counter-5.0-windows-amd64
+Booot7_popcnt ------ Expo-skylake-skylake
+Allie_v0.8-dev_8e93f68_20200812 ------ EngineDeepShredder13UCIx64
+Berserk-10-dev-02-11-avx2-pext ------ Toga IV 1.1
+gogobello 3.0 ------ Ultron 4.0
+Fritz 18 NNUE AVX2 ------ Velvet-x86_64-avx2
+Fire_8.NN.MC.3_x64_bmi2 ------ Wasp-windows-avx
+Fat Fritz 3 ------ Weiss-pext
+Dragon 3.2 by Komodo Chess 64-bit ------ Xiphos 0.6.1 BMI2
+Defenchess_23dev4 ------ Zahak-windows-amd64-10.0-avx
+Darktoga_avx2 ------ TucanoNN_FIXED
+Combusken 2.0.0 ------ Strelka6
+Coiled 1.1 x64 ------ RubiChess 20221203 (bmi2)
+Clover.3.2-avx2 ------ Schooner 2.2 NON-POPCNT
+Koivisto_9x64-windows-avx2 ------ Scorpio
+Houdini_6.0.2_Pro_x64-pext ------ Seer 2.6.0
+Halogen11-pext-avx2 ------ SlowChess Blitz 2.9 avx2
+Caissa_x64_BMI2 ------ Rebel-16-avx2
+Igel-x64_bmi2_avx2_3_0_5 ------ Rick48
+Laser-1_7-BMI2 ------ rofChade 3.0 BMI2 AVX2
+Marvin 6.1.0 ------ Pedone_win_bmi2
+Minic 3.33 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+DON 230416.64 ------ Smallbrain6.0-x86-64-bmi2
+Little Goliath ------ Uralochka v3.39d
+Devre 4.0 ------ Stockfish dev-20230123-596a528c
+Arasanx-23.3-64-avx2 ------ Stash v34.0
+asmFishWCP_2019-10-16_bmi2 ------ Ethereal-13.88-Plus-NNUE-avx2
+BlackCore v6.0 ------ Lc0
+Alexandria-3.1.0 ------ Booot7_popcnt
+Counter-5.0-windows-amd64 ------ EngineDeepShredder13UCIx64
+Expo-skylake-skylake ------ Toga IV 1.1
+Allie_v0.8-dev_8e93f68_20200812 ------ gogobello 3.0
+Berserk-10-dev-02-11-avx2-pext ------ Fritz 18 NNUE AVX2
+Fire_8.NN.MC.3_x64_bmi2 ------ Ultron 4.0
+Fat Fritz 3 ------ Velvet-x86_64-avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Wasp-windows-avx
+Defenchess_23dev4 ------ Weiss-pext
+Darktoga_avx2 ------ Xiphos 0.6.1 BMI2
+Combusken 2.0.0 ------ Zahak-windows-amd64-10.0-avx
+Coiled 1.1 x64 ------ TucanoNN_FIXED
+Clover.3.2-avx2 ------ Strelka6
+Koivisto_9x64-windows-avx2 ------ RubiChess 20221203 (bmi2)
+Houdini_6.0.2_Pro_x64-pext ------ Schooner 2.2 NON-POPCNT
+Halogen11-pext-avx2 ------ Scorpio
+Caissa_x64_BMI2 ------ Seer 2.6.0
+Igel-x64_bmi2_avx2_3_0_5 ------ SlowChess Blitz 2.9 avx2
+Laser-1_7-BMI2 ------ Rebel-16-avx2
+Pedone_win_bmi2 ------ Rick48
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ rofChade 3.0 BMI2 AVX2
+Marvin 6.1.0 ------ Minic 3.33
+Andscacs ------ Uralochka v3.39d
+DON 230416.64 ------ Devre 4.0
+Arasanx-23.3-64-avx2 ------ Little Goliath
+asmFishWCP_2019-10-16_bmi2 ------ Stockfish dev-20230123-596a528c
+BlackCore v6.0 ------ Stash v34.0
+Booot7_popcnt ------ Ethereal-13.88-Plus-NNUE-avx2
+EngineDeepShredder13UCIx64 ------ Lc0
+Alexandria-3.1.0 ------ Toga IV 1.1
+Counter-5.0-windows-amd64 ------ gogobello 3.0
+Expo-skylake-skylake ------ Fritz 18 NNUE AVX2
+Allie_v0.8-dev_8e93f68_20200812 ------ Fire_8.NN.MC.3_x64_bmi2
+Berserk-10-dev-02-11-avx2-pext ------ Fat Fritz 3
+Dragon 3.2 by Komodo Chess 64-bit ------ Ultron 4.0
+Defenchess_23dev4 ------ Velvet-x86_64-avx2
+Darktoga_avx2 ------ Wasp-windows-avx
+Combusken 2.0.0 ------ Weiss-pext
+Coiled 1.1 x64 ------ Xiphos 0.6.1 BMI2
+Clover.3.2-avx2 ------ Zahak-windows-amd64-10.0-avx
+Koivisto_9x64-windows-avx2 ------ TucanoNN_FIXED
+Houdini_6.0.2_Pro_x64-pext ------ Strelka6
+Halogen11-pext-avx2 ------ RubiChess 20221203 (bmi2)
+Caissa_x64_BMI2 ------ Schooner 2.2 NON-POPCNT
+Igel-x64_bmi2_avx2_3_0_5 ------ Scorpio
+Laser-1_7-BMI2 ------ Seer 2.6.0
+Pedone_win_bmi2 ------ SlowChess Blitz 2.9 avx2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Rebel-16-avx2
+Minic 3.33 ------ Rick48
+Marvin 6.1.0 ------ rofChade 3.0 BMI2 AVX2
+Devre 4.0 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Arasanx-23.3-64-avx2
+asmFishWCP_2019-10-16_bmi2 ------ DON 230416.64
+BlackCore v6.0 ------ Little Goliath
+Booot7_popcnt ------ Stockfish dev-20230123-596a528c
+EngineDeepShredder13UCIx64 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Toga IV 1.1
+gogobello 3.0 ------ Lc0
+Alexandria-3.1.0 ------ Fritz 18 NNUE AVX2
+Counter-5.0-windows-amd64 ------ Fire_8.NN.MC.3_x64_bmi2
+Expo-skylake-skylake ------ Fat Fritz 3
+Allie_v0.8-dev_8e93f68_20200812 ------ Dragon 3.2 by Komodo Chess 64-bit
+Berserk-10-dev-02-11-avx2-pext ------ Defenchess_23dev4
+Darktoga_avx2 ------ Ultron 4.0
+Combusken 2.0.0 ------ Velvet-x86_64-avx2
+Coiled 1.1 x64 ------ Wasp-windows-avx
+Clover.3.2-avx2 ------ Weiss-pext
+Koivisto_9x64-windows-avx2 ------ Xiphos 0.6.1 BMI2
+Houdini_6.0.2_Pro_x64-pext ------ Zahak-windows-amd64-10.0-avx
+Halogen11-pext-avx2 ------ TucanoNN_FIXED
+Caissa_x64_BMI2 ------ Strelka6
+Igel-x64_bmi2_avx2_3_0_5 ------ RubiChess 20221203 (bmi2)
+Laser-1_7-BMI2 ------ Schooner 2.2 NON-POPCNT
+Pedone_win_bmi2 ------ Scorpio
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Seer 2.6.0
+Minic 3.33 ------ SlowChess Blitz 2.9 avx2
+Marvin 6.1.0 ------ Rebel-16-avx2
+Rick48 ------ rofChade 3.0 BMI2 AVX2
+Arasanx-23.3-64-avx2 ------ Uralochka v3.39d
+asmFishWCP_2019-10-16_bmi2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ BlackCore v6.0
+Booot7_popcnt ------ DON 230416.64
+EngineDeepShredder13UCIx64 ------ Little Goliath
+Stockfish dev-20230123-596a528c ------ Toga IV 1.1
+gogobello 3.0 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Fritz 18 NNUE AVX2
+Fire_8.NN.MC.3_x64_bmi2 ------ Lc0
+Alexandria-3.1.0 ------ Fat Fritz 3
+Counter-5.0-windows-amd64 ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Expo-skylake-skylake
+Allie_v0.8-dev_8e93f68_20200812 ------ Darktoga_avx2
+Berserk-10-dev-02-11-avx2-pext ------ Combusken 2.0.0
+Coiled 1.1 x64 ------ Ultron 4.0
+Clover.3.2-avx2 ------ Velvet-x86_64-avx2
+Koivisto_9x64-windows-avx2 ------ Wasp-windows-avx
+Houdini_6.0.2_Pro_x64-pext ------ Weiss-pext
+Allie_v0.8-dev_8e93f68_20200812 ------ Expo-skylake-skylake
+Berserk-10-dev-02-11-avx2-pext ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Ultron 4.0
+Lc0 ------ Velvet-x86_64-avx2
+Ethereal-13.88-Plus-NNUE-avx2 ------ Wasp-windows-avx
+Stash v34.0 ------ Weiss-pext
+Stockfish dev-20230123-596a528c ------ Xiphos 0.6.1 BMI2
+Little Goliath ------ Zahak-windows-amd64-10.0-avx
+DON 230416.64 ------ TucanoNN_FIXED
+Andscacs ------ Strelka6
+RubiChess 20221203 (bmi2) ------ Smallbrain6.0-x86-64-bmi2
+Schooner 2.2 NON-POPCNT ------ Uralochka v3.39d
+Devre 4.0 ------ Scorpio
+Arasanx-23.3-64-avx2 ------ Seer 2.6.0
+asmFishWCP_2019-10-16_bmi2 ------ SlowChess Blitz 2.9 avx2
+BlackCore v6.0 ------ Rebel-16-avx2
+Booot7_popcnt ------ Rick48
+EngineDeepShredder13UCIx64 ------ rofChade 3.0 BMI2 AVX2
+Marvin 6.1.0 ------ Toga IV 1.1
+gogobello 3.0 ------ Minic 3.33
+Fritz 18 NNUE AVX2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Fire_8.NN.MC.3_x64_bmi2 ------ Pedone_win_bmi2
+Fat Fritz 3 ------ Laser-1_7-BMI2
+Dragon 3.2 by Komodo Chess 64-bit ------ Igel-x64_bmi2_avx2_3_0_5
+Defenchess_23dev4 ------ Halogen11-pext-avx2
+Darktoga_avx2 ------ Houdini_6.0.2_Pro_x64-pext
+Combusken 2.0.0 ------ Koivisto_9x64-windows-avx2
+Clover.3.2-avx2 ------ Coiled 1.1 x64
+Caissa_1.5_AVX2_BMI2 ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Allie_v0.8-dev_8e93f68_20200812
+Berserk-10-dev-02-11-avx2-pext ------ Lc0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Ultron 4.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Caissa_1.5_AVX2_BMI2
+Berserk-10-dev-02-11-avx2-pext ------ Expo-skylake-skylake
+Counter-5.0-windows-amd64 ------ Ultron 4.0
+Alexandria-3.1.0 ------ Velvet-x86_64-avx2
+Lc0 ------ Wasp-windows-avx
+Ethereal-13.88-Plus-NNUE-avx2 ------ Weiss-pext
+Stash v34.0 ------ Xiphos 0.6.1 BMI2
+Stockfish dev-20230123-596a528c ------ Zahak-windows-amd64-10.0-avx
+Little Goliath ------ TucanoNN_FIXED
+DON 230416.64 ------ Strelka6
+Andscacs ------ RubiChess 20221203 (bmi2)
+Schooner 2.2 NON-POPCNT ------ Smallbrain6.0-x86-64-bmi2
+Scorpio ------ Uralochka v3.39d
+Devre 4.0 ------ Seer 2.6.0
+Arasanx-23.3-64-avx2 ------ SlowChess Blitz 2.9 avx2
+asmFishWCP_2019-10-16_bmi2 ------ Rebel-16-avx2
+BlackCore v6.0 ------ Rick48
+Booot7_popcnt ------ rofChade 3.0 BMI2 AVX2
+EngineDeepShredder13UCIx64 ------ Marvin 6.1.0
+Minic 3.33 ------ Toga IV 1.1
+gogobello 3.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Fritz 18 NNUE AVX2 ------ Pedone_win_bmi2
+Fire_8.NN.MC.3_x64_bmi2 ------ Laser-1_7-BMI2
+Fat Fritz 3 ------ Halogen11-pext-avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Houdini_6.0.2_Pro_x64-pext
+Defenchess_23dev4 ------ Koivisto_9x64-windows-avx2
+Clover.3.2-avx2 ------ Darktoga_avx2
+Coiled 1.1 x64 ------ Combusken 2.0.0
+Expo-skylake-skylake ------ Igel-x64_bmi2_avx2_3_3_0
+Alexandria-3.1.0 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Lc0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Stash v34.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Stockfish dev-20230123-596a528c
+Caissa_1.5_AVX2_BMI2 ------ Little Goliath
+DON 230416.64 ------ Igel-x64_bmi2_avx2_3_3_0
+Andscacs ------ Caissa_1.5_AVX2_BMI2
+Igel-x64_bmi2_avx2_3_3_0 ------ Smallbrain6.0-x86-64-bmi2
+Caissa_1.5_AVX2_BMI2 ------ Uralochka v3.39d
+Devre 4.0 ------ Igel-x64_bmi2_avx2_3_3_0
+Arasanx-23.3-64-avx2 ------ Caissa_1.5_AVX2_BMI2
+asmFishWCP_2019-10-16_bmi2 ------ Igel-x64_bmi2_avx2_3_3_0
+BlackCore v6.0 ------ Caissa_1.5_AVX2_BMI2
+Booot7_popcnt ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ EngineDeepShredder13UCIx64
+Igel-x64_bmi2_avx2_3_3_0 ------ Toga IV 1.1
+Caissa_1.5_AVX2_BMI2 ------ gogobello 3.0
+Fritz 18 NNUE AVX2 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Fire_8.NN.MC.3_x64_bmi2
+Fat Fritz 3 ------ Igel-x64_bmi2_avx2_3_3_0
+Laser-1_7-BMI2 ------ Strelka6
+Pedone_win_bmi2 ------ RubiChess 20221203 (bmi2)
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Schooner 2.2 NON-POPCNT
+Minic 3.33 ------ Scorpio
+Marvin 6.1.0 ------ Seer 2.6.0
+rofChade 3.0 BMI2 AVX2 ------ SlowChess Blitz 2.9 avx2
+Rebel-16-avx2 ------ Rick48
+Caissa_1.5_AVX2_BMI2 ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Igel-x64_bmi2_avx2_3_3_0
+Halogen11-pext-avx2 ------ Xiphos 0.6.1 BMI2
+Laser-1_7-BMI2 ------ Zahak-windows-amd64-10.0-avx
+Pedone_win_bmi2 ------ TucanoNN_FIXED
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Strelka6
+Minic 3.33 ------ RubiChess 20221203 (bmi2)
+Marvin 6.1.0 ------ Schooner 2.2 NON-POPCNT
+rofChade 3.0 BMI2 AVX2 ------ Scorpio
+Rick48 ------ Seer 2.6.0
+Rebel-16-avx2 ------ SlowChess Blitz 2.9 avx2
+Caissa_1.5_AVX2_BMI2 ------ Darktoga_avx2
+Combusken 2.0.0 ------ Igel-x64_bmi2_avx2_3_3_0
+Allie_v0.8-dev_8e93f68_20200812 ------ Coiled 1.1 x64
+Berserk-10-dev-02-11-avx2-pext ------ Clover.3.2-avx2
+Koivisto_9x64-windows-avx2 ------ Ultron 4.0
+Houdini_6.0.2_Pro_x64-pext ------ Velvet-x86_64-avx2
+Halogen11-pext-avx2 ------ Wasp-windows-avx
+Laser-1_7-BMI2 ------ Weiss-pext
+Pedone_win_bmi2 ------ Xiphos 0.6.1 BMI2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Zahak-windows-amd64-10.0-avx
+Minic 3.33 ------ TucanoNN_FIXED
+Marvin 6.1.0 ------ Strelka6
+rofChade 3.0 BMI2 AVX2 ------ RubiChess 20221203 (bmi2)
+Rick48 ------ Schooner 2.2 NON-POPCNT
+Rebel-16-avx2 ------ Scorpio
+Seer 2.6.0 ------ SlowChess Blitz 2.9 avx2
+asmFishWCP_2019-10-16_bmi2 ------ Devre 4.0
+BlackCore v6.0 ------ Uralochka v3.39d
+Booot7_popcnt ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ EngineDeepShredder13UCIx64
+DON 230416.64 ------ Toga IV 1.1
+gogobello 3.0 ------ Little Goliath
+Fritz 18 NNUE AVX2 ------ Stockfish dev-20230123-596a528c
+Fire_8.NN.MC.3_x64_bmi2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Fat Fritz 3
+Dragon 3.2 by Komodo Chess 64-bit ------ Lc0
+Alexandria-3.1.0 ------ Defenchess_23dev4
+Counter-5.0-windows-amd64 ------ Darktoga_avx2
+Combusken 2.0.0 ------ Expo-skylake-skylake
+Caissa_1.5_AVX2_BMI2 ------ Coiled 1.1 x64
+Clover.3.2-avx2 ------ Igel-x64_bmi2_avx2_3_3_0
+Allie_v0.8-dev_8e93f68_20200812 ------ Koivisto_9x64-windows-avx2
+Berserk-10-dev-02-11-avx2-pext ------ Houdini_6.0.2_Pro_x64-pext
+Halogen11-pext-avx2 ------ Ultron 4.0
+Laser-1_7-BMI2 ------ Velvet-x86_64-avx2
+Pedone_win_bmi2 ------ Wasp-windows-avx
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Weiss-pext
+Minic 3.33 ------ Xiphos 0.6.1 BMI2
+Marvin 6.1.0 ------ Zahak-windows-amd64-10.0-avx
+rofChade 3.0 BMI2 AVX2 ------ TucanoNN_FIXED
+Rick48 ------ Strelka6
+Rebel-16-avx2 ------ RubiChess 20221203 (bmi2)
+Schooner 2.2 NON-POPCNT ------ SlowChess Blitz 2.9 avx2
+Scorpio ------ Seer 2.6.0
+Arasanx-23.3-64-avx2 ------ BlackCore v6.0
+Booot7_popcnt ------ Devre 4.0
+EngineDeepShredder13UCIx64 ------ Uralochka v3.39d
+Smallbrain6.0-x86-64-bmi2 ------ Toga IV 1.1
+Andscacs ------ gogobello 3.0
+DON 230416.64 ------ Fritz 18 NNUE AVX2
+Fire_8.NN.MC.3_x64_bmi2 ------ Little Goliath
+Fat Fritz 3 ------ Stockfish dev-20230123-596a528c
+Dragon 3.2 by Komodo Chess 64-bit ------ Stash v34.0
+Defenchess_23dev4 ------ Ethereal-13.88-Plus-NNUE-avx2
+Darktoga_avx2 ------ Lc0
+Alexandria-3.1.0 ------ Combusken 2.0.0
+Coiled 1.1 x64 ------ Counter-5.0-windows-amd64
+Clover.3.2-avx2 ------ Expo-skylake-skylake
+Caissa_1.5_AVX2_BMI2 ------ Koivisto_9x64-windows-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Igel-x64_bmi2_avx2_3_3_0
+Allie_v0.8-dev_8e93f68_20200812 ------ Halogen11-pext-avx2
+Berserk-10-dev-02-11-avx2-pext ------ Laser-1_7-BMI2
+Pedone_win_bmi2 ------ Ultron 4.0
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Velvet-x86_64-avx2
+Minic 3.33 ------ Wasp-windows-avx
+Marvin 6.1.0 ------ Weiss-pext
+rofChade 3.0 BMI2 AVX2 ------ Xiphos 0.6.1 BMI2
+Rick48 ------ Zahak-windows-amd64-10.0-avx
+Rebel-16-avx2 ------ TucanoNN_FIXED
+SlowChess Blitz 2.9 avx2 ------ Strelka6
+RubiChess 20221203 (bmi2) ------ Seer 2.6.0
+Schooner 2.2 NON-POPCNT ------ Scorpio
+asmFishWCP_2019-10-16_bmi2 ------ Booot7_popcnt
+Arasanx-23.3-64-avx2 ------ EngineDeepShredder13UCIx64
+Devre 4.0 ------ Toga IV 1.1
+gogobello 3.0 ------ Uralochka v3.39d
+Fritz 18 NNUE AVX2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Fire_8.NN.MC.3_x64_bmi2
+DON 230416.64 ------ Fat Fritz 3
+Dragon 3.2 by Komodo Chess 64-bit ------ Little Goliath
+Defenchess_23dev4 ------ Stockfish dev-20230123-596a528c
+Darktoga_avx2 ------ Stash v34.0
+Combusken 2.0.0 ------ Ethereal-13.88-Plus-NNUE-avx2
+Coiled 1.1 x64 ------ Lc0
+Alexandria-3.1.0 ------ Clover.3.2-avx2
+Counter-5.0-windows-amd64 ------ Koivisto_9x64-windows-avx2
+Expo-skylake-skylake ------ Houdini_6.0.2_Pro_x64-pext
+Caissa_1.5_AVX2_BMI2 ------ Halogen11-pext-avx2
+Igel-x64_bmi2_avx2_3_3_0 ------ Laser-1_7-BMI2
+Allie_v0.8-dev_8e93f68_20200812 ------ Pedone_win_bmi2
+Berserk-10-dev-02-11-avx2-pext ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Minic 3.33 ------ Ultron 4.0
+Marvin 6.1.0 ------ Velvet-x86_64-avx2
+rofChade 3.0 BMI2 AVX2 ------ Wasp-windows-avx
+Rick48 ------ Weiss-pext
+Rebel-16-avx2 ------ Xiphos 0.6.1 BMI2
+SlowChess Blitz 2.9 avx2 ------ Zahak-windows-amd64-10.0-avx
+Seer 2.6.0 ------ TucanoNN_FIXED
+Scorpio ------ Strelka6
+RubiChess 20221203 (bmi2) ------ Schooner 2.2 NON-POPCNT
+BlackCore v6.0 ------ EngineDeepShredder13UCIx64
+asmFishWCP_2019-10-16_bmi2 ------ Toga IV 1.1
+Arasanx-23.3-64-avx2 ------ gogobello 3.0
+Devre 4.0 ------ Fritz 18 NNUE AVX2
+Fire_8.NN.MC.3_x64_bmi2 ------ Uralochka v3.39d
+Fat Fritz 3 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Dragon 3.2 by Komodo Chess 64-bit
+DON 230416.64 ------ Defenchess_23dev4
+Darktoga_avx2 ------ Little Goliath
+Combusken 2.0.0 ------ Stockfish dev-20230123-596a528c
+Coiled 1.1 x64 ------ Stash v34.0
+Clover.3.2-avx2 ------ Ethereal-13.88-Plus-NNUE-avx2
+Koivisto_9x64-windows-avx2 ------ Lc0
+Alexandria-3.1.0 ------ Houdini_6.0.2_Pro_x64-pext
+Counter-5.0-windows-amd64 ------ Halogen11-pext-avx2
+Expo-skylake-skylake ------ Laser-1_7-BMI2
+Caissa_1.5_AVX2_BMI2 ------ Pedone_win_bmi2
+Igel-x64_bmi2_avx2_3_3_0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Allie_v0.8-dev_8e93f68_20200812 ------ Minic 3.33
+Berserk-10-dev-02-11-avx2-pext ------ Marvin 6.1.0
+rofChade 3.0 BMI2 AVX2 ------ Ultron 4.0
+Rick48 ------ Velvet-x86_64-avx2
+Rebel-16-avx2 ------ Wasp-windows-avx
+SlowChess Blitz 2.9 avx2 ------ Weiss-pext
+Seer 2.6.0 ------ Xiphos 0.6.1 BMI2
+Scorpio ------ Zahak-windows-amd64-10.0-avx
+Schooner 2.2 NON-POPCNT ------ TucanoNN_FIXED
+RubiChess 20221203 (bmi2) ------ Strelka6
+Booot7_popcnt ------ Toga IV 1.1
+BlackCore v6.0 ------ gogobello 3.0
+asmFishWCP_2019-10-16_bmi2 ------ Fritz 18 NNUE AVX2
+Arasanx-23.3-64-avx2 ------ Fire_8.NN.MC.3_x64_bmi2
+Devre 4.0 ------ Fat Fritz 3
+Dragon 3.2 by Komodo Chess 64-bit ------ Uralochka v3.39d
+Defenchess_23dev4 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Darktoga_avx2
+Combusken 2.0.0 ------ DON 230416.64
+Coiled 1.1 x64 ------ Little Goliath
+Clover.3.2-avx2 ------ Stockfish dev-20230123-596a528c
+Koivisto_9x64-windows-avx2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Houdini_6.0.2_Pro_x64-pext
+Halogen11-pext-avx2 ------ Lc0
+Alexandria-3.1.0 ------ Laser-1_7-BMI2
+Counter-5.0-windows-amd64 ------ Pedone_win_bmi2
+Expo-skylake-skylake ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Caissa_1.5_AVX2_BMI2 ------ Minic 3.33
+Igel-x64_bmi2_avx2_3_3_0 ------ Marvin 6.1.0
+Allie_v0.8-dev_8e93f68_20200812 ------ rofChade 3.0 BMI2 AVX2
+Berserk-10-dev-02-11-avx2-pext ------ Rick48
+Rebel-16-avx2 ------ Ultron 4.0
+SlowChess Blitz 2.9 avx2 ------ Velvet-x86_64-avx2
+Seer 2.6.0 ------ Wasp-windows-avx
+Scorpio ------ Weiss-pext
+Schooner 2.2 NON-POPCNT ------ Xiphos 0.6.1 BMI2
+RubiChess 20221203 (bmi2) ------ Zahak-windows-amd64-10.0-avx
+Strelka6 ------ TucanoNN_FIXED
+EngineDeepShredder13UCIx64 ------ gogobello 3.0
+Booot7_popcnt ------ Fritz 18 NNUE AVX2
+BlackCore v6.0 ------ Fire_8.NN.MC.3_x64_bmi2
+asmFishWCP_2019-10-16_bmi2 ------ Fat Fritz 3
+Arasanx-23.3-64-avx2 ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Devre 4.0
+Darktoga_avx2 ------ Uralochka v3.39d
+Combusken 2.0.0 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Coiled 1.1 x64
+Clover.3.2-avx2 ------ DON 230416.64
+Koivisto_9x64-windows-avx2 ------ Little Goliath
+Houdini_6.0.2_Pro_x64-pext ------ Stockfish dev-20230123-596a528c
+Halogen11-pext-avx2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Laser-1_7-BMI2
+Lc0 ------ Pedone_win_bmi2
+Alexandria-3.1.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Counter-5.0-windows-amd64 ------ Minic 3.33
+Expo-skylake-skylake ------ Marvin 6.1.0
+Caissa_1.5_AVX2_BMI2 ------ rofChade 3.0 BMI2 AVX2
+Igel-x64_bmi2_avx2_3_3_0 ------ Rick48
+Allie_v0.8-dev_8e93f68_20200812 ------ Rebel-16-avx2
+Berserk-10-dev-02-11-avx2-pext ------ SlowChess Blitz 2.9 avx2
+Seer 2.6.0 ------ Ultron 4.0
+Scorpio ------ Velvet-x86_64-avx2
+Schooner 2.2 NON-POPCNT ------ Wasp-windows-avx
+RubiChess 20221203 (bmi2) ------ Weiss-pext
+Strelka6 ------ Xiphos 0.6.1 BMI2
+TucanoNN_FIXED ------ Zahak-windows-amd64-10.0-avx
+Fritz 18 NNUE AVX2 ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Fire_8.NN.MC.3_x64_bmi2
+Booot7_popcnt ------ Fat Fritz 3
+BlackCore v6.0 ------ Dragon 3.2 by Komodo Chess 64-bit
+asmFishWCP_2019-10-16_bmi2 ------ Defenchess_23dev4
+Arasanx-23.3-64-avx2 ------ Darktoga_avx2
+Combusken 2.0.0 ------ Devre 4.0
+Coiled 1.1 x64 ------ Uralochka v3.39d
+Clover.3.2-avx2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Koivisto_9x64-windows-avx2
+DON 230416.64 ------ Houdini_6.0.2_Pro_x64-pext
+Halogen11-pext-avx2 ------ Little Goliath
+Laser-1_7-BMI2 ------ Stockfish dev-20230123-596a528c
+Pedone_win_bmi2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Lc0 ------ Minic 3.33
+Alexandria-3.1.0 ------ Marvin 6.1.0
+Counter-5.0-windows-amd64 ------ rofChade 3.0 BMI2 AVX2
+Expo-skylake-skylake ------ Rick48
+Caissa_1.5_AVX2_BMI2 ------ Rebel-16-avx2
+Igel-x64_bmi2_avx2_3_3_0 ------ SlowChess Blitz 2.9 avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Seer 2.6.0
+Berserk-10-dev-02-11-avx2-pext ------ Scorpio
+Schooner 2.2 NON-POPCNT ------ Ultron 4.0
+RubiChess 20221203 (bmi2) ------ Velvet-x86_64-avx2
+Strelka6 ------ Wasp-windows-avx
+TucanoNN_FIXED ------ Weiss-pext
+Xiphos 0.6.1 BMI2 ------ Zahak-windows-amd64-10.0-avx
+Fire_8.NN.MC.3_x64_bmi2 ------ gogobello 3.0
+Fat Fritz 3 ------ Toga IV 1.1
+Dragon 3.2 by Komodo Chess 64-bit ------ EngineDeepShredder13UCIx64
+Booot7_popcnt ------ Defenchess_23dev4
+BlackCore v6.0 ------ Darktoga_avx2
+asmFishWCP_2019-10-16_bmi2 ------ Combusken 2.0.0
+Arasanx-23.3-64-avx2 ------ Coiled 1.1 x64
+Clover.3.2-avx2 ------ Devre 4.0
+Koivisto_9x64-windows-avx2 ------ Uralochka v3.39d
+Houdini_6.0.2_Pro_x64-pext ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Halogen11-pext-avx2
+DON 230416.64 ------ Laser-1_7-BMI2
+Little Goliath ------ Pedone_win_bmi2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Stockfish dev-20230123-596a528c
+Minic 3.33 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Marvin 6.1.0
+Lc0 ------ rofChade 3.0 BMI2 AVX2
+Alexandria-3.1.0 ------ Rick48
+Counter-5.0-windows-amd64 ------ Rebel-16-avx2
+Expo-skylake-skylake ------ SlowChess Blitz 2.9 avx2
+Caissa_1.5_AVX2_BMI2 ------ Seer 2.6.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Scorpio
+Allie_v0.8-dev_8e93f68_20200812 ------ Schooner 2.2 NON-POPCNT
+Berserk-10-dev-02-11-avx2-pext ------ RubiChess 20221203 (bmi2)
+Strelka6 ------ Ultron 4.0
+TucanoNN_FIXED ------ Velvet-x86_64-avx2
+Wasp-windows-avx ------ Zahak-windows-amd64-10.0-avx
+Weiss-pext ------ Xiphos 0.6.1 BMI2
+Fat Fritz 3 ------ Fritz 18 NNUE AVX2
+Dragon 3.2 by Komodo Chess 64-bit ------ gogobello 3.0
+Defenchess_23dev4 ------ Toga IV 1.1
+Darktoga_avx2 ------ EngineDeepShredder13UCIx64
+Booot7_popcnt ------ Combusken 2.0.0
+BlackCore v6.0 ------ Coiled 1.1 x64
+asmFishWCP_2019-10-16_bmi2 ------ Clover.3.2-avx2
+Arasanx-23.3-64-avx2 ------ Koivisto_9x64-windows-avx2
+Devre 4.0 ------ Houdini_6.0.2_Pro_x64-pext
+Halogen11-pext-avx2 ------ Uralochka v3.39d
+Laser-1_7-BMI2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Pedone_win_bmi2
+DON 230416.64 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Little Goliath ------ Minic 3.33
+Marvin 6.1.0 ------ Stockfish dev-20230123-596a528c
+rofChade 3.0 BMI2 AVX2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Rick48
+Lc0 ------ Rebel-16-avx2
+Alexandria-3.1.0 ------ SlowChess Blitz 2.9 avx2
+Counter-5.0-windows-amd64 ------ Seer 2.6.0
+Expo-skylake-skylake ------ Scorpio
+Caissa_1.5_AVX2_BMI2 ------ Schooner 2.2 NON-POPCNT
+Igel-x64_bmi2_avx2_3_3_0 ------ RubiChess 20221203 (bmi2)
+Allie_v0.8-dev_8e93f68_20200812 ------ Strelka6
+Berserk-10-dev-02-11-avx2-pext ------ TucanoNN_FIXED
+Ultron 4.0 ------ Zahak-windows-amd64-10.0-avx
+Velvet-x86_64-avx2 ------ Xiphos 0.6.1 BMI2
+Wasp-windows-avx ------ Weiss-pext
+Dragon 3.2 by Komodo Chess 64-bit ------ Fire_8.NN.MC.3_x64_bmi2
+Defenchess_23dev4 ------ Fritz 18 NNUE AVX2
+Darktoga_avx2 ------ gogobello 3.0
+Combusken 2.0.0 ------ Toga IV 1.1
+Coiled 1.1 x64 ------ EngineDeepShredder13UCIx64
+Booot7_popcnt ------ Clover.3.2-avx2
+BlackCore v6.0 ------ Koivisto_9x64-windows-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Houdini_6.0.2_Pro_x64-pext
+Arasanx-23.3-64-avx2 ------ Halogen11-pext-avx2
+Devre 4.0 ------ Laser-1_7-BMI2
+Pedone_win_bmi2 ------ Uralochka v3.39d
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Minic 3.33
+DON 230416.64 ------ Marvin 6.1.0
+Little Goliath ------ rofChade 3.0 BMI2 AVX2
+Rick48 ------ Stockfish dev-20230123-596a528c
+Rebel-16-avx2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ SlowChess Blitz 2.9 avx2
+Lc0 ------ Seer 2.6.0
+Alexandria-3.1.0 ------ Scorpio
+Counter-5.0-windows-amd64 ------ Schooner 2.2 NON-POPCNT
+Expo-skylake-skylake ------ RubiChess 20221203 (bmi2)
+Caissa_1.5_AVX2_BMI2 ------ Strelka6
+Igel-x64_bmi2_avx2_3_3_0 ------ TucanoNN_FIXED
+Allie_v0.8-dev_8e93f68_20200812 ------ Zahak-windows-amd64-10.0-avx
+Berserk-10-dev-02-11-avx2-pext ------ Xiphos 0.6.1 BMI2
+Ultron 4.0 ------ Weiss-pext
+Velvet-x86_64-avx2 ------ Wasp-windows-avx
+Defenchess_23dev4 ------ Fat Fritz 3
+Darktoga_avx2 ------ Fire_8.NN.MC.3_x64_bmi2
+Combusken 2.0.0 ------ Fritz 18 NNUE AVX2
+Coiled 1.1 x64 ------ gogobello 3.0
+Clover.3.2-avx2 ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Koivisto_9x64-windows-avx2
+Booot7_popcnt ------ Houdini_6.0.2_Pro_x64-pext
+BlackCore v6.0 ------ Halogen11-pext-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Laser-1_7-BMI2
+Arasanx-23.3-64-avx2 ------ Pedone_win_bmi2
+Devre 4.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Minic 3.33 ------ Uralochka v3.39d
+Marvin 6.1.0 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ rofChade 3.0 BMI2 AVX2
+DON 230416.64 ------ Rick48
+Little Goliath ------ Rebel-16-avx2
+SlowChess Blitz 2.9 avx2 ------ Stockfish dev-20230123-596a528c
+Seer 2.6.0 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Scorpio
+Lc0 ------ Schooner 2.2 NON-POPCNT
+Alexandria-3.1.0 ------ RubiChess 20221203 (bmi2)
+Counter-5.0-windows-amd64 ------ Strelka6
+Expo-skylake-skylake ------ TucanoNN_FIXED
+Caissa_1.5_AVX2_BMI2 ------ Zahak-windows-amd64-10.0-avx
+Igel-x64_bmi2_avx2_3_3_0 ------ Xiphos 0.6.1 BMI2
+Allie_v0.8-dev_8e93f68_20200812 ------ Weiss-pext
+Berserk-10-dev-02-11-avx2-pext ------ Wasp-windows-avx
+Ultron 4.0 ------ Velvet-x86_64-avx2
+Darktoga_avx2 ------ Dragon 3.2 by Komodo Chess 64-bit
+Combusken 2.0.0 ------ Fat Fritz 3
+Coiled 1.1 x64 ------ Fire_8.NN.MC.3_x64_bmi2
+Clover.3.2-avx2 ------ Fritz 18 NNUE AVX2
+gogobello 3.0 ------ Koivisto_9x64-windows-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Halogen11-pext-avx2
+Booot7_popcnt ------ Laser-1_7-BMI2
+BlackCore v6.0 ------ Pedone_win_bmi2
+asmFishWCP_2019-10-16_bmi2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Arasanx-23.3-64-avx2 ------ Minic 3.33
+Devre 4.0 ------ Marvin 6.1.0
+rofChade 3.0 BMI2 AVX2 ------ Uralochka v3.39d
+Rick48 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Rebel-16-avx2
+DON 230416.64 ------ SlowChess Blitz 2.9 avx2
+Little Goliath ------ Seer 2.6.0
+Scorpio ------ Stockfish dev-20230123-596a528c
+Schooner 2.2 NON-POPCNT ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ RubiChess 20221203 (bmi2)
+Lc0 ------ Strelka6
+Alexandria-3.1.0 ------ TucanoNN_FIXED
+Counter-5.0-windows-amd64 ------ Zahak-windows-amd64-10.0-avx
+Expo-skylake-skylake ------ Xiphos 0.6.1 BMI2
+Caissa_1.5_AVX2_BMI2 ------ Weiss-pext
+Igel-x64_bmi2_avx2_3_3_0 ------ Wasp-windows-avx
+Allie_v0.8-dev_8e93f68_20200812 ------ Velvet-x86_64-avx2
+Berserk-10-dev-02-11-avx2-pext ------ Ultron 4.0
+Combusken 2.0.0 ------ Defenchess_23dev4
+Coiled 1.1 x64 ------ Dragon 3.2 by Komodo Chess 64-bit
+Clover.3.2-avx2 ------ Fat Fritz 3
+Fire_8.NN.MC.3_x64_bmi2 ------ Koivisto_9x64-windows-avx2
+Fritz 18 NNUE AVX2 ------ Houdini_6.0.2_Pro_x64-pext
+gogobello 3.0 ------ Halogen11-pext-avx2
+Laser-1_7-BMI2 ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Pedone_win_bmi2
+Booot7_popcnt ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+BlackCore v6.0 ------ Minic 3.33
+asmFishWCP_2019-10-16_bmi2 ------ Marvin 6.1.0
+Arasanx-23.3-64-avx2 ------ rofChade 3.0 BMI2 AVX2
+Devre 4.0 ------ Rick48
+Rebel-16-avx2 ------ Uralochka v3.39d
+SlowChess Blitz 2.9 avx2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Seer 2.6.0
+DON 230416.64 ------ Scorpio
+Little Goliath ------ Schooner 2.2 NON-POPCNT
+RubiChess 20221203 (bmi2) ------ Stockfish dev-20230123-596a528c
+Stash v34.0 ------ Strelka6
+Ethereal-13.88-Plus-NNUE-avx2 ------ TucanoNN_FIXED
+Lc0 ------ Zahak-windows-amd64-10.0-avx
+Alexandria-3.1.0 ------ Xiphos 0.6.1 BMI2
+Counter-5.0-windows-amd64 ------ Weiss-pext
+Expo-skylake-skylake ------ Wasp-windows-avx
+Caissa_1.5_AVX2_BMI2 ------ Velvet-x86_64-avx2
+Igel-x64_bmi2_avx2_3_3_0 ------ Ultron 4.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Berserk-10-dev-02-11-avx2-pext
+Coiled 1.1 x64 ------ Darktoga_avx2
+Clover.3.2-avx2 ------ Defenchess_23dev4
+Dragon 3.2 by Komodo Chess 64-bit ------ Koivisto_9x64-windows-avx2
+Fat Fritz 3 ------ Houdini_6.0.2_Pro_x64-pext
+Fire_8.NN.MC.3_x64_bmi2 ------ Halogen11-pext-avx2
+Fritz 18 NNUE AVX2 ------ Laser-1_7-BMI2
+gogobello 3.0 ------ Pedone_win_bmi2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Minic 3.33
+Booot7_popcnt ------ Marvin 6.1.0
+BlackCore v6.0 ------ rofChade 3.0 BMI2 AVX2
+asmFishWCP_2019-10-16_bmi2 ------ Rick48
+Arasanx-23.3-64-avx2 ------ Rebel-16-avx2
+Devre 4.0 ------ SlowChess Blitz 2.9 avx2
+Seer 2.6.0 ------ Uralochka v3.39d
+Scorpio ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Schooner 2.2 NON-POPCNT
+DON 230416.64 ------ RubiChess 20221203 (bmi2)
+Little Goliath ------ Strelka6
+Stockfish dev-20230123-596a528c ------ TucanoNN_FIXED
+Stash v34.0 ------ Zahak-windows-amd64-10.0-avx
+Ethereal-13.88-Plus-NNUE-avx2 ------ Xiphos 0.6.1 BMI2
+Lc0 ------ Weiss-pext
+Alexandria-3.1.0 ------ Wasp-windows-avx
+Counter-5.0-windows-amd64 ------ Velvet-x86_64-avx2
+Expo-skylake-skylake ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Caissa_1.5_AVX2_BMI2
+Allie_v0.8-dev_8e93f68_20200812 ------ Igel-x64_bmi2_avx2_3_3_0
+Clover.3.2-avx2 ------ Combusken 2.0.0
+Darktoga_avx2 ------ Koivisto_9x64-windows-avx2
+Defenchess_23dev4 ------ Houdini_6.0.2_Pro_x64-pext
+Dragon 3.2 by Komodo Chess 64-bit ------ Halogen11-pext-avx2
+Caissa_1.5_AVX2_BMI2 ------ Igel-x64_bmi2_avx2_3_3_0
+Coiled 1.1 x64 ------ Koivisto_9x64-windows-avx2
+Combusken 2.0.0 ------ Houdini_6.0.2_Pro_x64-pext
+Darktoga_avx2 ------ Halogen11-pext-avx2
+Defenchess_23dev4 ------ Laser-1_7-BMI2
+Dragon 3.2 by Komodo Chess 64-bit ------ Pedone_win_bmi2
+Fat Fritz 3 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Fire_8.NN.MC.3_x64_bmi2 ------ Minic 3.33
+Fritz 18 NNUE AVX2 ------ Marvin 6.1.0
+gogobello 3.0 ------ rofChade 3.0 BMI2 AVX2
+Rick48 ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Rebel-16-avx2
+Booot7_popcnt ------ SlowChess Blitz 2.9 avx2
+BlackCore v6.0 ------ Seer 2.6.0
+asmFishWCP_2019-10-16_bmi2 ------ Scorpio
+Arasanx-23.3-64-avx2 ------ Schooner 2.2 NON-POPCNT
+Devre 4.0 ------ RubiChess 20221203 (bmi2)
+Strelka6 ------ Uralochka v3.39d
+Smallbrain6.0-x86-64-bmi2 ------ TucanoNN_FIXED
+Andscacs ------ Zahak-windows-amd64-10.0-avx
+DON 230416.64 ------ Xiphos 0.6.1 BMI2
+Little Goliath ------ Weiss-pext
+Stockfish dev-20230123-596a528c ------ Wasp-windows-avx
+Stash v34.0 ------ Velvet-x86_64-avx2
+Counter-5.0-windows-amd64 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Expo-skylake-skylake
+Clover.3.2-avx2 ------ Houdini_6.0.2_Pro_x64-pext
+Coiled 1.1 x64 ------ Halogen11-pext-avx2
+EngineDeepShredder13UCIx64 ------ Seer 2.6.0
+Booot7_popcnt ------ Scorpio
+BlackCore v6.0 ------ Schooner 2.2 NON-POPCNT
+asmFishWCP_2019-10-16_bmi2 ------ RubiChess 20221203 (bmi2)
+Arasanx-23.3-64-avx2 ------ Strelka6
+Devre 4.0 ------ TucanoNN_FIXED
+Uralochka v3.39d ------ Zahak-windows-amd64-10.0-avx
+Smallbrain6.0-x86-64-bmi2 ------ Xiphos 0.6.1 BMI2
+Andscacs ------ Weiss-pext
+DON 230416.64 ------ Wasp-windows-avx
+Little Goliath ------ Velvet-x86_64-avx2
+Stockfish dev-20230123-596a528c ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Stash v34.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Lc0
+Alexandria-3.1.0 ------ Caissa_1.5_AVX2_BMI2
+Counter-5.0-windows-amd64 ------ Expo-skylake-skylake
+Halogen11-pext-avx2 ------ Koivisto_9x64-windows-avx2
+EngineDeepShredder13UCIx64 ------ Schooner 2.2 NON-POPCNT
+Booot7_popcnt ------ RubiChess 20221203 (bmi2)
+BlackCore v6.0 ------ Strelka6
+asmFishWCP_2019-10-16_bmi2 ------ TucanoNN_FIXED
+Igel-x64_bmi2_avx2_3_3_0 ------ Stash v34.0
+Caissa_1.5_AVX2_BMI2 ------ Ethereal-13.88-Plus-NNUE-avx2
+Expo-skylake-skylake ------ Lc0
+Alexandria-3.1.0 ------ Counter-5.0-windows-amd64
+EngineDeepShredder13UCIx64 ------ Strelka6
+Allie_v0.8-dev_8e93f68_20200812 ------ BlackCore-bmi2-win
+Berserk-10-dev-02-11-avx2-pext ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Ultron 4.0
+Expo-skylake-skylake ------ Velvet-x86_64-avx2
+Counter-5.0-windows-amd64 ------ Wasp-windows-avx
+Alexandria-3.1.0 ------ Weiss-pext
+Lc0 ------ Xiphos 0.6.1 BMI2
+Ethereal-13.88-Plus-NNUE-avx2 ------ Zahak-windows-amd64-10.0-avx
+Stash v34.0 ------ TucanoNN_FIXED
+Stockfish dev-20230123-596a528c ------ Strelka6
+Little Goliath ------ RubiChess 20221203 (bmi2)
+DON 230416.64 ------ Schooner 2.2 NON-POPCNT
+Andscacs ------ Scorpio
+Seer 2.6.0 ------ Smallbrain6.0-x86-64-bmi2
+SlowChess Blitz 2.9 avx2 ------ Uralochka v3.39d
+Devre 4.0 ------ Rebel-16-avx2
+Arasanx-23.3-64-avx2 ------ Rick48
+asmFishWCP_2019-10-16_bmi2 ------ rofChade 3.0 BMI2 AVX2
+BlackCore v6.0 ------ Marvin 6.1.0
+Booot7_popcnt ------ Minic 3.33
+EngineDeepShredder13UCIx64 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Pedone_win_bmi2 ------ Toga IV 1.1
+gogobello 3.0 ------ Laser-1_7-BMI2
+Fritz 18 NNUE AVX2 ------ Halogen11-pext-avx2
+Fire_8.NN.MC.3_x64_bmi2 ------ Houdini_6.0.2_Pro_x64-pext
+Fat Fritz 3 ------ Koivisto_9x64-windows-avx2
+Clover.3.2-avx2 ------ Dragon 3.2 by Komodo Chess 64-bit
+Coiled 1.1 x64 ------ Defenchess_23dev4
+Combusken 2.0.0 ------ Darktoga_avx2
+Igel-x64_bmi2_avx2_3_3_0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Caissa_1.5_AVX2_BMI2
+Expo-skylake-skylake ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Lc0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Stash v34.0
+Stockfish dev-20230123-596a528c ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Little Goliath
+DON 230416.64 ------ Viridithas6.0.0-avx2
+Andscacs ------ BlackCore-bmi2-win
+Smallbrain6.0-x86-64-bmi2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Uralochka v3.39d
+Devre 4.0 ------ Viridithas6.0.0-avx2
+Arasanx-23.3-64-avx2 ------ BlackCore-bmi2-win
+asmFishWCP_2019-10-16_bmi2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ BlackCore v6.0
+Booot7_popcnt ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ EngineDeepShredder13UCIx64
+Toga IV 1.1 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ gogobello 3.0
+Fritz 18 NNUE AVX2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Fire_8.NN.MC.3_x64_bmi2
+Fat Fritz 3 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Darktoga_avx2
+Combusken 2.0.0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Coiled 1.1 x64
+Clover.3.2-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Koivisto_9x64-windows-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Halogen11-pext-avx2
+Laser-1_7-BMI2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Pedone_win_bmi2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Minic 3.33
+Marvin 6.1.0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ rofChade 3.0 BMI2 AVX2
+Rick48 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Rebel-16-avx2
+SlowChess Blitz 2.9 avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Seer 2.6.0
+Scorpio ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Schooner 2.2 NON-POPCNT
+RubiChess 20221203 (bmi2) ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Strelka6
+TucanoNN_FIXED ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Zahak-windows-amd64-10.0-avx
+Viridithas6.0.0-avx2 ------ Xiphos 0.6.1 BMI2
+BlackCore-bmi2-win ------ Weiss-pext
+Viridithas6.0.0-avx2 ------ Wasp-windows-avx
+BlackCore-bmi2-win ------ Velvet-x86_64-avx2
+Ultron 4.0 ------ Viridithas6.0.0-avx2
+Berserk-10-dev-02-11-avx2-pext ------ BlackCore-bmi2-win
+Allie_v0.8-dev_8e93f68_20200812 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Viridithas6.0.0-avx2
+Caissa_1.5_AVX2_BMI2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Igel-x64_bmi2_avx2_3_3_0
+Counter-5.0-windows-amd64 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Expo-skylake-skylake
+Lc0 ------ Viridithas6.0.0-avx2
+Alexandria-3.1.0 ------ BlackCore-bmi2-win
+Stash v34.0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Ethereal-13.88-Plus-NNUE-avx2
+Booot7_popcnt ------ TucanoNN_FIXED
+BlackCore v6.0 ------ Zahak-windows-amd64-10.0-avx
+asmFishWCP_2019-10-16_bmi2 ------ Xiphos 0.6.1 BMI2
+Little Goliath ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Stockfish dev-20230123-596a528c
+Halogen11-pext-avx2 ------ Pedone_win_bmi2
+Houdini_6.0.2_Pro_x64-pext ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Koivisto_9x64-windows-avx2 ------ Minic 3.33
+Clover.3.2-avx2 ------ Marvin 6.1.0
+Coiled 1.1 x64 ------ rofChade 3.0 BMI2 AVX2
+Combusken 2.0.0 ------ Rick48
+Darktoga_avx2 ------ Rebel-16-avx2
+Defenchess_23dev4 ------ SlowChess Blitz 2.9 avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Seer 2.6.0
+Fat Fritz 3 ------ Scorpio
+Fire_8.NN.MC.3_x64_bmi2 ------ Schooner 2.2 NON-POPCNT
+Fritz 18 NNUE AVX2 ------ RubiChess 20221203 (bmi2)
+gogobello 3.0 ------ Strelka6
+Toga IV 1.1 ------ TucanoNN_FIXED
+EngineDeepShredder13UCIx64 ------ Zahak-windows-amd64-10.0-avx
+Booot7_popcnt ------ Xiphos 0.6.1 BMI2
+BlackCore v6.0 ------ Weiss-pext
+asmFishWCP_2019-10-16_bmi2 ------ Wasp-windows-avx
+Andscacs ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ DON 230416.64
+Igel-x64_bmi2_avx2_3_3_0 ------ Little Goliath
+Caissa_1.5_AVX2_BMI2 ------ Stockfish dev-20230123-596a528c
+Expo-skylake-skylake ------ Stash v34.0
+Counter-5.0-windows-amd64 ------ Ethereal-13.88-Plus-NNUE-avx2
+Alexandria-3.1.0 ------ Lc0
+Laser-1_7-BMI2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Halogen11-pext-avx2 ------ Minic 3.33
+Houdini_6.0.2_Pro_x64-pext ------ Marvin 6.1.0
+Koivisto_9x64-windows-avx2 ------ rofChade 3.0 BMI2 AVX2
+Clover.3.2-avx2 ------ Rick48
+Coiled 1.1 x64 ------ Rebel-16-avx2
+Combusken 2.0.0 ------ SlowChess Blitz 2.9 avx2
+Darktoga_avx2 ------ Seer 2.6.0
+Defenchess_23dev4 ------ Scorpio
+Dragon 3.2 by Komodo Chess 64-bit ------ Schooner 2.2 NON-POPCNT
+Fat Fritz 3 ------ RubiChess 20221203 (bmi2)
+Fire_8.NN.MC.3_x64_bmi2 ------ Strelka6
+Fritz 18 NNUE AVX2 ------ TucanoNN_FIXED
+gogobello 3.0 ------ Zahak-windows-amd64-10.0-avx
+Toga IV 1.1 ------ Xiphos 0.6.1 BMI2
+EngineDeepShredder13UCIx64 ------ Weiss-pext
+Booot7_popcnt ------ Wasp-windows-avx
+BlackCore v6.0 ------ Velvet-x86_64-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Ultron 4.0
+Arasanx-23.3-64-avx2 ------ Berserk-10-dev-02-11-avx2-pext
+Allie_v0.8-dev_8e93f68_20200812 ------ Devre 4.0
+Uralochka v3.39d ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ DON 230416.64
+Expo-skylake-skylake ------ Little Goliath
+Counter-5.0-windows-amd64 ------ Stockfish dev-20230123-596a528c
+Alexandria-3.1.0 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Lc0
+Minic 3.33 ------ Pedone_win_bmi2
+Laser-1_7-BMI2 ------ Marvin 6.1.0
+Halogen11-pext-avx2 ------ rofChade 3.0 BMI2 AVX2
+Houdini_6.0.2_Pro_x64-pext ------ Rick48
+Koivisto_9x64-windows-avx2 ------ Rebel-16-avx2
+Clover.3.2-avx2 ------ SlowChess Blitz 2.9 avx2
+Coiled 1.1 x64 ------ Seer 2.6.0
+Combusken 2.0.0 ------ Scorpio
+Darktoga_avx2 ------ Schooner 2.2 NON-POPCNT
+Defenchess_23dev4 ------ RubiChess 20221203 (bmi2)
+Dragon 3.2 by Komodo Chess 64-bit ------ Strelka6
+Fat Fritz 3 ------ TucanoNN_FIXED
+Fire_8.NN.MC.3_x64_bmi2 ------ Zahak-windows-amd64-10.0-avx
+Fritz 18 NNUE AVX2 ------ Xiphos 0.6.1 BMI2
+gogobello 3.0 ------ Weiss-pext
+Toga IV 1.1 ------ Wasp-windows-avx
+EngineDeepShredder13UCIx64 ------ Velvet-x86_64-avx2
+Booot7_popcnt ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ BlackCore v6.0
+Allie_v0.8-dev_8e93f68_20200812 ------ asmFishWCP_2019-10-16_bmi2
+Arasanx-23.3-64-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Devre 4.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Uralochka v3.39d
+Caissa_1.5_AVX2_BMI2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Expo-skylake-skylake
+Counter-5.0-windows-amd64 ------ DON 230416.64
+Alexandria-3.1.0 ------ Little Goliath
+Lc0 ------ Stockfish dev-20230123-596a528c
+Ethereal-13.88-Plus-NNUE-avx2 ------ Stash v34.0
+Marvin 6.1.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Pedone_win_bmi2 ------ rofChade 3.0 BMI2 AVX2
+Laser-1_7-BMI2 ------ Rick48
+Halogen11-pext-avx2 ------ Rebel-16-avx2
+Houdini_6.0.2_Pro_x64-pext ------ SlowChess Blitz 2.9 avx2
+Koivisto_9x64-windows-avx2 ------ Seer 2.6.0
+Clover.3.2-avx2 ------ Scorpio
+Coiled 1.1 x64 ------ Schooner 2.2 NON-POPCNT
+Combusken 2.0.0 ------ RubiChess 20221203 (bmi2)
+Darktoga_avx2 ------ Strelka6
+Defenchess_23dev4 ------ TucanoNN_FIXED
+Dragon 3.2 by Komodo Chess 64-bit ------ Zahak-windows-amd64-10.0-avx
+Fat Fritz 3 ------ Xiphos 0.6.1 BMI2
+Fire_8.NN.MC.3_x64_bmi2 ------ Weiss-pext
+Fritz 18 NNUE AVX2 ------ Wasp-windows-avx
+gogobello 3.0 ------ Velvet-x86_64-avx2
+Toga IV 1.1 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ EngineDeepShredder13UCIx64
+Allie_v0.8-dev_8e93f68_20200812 ------ Booot7_popcnt
+BlackCore v6.0 ------ Viridithas6.0.0-avx2
+asmFishWCP_2019-10-16_bmi2 ------ BlackCore-bmi2-win
+Arasanx-23.3-64-avx2 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Devre 4.0
+Expo-skylake-skylake ------ Uralochka v3.39d
+Counter-5.0-windows-amd64 ------ Smallbrain6.0-x86-64-bmi2
+Alexandria-3.1.0 ------ Andscacs
+DON 230416.64 ------ Lc0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Little Goliath
+Stash v34.0 ------ Stockfish dev-20230123-596a528c
+Minic 3.33 ------ rofChade 3.0 BMI2 AVX2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Rick48
+Pedone_win_bmi2 ------ Rebel-16-avx2
+Laser-1_7-BMI2 ------ SlowChess Blitz 2.9 avx2
+Halogen11-pext-avx2 ------ Seer 2.6.0
+Houdini_6.0.2_Pro_x64-pext ------ Scorpio
+Koivisto_9x64-windows-avx2 ------ Schooner 2.2 NON-POPCNT
+Clover.3.2-avx2 ------ RubiChess 20221203 (bmi2)
+Coiled 1.1 x64 ------ Strelka6
+Combusken 2.0.0 ------ TucanoNN_FIXED
+Darktoga_avx2 ------ Zahak-windows-amd64-10.0-avx
+Defenchess_23dev4 ------ Xiphos 0.6.1 BMI2
+Dragon 3.2 by Komodo Chess 64-bit ------ Weiss-pext
+Fat Fritz 3 ------ Wasp-windows-avx
+Fire_8.NN.MC.3_x64_bmi2 ------ Velvet-x86_64-avx2
+Fritz 18 NNUE AVX2 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ gogobello 3.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Booot7_popcnt
+BlackCore v6.0 ------ Igel-x64_bmi2_avx2_3_3_0
+asmFishWCP_2019-10-16_bmi2 ------ Caissa_1.5_AVX2_BMI2
+Arasanx-23.3-64-avx2 ------ Expo-skylake-skylake
+Counter-5.0-windows-amd64 ------ Devre 4.0
+Alexandria-3.1.0 ------ Uralochka v3.39d
+Lc0 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Ethereal-13.88-Plus-NNUE-avx2
+DON 230416.64 ------ Stash v34.0
+Little Goliath ------ Stockfish dev-20230123-596a528c
+Marvin 6.1.0 ------ Rick48
+Minic 3.33 ------ Rebel-16-avx2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ SlowChess Blitz 2.9 avx2
+Pedone_win_bmi2 ------ Seer 2.6.0
+Laser-1_7-BMI2 ------ Scorpio
+Halogen11-pext-avx2 ------ Schooner 2.2 NON-POPCNT
+Houdini_6.0.2_Pro_x64-pext ------ RubiChess 20221203 (bmi2)
+Koivisto_9x64-windows-avx2 ------ Strelka6
+Clover.3.2-avx2 ------ TucanoNN_FIXED
+Coiled 1.1 x64 ------ Zahak-windows-amd64-10.0-avx
+Combusken 2.0.0 ------ Xiphos 0.6.1 BMI2
+Darktoga_avx2 ------ Weiss-pext
+Defenchess_23dev4 ------ Wasp-windows-avx
+Dragon 3.2 by Komodo Chess 64-bit ------ Velvet-x86_64-avx2
+Fat Fritz 3 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Fire_8.NN.MC.3_x64_bmi2
+Allie_v0.8-dev_8e93f68_20200812 ------ Fritz 18 NNUE AVX2
+gogobello 3.0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Igel-x64_bmi2_avx2_3_3_0
+Booot7_popcnt ------ Caissa_1.5_AVX2_BMI2
+BlackCore v6.0 ------ Expo-skylake-skylake
+asmFishWCP_2019-10-16_bmi2 ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Arasanx-23.3-64-avx2
+Devre 4.0 ------ Lc0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Uralochka v3.39d
+Smallbrain6.0-x86-64-bmi2 ------ Stash v34.0
+Andscacs ------ Stockfish dev-20230123-596a528c
+DON 230416.64 ------ Little Goliath
+Rebel-16-avx2 ------ rofChade 3.0 BMI2 AVX2
+Marvin 6.1.0 ------ SlowChess Blitz 2.9 avx2
+Minic 3.33 ------ Seer 2.6.0
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Scorpio
+Pedone_win_bmi2 ------ Schooner 2.2 NON-POPCNT
+Laser-1_7-BMI2 ------ RubiChess 20221203 (bmi2)
+Halogen11-pext-avx2 ------ Strelka6
+Houdini_6.0.2_Pro_x64-pext ------ TucanoNN_FIXED
+Koivisto_9x64-windows-avx2 ------ Zahak-windows-amd64-10.0-avx
+Clover.3.2-avx2 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Weiss-pext
+Combusken 2.0.0 ------ Wasp-windows-avx
+Darktoga_avx2 ------ Velvet-x86_64-avx2
+Defenchess_23dev4 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Dragon 3.2 by Komodo Chess 64-bit
+Allie_v0.8-dev_8e93f68_20200812 ------ Fat Fritz 3
+Fire_8.NN.MC.3_x64_bmi2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Fritz 18 NNUE AVX2
+gogobello 3.0 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Toga IV 1.1
+EngineDeepShredder13UCIx64 ------ Expo-skylake-skylake
+Booot7_popcnt ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ BlackCore v6.0
+asmFishWCP_2019-10-16_bmi2 ------ Lc0
+Arasanx-23.3-64-avx2 ------ Ethereal-13.88-Plus-NNUE-avx2
+Devre 4.0 ------ Stash v34.0
+Stockfish dev-20230123-596a528c ------ Uralochka v3.39d
+Little Goliath ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ DON 230416.64
+Rick48 ------ SlowChess Blitz 2.9 avx2
+rofChade 3.0 BMI2 AVX2 ------ Seer 2.6.0
+Marvin 6.1.0 ------ Scorpio
+Minic 3.33 ------ Schooner 2.2 NON-POPCNT
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ RubiChess 20221203 (bmi2)
+Pedone_win_bmi2 ------ Strelka6
+Laser-1_7-BMI2 ------ TucanoNN_FIXED
+Halogen11-pext-avx2 ------ Zahak-windows-amd64-10.0-avx
+Houdini_6.0.2_Pro_x64-pext ------ Xiphos 0.6.1 BMI2
+Koivisto_9x64-windows-avx2 ------ Weiss-pext
+Clover.3.2-avx2 ------ Wasp-windows-avx
+Coiled 1.1 x64 ------ Velvet-x86_64-avx2
+Combusken 2.0.0 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Darktoga_avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Defenchess_23dev4
+Dragon 3.2 by Komodo Chess 64-bit ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Fat Fritz 3
+Fire_8.NN.MC.3_x64_bmi2 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Fritz 18 NNUE AVX2
+Expo-skylake-skylake ------ gogobello 3.0
+Counter-5.0-windows-amd64 ------ Toga IV 1.1
+Alexandria-3.1.0 ------ EngineDeepShredder13UCIx64
+Booot7_popcnt ------ Lc0
+BlackCore-bmi2-win ------ Lc0.0.29
+Caissa_1.5_AVX2_BMI2 ------ Lc0.0.29
+Allie_v0.8-dev_8e93f68_20200812 ------ Arasan 23.4
+Berserk-10-dev-02-11-avx2-pext ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Ultron 4.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Velvet-x86_64-avx2
+Caissa_1.5_AVX2_BMI2 ------ Wasp-windows-avx
+Expo-skylake-skylake ------ Weiss-pext
+Counter-5.0-windows-amd64 ------ Xiphos 0.6.1 BMI2
+Alexandria-3.1.0 ------ Zahak-windows-amd64-10.0-avx
+Arasan 23.4 ------ BlackCore-bmi2-win
+Arasan 23.4 ------ Caissa_1.5_AVX2_BMI2
+Arasan 23.4 ------ Counter-5.0-windows-amd64
+Arasan 23.4 ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasan 23.4 ------ Stockfish dev-20230123-596a528c
+Arasan 23.4 ------ DON 230416.64
+Arasan 23.4 ------ Smallbrain6.0-x86-64-bmi2
+Arasan 23.4 ------ Devre 4.0
+Arasan 23.4 ------ BlackCore v6.0
+Arasan 23.4 ------ EngineDeepShredder13UCIx64
+Lc0 ------ Toga IV 1.1
+Arasan 23.4 ------ gogobello 3.0
+Fritz 18 NNUE AVX2 ------ Lc0
+Arasan 23.4 ------ Fire_8.NN.MC.3_x64_bmi2
+Fat Fritz 3 ------ Lc0
+asmFishWCP_2019-10-16_bmi2 ------ Stash v34.0
+BlackCore v6.0 ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasan 23.4 ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Lc0
+asmFishWCP_2019-10-16_bmi2 ------ Little Goliath
+BlackCore v6.0 ------ Stockfish dev-20230123-596a528c
+Booot7_popcnt ------ Stash v34.0
+EngineDeepShredder13UCIx64 ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasan 23.4 ------ Darktoga_avx2
+Combusken 2.0.0 ------ Lc0
+Andscacs ------ asmFishWCP_2019-10-16_bmi2
+BlackCore v6.0 ------ DON 230416.64
+Booot7_popcnt ------ Little Goliath
+EngineDeepShredder13UCIx64 ------ Stockfish dev-20230123-596a528c
+Stash v34.0 ------ Toga IV 1.1
+Ethereal-13.88-Plus-NNUE-avx2 ------ gogobello 3.0
+Arasan 23.4 ------ Coiled 1.1 x64
+Clover.3.2-avx2 ------ Lc0
+asmFishWCP_2019-10-16_bmi2 ------ Uralochka v3.39d
+BlackCore v6.0 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Booot7_popcnt
+DON 230416.64 ------ EngineDeepShredder13UCIx64
+Little Goliath ------ Toga IV 1.1
+gogobello 3.0 ------ Stockfish dev-20230123-596a528c
+Fritz 18 NNUE AVX2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Fire_8.NN.MC.3_x64_bmi2
+Arasan 23.4 ------ Koivisto_9x64-windows-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Lc0
+BlackCore v6.0 ------ Devre 4.0
+Booot7_popcnt ------ Uralochka v3.39d
+EngineDeepShredder13UCIx64 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Toga IV 1.1
+DON 230416.64 ------ gogobello 3.0
+Fritz 18 NNUE AVX2 ------ Little Goliath
+Fire_8.NN.MC.3_x64_bmi2 ------ Stockfish dev-20230123-596a528c
+Fat Fritz 3 ------ Stash v34.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasan 23.4 ------ Halogen11-pext-avx2
+Laser-1_7-BMI2 ------ Lc0
+Devre 4.0 ------ EngineDeepShredder13UCIx64
+Toga IV 1.1 ------ Uralochka v3.39d
+gogobello 3.0 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Fritz 18 NNUE AVX2
+DON 230416.64 ------ Fire_8.NN.MC.3_x64_bmi2
+Fat Fritz 3 ------ Little Goliath
+Dragon 3.2 by Komodo Chess 64-bit ------ Stockfish dev-20230123-596a528c
+Defenchess_23dev4 ------ Stash v34.0
+Darktoga_avx2 ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasan 23.4 ------ Pedone_win_bmi2
+Lc0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Devre 4.0 ------ gogobello 3.0
+Fritz 18 NNUE AVX2 ------ Uralochka v3.39d
+Fire_8.NN.MC.3_x64_bmi2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Fat Fritz 3
+DON 230416.64 ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Little Goliath
+Darktoga_avx2 ------ Stockfish dev-20230123-596a528c
+Combusken 2.0.0 ------ Stash v34.0
+Coiled 1.1 x64 ------ Ethereal-13.88-Plus-NNUE-avx2
+Arasan 23.4 ------ Minic 3.33
+Lc0 ------ Marvin 6.1.0
+Devre 4.0 ------ Fire_8.NN.MC.3_x64_bmi2
+Fat Fritz 3 ------ Uralochka v3.39d
+Dragon 3.2 by Komodo Chess 64-bit ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Defenchess_23dev4
+DON 230416.64 ------ Darktoga_avx2
+Combusken 2.0.0 ------ Little Goliath
+Coiled 1.1 x64 ------ Stockfish dev-20230123-596a528c
+Clover.3.2-avx2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Koivisto_9x64-windows-avx2
+Arasan 23.4 ------ rofChade 3.0 BMI2 AVX2
+Lc0 ------ Rick48
+Devre 4.0 ------ Dragon 3.2 by Komodo Chess 64-bit
+Defenchess_23dev4 ------ Uralochka v3.39d
+Darktoga_avx2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Combusken 2.0.0
+Coiled 1.1 x64 ------ DON 230416.64
+Clover.3.2-avx2 ------ Little Goliath
+Koivisto_9x64-windows-avx2 ------ Stockfish dev-20230123-596a528c
+Houdini_6.0.2_Pro_x64-pext ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Halogen11-pext-avx2
+Arasan 23.4 ------ Rebel-16-avx2
+Lc0 ------ SlowChess Blitz 2.9 avx2
+Darktoga_avx2 ------ Devre 4.0
+Combusken 2.0.0 ------ Uralochka v3.39d
+Coiled 1.1 x64 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Clover.3.2-avx2
+DON 230416.64 ------ Koivisto_9x64-windows-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Little Goliath
+Halogen11-pext-avx2 ------ Stockfish dev-20230123-596a528c
+Laser-1_7-BMI2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Pedone_win_bmi2
+Arasan 23.4 ------ Seer 2.6.0
+Lc0 ------ Scorpio
+Coiled 1.1 x64 ------ Devre 4.0
+Clover.3.2-avx2 ------ Uralochka v3.39d
+Koivisto_9x64-windows-avx2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Houdini_6.0.2_Pro_x64-pext
+DON 230416.64 ------ Halogen11-pext-avx2
+Laser-1_7-BMI2 ------ Little Goliath
+Pedone_win_bmi2 ------ Stockfish dev-20230123-596a528c
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Minic 3.33
+Arasan 23.4 ------ Schooner 2.2 NON-POPCNT
+Lc0 ------ RubiChess 20221203 (bmi2)
+Devre 4.0 ------ Koivisto_9x64-windows-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Uralochka v3.39d
+Halogen11-pext-avx2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Laser-1_7-BMI2
+DON 230416.64 ------ Pedone_win_bmi2
+Little Goliath ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Minic 3.33 ------ Stockfish dev-20230123-596a528c
+Marvin 6.1.0 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ rofChade 3.0 BMI2 AVX2
+Arasan 23.4 ------ Strelka6
+Lc0 ------ TucanoNN_FIXED
+Devre 4.0 ------ Halogen11-pext-avx2
+Laser-1_7-BMI2 ------ Uralochka v3.39d
+Pedone_win_bmi2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+DON 230416.64 ------ Minic 3.33
+Little Goliath ------ Marvin 6.1.0
+rofChade 3.0 BMI2 AVX2 ------ Stockfish dev-20230123-596a528c
+Rick48 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Rebel-16-avx2
+Arasan 23.4 ------ Zahak-windows-amd64-10.0-avx
+Devre 4.0 ------ Pedone_win_bmi2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Uralochka v3.39d
+Minic 3.33 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Marvin 6.1.0
+DON 230416.64 ------ rofChade 3.0 BMI2 AVX2
+Little Goliath ------ Rick48
+Rebel-16-avx2 ------ Stockfish dev-20230123-596a528c
+SlowChess Blitz 2.9 avx2 ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Seer 2.6.0
+Arasan 23.4 ------ Weiss-pext
+Devre 4.0 ------ Minic 3.33
+Marvin 6.1.0 ------ Uralochka v3.39d
+rofChade 3.0 BMI2 AVX2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ Rick48
+DON 230416.64 ------ Rebel-16-avx2
+Little Goliath ------ SlowChess Blitz 2.9 avx2
+Seer 2.6.0 ------ Stockfish dev-20230123-596a528c
+Scorpio ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Schooner 2.2 NON-POPCNT
+Arasan 23.4 ------ Velvet-x86_64-avx2
+Devre 4.0 ------ rofChade 3.0 BMI2 AVX2
+Rick48 ------ Uralochka v3.39d
+Rebel-16-avx2 ------ Smallbrain6.0-x86-64-bmi2
+Andscacs ------ SlowChess Blitz 2.9 avx2
+DON 230416.64 ------ Seer 2.6.0
+Little Goliath ------ Scorpio
+Schooner 2.2 NON-POPCNT ------ Stockfish dev-20230123-596a528c
+RubiChess 20221203 (bmi2) ------ Stash v34.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Strelka6
+Arasan 23.4 ------ Berserk-10-dev-02-11-avx2-pext
+Arasan 23.4 ------ Lc0
+Arasan 23.4 ------ Viridithas6.0.0-avx2
+Arasan 23.4 ------ Igel-x64_bmi2_avx2_3_3_0
+Arasan 23.4 ------ Expo-skylake-skylake
+Alexandria-3.1.0 ------ Arasan 23.4
+Arasan 23.4 ------ Stash v34.0
+Arasan 23.4 ------ Little Goliath
+Andscacs ------ Arasan 23.4
+Arasan 23.4 ------ Uralochka v3.39d
+Arasan 23.4 ------ asmFishWCP_2019-10-16_bmi2
+Arasan 23.4 ------ Booot7_popcnt
+Arasan 23.4 ------ Toga IV 1.1
+Arasan 23.4 ------ Fritz 18 NNUE AVX2
+Arasan 23.4 ------ Fat Fritz 3
+Rebel-16-avx2 ------ Seer 2.6.0
+Rick48 ------ Scorpio
+rofChade 3.0 BMI2 AVX2 ------ Schooner 2.2 NON-POPCNT
+Marvin 6.1.0 ------ RubiChess 20221203 (bmi2)
+Minic 3.33 ------ Strelka6
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ TucanoNN_FIXED
+Pedone_win_bmi2 ------ Zahak-windows-amd64-10.0-avx
+Laser-1_7-BMI2 ------ Xiphos 0.6.1 BMI2
+Halogen11-pext-avx2 ------ Weiss-pext
+Houdini_6.0.2_Pro_x64-pext ------ Wasp-windows-avx
+Koivisto_9x64-windows-avx2 ------ Velvet-x86_64-avx2
+Clover.3.2-avx2 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Coiled 1.1 x64
+Allie_v0.8-dev_8e93f68_20200812 ------ Combusken 2.0.0
+Arasan 23.4 ------ Defenchess_23dev4
+Devre 4.0 ------ Little Goliath
+DON 230416.64 ------ Uralochka v3.39d
+Andscacs ------ Smallbrain6.0-x86-64-bmi2
+Scorpio ------ SlowChess Blitz 2.9 avx2
+Rebel-16-avx2 ------ Schooner 2.2 NON-POPCNT
+Rick48 ------ RubiChess 20221203 (bmi2)
+rofChade 3.0 BMI2 AVX2 ------ Strelka6
+Marvin 6.1.0 ------ TucanoNN_FIXED
+Minic 3.33 ------ Zahak-windows-amd64-10.0-avx
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Xiphos 0.6.1 BMI2
+Pedone_win_bmi2 ------ Weiss-pext
+Laser-1_7-BMI2 ------ Wasp-windows-avx
+Halogen11-pext-avx2 ------ Velvet-x86_64-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Koivisto_9x64-windows-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Clover.3.2-avx2
+Arasan 23.4 ------ Combusken 2.0.0
+Darktoga_avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Defenchess_23dev4
+Dragon 3.2 by Komodo Chess 64-bit ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Fat Fritz 3
+Expo-skylake-skylake ------ Fire_8.NN.MC.3_x64_bmi2
+Counter-5.0-windows-amd64 ------ Fritz 18 NNUE AVX2
+Alexandria-3.1.0 ------ gogobello 3.0
+Andscacs ------ Devre 4.0
+Smallbrain6.0-x86-64-bmi2 ------ Uralochka v3.39d
+Schooner 2.2 NON-POPCNT ------ Seer 2.6.0
+RubiChess 20221203 (bmi2) ------ SlowChess Blitz 2.9 avx2
+Rebel-16-avx2 ------ Strelka6
+Rick48 ------ TucanoNN_FIXED
+rofChade 3.0 BMI2 AVX2 ------ Zahak-windows-amd64-10.0-avx
+Marvin 6.1.0 ------ Xiphos 0.6.1 BMI2
+Minic 3.33 ------ Weiss-pext
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Wasp-windows-avx
+Pedone_win_bmi2 ------ Velvet-x86_64-avx2
+Laser-1_7-BMI2 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Halogen11-pext-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Houdini_6.0.2_Pro_x64-pext
+Arasan 23.4 ------ Clover.3.2-avx2
+Coiled 1.1 x64 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Combusken 2.0.0
+Darktoga_avx2 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Defenchess_23dev4
+Dragon 3.2 by Komodo Chess 64-bit ------ Expo-skylake-skylake
+Counter-5.0-windows-amd64 ------ Fat Fritz 3
+Alexandria-3.1.0 ------ Fire_8.NN.MC.3_x64_bmi2
+Devre 4.0 ------ Uralochka v3.39d
+RubiChess 20221203 (bmi2) ------ Scorpio
+Seer 2.6.0 ------ Strelka6
+SlowChess Blitz 2.9 avx2 ------ TucanoNN_FIXED
+Rebel-16-avx2 ------ Zahak-windows-amd64-10.0-avx
+Rick48 ------ Xiphos 0.6.1 BMI2
+rofChade 3.0 BMI2 AVX2 ------ Weiss-pext
+Marvin 6.1.0 ------ Wasp-windows-avx
+Minic 3.33 ------ Velvet-x86_64-avx2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Pedone_win_bmi2
+Allie_v0.8-dev_8e93f68_20200812 ------ Laser-1_7-BMI2
+Arasan 23.4 ------ Houdini_6.0.2_Pro_x64-pext
+Koivisto_9x64-windows-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Clover.3.2-avx2
+Coiled 1.1 x64 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Combusken 2.0.0
+Darktoga_avx2 ------ Expo-skylake-skylake
+Counter-5.0-windows-amd64 ------ Defenchess_23dev4
+Alexandria-3.1.0 ------ Dragon 3.2 by Komodo Chess 64-bit
+Schooner 2.2 NON-POPCNT ------ Strelka6
+Scorpio ------ TucanoNN_FIXED
+Seer 2.6.0 ------ Zahak-windows-amd64-10.0-avx
+SlowChess Blitz 2.9 avx2 ------ Xiphos 0.6.1 BMI2
+Rebel-16-avx2 ------ Weiss-pext
+Rick48 ------ Wasp-windows-avx
+rofChade 3.0 BMI2 AVX2 ------ Velvet-x86_64-avx2
+Marvin 6.1.0 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Minic 3.33
+Allie_v0.8-dev_8e93f68_20200812 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Arasan 23.4 ------ Laser-1_7-BMI2
+Halogen11-pext-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Houdini_6.0.2_Pro_x64-pext
+Igel-x64_bmi2_avx2_3_3_0 ------ Koivisto_9x64-windows-avx2
+Caissa_1.5_AVX2_BMI2 ------ Clover.3.2-avx2
+Coiled 1.1 x64 ------ Expo-skylake-skylake
+Combusken 2.0.0 ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Darktoga_avx2
+asmFishWCP_2019-10-16_bmi2 ------ BlackCore v6.0
+RubiChess 20221203 (bmi2) ------ TucanoNN_FIXED
+Schooner 2.2 NON-POPCNT ------ Zahak-windows-amd64-10.0-avx
+Scorpio ------ Xiphos 0.6.1 BMI2
+Seer 2.6.0 ------ Weiss-pext
+SlowChess Blitz 2.9 avx2 ------ Wasp-windows-avx
+Rebel-16-avx2 ------ Velvet-x86_64-avx2
+Rick48 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ rofChade 3.0 BMI2 AVX2
+Allie_v0.8-dev_8e93f68_20200812 ------ Marvin 6.1.0
+Arasan 23.4 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Pedone_win_bmi2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Laser-1_7-BMI2
+Halogen11-pext-avx2 ------ Igel-x64_bmi2_avx2_3_3_0
+Caissa_1.5_AVX2_BMI2 ------ Houdini_6.0.2_Pro_x64-pext
+Expo-skylake-skylake ------ Koivisto_9x64-windows-avx2
+Clover.3.2-avx2 ------ Counter-5.0-windows-amd64
+Alexandria-3.1.0 ------ Coiled 1.1 x64
+asmFishWCP_2019-10-16_bmi2 ------ EngineDeepShredder13UCIx64
+BlackCore v6.0 ------ Booot7_popcnt
+Strelka6 ------ Zahak-windows-amd64-10.0-avx
+RubiChess 20221203 (bmi2) ------ Xiphos 0.6.1 BMI2
+Schooner 2.2 NON-POPCNT ------ Weiss-pext
+Scorpio ------ Wasp-windows-avx
+Seer 2.6.0 ------ Velvet-x86_64-avx2
+SlowChess Blitz 2.9 avx2 ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Rebel-16-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Rick48
+Arasan 23.4 ------ Marvin 6.1.0
+Minic 3.33 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Igel-x64_bmi2_avx2_3_3_0 ------ Pedone_win_bmi2
+Caissa_1.5_AVX2_BMI2 ------ Laser-1_7-BMI2
+Expo-skylake-skylake ------ Halogen11-pext-avx2
+Counter-5.0-windows-amd64 ------ Houdini_6.0.2_Pro_x64-pext
+Alexandria-3.1.0 ------ Koivisto_9x64-windows-avx2
+asmFishWCP_2019-10-16_bmi2 ------ gogobello 3.0
+BlackCore v6.0 ------ Toga IV 1.1
+Booot7_popcnt ------ EngineDeepShredder13UCIx64
+TucanoNN_FIXED ------ Xiphos 0.6.1 BMI2
+Strelka6 ------ Weiss-pext
+RubiChess 20221203 (bmi2) ------ Wasp-windows-avx
+Schooner 2.2 NON-POPCNT ------ Velvet-x86_64-avx2
+Scorpio ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Seer 2.6.0
+Allie_v0.8-dev_8e93f68_20200812 ------ SlowChess Blitz 2.9 avx2
+Arasan 23.4 ------ Rick48
+rofChade 3.0 BMI2 AVX2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Marvin 6.1.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Minic 3.33
+Caissa_1.5_AVX2_BMI2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Expo-skylake-skylake ------ Pedone_win_bmi2
+Counter-5.0-windows-amd64 ------ Laser-1_7-BMI2
+Alexandria-3.1.0 ------ Halogen11-pext-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Fire_8.NN.MC.3_x64_bmi2
+BlackCore v6.0 ------ Fritz 18 NNUE AVX2
+Booot7_popcnt ------ gogobello 3.0
+EngineDeepShredder13UCIx64 ------ Toga IV 1.1
+Weiss-pext ------ Zahak-windows-amd64-10.0-avx
+TucanoNN_FIXED ------ Wasp-windows-avx
+Strelka6 ------ Velvet-x86_64-avx2
+RubiChess 20221203 (bmi2) ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Schooner 2.2 NON-POPCNT
+Allie_v0.8-dev_8e93f68_20200812 ------ Scorpio
+Arasan 23.4 ------ SlowChess Blitz 2.9 avx2
+Rebel-16-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Rick48
+Igel-x64_bmi2_avx2_3_3_0 ------ rofChade 3.0 BMI2 AVX2
+Caissa_1.5_AVX2_BMI2 ------ Marvin 6.1.0
+Expo-skylake-skylake ------ Minic 3.33
+Counter-5.0-windows-amd64 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Alexandria-3.1.0 ------ Pedone_win_bmi2
+asmFishWCP_2019-10-16_bmi2 ------ Dragon 3.2 by Komodo Chess 64-bit
+BlackCore v6.0 ------ Fat Fritz 3
+Booot7_popcnt ------ Fire_8.NN.MC.3_x64_bmi2
+EngineDeepShredder13UCIx64 ------ Fritz 18 NNUE AVX2
+gogobello 3.0 ------ Toga IV 1.1
+Wasp-windows-avx ------ Xiphos 0.6.1 BMI2
+Velvet-x86_64-avx2 ------ Zahak-windows-amd64-10.0-avx
+TucanoNN_FIXED ------ Ultron 4.0
+Berserk-10-dev-02-11-avx2-pext ------ Strelka6
+Allie_v0.8-dev_8e93f68_20200812 ------ RubiChess 20221203 (bmi2)
+Arasan 23.4 ------ Scorpio
+Seer 2.6.0 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ SlowChess Blitz 2.9 avx2
+Igel-x64_bmi2_avx2_3_3_0 ------ Rebel-16-avx2
+Caissa_1.5_AVX2_BMI2 ------ Rick48
+Expo-skylake-skylake ------ rofChade 3.0 BMI2 AVX2
+Counter-5.0-windows-amd64 ------ Marvin 6.1.0
+Alexandria-3.1.0 ------ Minic 3.33
+asmFishWCP_2019-10-16_bmi2 ------ Darktoga_avx2
+BlackCore v6.0 ------ Defenchess_23dev4
+Booot7_popcnt ------ Dragon 3.2 by Komodo Chess 64-bit
+EngineDeepShredder13UCIx64 ------ Fat Fritz 3
+Fire_8.NN.MC.3_x64_bmi2 ------ Toga IV 1.1
+Fritz 18 NNUE AVX2 ------ gogobello 3.0
+Velvet-x86_64-avx2 ------ Weiss-pext
+Ultron 4.0 ------ Xiphos 0.6.1 BMI2
+Berserk-10-dev-02-11-avx2-pext ------ Zahak-windows-amd64-10.0-avx
+Allie_v0.8-dev_8e93f68_20200812 ------ TucanoNN_FIXED
+Arasan 23.4 ------ RubiChess 20221203 (bmi2)
+Schooner 2.2 NON-POPCNT ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Scorpio
+Igel-x64_bmi2_avx2_3_3_0 ------ Seer 2.6.0
+Caissa_1.5_AVX2_BMI2 ------ SlowChess Blitz 2.9 avx2
+Expo-skylake-skylake ------ Rebel-16-avx2
+Counter-5.0-windows-amd64 ------ Rick48
+Alexandria-3.1.0 ------ rofChade 3.0 BMI2 AVX2
+asmFishWCP_2019-10-16_bmi2 ------ Coiled 1.1 x64
+BlackCore v6.0 ------ Combusken 2.0.0
+Booot7_popcnt ------ Darktoga_avx2
+Defenchess_23dev4 ------ EngineDeepShredder13UCIx64
+Dragon 3.2 by Komodo Chess 64-bit ------ Toga IV 1.1
+Fat Fritz 3 ------ gogobello 3.0
+Fire_8.NN.MC.3_x64_bmi2 ------ Fritz 18 NNUE AVX2
+Ultron 4.0 ------ Wasp-windows-avx
+Berserk-10-dev-02-11-avx2-pext ------ Weiss-pext
+Allie_v0.8-dev_8e93f68_20200812 ------ Xiphos 0.6.1 BMI2
+Arasan 23.4 ------ TucanoNN_FIXED
+Strelka6 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ RubiChess 20221203 (bmi2)
+Igel-x64_bmi2_avx2_3_3_0 ------ Schooner 2.2 NON-POPCNT
+Caissa_1.5_AVX2_BMI2 ------ Scorpio
+Expo-skylake-skylake ------ Seer 2.6.0
+Counter-5.0-windows-amd64 ------ SlowChess Blitz 2.9 avx2
+Alexandria-3.1.0 ------ Rebel-16-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Koivisto_9x64-windows-avx2
+BlackCore v6.0 ------ Clover.3.2-avx2
+Booot7_popcnt ------ Coiled 1.1 x64
+Combusken 2.0.0 ------ EngineDeepShredder13UCIx64
+Darktoga_avx2 ------ Toga IV 1.1
+Defenchess_23dev4 ------ gogobello 3.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Fritz 18 NNUE AVX2
+Fat Fritz 3 ------ Fire_8.NN.MC.3_x64_bmi2
+Berserk-10-dev-02-11-avx2-pext ------ Velvet-x86_64-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Wasp-windows-avx
+Arasan 23.4 ------ Xiphos 0.6.1 BMI2
+Viridithas6.0.0-avx2 ------ Zahak-windows-amd64-10.0-avx
+BlackCore-bmi2-win ------ TucanoNN_FIXED
+Igel-x64_bmi2_avx2_3_3_0 ------ Strelka6
+Caissa_1.5_AVX2_BMI2 ------ RubiChess 20221203 (bmi2)
+Expo-skylake-skylake ------ Schooner 2.2 NON-POPCNT
+Counter-5.0-windows-amd64 ------ Scorpio
+Alexandria-3.1.0 ------ Seer 2.6.0
+asmFishWCP_2019-10-16_bmi2 ------ Halogen11-pext-avx2
+BlackCore v6.0 ------ Houdini_6.0.2_Pro_x64-pext
+Booot7_popcnt ------ Koivisto_9x64-windows-avx2
+Clover.3.2-avx2 ------ EngineDeepShredder13UCIx64
+Coiled 1.1 x64 ------ Toga IV 1.1
+Combusken 2.0.0 ------ gogobello 3.0
+Darktoga_avx2 ------ Fritz 18 NNUE AVX2
+Defenchess_23dev4 ------ Fire_8.NN.MC.3_x64_bmi2
+Dragon 3.2 by Komodo Chess 64-bit ------ Fat Fritz 3
+Allie_v0.8-dev_8e93f68_20200812 ------ Ultron 4.0
+Arasan 23.4 ------ Wasp-windows-avx
+Viridithas6.0.0-avx2 ------ Weiss-pext
+BlackCore-bmi2-win ------ Xiphos 0.6.1 BMI2
+Igel-x64_bmi2_avx2_3_3_0 ------ Zahak-windows-amd64-10.0-avx
+Caissa_1.5_AVX2_BMI2 ------ TucanoNN_FIXED
+Expo-skylake-skylake ------ Strelka6
+Counter-5.0-windows-amd64 ------ RubiChess 20221203 (bmi2)
+Alexandria-3.1.0 ------ Schooner 2.2 NON-POPCNT
+asmFishWCP_2019-10-16_bmi2 ------ Pedone_win_bmi2
+BlackCore v6.0 ------ Laser-1_7-BMI2
+Booot7_popcnt ------ Halogen11-pext-avx2
+EngineDeepShredder13UCIx64 ------ Houdini_6.0.2_Pro_x64-pext
+Koivisto_9x64-windows-avx2 ------ Toga IV 1.1
+Clover.3.2-avx2 ------ gogobello 3.0
+Coiled 1.1 x64 ------ Fritz 18 NNUE AVX2
+Combusken 2.0.0 ------ Fire_8.NN.MC.3_x64_bmi2
+Darktoga_avx2 ------ Fat Fritz 3
+Defenchess_23dev4 ------ Dragon 3.2 by Komodo Chess 64-bit
+Arasan 23.4 ------ Ultron 4.0
+Velvet-x86_64-avx2 ------ Viridithas6.0.0-avx2
+BlackCore-bmi2-win ------ Wasp-windows-avx
+Igel-x64_bmi2_avx2_3_3_0 ------ Weiss-pext
+Caissa_1.5_AVX2_BMI2 ------ Xiphos 0.6.1 BMI2
+Expo-skylake-skylake ------ Zahak-windows-amd64-10.0-avx
+Counter-5.0-windows-amd64 ------ TucanoNN_FIXED
+Alexandria-3.1.0 ------ Strelka6
+asmFishWCP_2019-10-16_bmi2 ------ Minic 3.33
+BlackCore v6.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Booot7_popcnt ------ Pedone_win_bmi2
+EngineDeepShredder13UCIx64 ------ Laser-1_7-BMI2
+Halogen11-pext-avx2 ------ Toga IV 1.1
+gogobello 3.0 ------ Houdini_6.0.2_Pro_x64-pext
+Fritz 18 NNUE AVX2 ------ Koivisto_9x64-windows-avx2
+Clover.3.2-avx2 ------ Fire_8.NN.MC.3_x64_bmi2
+Coiled 1.1 x64 ------ Fat Fritz 3
+Combusken 2.0.0 ------ Dragon 3.2 by Komodo Chess 64-bit
+Darktoga_avx2 ------ Defenchess_23dev4
+Combusken 2.0.0 ------ Frozenight 6.0.0 1b89891
+Frozenight 6.0.0 1b89891 ------ Zahak-windows-amd64-10.0-avx
+Frozenight 6.0.0 1b89891 ------ Weiss-pext
+Frozenight 6.0.0 1b89891 ------ gogobello 3.0
+Frozenight 6.0.0 1b89891 ------ Smallbrain6.0-x86-64-bmi2
+Frozenight 6.0.0 1b89891 ------ TucanoNN_FIXED
+Frozenight 6.0.0 1b89891 ------ Stockfish dev-20230123-596a528c
+Alexandria-3.1.0 ------ Tucano 10.00
+Expo-skylake-skylake ------ Tucano 10.00
+Stash v34.0 ------ Tucano 10.00
+Defenchess_23dev4 ------ Tucano 10.00
+DON 230416.64 ------ Tucano 10.00
+Halogen11-pext-avx2 ------ Tucano 10.00
+Allie_v0.8-dev_8e93f68_20200812 ------ Frozenight 6.0.0 1b89891
+Laser-1_7-BMI2 ------ Tucano 10.00
+Fritz 18 NNUE AVX2 ------ Frozenight 6.0.0 1b89891
+Schooner 2.2 NON-POPCNT ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Scorpio
+Tucano 10.00 ------ Wasp-windows-avx
+Frozenight 6.0.0 1b89891 ------ Xiphos 0.6.1 BMI2
+Toga IV 1.1 ------ Tucano 10.00
+Coiled 1.1 x64 ------ Frozenight 6.0.0 1b89891
+Marvin 6.1.0 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Velvet-x86_64-avx2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Houdini_6.0.2_Pro_x64-pext
+Rick48 ------ Tucano 10.00
+Caissa_1.5_AVX2_BMI2 ------ Frozenight 6.0.0 1b89891
+BlackCore v6.0 ------ Tucano 10.00
+Booot7_popcnt ------ Frozenight 6.0.0 1b89891
+Clover.3.2-avx2 ------ Tucano 10.00
+Ethereal-13.88-Plus-NNUE-avx2 ------ Frozenight 6.0.0 1b89891
+Devre 4.0 ------ Tucano 10.00
+asmFishWCP_2019-10-16_bmi2 ------ Frozenight 6.0.0 1b89891
+Pedone_win_bmi2 ------ Tucano 10.00
+Fire_8.NN.MC.3_x64_bmi2 ------ Frozenight 6.0.0 1b89891
+Arasan 23.4 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Lc0
+Seer 2.6.0 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ SlowChess Blitz 2.9 avx2
+Tucano 10.00 ------ Uralochka v3.39d
+Frozenight 6.0.0 1b89891 ------ rofChade 3.0 BMI2 AVX2
+Minic 3.33 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Igel-x64_bmi2_avx2_3_3_0
+Rebel-16-avx2 ------ Tucano 10.00
+Berserk-10-dev-02-11-avx2-pext ------ Frozenight 6.0.0 1b89891
+RubiChess 20221203 (bmi2) ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Koivisto_9x64-windows-avx2
+Fat Fritz 3 ------ Tucano 10.00
+Dragon 3.2 by Komodo Chess 64-bit ------ Frozenight 6.0.0 1b89891
+Stockfish dev-20230123-596a528c ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Tucano 10.00
+Combusken 2.0.0 ------ Tucano 10.00
+Alexandria-3.1.0 ------ Frozenight 6.0.0 1b89891
+Tucano 10.00 ------ Zahak-windows-amd64-10.0-avx
+Expo-skylake-skylake ------ Frozenight 6.0.0 1b89891
+Tucano 10.00 ------ Weiss-pext
+Frozenight 6.0.0 1b89891 ------ Stash v34.0
+gogobello 3.0 ------ Tucano 10.00
+Defenchess_23dev4 ------ Frozenight 6.0.0 1b89891
+Smallbrain6.0-x86-64-bmi2 ------ Tucano 10.00
+DON 230416.64 ------ Frozenight 6.0.0 1b89891
+Allie_v0.8-dev_8e93f68_20200812 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Halogen11-pext-avx2
+Fritz 18 NNUE AVX2 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Laser-1_7-BMI2
+Scorpio ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Schooner 2.2 NON-POPCNT
+Tucano 10.00 ------ Xiphos 0.6.1 BMI2
+Frozenight 6.0.0 1b89891 ------ Wasp-windows-avx
+Coiled 1.1 x64 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Toga IV 1.1
+Tucano 10.00 ------ Velvet-x86_64-avx2
+Frozenight 6.0.0 1b89891 ------ Marvin 6.1.0
+Houdini_6.0.2_Pro_x64-pext ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Caissa_1.5_AVX2_BMI2 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Rick48
+Booot7_popcnt ------ Tucano 10.00
+BlackCore v6.0 ------ Frozenight 6.0.0 1b89891
+Ethereal-13.88-Plus-NNUE-avx2 ------ Tucano 10.00
+Clover.3.2-avx2 ------ Frozenight 6.0.0 1b89891
+asmFishWCP_2019-10-16_bmi2 ------ Tucano 10.00
+Devre 4.0 ------ Frozenight 6.0.0 1b89891
+Fire_8.NN.MC.3_x64_bmi2 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Pedone_win_bmi2
+Lc0 ------ Tucano 10.00
+Arasan 23.4 ------ Frozenight 6.0.0 1b89891
+SlowChess Blitz 2.9 avx2 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Seer 2.6.0
+rofChade 3.0 BMI2 AVX2 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Uralochka v3.39d
+Igel-x64_bmi2_avx2_3_3_0 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Minic 3.33
+Berserk-10-dev-02-11-avx2-pext ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Rebel-16-avx2
+Koivisto_9x64-windows-avx2 ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ RubiChess 20221203 (bmi2)
+Dragon 3.2 by Komodo Chess 64-bit ------ Tucano 10.00
+Fat Fritz 3 ------ Frozenight 6.0.0 1b89891
+Frozenight 6.0.0 1b89891 ------ Zahak 10.0
+Combusken 2.0.0 ------ Zahak 10.0
+Stash v34.0 ------ Zahak 10.0
+Defenchess_23dev4 ------ Zahak 10.0
+DON 230416.64 ------ Zahak 10.0
+Halogen11-pext-avx2 ------ Zahak 10.0
+Laser-1_7-BMI2 ------ Zahak 10.0
+Schooner 2.2 NON-POPCNT ------ Zahak 10.0
+Wasp-windows-avx ------ Zahak 10.0
+Toga IV 1.1 ------ Zahak 10.0
+Marvin 6.1.0 ------ Zahak 10.0
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Zahak 10.0
+Rick48 ------ Zahak 10.0
+BlackCore v6.0 ------ Zahak 10.0
+Clover.3.2-avx2 ------ Zahak 10.0
+Devre 4.0 ------ Zahak 10.0
+Pedone_win_bmi2 ------ Zahak 10.0
+Arasan 23.4 ------ Zahak 10.0
+Seer 2.6.0 ------ Zahak 10.0
+Uralochka v3.39d ------ Zahak 10.0
+Minic 3.33 ------ Zahak 10.0
+Rebel-16-avx2 ------ Zahak 10.0
+RubiChess 20221203 (bmi2) ------ Zahak 10.0
+Fat Fritz 3 ------ Zahak 10.0
+Stockfish dev-20230123-596a528c ------ Zahak 10.0
+Tucano 10.00 ------ Zahak 10.0
+Alexandria-3.1.0 ------ Zahak 10.0
+Expo-skylake-skylake ------ Zahak 10.0
+Weiss-pext ------ Zahak 10.0
+gogobello 3.0 ------ Zahak 10.0
+Smallbrain6.0-x86-64-bmi2 ------ Zahak 10.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Zahak 10.0
+Fritz 18 NNUE AVX2 ------ Zahak 10.0
+Scorpio ------ Zahak 10.0
+Xiphos 0.6.1 BMI2 ------ Zahak 10.0
+Coiled 1.1 x64 ------ Zahak 10.0
+Velvet-x86_64-avx2 ------ Zahak 10.0
+Houdini_6.0.2_Pro_x64-pext ------ Zahak 10.0
+Caissa_1.5_AVX2_BMI2 ------ Zahak 10.0
+Booot7_popcnt ------ Zahak 10.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Zahak 10.0
+asmFishWCP_2019-10-16_bmi2 ------ Zahak 10.0
+Fire_8.NN.MC.3_x64_bmi2 ------ Zahak 10.0
+Lc0 ------ Zahak 10.0
+SlowChess Blitz 2.9 avx2 ------ Zahak 10.0
+rofChade 3.0 BMI2 AVX2 ------ Zahak 10.0
+Igel-x64_bmi2_avx2_3_3_0 ------ Zahak 10.0
+Berserk-10-dev-02-11-avx2-pext ------ Zahak 10.0
+Koivisto_9x64-windows-avx2 ------ Zahak 10.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Zahak 10.0
+Tucano 10.00 ------ Viridithas7.0.0-avx2
+Alexandria-3.1.0 ------ Viridithas7.0.0-avx2
+Expo-skylake-skylake ------ Viridithas7.0.0-avx2
+Viridithas7.0.0-avx2 ------ Weiss-pext
+DON 230416.64 ------ Viridithas7.0.0-avx2
+Halogen11-pext-avx2 ------ Viridithas7.0.0-avx2
+Laser-1_7-BMI2 ------ Viridithas7.0.0-avx2
+Schooner 2.2 NON-POPCNT ------ Viridithas7.0.0-avx2
+Viridithas7.0.0-avx2 ------ Wasp-windows-avx
+Toga IV 1.1 ------ Viridithas7.0.0-avx2
+Marvin 6.1.0 ------ Viridithas7.0.0-avx2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Viridithas7.0.0-avx2
+Rick48 ------ Viridithas7.0.0-avx2
+BlackCore v6.0 ------ Viridithas7.0.0-avx2
+Clover.3.2-avx2 ------ Viridithas7.0.0-avx2
+Devre 4.0 ------ Viridithas7.0.0-avx2
+Pedone_win_bmi2 ------ Viridithas7.0.0-avx2
+Arasan 23.4 ------ Viridithas7.0.0-avx2
+Seer 2.6.0 ------ Viridithas7.0.0-avx2
+Uralochka v3.39d ------ Viridithas7.0.0-avx2
+Minic 3.33 ------ Viridithas7.0.0-avx2
+Rebel-16-avx2 ------ Viridithas7.0.0-avx2
+RubiChess 20221203 (bmi2) ------ Viridithas7.0.0-avx2
+Fat Fritz 3 ------ Viridithas7.0.0-avx2
+Stockfish dev-20230123-596a528c ------ Viridithas7.0.0-avx2
+Viridithas7.0.0-avx2 ------ Zahak 10.0
+Frozenight 6.0.0 1b89891 ------ Viridithas7.0.0-avx2
+Combusken 2.0.0 ------ Viridithas7.0.0-avx2
+Stash v34.0 ------ Viridithas7.0.0-avx2
+gogobello 3.0 ------ Viridithas7.0.0-avx2
+Smallbrain6.0-x86-64-bmi2 ------ Viridithas7.0.0-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Viridithas7.0.0-avx2
+Fritz 18 NNUE AVX2 ------ Viridithas7.0.0-avx2
+Scorpio ------ Viridithas7.0.0-avx2
+Viridithas7.0.0-avx2 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Viridithas7.0.0-avx2
+Velvet-x86_64-avx2 ------ Viridithas7.0.0-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Viridithas7.0.0-avx2
+Caissa_1.5_AVX2_BMI2 ------ Viridithas7.0.0-avx2
+Booot7_popcnt ------ Viridithas7.0.0-avx2
+Ethereal-13.88-Plus-NNUE-avx2 ------ Viridithas7.0.0-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Viridithas7.0.0-avx2
+Fire_8.NN.MC.3_x64_bmi2 ------ Viridithas7.0.0-avx2
+Lc0 ------ Viridithas7.0.0-avx2
+SlowChess Blitz 2.9 avx2 ------ Viridithas7.0.0-avx2
+rofChade 3.0 BMI2 AVX2 ------ Viridithas7.0.0-avx2
+Igel-x64_bmi2_avx2_3_3_0 ------ Viridithas7.0.0-avx2
+Berserk-10-dev-02-11-avx2-pext ------ Viridithas7.0.0-avx2
+Koivisto_9x64-windows-avx2 ------ Viridithas7.0.0-avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Viridithas7.0.0-avx2
+Fire_8.NN.MC.3_x64_real ------ Zahak 10.0
+Fire_8.NN.MC.3_x64_real ------ Frozenight 6.0.0 1b89891
+Combusken 2.0.0 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Stash v34.0
+Fire_8.NN.MC.3_x64_real ------ gogobello 3.0
+Fire_8.NN.MC.3_x64_real ------ Smallbrain6.0-x86-64-bmi2
+Allie_v0.8-dev_8e93f68_20200812 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Fritz 18 NNUE AVX2
+Fire_8.NN.MC.3_x64_real ------ Scorpio
+Fire_8.NN.MC.3_x64_real ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Velvet-x86_64-avx2
+Fire_8.NN.MC.3_x64_real ------ Houdini_6.0.2_Pro_x64-pext
+Caissa_1.5_AVX2_BMI2 ------ Fire_8.NN.MC.3_x64_real
+Booot7_popcnt ------ Fire_8.NN.MC.3_x64_real
+Ethereal-13.88-Plus-NNUE-avx2 ------ Fire_8.NN.MC.3_x64_real
+asmFishWCP_2019-10-16_bmi2 ------ Fire_8.NN.MC.3_x64_real
+Arasan 23.4 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Seer 2.6.0
+Fire_8.NN.MC.3_x64_real ------ Uralochka v3.39d
+Fire_8.NN.MC.3_x64_real ------ Minic 3.33
+Fire_8.NN.MC.3_x64_real ------ Rebel-16-avx2
+Fire_8.NN.MC.3_x64_real ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Stockfish dev-20230123-596a528c
+Fire_8.NN.MC.3_x64_real ------ Viridithas7.0.0-avx2
+Fire_8.NN.MC.3_x64_real ------ Tucano 10.00
+Alexandria-3.1.0 ------ Fire_8.NN.MC.3_x64_real
+Expo-skylake-skylake ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Weiss-pext
+DON 230416.64 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Halogen11-pext-avx2
+Fire_8.NN.MC.3_x64_real ------ Laser-1_7-BMI2
+Fire_8.NN.MC.3_x64_real ------ Schooner 2.2 NON-POPCNT
+Fire_8.NN.MC.3_x64_real ------ Wasp-windows-avx
+Fire_8.NN.MC.3_x64_real ------ Toga IV 1.1
+Fire_8.NN.MC.3_x64_real ------ Marvin 6.1.0
+Fire_8.NN.MC.3_x64_real ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Fire_8.NN.MC.3_x64_real ------ Rick48
+BlackCore v6.0 ------ Fire_8.NN.MC.3_x64_real
+Clover.3.2-avx2 ------ Fire_8.NN.MC.3_x64_real
+Devre 4.0 ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Pedone_win_bmi2
+Fire_8.NN.MC.3_x64_real ------ Lc0
+Fire_8.NN.MC.3_x64_real ------ SlowChess Blitz 2.9 avx2
+Fire_8.NN.MC.3_x64_real ------ rofChade 3.0 BMI2 AVX2
+Fire_8.NN.MC.3_x64_real ------ Igel-x64_bmi2_avx2_3_3_0
+Berserk-10-dev-02-11-avx2-pext ------ Fire_8.NN.MC.3_x64_real
+Fire_8.NN.MC.3_x64_real ------ Koivisto_9x64-windows-avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Fire_8.NN.MC.3_x64_real
+Smallbrain 7 ------ Viridithas7.0.0-avx2
+Smallbrain 7 ------ Tucano 10.00
+Smallbrain 7 ------ Stockfish dev-20230123-596a528c
+Fire_8.NN.MC.3_x64_real ------ Igel 3.4.0 64 BMI2 AVX2
+Igel 3.4.0 64 BMI2 AVX2 ------ Zahak 10.0
+Frozenight 6.0.0 1b89891 ------ Igel 3.4.0 64 BMI2 AVX2
+Alexandria-3.1.0 ------ Smallbrain 7
+Combusken 2.0.0 ------ Igel 3.4.0 64 BMI2 AVX2
+Expo-skylake-skylake ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Stash v34.0
+Smallbrain 7 ------ Weiss-pext
+gogobello 3.0 ------ Igel 3.4.0 64 BMI2 AVX2
+DON 230416.64 ------ Smallbrain 7
+Halogen11-pext-avx2 ------ Igel 3.4.0 64 BMI2 AVX2
+Allie_v0.8-dev_8e93f68_20200812 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Laser-1_7-BMI2
+Fritz 18 NNUE AVX2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Schooner 2.2 NON-POPCNT
+Scorpio ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Wasp-windows-avx
+Smallbrain 7 ------ Xiphos 0.6.1 BMI2
+Igel 3.4.0 64 BMI2 AVX2 ------ Toga IV 1.1
+Coiled 1.1 x64 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Marvin 6.1.0
+Smallbrain 7 ------ Velvet-x86_64-avx2
+Igel 3.4.0 64 BMI2 AVX2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Houdini_6.0.2_Pro_x64-pext ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Rick48
+Caissa_1.5_AVX2_BMI2 ------ Smallbrain 7
+BlackCore v6.0 ------ Igel 3.4.0 64 BMI2 AVX2
+Booot7_popcnt ------ Smallbrain 7
+Clover.3.2-avx2 ------ Igel 3.4.0 64 BMI2 AVX2
+Ethereal-13.88-Plus-NNUE-avx2 ------ Smallbrain 7
+Devre 4.0 ------ Igel 3.4.0 64 BMI2 AVX2
+asmFishWCP_2019-10-16_bmi2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Pedone_win_bmi2
+Arasan 23.4 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Lc0
+Seer 2.6.0 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ SlowChess Blitz 2.9 avx2
+Smallbrain 7 ------ Uralochka v3.39d
+Igel 3.4.0 64 BMI2 AVX2 ------ rofChade 3.0 BMI2 AVX2
+Minic 3.33 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Rebel-16-avx2
+Berserk-10-dev-02-11-avx2-pext ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ RubiChess 20221203 (bmi2)
+Koivisto_9x64-windows-avx2 ------ Smallbrain 7
+Fat Fritz 3 ------ Igel 3.4.0 64 BMI2 AVX2
+Dragon 3.2 by Komodo Chess 64-bit ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Stockfish dev-20230123-596a528c
+Igel 3.4.0 64 BMI2 AVX2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Viridithas7.0.0-avx2
+Fire_8.NN.MC.3_x64_real ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Tucano 10.00
+Smallbrain 7 ------ Zahak 10.0
+Alexandria-3.1.0 ------ Igel 3.4.0 64 BMI2 AVX2
+Frozenight 6.0.0 1b89891 ------ Smallbrain 7
+Expo-skylake-skylake ------ Igel 3.4.0 64 BMI2 AVX2
+Combusken 2.0.0 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Weiss-pext
+Smallbrain 7 ------ Stash v34.0
+DON 230416.64 ------ Igel 3.4.0 64 BMI2 AVX2
+gogobello 3.0 ------ Smallbrain 7
+Allie_v0.8-dev_8e93f68_20200812 ------ Igel 3.4.0 64 BMI2 AVX2
+Halogen11-pext-avx2 ------ Smallbrain 7
+Fritz 18 NNUE AVX2 ------ Igel 3.4.0 64 BMI2 AVX2
+Laser-1_7-BMI2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Scorpio
+Schooner 2.2 NON-POPCNT ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Xiphos 0.6.1 BMI2
+Smallbrain 7 ------ Wasp-windows-avx
+Coiled 1.1 x64 ------ Igel 3.4.0 64 BMI2 AVX2
+Smallbrain 7 ------ Toga IV 1.1
+Igel 3.4.0 64 BMI2 AVX2 ------ Velvet-x86_64-avx2
+Marvin 6.1.0 ------ Smallbrain 7
+Houdini_6.0.2_Pro_x64-pext ------ Igel 3.4.0 64 BMI2 AVX2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Smallbrain 7
+Caissa_1.5_AVX2_BMI2 ------ Igel 3.4.0 64 BMI2 AVX2
+Rick48 ------ Smallbrain 7
+Booot7_popcnt ------ Igel 3.4.0 64 BMI2 AVX2
+BlackCore v6.0 ------ Smallbrain 7
+Ethereal-13.88-Plus-NNUE-avx2 ------ Igel 3.4.0 64 BMI2 AVX2
+Clover.3.2-avx2 ------ Smallbrain 7
+asmFishWCP_2019-10-16_bmi2 ------ Igel 3.4.0 64 BMI2 AVX2
+Devre 4.0 ------ Smallbrain 7
+Arasan 23.4 ------ Igel 3.4.0 64 BMI2 AVX2
+Pedone_win_bmi2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Seer 2.6.0
+Lc0 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Uralochka v3.39d
+SlowChess Blitz 2.9 avx2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Minic 3.33
+rofChade 3.0 BMI2 AVX2 ------ Smallbrain 7
+Berserk-10-dev-02-11-avx2-pext ------ Igel 3.4.0 64 BMI2 AVX2
+Rebel-16-avx2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Koivisto_9x64-windows-avx2
+RubiChess 20221203 (bmi2) ------ Smallbrain 7
+Dragon 3.2 by Komodo Chess 64-bit ------ Igel 3.4.0 64 BMI2 AVX2
+Fat Fritz 3 ------ Smallbrain 7
+PowerFritz 18 ------ Smallbrain 7
+PowerFritz 18 ------ Viridithas7.0.0-avx2
+PowerFritz 18 ------ Tucano 10.00
+Alexandria-3.1.0 ------ PowerFritz 18
+Expo-skylake-skylake ------ PowerFritz 18
+PowerFritz 18 ------ Weiss-pext
+DON 230416.64 ------ PowerFritz 18
+Allie_v0.8-dev_8e93f68_20200812 ------ PowerFritz 18
+PowerFritz 18 ------ Schooner 2.2 NON-POPCNT
+PowerFritz 18 ------ Wasp-windows-avx
+PowerFritz 18 ------ Toga IV 1.1
+Marvin 6.1.0 ------ PowerFritz 18
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ PowerFritz 18
+PowerFritz 18 ------ Rick48
+BlackCore v6.0 ------ PowerFritz 18
+Clover.3.2-avx2 ------ PowerFritz 18
+Devre 4.0 ------ PowerFritz 18
+Pedone_win_bmi2 ------ PowerFritz 18
+Lc0 ------ PowerFritz 18
+PowerFritz 18 ------ SlowChess Blitz 2.9 avx2
+PowerFritz 18 ------ rofChade 3.0 BMI2 AVX2
+PowerFritz 18 ------ Rebel-16-avx2
+PowerFritz 18 ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ PowerFritz 18
+PowerFritz 18 ------ Stockfish dev-20230123-596a528c
+Igel 3.4.0 64 BMI2 AVX2 ------ PowerFritz 18
+Fire_8.NN.MC.3_x64_real ------ PowerFritz 18
+PowerFritz 18 ------ Zahak 10.0
+Frozenight 6.0.0 1b89891 ------ PowerFritz 18
+Combusken 2.0.0 ------ PowerFritz 18
+PowerFritz 18 ------ Stash v34.0
+gogobello 3.0 ------ PowerFritz 18
+Halogen11-pext-avx2 ------ PowerFritz 18
+Laser-1_7-BMI2 ------ PowerFritz 18
+PowerFritz 18 ------ Scorpio
+PowerFritz 18 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ PowerFritz 18
+PowerFritz 18 ------ Velvet-x86_64-avx2
+Houdini_6.0.2_Pro_x64-pext ------ PowerFritz 18
+Caissa_1.5_AVX2_BMI2 ------ PowerFritz 18
+Booot7_popcnt ------ PowerFritz 18
+Ethereal-13.88-Plus-NNUE-avx2 ------ PowerFritz 18
+asmFishWCP_2019-10-16_bmi2 ------ PowerFritz 18
+Arasan 23.4 ------ PowerFritz 18
+PowerFritz 18 ------ Seer 2.6.0
+PowerFritz 18 ------ Uralochka v3.39d
+Minic 3.33 ------ PowerFritz 18
+Berserk-10-dev-02-11-avx2-pext ------ PowerFritz 18
+Koivisto_9x64-windows-avx2 ------ PowerFritz 18
+Dragon 3.2 by Komodo Chess 64-bit ------ PowerFritz 18
+BlackCore-bmi2-win-5.1 ------ Stockfish dev-20230123-596a528c
+BlackCore-bmi2-win-5.1 ------ Igel 3.4.0 64 BMI2 AVX2
+BlackCore-bmi2-win-5.1 ------ Fire_8.NN.MC.3_x64_real
+BlackCore-bmi2-win-5.1 ------ Zahak 10.0
+BlackCore-bmi2-win-5.1 ------ Frozenight 6.0.0 1b89891
+BlackCore-bmi2-win-5.1 ------ Combusken 2.0.0
+BlackCore-bmi2-win-5.1 ------ Stash v34.0
+BlackCore-bmi2-win-5.1 ------ gogobello 3.0
+BlackCore-bmi2-win-5.1 ------ Halogen11-pext-avx2
+BlackCore-bmi2-win-5.1 ------ Laser-1_7-BMI2
+BlackCore-bmi2-win-5.1 ------ Scorpio
+BlackCore-bmi2-win-5.1 ------ Xiphos 0.6.1 BMI2
+BlackCore-bmi2-win-5.1 ------ Coiled 1.1 x64
+BlackCore-bmi2-win-5.1 ------ Velvet-x86_64-avx2
+BlackCore-bmi2-win-5.1 ------ Houdini_6.0.2_Pro_x64-pext
+BlackCore-bmi2-win-5.1 ------ Caissa_1.5_AVX2_BMI2
+BlackCore-bmi2-win-5.1 ------ Booot7_popcnt
+BlackCore-bmi2-win-5.1 ------ Ethereal-13.88-Plus-NNUE-avx2
+asmFishWCP_2019-10-16_bmi2 ------ BlackCore-bmi2-win-5.1
+Arasan 23.4 ------ BlackCore-bmi2-win-5.1
+BlackCore-bmi2-win-5.1 ------ Seer 2.6.0
+BlackCore-bmi2-win-5.1 ------ Uralochka v3.39d
+BlackCore-bmi2-win-5.1 ------ Minic 3.33
+Berserk-10-dev-02-11-avx2-pext ------ BlackCore-bmi2-win-5.1
+BlackCore-bmi2-win-5.1 ------ Koivisto_9x64-windows-avx2
+BlackCore-bmi2-win-5.1 ------ Dragon 3.2 by Komodo Chess 64-bit
+BlackCore-bmi2-win-5.1 ------ PowerFritz 18
+BlackCore-bmi2-win-5.1 ------ Smallbrain 7
+BlackCore-bmi2-win-5.1 ------ Viridithas7.0.0-avx2
+BlackCore-bmi2-win-5.1 ------ Tucano 10.00
+Alexandria-3.1.0 ------ BlackCore-bmi2-win-5.1
+BlackCore-bmi2-win-5.1 ------ Expo-skylake-skylake
+BlackCore-bmi2-win-5.1 ------ Weiss-pext
+BlackCore-bmi2-win-5.1 ------ DON 230416.64
+Allie_v0.8-dev_8e93f68_20200812 ------ BlackCore-bmi2-win-5.1
+BlackCore-bmi2-win-5.1 ------ Schooner 2.2 NON-POPCNT
+BlackCore-bmi2-win-5.1 ------ Wasp-windows-avx
+BlackCore-bmi2-win-5.1 ------ Toga IV 1.1
+BlackCore-bmi2-win-5.1 ------ Marvin 6.1.0
+BlackCore-bmi2-win-5.1 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+BlackCore-bmi2-win-5.1 ------ Rick48
+BlackCore-bmi2-win-5.1 ------ BlackCore v6.0
+BlackCore-bmi2-win-5.1 ------ Clover.3.2-avx2
+BlackCore-bmi2-win-5.1 ------ Devre 4.0
+BlackCore-bmi2-win-5.1 ------ Pedone_win_bmi2
+BlackCore-bmi2-win-5.1 ------ Lc0
+BlackCore-bmi2-win-5.1 ------ SlowChess Blitz 2.9 avx2
+BlackCore-bmi2-win-5.1 ------ rofChade 3.0 BMI2 AVX2
+BlackCore-bmi2-win-5.1 ------ Rebel-16-avx2
+BlackCore-bmi2-win-5.1 ------ RubiChess 20221203 (bmi2)
+BlackCore-bmi2-win-5.1 ------ Fat Fritz 3
+RukChess 3.0.15 NNUE ------ Stockfish dev-20230123-596a528c
+BlackCore-bmi2-win-5.1 ------ RukChess 3.0.15 NNUE
+PowerFritz 18 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Smallbrain 7
+RukChess 3.0.15 NNUE ------ Viridithas7.0.0-avx2
+Alexandria-3.1.0 ------ RukChess 3.0.15 NNUE
+gogobello 3.0 ------ RukChess 3.0.15 NNUE
+Halogen11-pext-avx2 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Scorpio
+RukChess 3.0.15 NNUE ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Velvet-x86_64-avx2
+Houdini_6.0.2_Pro_x64-pext ------ RukChess 3.0.15 NNUE
+Caissa_1.5_AVX2_BMI2 ------ RukChess 3.0.15 NNUE
+Booot7_popcnt ------ RukChess 3.0.15 NNUE
+Ethereal-13.88-Plus-NNUE-avx2 ------ RukChess 3.0.15 NNUE
+asmFishWCP_2019-10-16_bmi2 ------ RukChess 3.0.15 NNUE
+Arasan 23.4 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Seer 2.6.0
+RukChess 3.0.15 NNUE ------ Uralochka v3.39d
+Minic 3.33 ------ RukChess 3.0.15 NNUE
+Berserk-10-dev-02-11-avx2-pext ------ RukChess 3.0.15 NNUE
+Koivisto_9x64-windows-avx2 ------ RukChess 3.0.15 NNUE
+Dragon 3.2 by Komodo Chess 64-bit ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Zahak 10.0
+RukChess 3.0.15 NNUE ------ Tucano 10.00
+Igel 3.4.0 64 BMI2 AVX2 ------ RukChess 3.0.15 NNUE
+Fire_8.NN.MC.3_x64_real ------ RukChess 3.0.15 NNUE
+Frozenight 6.0.0 1b89891 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Weiss-pext
+DON 230416.64 ------ RukChess 3.0.15 NNUE
+Allie_v0.8-dev_8e93f68_20200812 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ Wasp-windows-avx
+RukChess 3.0.15 NNUE ------ Toga IV 1.1
+Marvin 6.1.0 ------ RukChess 3.0.15 NNUE
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ RukChess 3.0.15 NNUE
+Rick48 ------ RukChess 3.0.15 NNUE
+BlackCore v6.0 ------ RukChess 3.0.15 NNUE
+Clover.3.2-avx2 ------ RukChess 3.0.15 NNUE
+Devre 4.0 ------ RukChess 3.0.15 NNUE
+Pedone_win_bmi2 ------ RukChess 3.0.15 NNUE
+Lc0 ------ RukChess 3.0.15 NNUE
+RukChess 3.0.15 NNUE ------ SlowChess Blitz 2.9 avx2
+rofChade 3.0 BMI2 AVX2 ------ RukChess 3.0.15 NNUE
+Rebel-16-avx2 ------ RukChess 3.0.15 NNUE
+RubiChess 20221203 (bmi2) ------ RukChess 3.0.15 NNUE
+Fat Fritz 3 ------ RukChess 3.0.15 NNUE
+Caissa_1.6_AVX2_BMI2 ------ Stockfish dev-20230123-596a528c
+Caissa_1.6_AVX2_BMI2 ------ Zahak 10.0
+Caissa_1.6_AVX2_BMI2 ------ Tucano 10.00
+Caissa_1.6_AVX2_BMI2 ------ Igel 3.4.0 64 BMI2 AVX2
+Caissa_1.6_AVX2_BMI2 ------ Fire_8.NN.MC.3_x64_real
+Caissa_1.6_AVX2_BMI2 ------ Frozenight 6.0.0 1b89891
+Caissa_1.6_AVX2_BMI2 ------ Weiss-pext
+Caissa_1.6_AVX2_BMI2 ------ DON 230416.64
+Allie_v0.8-dev_8e93f68_20200812 ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ Wasp-windows-avx
+Caissa_1.6_AVX2_BMI2 ------ Toga IV 1.1
+Caissa_1.6_AVX2_BMI2 ------ Marvin 6.1.0
+Caissa_1.6_AVX2_BMI2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Caissa_1.6_AVX2_BMI2 ------ Rick48
+Booot7_popcnt ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ Ethereal-13.88-Plus-NNUE-avx2
+asmFishWCP_2019-10-16_bmi2 ------ Caissa_1.6_AVX2_BMI2
+Arasan 23.4 ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ Seer 2.6.0
+Caissa_1.6_AVX2_BMI2 ------ Uralochka v3.39d
+Caissa_1.6_AVX2_BMI2 ------ Minic 3.33
+Berserk-10-dev-02-11-avx2-pext ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ Koivisto_9x64-windows-avx2
+Caissa_1.6_AVX2_BMI2 ------ Dragon 3.2 by Komodo Chess 64-bit
+Caissa_1.6_AVX2_BMI2 ------ RukChess 3.0.15 NNUE
+BlackCore-bmi2-win-5.1 ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ PowerFritz 18
+Caissa_1.6_AVX2_BMI2 ------ Smallbrain 7
+Caissa_1.6_AVX2_BMI2 ------ Viridithas7.0.0-avx2
+Alexandria-3.1.0 ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ gogobello 3.0
+Caissa_1.6_AVX2_BMI2 ------ Halogen11-pext-avx2
+Caissa_1.6_AVX2_BMI2 ------ Scorpio
+Caissa_1.6_AVX2_BMI2 ------ Xiphos 0.6.1 BMI2
+Caissa_1.6_AVX2_BMI2 ------ Coiled 1.1 x64
+Caissa_1.6_AVX2_BMI2 ------ Velvet-x86_64-avx2
+Caissa_1.6_AVX2_BMI2 ------ Houdini_6.0.2_Pro_x64-pext
+BlackCore v6.0 ------ Caissa_1.6_AVX2_BMI2
+Caissa_1.6_AVX2_BMI2 ------ Clover.3.2-avx2
+Caissa_1.6_AVX2_BMI2 ------ Devre 4.0
+Caissa_1.6_AVX2_BMI2 ------ Pedone_win_bmi2
+Caissa_1.6_AVX2_BMI2 ------ Lc0
+Caissa_1.6_AVX2_BMI2 ------ SlowChess Blitz 2.9 avx2
+Caissa_1.6_AVX2_BMI2 ------ rofChade 3.0 BMI2 AVX2
+Caissa_1.6_AVX2_BMI2 ------ Rebel-16-avx2
+Caissa_1.6_AVX2_BMI2 ------ RubiChess 20221203 (bmi2)
+Caissa_1.6_AVX2_BMI2 ------ Fat Fritz 3
+Caissa_1.6_NN_AVX2_BMI2 ------ Stockfish dev-20230123-596a528c
+Caissa_1.6_NN_AVX2_BMI2 ------ Zahak 10.0
+Caissa_1.6_NN_AVX2_BMI2 ------ Tucano 10.00
+Caissa_1.6_NN_AVX2_BMI2 ------ Igel 3.4.0 64 BMI2 AVX2
+Caissa_1.6_NN_AVX2_BMI2 ------ Fire_8.NN.MC.3_x64_real
+Caissa_1.6_NN_AVX2_BMI2 ------ Frozenight 6.0.0 1b89891
+Caissa_1.6_NN_AVX2_BMI2 ------ Weiss-pext
+Caissa_1.6_NN_AVX2_BMI2 ------ DON 230416.64
+Combusken 2.0.0 ------ RukChess 3.0.15 NNUE
+Ethereal-14-noNN-avx2 ------ RukChess 3.0.15 NNUE
+BlackCore-bmi2-win-5.1 ------ Ethereal-14-noNN-avx2
+Ethereal-14-noNN-avx2 ------ PowerFritz 18
+Ethereal-14-noNN-avx2 ------ Smallbrain 7
+Ethereal-14-noNN-avx2 ------ Viridithas7.0.0-avx2
+Ethereal-14-noNN-avx2 ------ Weiss-pext
+DON 230416.64 ------ Ethereal-14-noNN-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Ethereal-14-noNN-avx2
+Ethereal-14-noNN-avx2 ------ Wasp-windows-avx
+Ethereal-14-noNN-avx2 ------ Toga IV 1.1
+Ethereal-14-noNN-avx2 ------ Marvin 6.1.0
+Ethereal-14-noNN-avx2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Ethereal-14-noNN-avx2 ------ Rick48
+Booot7_popcnt ------ Ethereal-14-noNN-avx2
+Devre 4.0 ------ Ethereal-14-noNN-avx2
+Ethereal-14-noNN-avx2 ------ Pedone_win_bmi2
+Ethereal-14-noNN-avx2 ------ Lc0
+Ethereal-14-noNN-avx2 ------ SlowChess Blitz 2.9 avx2
+Ethereal-14-noNN-avx2 ------ rofChade 3.0 BMI2 AVX2
+Ethereal-14-noNN-avx2 ------ Rebel-16-avx2
+Ethereal-14-noNN-avx2 ------ RubiChess 20221203 (bmi2)
+Ethereal-14-noNN-avx2 ------ Fat Fritz 3
+Ethereal-14-noNN-avx2 ------ Stockfish dev-20230123-596a528c
+Caissa_1.5_AVX2_BMI2 ------ Ethereal-14-noNN-avx2
+Ethereal-14-noNN-avx2 ------ Zahak 10.0
+Ethereal-14-noNN-avx2 ------ Tucano 10.00
+Ethereal-14-noNN-avx2 ------ Igel 3.4.0 64 BMI2 AVX2
+Ethereal-14-noNN-avx2 ------ Fire_8.NN.MC.3_x64_real
+Revenge 3.0 ------ Stockfish dev-20230123-596a528c
+Caissa_1.5_AVX2_BMI2 ------ Revenge 3.0
+Revenge 3.0 ------ Zahak 10.0
+Revenge 3.0 ------ Tucano 10.00
+Igel 3.4.0 64 BMI2 AVX2 ------ Revenge 3.0
+Fire_8.NN.MC.3_x64_real ------ Revenge 3.0
+Frozenight 6.0.0 1b89891 ------ Revenge 3.0
+DON 230416.64 ------ Revenge 3.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Revenge 3.0
+Revenge 3.0 ------ Wasp-windows-avx
+Revenge 3.0 ------ Toga IV 1.1
+Marvin 6.1.0 ------ Revenge 3.0
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Revenge 3.0
+Revenge 3.0 ------ Rick48
+Booot7_popcnt ------ Revenge 3.0
+Devre 4.0 ------ Revenge 3.0
+Arasan 23.4 ------ Revenge 3.0
+Revenge 3.0 ------ Seer 2.6.0
+Revenge 3.0 ------ Uralochka v3.39d
+Minic 3.33 ------ Revenge 3.0
+Berserk-10-dev-02-11-avx2-pext ------ Revenge 3.0
+Koivisto_9x64-windows-avx2 ------ Revenge 3.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Revenge 3.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Revenge 3.0
+Revenge 3.0 ------ RukChess 3.0.15 NNUE
+BlackCore-bmi2-win-5.1 ------ Revenge 3.0
+PowerFritz 18 ------ Revenge 3.0
+Revenge 3.0 ------ Smallbrain 7
+Revenge 3.0 ------ Viridithas7.0.0-avx2
+gogobello 3.0 ------ Revenge 3.0
+Halogen11-pext-avx2 ------ Revenge 3.0
+Revenge 3.0 ------ Scorpio
+Revenge 3.0 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Revenge 3.0
+Revenge 3.0 ------ Velvet-x86_64-avx2
+Houdini_6.0.2_Pro_x64-pext ------ Revenge 3.0
+BlackCore v6.0 ------ Revenge 3.0
+Clover.3.2-avx2 ------ Revenge 3.0
+asmFishWCP_2019-10-16_bmi2 ------ Revenge 3.0
+Lc0 ------ Revenge 3.0
+Revenge 3.0 ------ SlowChess Blitz 2.9 avx2
+Revenge 3.0 ------ rofChade 3.0 BMI2 AVX2
+Rebel-16-avx2 ------ Revenge 3.0
+Revenge 3.0 ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Revenge 3.0
+Alexandria 3.5 ------ Ethereal-13.88-Plus-NNUE-avx2
+Alexandria 3.5 ------ RukChess 3.0.15 NNUE
+Alexandria 3.5 ------ BlackCore-bmi2-win-5.1
+Alexandria 3.5 ------ PowerFritz 18
+Alexandria 3.5 ------ Smallbrain 7
+Alexandria 3.5 ------ Viridithas7.0.0-avx2
+Alexandria 3.5 ------ gogobello 3.0
+Alexandria 3.5 ------ Halogen11-pext-avx2
+Alexandria 3.5 ------ Scorpio
+Alexandria 3.5 ------ Xiphos 0.6.1 BMI2
+Alexandria 3.5 ------ Coiled 1.1 x64
+Alexandria 3.5 ------ Velvet-x86_64-avx2
+Alexandria 3.5 ------ Houdini_6.0.2_Pro_x64-pext
+Alexandria 3.5 ------ BlackCore v6.0
+Alexandria 3.5 ------ Clover.3.2-avx2
+Alexandria 3.5 ------ asmFishWCP_2019-10-16_bmi2
+Alexandria 3.5 ------ Lc0
+Alexandria 3.5 ------ SlowChess Blitz 2.9 avx2
+Alexandria 3.5 ------ rofChade 3.0 BMI2 AVX2
+Alexandria 3.5 ------ Rebel-16-avx2
+Alexandria 3.5 ------ RubiChess 20221203 (bmi2)
+Alexandria 3.5 ------ Fat Fritz 3
+Alexandria 3.5 ------ Stockfish dev-20230123-596a528c
+Alexandria 3.5 ------ Revenge 3.0
+Alexandria 3.5 ------ Caissa_1.5_AVX2_BMI2
+Alexandria 3.5 ------ Zahak 10.0
+Alexandria 3.5 ------ Tucano 10.00
+Alexandria 3.5 ------ Igel 3.4.0 64 BMI2 AVX2
+Alexandria 3.5 ------ Fire_8.NN.MC.3_x64_real
+Clover 3.3.1 ------ Revenge 3.0
+Caissa_1.5_AVX2_BMI2 ------ Clover 3.3.1
+Clover 3.3.1 ------ Zahak 10.0
+Clover 3.3.1 ------ Tucano 10.00
+Clover 3.3.1 ------ Igel 3.4.0 64 BMI2 AVX2
+Clover 3.3.1 ------ Fire_8.NN.MC.3_x64_real
+Clover 3.3.1 ------ Frozenight 6.0.0 1b89891
+Clover 3.3.1 ------ DON 230416.64
+Allie_v0.8-dev_8e93f68_20200812 ------ Clover 3.3.1
+Clover 3.3.1 ------ Wasp-windows-avx
+Clover 3.3.1 ------ Toga IV 1.1
+Clover 3.3.1 ------ Marvin 6.1.0
+Clover 3.3.1 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Clover 3.3.1 ------ Rick48
+Booot7_popcnt ------ Clover 3.3.1
+Alexandria 3.5 ------ Devre 4.0
+asmFishWCP_2019-10-16_bmi2 ------ Clover 3.3.1
+Alexandria 3.5 ------ Arasan 23.4
+Clover 3.3.1 ------ Lc0
+Alexandria 3.5 ------ Seer 2.6.0
+Clover 3.3.1 ------ SlowChess Blitz 2.9 avx2
+Alexandria 3.5 ------ Uralochka v3.39d
+Clover 3.3.1 ------ rofChade 3.0 BMI2 AVX2
+Alexandria 3.5 ------ Minic 3.33
+Clover 3.3.1 ------ Rebel-16-avx2
+Alexandria 3.5 ------ Berserk-10-dev-02-11-avx2-pext
+Clover 3.3.1 ------ RubiChess 20221203 (bmi2)
+Alexandria 3.5 ------ Koivisto_9x64-windows-avx2
+Clover 3.3.1 ------ Fat Fritz 3
+Alexandria 3.5 ------ Dragon 3.2 by Komodo Chess 64-bit
+Clover 3.3.1 ------ Stockfish dev-20230123-596a528c
+Alexandria 3.5 ------ Clover 3.3.1
+Clover 3.3.1 ------ Ethereal-13.88-Plus-NNUE-avx2
+Clover 3.3.1 ------ RukChess 3.0.15 NNUE
+BlackCore-bmi2-win-5.1 ------ Clover 3.3.1
+Clover 3.3.1 ------ PowerFritz 18
+Clover 3.3.1 ------ Smallbrain 7
+Clover 3.3.1 ------ Viridithas7.0.0-avx2
+Clover 3.3.1 ------ gogobello 3.0
+Alexandria 3.5 ------ Frozenight 6.0.0 1b89891
+Clover 3.3.1 ------ Halogen11-pext-avx2
+Alexandria 3.5 ------ DON 230416.64
+Clover 3.3.1 ------ Scorpio
+Alexandria 3.5 ------ Allie_v0.8-dev_8e93f68_20200812
+Clover 3.3.1 ------ Xiphos 0.6.1 BMI2
+Alexandria 3.5 ------ Wasp-windows-avx
+Clover 3.3.1 ------ Coiled 1.1 x64
+Alexandria 3.5 ------ Toga IV 1.1
+Clover 3.3.1 ------ Velvet-x86_64-avx2
+Alexandria 3.5 ------ Marvin 6.1.0
+Clover 3.3.1 ------ Houdini_6.0.2_Pro_x64-pext
+Alexandria 3.5 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+BlackCore v6.0 ------ Clover 3.3.1
+Alexandria 3.5 ------ Rick48
+Clover 3.3.1 ------ Devre 4.0
+Alexandria 3.5 ------ Booot7_popcnt
+Arasan 23.4 ------ Clover 3.3.1
+Clover 3.3.1 ------ Seer 2.6.0
+Clover 3.3.1 ------ Uralochka v3.39d
+Clover 3.3.1 ------ Minic 3.33
+Berserk-10-dev-02-11-avx2-pext ------ Clover 3.3.1
+Clover 3.3.1 ------ Koivisto_9x64-windows-avx2
+Clover 3.3.1 ------ Dragon 3.2 by Komodo Chess 64-bit
+Alexandria 3.5 ------ Velvet v5.1.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Velvet v5.1.0
+RukChess 3.0.15 NNUE ------ Velvet v5.1.0
+Tucano 10.00 ------ Velvet v5.1.0
+Igel 3.4.0 64 BMI2 AVX2 ------ Velvet v5.1.0
+Fire_8.NN.MC.3_x64_real ------ Velvet v5.1.0
+Frozenight 6.0.0 1b89891 ------ Velvet v5.1.0
+Halogen11-pext-avx2 ------ Velvet v5.1.0
+Scorpio ------ Velvet v5.1.0
+Velvet v5.1.0 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Velvet v5.1.0
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Velvet v5.1.0
+Rick48 ------ Velvet v5.1.0
+Booot7_popcnt ------ Velvet v5.1.0
+asmFishWCP_2019-10-16_bmi2 ------ Velvet v5.1.0
+Lc0 ------ Velvet v5.1.0
+SlowChess Blitz 2.9 avx2 ------ Velvet v5.1.0
+rofChade 3.0 BMI2 AVX2 ------ Velvet v5.1.0
+Rebel-16-avx2 ------ Velvet v5.1.0
+RubiChess 20221203 (bmi2) ------ Velvet v5.1.0
+Fat Fritz 3 ------ Velvet v5.1.0
+Stockfish dev-20230123-596a528c ------ Velvet v5.1.0
+Clover 3.3.1 ------ Velvet v5.1.0
+Revenge 3.0 ------ Velvet v5.1.0
+Caissa_1.5_AVX2_BMI2 ------ Velvet v5.1.0
+BlackCore-bmi2-win-5.1 ------ Velvet v5.1.0
+PowerFritz 18 ------ Velvet v5.1.0
+Smallbrain 7 ------ Velvet v5.1.0
+Velvet v5.1.0 ------ Viridithas7.0.0-avx2
+gogobello 3.0 ------ Velvet v5.1.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Velvet v5.1.0
+Velvet v5.1.0 ------ Wasp-windows-avx
+Toga IV 1.1 ------ Velvet v5.1.0
+Marvin 6.1.0 ------ Velvet v5.1.0
+Houdini_6.0.2_Pro_x64-pext ------ Velvet v5.1.0
+BlackCore v6.0 ------ Velvet v5.1.0
+Devre 4.0 ------ Velvet v5.1.0
+Arasan 23.4 ------ Velvet v5.1.0
+Seer 2.6.0 ------ Velvet v5.1.0
+Uralochka v3.39d ------ Velvet v5.1.0
+Minic 3.33 ------ Velvet v5.1.0
+Berserk-10-dev-02-11-avx2-pext ------ Velvet v5.1.0
+Koivisto_9x64-windows-avx2 ------ Velvet v5.1.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Velvet v5.1.0
+Koivisto 9.2 ------ Stockfish dev-20230123-596a528c
+Berserk 11.1 ------ Dragon 3.2 by Komodo Chess 64-bit
+Berserk 11.1 ------ Caissa_1.6.3_AVX2_BMI2
+Koivisto 9.2 ------ Velvet v5.1.0
+Caissa_1.6.3_AVX2_BMI2 ------ Clover 3.3.1
+Berserk 11.1 ------ Clover 3.3.1
+Alexandria 3.5 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Revenge 3.0
+Berserk 11.1 ------ Revenge 3.0
+Ethereal-13.88-Plus-NNUE-avx2 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ RukChess 3.0.15 NNUE
+Berserk 11.1 ------ RukChess 3.0.15 NNUE
+BlackCore-bmi2-win-5.1 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Tucano 10.00
+Berserk 11.1 ------ Tucano 10.00
+Koivisto 9.2 ------ PowerFritz 18
+Caissa_1.6.3_AVX2_BMI2 ------ Igel 3.4.0 64 BMI2 AVX2
+Berserk 11.1 ------ Igel 3.4.0 64 BMI2 AVX2
+Koivisto 9.2 ------ Smallbrain 7
+Caissa_1.6.3_AVX2_BMI2 ------ Fire_8.NN.MC.3_x64_real
+Berserk 11.1 ------ Fire_8.NN.MC.3_x64_real
+Koivisto 9.2 ------ Viridithas7.0.0-avx2
+Caissa_1.6.3_AVX2_BMI2 ------ Frozenight 6.0.0 1b89891
+Berserk 11.1 ------ Frozenight 6.0.0 1b89891
+gogobello 3.0 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Halogen11-pext-avx2
+Berserk 11.1 ------ Halogen11-pext-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Scorpio
+Berserk 11.1 ------ Scorpio
+Koivisto 9.2 ------ Wasp-windows-avx
+Caissa_1.6.3_AVX2_BMI2 ------ Xiphos 0.6.1 BMI2
+Berserk 11.1 ------ Xiphos 0.6.1 BMI2
+Koivisto 9.2 ------ Toga IV 1.1
+Caissa_1.6.3_AVX2_BMI2 ------ Coiled 1.1 x64
+Berserk 11.1 ------ Coiled 1.1 x64
+Koivisto 9.2 ------ Marvin 6.1.0
+Caissa_1.6.3_AVX2_BMI2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Berserk 11.1 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Houdini_6.0.2_Pro_x64-pext ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Rick48
+Berserk 11.1 ------ Rick48
+BlackCore v6.0 ------ Koivisto 9.2
+Booot7_popcnt ------ Caissa_1.6.3_AVX2_BMI2
+Berserk 11.1 ------ Booot7_popcnt
+Devre 4.0 ------ Koivisto 9.2
+asmFishWCP_2019-10-16_bmi2 ------ Caissa_1.6.3_AVX2_BMI2
+asmFishWCP_2019-10-16_bmi2 ------ Berserk 11.1
+Arasan 23.4 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Lc0
+Berserk 11.1 ------ Lc0
+Koivisto 9.2 ------ Seer 2.6.0
+Caissa_1.6.3_AVX2_BMI2 ------ SlowChess Blitz 2.9 avx2
+Berserk 11.1 ------ SlowChess Blitz 2.9 avx2
+Koivisto 9.2 ------ Uralochka v3.39d
+Caissa_1.6.3_AVX2_BMI2 ------ rofChade 3.0 BMI2 AVX2
+Berserk 11.1 ------ rofChade 3.0 BMI2 AVX2
+Koivisto 9.2 ------ Minic 3.33
+Caissa_1.6.3_AVX2_BMI2 ------ Rebel-16-avx2
+Berserk 11.1 ------ Rebel-16-avx2
+Koivisto 9.2 ------ RubiChess 20221203 (bmi2)
+Caissa_1.6.3_AVX2_BMI2 ------ Fat Fritz 3
+Berserk 11.1 ------ Fat Fritz 3
+Dragon 3.2 by Komodo Chess 64-bit ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Stockfish dev-20230123-596a528c
+Berserk 11.1 ------ Stockfish dev-20230123-596a528c
+Caissa_1.6.3_AVX2_BMI2 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Velvet v5.1.0
+Berserk 11.1 ------ Koivisto 9.2
+Alexandria 3.5 ------ Caissa_1.6.3_AVX2_BMI2
+Clover 3.3.1 ------ Koivisto 9.2
+Berserk 11.1 ------ Velvet v5.1.0
+Caissa_1.6.3_AVX2_BMI2 ------ Ethereal-13.88-Plus-NNUE-avx2
+Koivisto 9.2 ------ Revenge 3.0
+Alexandria 3.5 ------ Berserk 11.1
+BlackCore-bmi2-win-5.1 ------ Caissa_1.6.3_AVX2_BMI2
+Koivisto 9.2 ------ RukChess 3.0.15 NNUE
+Berserk 11.1 ------ Ethereal-13.88-Plus-NNUE-avx2
+Caissa_1.6.3_AVX2_BMI2 ------ PowerFritz 18
+Koivisto 9.2 ------ Tucano 10.00
+Berserk 11.1 ------ BlackCore-bmi2-win-5.1
+Caissa_1.6.3_AVX2_BMI2 ------ Smallbrain 7
+Igel 3.4.0 64 BMI2 AVX2 ------ Koivisto 9.2
+Berserk 11.1 ------ PowerFritz 18
+Caissa_1.6.3_AVX2_BMI2 ------ Viridithas7.0.0-avx2
+Fire_8.NN.MC.3_x64_real ------ Koivisto 9.2
+Berserk 11.1 ------ Smallbrain 7
+Caissa_1.6.3_AVX2_BMI2 ------ gogobello 3.0
+Frozenight 6.0.0 1b89891 ------ Koivisto 9.2
+Berserk 11.1 ------ Viridithas7.0.0-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Caissa_1.6.3_AVX2_BMI2
+Halogen11-pext-avx2 ------ Koivisto 9.2
+Berserk 11.1 ------ gogobello 3.0
+Caissa_1.6.3_AVX2_BMI2 ------ Wasp-windows-avx
+Koivisto 9.2 ------ Scorpio
+Allie_v0.8-dev_8e93f68_20200812 ------ Berserk 11.1
+Caissa_1.6.3_AVX2_BMI2 ------ Toga IV 1.1
+Koivisto 9.2 ------ Xiphos 0.6.1 BMI2
+Berserk 11.1 ------ Wasp-windows-avx
+Caissa_1.6.3_AVX2_BMI2 ------ Marvin 6.1.0
+Coiled 1.1 x64 ------ Koivisto 9.2
+Berserk 11.1 ------ Toga IV 1.1
+Caissa_1.6.3_AVX2_BMI2 ------ Houdini_6.0.2_Pro_x64-pext
+Koivisto 9.2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Berserk 11.1 ------ Marvin 6.1.0
+BlackCore v6.0 ------ Caissa_1.6.3_AVX2_BMI2
+Koivisto 9.2 ------ Rick48
+Berserk 11.1 ------ Houdini_6.0.2_Pro_x64-pext
+Caissa_1.6.3_AVX2_BMI2 ------ Devre 4.0
+Booot7_popcnt ------ Koivisto 9.2
+Berserk 11.1 ------ BlackCore v6.0
+Arasan 23.4 ------ Caissa_1.6.3_AVX2_BMI2
+asmFishWCP_2019-10-16_bmi2 ------ Koivisto 9.2
+Berserk 11.1 ------ Devre 4.0
+Caissa_1.6.3_AVX2_BMI2 ------ Seer 2.6.0
+Koivisto 9.2 ------ Lc0
+Arasan 23.4 ------ Berserk 11.1
+Caissa_1.6.3_AVX2_BMI2 ------ Uralochka v3.39d
+Koivisto 9.2 ------ SlowChess Blitz 2.9 avx2
+Koivisto 9.2 ------ Rebel-16.2
+Rebel-16.2 ------ Velvet v5.1.0
+Alexandria 3.5 ------ Rebel-16.2
+Ethereal-13.88-Plus-NNUE-avx2 ------ Rebel-16.2
+BlackCore-bmi2-win-5.1 ------ Rebel-16.2
+PowerFritz 18 ------ Rebel-16.2
+Rebel-16.2 ------ Smallbrain 7
+Rebel-16.2 ------ Viridithas7.0.0-avx2
+gogobello 3.0 ------ Rebel-16.2
+Allie_v0.8-dev_8e93f68_20200812 ------ Rebel-16.2
+Rebel-16.2 ------ Wasp-windows-avx
+Rebel-16.2 ------ Toga IV 1.1
+Marvin 6.1.0 ------ Rebel-16.2
+Houdini_6.0.2_Pro_x64-pext ------ Rebel-16.2
+BlackCore v6.0 ------ Rebel-16.2
+Devre 4.0 ------ Rebel-16.2
+Arasan 23.4 ------ Rebel-16.2
+Rebel-16.2 ------ Seer 2.6.0
+Rebel-16.2 ------ Uralochka v3.39d
+Minic 3.33 ------ Rebel-16.2
+Caissa_1.6.3_AVX2_BMI2 ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Rebel-16.2
+Berserk 11.1 ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Koivisto 9.2
+Caissa_1.6.3_AVX2_BMI2 ------ Dragon 3.2 by Komodo Chess 64-bit
+Rebel-16.2 ------ Stockfish dev-20230123-596a528c
+Caissa_1.6.3_AVX2_BMI2 ------ Rebel-16.2
+Berserk 11.1 ------ Rebel-16.2
+Clover 3.3.1 ------ Rebel-16.2
+Rebel-16.2 ------ Revenge 3.0
+Rebel-16.2 ------ RukChess 3.0.15 NNUE
+Rebel-16.2 ------ Tucano 10.00
+Igel 3.4.0 64 BMI2 AVX2 ------ Rebel-16.2
+Fire_8.NN.MC.3_x64_real ------ Rebel-16.2
+Frozenight 6.0.0 1b89891 ------ Rebel-16.2
+Halogen11-pext-avx2 ------ Rebel-16.2
+Rebel-16.2 ------ Scorpio
+Rebel-16.2 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Rebel-16.2
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Rebel-16.2
+Rebel-16.2 ------ Rick48
+Booot7_popcnt ------ Rebel-16.2
+asmFishWCP_2019-10-16_bmi2 ------ Rebel-16.2
+Lc0 ------ Rebel-16.2
+Rebel-16.2 ------ SlowChess Blitz 2.9 avx2
+Rebel-16.2 ------ rofChade 3.0 BMI2 AVX2
+Berserk 11.1 ------ Seer 2.6.0
+Rebel-16.2 ------ RubiChess 20221203 (bmi2)
+Caissa_1.6.3_AVX2_BMI2 ------ Minic 3.33
+Koivisto 9.2 ------ rofChade 3.0 BMI2 AVX2
+Berserk 11.1 ------ Uralochka v3.39d
+Dragon 3.2 by Komodo Chess 64-bit ------ Rebel-16.2
+Berserk 11.1 ------ Minic 3.33
+Caissa_1.5_AVX2_BMI2 ------ Koivisto 9.2
+Caissa_1.5_AVX2_BMI2 ------ Rebel-16.2
+Berserk 11.1 ------ Caissa_1.5_AVX2_BMI2
+Rebel-16.2 ------ Wasp 6.50
+Berserk 11.1 ------ Wasp 6.50
+Clover 3.3.1 ------ Wasp 6.50
+Revenge 3.0 ------ Wasp 6.50
+RukChess 3.0.15 NNUE ------ Wasp 6.50
+Tucano 10.00 ------ Wasp 6.50
+Igel 3.4.0 64 BMI2 AVX2 ------ Wasp 6.50
+Fire_8.NN.MC.3_x64_real ------ Wasp 6.50
+Frozenight 6.0.0 1b89891 ------ Wasp 6.50
+Halogen11-pext-avx2 ------ Wasp 6.50
+Scorpio ------ Wasp 6.50
+Toga IV 1.1 ------ Wasp 6.50
+Marvin 6.1.0 ------ Wasp 6.50
+Houdini_6.0.2_Pro_x64-pext ------ Wasp 6.50
+BlackCore v6.0 ------ Wasp 6.50
+Devre 4.0 ------ Wasp 6.50
+Arasan 23.4 ------ Wasp 6.50
+Seer 2.6.0 ------ Wasp 6.50
+Uralochka v3.39d ------ Wasp 6.50
+Minic 3.33 ------ Wasp 6.50
+Fat Fritz 3 ------ Wasp 6.50
+Stockfish dev-20230123-596a528c ------ Wasp 6.50
+Caissa_1.6.3_AVX2_BMI2 ------ Wasp 6.50
+Koivisto 9.2 ------ Wasp 6.50
+Velvet v5.1.0 ------ Wasp 6.50
+Alexandria 3.5 ------ Wasp 6.50
+Ethereal-13.88-Plus-NNUE-avx2 ------ Wasp 6.50
+BlackCore-bmi2-win-5.1 ------ Wasp 6.50
+PowerFritz 18 ------ Wasp 6.50
+Smallbrain 7 ------ Wasp 6.50
+Viridithas7.0.0-avx2 ------ Wasp 6.50
+gogobello 3.0 ------ Wasp 6.50
+Allie_v0.8-dev_8e93f68_20200812 ------ Wasp 6.50
+Wasp 6.50 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Wasp 6.50
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Wasp 6.50
+Rick48 ------ Wasp 6.50
+Booot7_popcnt ------ Wasp 6.50
+asmFishWCP_2019-10-16_bmi2 ------ Wasp 6.50
+Lc0 ------ Wasp 6.50
+SlowChess Blitz 2.9 avx2 ------ Wasp 6.50
+rofChade 3.0 BMI2 AVX2 ------ Wasp 6.50
+RubiChess 20221203 (bmi2) ------ Wasp 6.50
+Dragon 3.2 by Komodo Chess 64-bit ------ Wasp 6.50
+Black Marlin 7.0 ------ Caissa_1.6.3_AVX2_BMI2
+Black Marlin 7.0 ------ Koivisto 9.2
+Black Marlin 7.0 ------ Velvet v5.1.0
+Alexandria 3.5 ------ Black Marlin 7.0
+Black Marlin 7.0 ------ Ethereal-13.88-Plus-NNUE-avx2
+Black Marlin 7.0 ------ Tucano 10.00
+Black Marlin 7.0 ------ Igel 3.4.0 64 BMI2 AVX2
+Black Marlin 7.0 ------ Fire_8.NN.MC.3_x64_real
+Black Marlin 7.0 ------ Frozenight 6.0.0 1b89891
+Black Marlin 7.0 ------ Halogen11-pext-avx2
+Black Marlin 7.0 ------ Scorpio
+Black Marlin 7.0 ------ Toga IV 1.1
+Black Marlin 7.0 ------ Marvin 6.1.0
+Black Marlin 7.0 ------ Houdini_6.0.2_Pro_x64-pext
+Black Marlin 7.0 ------ BlackCore v6.0
+Black Marlin 7.0 ------ Devre 4.0
+Arasan 23.4 ------ Black Marlin 7.0
+Black Marlin 7.0 ------ Seer 2.6.0
+Black Marlin 7.0 ------ Uralochka v3.39d
+Black Marlin 7.0 ------ Minic 3.33
+Black Marlin 7.0 ------ Fat Fritz 3
+Black Marlin 7.0 ------ Stockfish dev-20230123-596a528c
+Black Marlin 7.0 ------ Wasp 6.50
+Black Marlin 7.0 ------ Rebel-16.2
+Berserk 11.1 ------ Black Marlin 7.0
+Black Marlin 7.0 ------ Clover 3.3.1
+Black Marlin 7.0 ------ Revenge 3.0
+Black Marlin 7.0 ------ RukChess 3.0.15 NNUE
+Black Marlin 7.0 ------ PowerFritz 18
+Black Marlin 7.0 ------ Smallbrain 7
+Black Marlin 7.0 ------ Viridithas7.0.0-avx2
+Black Marlin 7.0 ------ gogobello 3.0
+Allie_v0.8-dev_8e93f68_20200812 ------ Black Marlin 7.0
+Black Marlin 7.0 ------ Xiphos 0.6.1 BMI2
+Black Marlin 7.0 ------ Coiled 1.1 x64
+Black Marlin 7.0 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Black Marlin 7.0 ------ Rick48
+Black Marlin 7.0 ------ Booot7_popcnt
+asmFishWCP_2019-10-16_bmi2 ------ Black Marlin 7.0
+Black Marlin 7.0 ------ Lc0
+Black Marlin 7.0 ------ SlowChess Blitz 2.9 avx2
+Black Marlin 7.0 ------ rofChade 3.0 BMI2 AVX2
+Black Marlin 7.0 ------ RubiChess 20221203 (bmi2)
+Black Marlin 7.0 ------ Dragon 3.2 by Komodo Chess 64-bit
+Caissa 1.7 ------ Stockfish dev-20230123-596a528c
+Black Marlin 7.0 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Wasp 6.50
+Booot 7.1_AVX2_PEXT ------ Rebel-16.2
+Caissa 1.7 ------ Koivisto 9.2
+Berserk 11.1 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Velvet v5.1.0
+Booot 7.1_AVX2_PEXT ------ Clover 3.3.1
+Alexandria 3.5 ------ Caissa 1.7
+Booot 7.1_AVX2_PEXT ------ Revenge 3.0
+Caissa 1.7 ------ Ethereal-13.88-Plus-NNUE-avx2
+Booot 7.1_AVX2_PEXT ------ RukChess 3.0.15 NNUE
+Caissa 1.7 ------ Tucano 10.00
+Booot 7.1_AVX2_PEXT ------ PowerFritz 18
+Caissa 1.7 ------ Igel 3.4.0 64 BMI2 AVX2
+Booot 7.1_AVX2_PEXT ------ Smallbrain 7
+Caissa 1.7 ------ Fire_8.NN.MC.3_x64_real
+Booot 7.1_AVX2_PEXT ------ Viridithas7.0.0-avx2
+Caissa 1.7 ------ Frozenight 6.0.0 1b89891
+Booot 7.1_AVX2_PEXT ------ gogobello 3.0
+Caissa 1.7 ------ Halogen11-pext-avx2
+Allie_v0.8-dev_8e93f68_20200812 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Scorpio
+Booot 7.1_AVX2_PEXT ------ Xiphos 0.6.1 BMI2
+Caissa 1.7 ------ Toga IV 1.1
+Booot 7.1_AVX2_PEXT ------ Coiled 1.1 x64
+Caissa 1.7 ------ Marvin 6.1.0
+Booot 7.1_AVX2_PEXT ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Caissa 1.7 ------ Houdini_6.0.2_Pro_x64-pext
+Booot 7.1_AVX2_PEXT ------ Rick48
+BlackCore v6.0 ------ Caissa 1.7
+Booot 7.1_AVX2_PEXT ------ Devre 4.0
+asmFishWCP_2019-10-16_bmi2 ------ Caissa 1.7
+Arasan 23.4 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Lc0
+Booot 7.1_AVX2_PEXT ------ Seer 2.6.0
+Caissa 1.7 ------ SlowChess Blitz 2.9 avx2
+Booot 7.1_AVX2_PEXT ------ Uralochka v3.39d
+Caissa 1.7 ------ rofChade 3.0 BMI2 AVX2
+Booot 7.1_AVX2_PEXT ------ Minic 3.33
+Caissa 1.7 ------ RubiChess 20221203 (bmi2)
+Booot 7.1_AVX2_PEXT ------ Fat Fritz 3
+Caissa 1.7 ------ Dragon 3.2 by Komodo Chess 64-bit
+Booot 7.1_AVX2_PEXT ------ Stockfish dev-20230123-596a528c
+Booot 7.1_AVX2_PEXT ------ Caissa 1.7
+Booot 7.1_AVX2_PEXT ------ Wasp 6.50
+Black Marlin 7.0 ------ Caissa 1.7
+Booot 7.1_AVX2_PEXT ------ Koivisto 9.2
+Caissa 1.7 ------ Rebel-16.2
+Booot 7.1_AVX2_PEXT ------ Velvet v5.1.0
+Berserk 11.1 ------ Caissa 1.7
+Alexandria 3.5 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Clover 3.3.1
+Booot 7.1_AVX2_PEXT ------ Ethereal-13.88-Plus-NNUE-avx2
+Caissa 1.7 ------ Revenge 3.0
+Booot 7.1_AVX2_PEXT ------ Tucano 10.00
+Caissa 1.7 ------ RukChess 3.0.15 NNUE
+Booot 7.1_AVX2_PEXT ------ Igel 3.4.0 64 BMI2 AVX2
+Caissa 1.7 ------ PowerFritz 18
+Booot 7.1_AVX2_PEXT ------ Fire_8.NN.MC.3_x64_real
+Caissa 1.7 ------ Smallbrain 7
+Booot 7.1_AVX2_PEXT ------ Frozenight 6.0.0 1b89891
+Caissa 1.7 ------ Viridithas7.0.0-avx2
+Booot 7.1_AVX2_PEXT ------ Halogen11-pext-avx2
+Caissa 1.7 ------ gogobello 3.0
+Booot 7.1_AVX2_PEXT ------ Scorpio
+Allie_v0.8-dev_8e93f68_20200812 ------ Caissa 1.7
+Booot 7.1_AVX2_PEXT ------ Toga IV 1.1
+Caissa 1.7 ------ Xiphos 0.6.1 BMI2
+Booot 7.1_AVX2_PEXT ------ Marvin 6.1.0
+Caissa 1.7 ------ Coiled 1.1 x64
+Booot 7.1_AVX2_PEXT ------ Houdini_6.0.2_Pro_x64-pext
+Caissa 1.7 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+BlackCore v6.0 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Rick48
+asmFishWCP_2019-10-16_bmi2 ------ Booot 7.1_AVX2_PEXT
+Caissa 1.7 ------ Devre 4.0
+Booot 7.1_AVX2_PEXT ------ Lc0
+Arasan 23.4 ------ Caissa 1.7
+Booot 7.1_AVX2_PEXT ------ SlowChess Blitz 2.9 avx2
+Caissa 1.7 ------ Seer 2.6.0
+Booot 7.1_AVX2_PEXT ------ rofChade 3.0 BMI2 AVX2
+Caissa 1.7 ------ Uralochka v3.39d
+Booot 7.1_AVX2_PEXT ------ RubiChess 20221203 (bmi2)
+Caissa 1.7 ------ Minic 3.33
+Booot 7.1_AVX2_PEXT ------ Dragon 3.2 by Komodo Chess 64-bit
+Caissa 1.7 ------ Fat Fritz 3
+Houdini 6.03 Pro x64-pext ------ Stockfish dev-20230123-596a528c
+Don 200819 ------ Dragon 3.2 by Komodo Chess 64-bit
+Ethereal 14.00 (NNUE) ------ Stockfish dev-20230123-596a528c
+Dragon 3.2 by Komodo Chess 64-bit ------ Halogen 11.4
+Fat Fritz 3 ------ Lc0_30
+Allie_v0.8-dev New Net ------ RubiChess 20221203 (bmi2)
+Halogen 11.4 ------ Houdini 6.03 Pro x64-pext
+Lc0_30 ------ Stockfish dev-20230123-596a528c
+Allie_v0.8-dev New Net ------ Dragon 3.2 by Komodo Chess 64-bit
+Ethereal 14.00 (NNUE) ------ Lc0_30
+Allie_v0.8-dev New Net ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Halogen 11.4
+Booot 7.1_AVX2_PEXT ------ Ethereal 14.00 (NNUE)
+Caissa 1.7 ------ Houdini 6.03 Pro x64-pext
+Booot 7.1_AVX2_PEXT ------ Lc0_30
+Caissa 1.7 ------ Halogen 11.4
+Black Marlin 7.0 ------ Ethereal 14.00 (NNUE)
+Houdini 6.03 Pro x64-pext ------ Wasp 6.50
+Allie_v0.8-dev New Net ------ Caissa 1.7
+Black Marlin 7.0 ------ Lc0_30
+Halogen 11.4 ------ Wasp 6.50
+Ethereal 14.00 (NNUE) ------ Rebel-16.2
+Houdini 6.03 Pro x64-pext ------ Koivisto 9.2
+Allie_v0.8-dev New Net ------ Wasp 6.50
+Lc0_30 ------ Rebel-16.2
+Halogen 11.4 ------ Koivisto 9.2
+Berserk 11.1 ------ Ethereal 14.00 (NNUE)
+Houdini 6.03 Pro x64-pext ------ Velvet v5.1.0
+Allie_v0.8-dev New Net ------ Koivisto 9.2
+Berserk 11.1 ------ Lc0_30
+Halogen 11.4 ------ Velvet v5.1.0
+Clover 3.3.1 ------ Ethereal 14.00 (NNUE)
+Alexandria 3.5 ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Velvet v5.1.0
+Clover 3.3.1 ------ Lc0_30
+Alexandria 3.5 ------ Halogen 11.4
+Ethereal 14.00 (NNUE) ------ Revenge 3.0
+Houdini 6.03 Pro x64-pext ------ RukChess 3.0.15 NNUE
+Alexandria 3.5 ------ Allie_v0.8-dev New Net
+Lc0_30 ------ Revenge 3.0
+Halogen 11.4 ------ RukChess 3.0.15 NNUE
+Ethereal 14.00 (NNUE) ------ Tucano 10.00
+Houdini 6.03 Pro x64-pext ------ PowerFritz 18
+Allie_v0.8-dev New Net ------ RukChess 3.0.15 NNUE
+Lc0_30 ------ Tucano 10.00
+Halogen 11.4 ------ PowerFritz 18
+Ethereal 14.00 (NNUE) ------ Igel 3.4.0 64 BMI2 AVX2
+Houdini 6.03 Pro x64-pext ------ Smallbrain 7
+Allie_v0.8-dev New Net ------ PowerFritz 18
+Igel 3.4.0 64 BMI2 AVX2 ------ Lc0_30
+Halogen 11.4 ------ Smallbrain 7
+Ethereal 14.00 (NNUE) ------ Fire_8.NN.MC.3_x64_real
+Houdini 6.03 Pro x64-pext ------ Viridithas7.0.0-avx2
+Allie_v0.8-dev New Net ------ Smallbrain 7
+Fire_8.NN.MC.3_x64_real ------ Lc0_30
+Halogen 11.4 ------ Viridithas7.0.0-avx2
+Ethereal 14.00 (NNUE) ------ Frozenight 6.0.0 1b89891
+gogobello 3.0 ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Viridithas7.0.0-avx2
+Frozenight 6.0.0 1b89891 ------ Lc0_30
+gogobello 3.0 ------ Halogen 11.4
+Ethereal 14.00 (NNUE) ------ Scorpio
+Houdini 6.03 Pro x64-pext ------ Xiphos 0.6.1 BMI2
+Allie_v0.8-dev New Net ------ gogobello 3.0
+Lc0_30 ------ Scorpio
+Halogen 11.4 ------ Xiphos 0.6.1 BMI2
+Ethereal 14.00 (NNUE) ------ Toga IV 1.1
+Coiled 1.1 x64 ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Xiphos 0.6.1 BMI2
+Lc0_30 ------ Toga IV 1.1
+Coiled 1.1 x64 ------ Halogen 11.4
+Ethereal 14.00 (NNUE) ------ Marvin 6.1.0
+Houdini 6.03 Pro x64-pext ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Allie_v0.8-dev New Net ------ Coiled 1.1 x64
+Lc0_30 ------ Marvin 6.1.0
+Halogen 11.4 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Ethereal 14.00 (NNUE) ------ Rick48
+BlackCore v6.0 ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Lc0_30 ------ Rick48
+BlackCore v6.0 ------ Halogen 11.4
+Devre 4.0 ------ Ethereal 14.00 (NNUE)
+asmFishWCP_2019-10-16_bmi2 ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ BlackCore v6.0
+Devre 4.0 ------ Lc0_30
+asmFishWCP_2019-10-16_bmi2 ------ Halogen 11.4
+Arasan 23.4 ------ Ethereal 14.00 (NNUE)
+Houdini 6.03 Pro x64-pext ------ Seer 2.6.0
+Allie_v0.8-dev New Net ------ asmFishWCP_2019-10-16_bmi2
+Arasan 23.4 ------ Lc0_30
+Halogen 11.4 ------ Seer 2.6.0
+Ethereal 14.00 (NNUE) ------ SlowChess Blitz 2.9 avx2
+Houdini 6.03 Pro x64-pext ------ Uralochka v3.39d
+Allie_v0.8-dev New Net ------ Seer 2.6.0
+Lc0_30 ------ SlowChess Blitz 2.9 avx2
+Halogen 11.4 ------ Uralochka v3.39d
+Ethereal 14.00 (NNUE) ------ rofChade 3.0 BMI2 AVX2
+Houdini 6.03 Pro x64-pext ------ Minic 3.33
+Allie_v0.8-dev New Net ------ Uralochka v3.39d
+Lc0_30 ------ rofChade 3.0 BMI2 AVX2
+Halogen 11.4 ------ Minic 3.33
+Ethereal 14.00 (NNUE) ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Minic 3.33
+Lc0_30 ------ RubiChess 20221203 (bmi2)
+Fat Fritz 3 ------ Halogen 11.4
+Dragon 3.2 by Komodo Chess 64-bit ------ Ethereal 14.00 (NNUE)
+Allie_v0.8-dev New Net ------ Fat Fritz 3
+Dragon 3.2 by Komodo Chess 64-bit ------ Lc0_30
+Halogen 11.4 ------ Stockfish dev-20230123-596a528c
+Ethereal 14.00 (NNUE) ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Stockfish dev-20230123-596a528c
+Houdini 6.03 Pro x64-pext ------ Lc0_30
+Ethereal 14.00 (NNUE) ------ Halogen 11.4
+Booot 7.1_AVX2_PEXT ------ Houdini 6.03 Pro x64-pext
+Allie_v0.8-dev New Net ------ Ethereal 14.00 (NNUE)
+Halogen 11.4 ------ Lc0_30
+Black Marlin 7.0 ------ Houdini 6.03 Pro x64-pext
+Caissa 1.7 ------ Ethereal 14.00 (NNUE)
+Booot 7.1_AVX2_PEXT ------ Halogen 11.4
+Allie_v0.8-dev New Net ------ Lc0_30
+Houdini 6.03 Pro x64-pext ------ Rebel-16.2
+Ethereal 14.00 (NNUE) ------ Wasp 6.50
+Black Marlin 7.0 ------ Halogen 11.4
+Caissa 1.7 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Booot 7.1_AVX2_PEXT
+Berserk 11.1 ------ Houdini 6.03 Pro x64-pext
+Ethereal 14.00 (NNUE) ------ Koivisto 9.2
+Halogen 11.4 ------ Rebel-16.2
+Lc0_30 ------ Wasp 6.50
+Allie_v0.8-dev New Net ------ Black Marlin 7.0
+Clover 3.3.1 ------ Houdini 6.03 Pro x64-pext
+Ethereal 14.00 (NNUE) ------ Velvet v5.1.0
+Berserk 11.1 ------ Halogen 11.4
+Koivisto 9.2 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Rebel-16.2
+Houdini 6.03 Pro x64-pext ------ Revenge 3.0
+Alexandria 3.5 ------ Ethereal 14.00 (NNUE)
+Clover 3.3.1 ------ Halogen 11.4
+Lc0_30 ------ Velvet v5.1.0
+Allie_v0.8-dev New Net ------ Berserk 11.1
+Houdini 6.03 Pro x64-pext ------ Tucano 10.00
+Ethereal 14.00 (NNUE) ------ RukChess 3.0.15 NNUE
+Halogen 11.4 ------ Revenge 3.0
+Alexandria 3.5 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Clover 3.3.1
+Houdini 6.03 Pro x64-pext ------ Igel 3.4.0 64 BMI2 AVX2
+Ethereal 14.00 (NNUE) ------ PowerFritz 18
+Halogen 11.4 ------ Tucano 10.00
+Lc0_30 ------ RukChess 3.0.15 NNUE
+Allie_v0.8-dev New Net ------ Revenge 3.0
+Fire_8.NN.MC.3_x64_real ------ Houdini 6.03 Pro x64-pext
+Ethereal 14.00 (NNUE) ------ Smallbrain 7
+Halogen 11.4 ------ Igel 3.4.0 64 BMI2 AVX2
+Lc0_30 ------ PowerFritz 18
+Allie_v0.8-dev New Net ------ Tucano 10.00
+Frozenight 6.0.0 1b89891 ------ Houdini 6.03 Pro x64-pext
+Ethereal 14.00 (NNUE) ------ Viridithas7.0.0-avx2
+Fire_8.NN.MC.3_x64_real ------ Halogen 11.4
+Lc0_30 ------ Smallbrain 7
+Allie_v0.8-dev New Net ------ Igel 3.4.0 64 BMI2 AVX2
+Houdini 6.03 Pro x64-pext ------ Scorpio
+Ethereal 14.00 (NNUE) ------ gogobello 3.0
+Frozenight 6.0.0 1b89891 ------ Halogen 11.4
+Lc0_30 ------ Viridithas7.0.0-avx2
+Allie_v0.8-dev New Net ------ Fire_8.NN.MC.3_x64_real
+Houdini 6.03 Pro x64-pext ------ Toga IV 1.1
+Ethereal 14.00 (NNUE) ------ Xiphos 0.6.1 BMI2
+Halogen 11.4 ------ Scorpio
+gogobello 3.0 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Frozenight 6.0.0 1b89891
+Houdini 6.03 Pro x64-pext ------ Marvin 6.1.0
+Coiled 1.1 x64 ------ Ethereal 14.00 (NNUE)
+Halogen 11.4 ------ Toga IV 1.1
+Lc0_30 ------ Xiphos 0.6.1 BMI2
+Allie_v0.8-dev New Net ------ Scorpio
+Houdini 6.03 Pro x64-pext ------ Rick48
+Ethereal 14.00 (NNUE) ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Halogen 11.4 ------ Marvin 6.1.0
+Coiled 1.1 x64 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Toga IV 1.1
+Devre 4.0 ------ Houdini 6.03 Pro x64-pext
+BlackCore v6.0 ------ Ethereal 14.00 (NNUE)
+Halogen 11.4 ------ Rick48
+Lc0_30 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Allie_v0.8-dev New Net ------ Marvin 6.1.0
+Arasan 23.4 ------ Houdini 6.03 Pro x64-pext
+asmFishWCP_2019-10-16_bmi2 ------ Ethereal 14.00 (NNUE)
+Devre 4.0 ------ Halogen 11.4
+BlackCore v6.0 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Rick48
+Houdini 6.03 Pro x64-pext ------ SlowChess Blitz 2.9 avx2
+Ethereal 14.00 (NNUE) ------ Seer 2.6.0
+Arasan 23.4 ------ Halogen 11.4
+asmFishWCP_2019-10-16_bmi2 ------ Lc0_30
+Allie_v0.8-dev New Net ------ Devre 4.0
+Houdini 6.03 Pro x64-pext ------ rofChade 3.0 BMI2 AVX2
+Ethereal 14.00 (NNUE) ------ Uralochka v3.39d
+Halogen 11.4 ------ SlowChess Blitz 2.9 avx2
+Lc0_30 ------ Seer 2.6.0
+Allie_v0.8-dev New Net ------ Arasan 23.4
+Houdini 6.03 Pro x64-pext ------ RubiChess 20221203 (bmi2)
+Ethereal 14.00 (NNUE) ------ Minic 3.33
+Halogen 11.4 ------ rofChade 3.0 BMI2 AVX2
+Lc0_30 ------ Uralochka v3.39d
+Allie_v0.8-dev New Net ------ SlowChess Blitz 2.9 avx2
+Dragon 3.2 by Komodo Chess 64-bit ------ Houdini 6.03 Pro x64-pext
+Ethereal 14.00 (NNUE) ------ Fat Fritz 3
+Halogen 11.4 ------ RubiChess 20221203 (bmi2)
+Lc0_30 ------ Minic 3.33
+Allie_v0.8-dev New Net ------ rofChade 3.0 BMI2 AVX2
+Ethereal 14.00 (NNUE) ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Lc0_30
+Booot 7.1_AVX2_PEXT ------ Fire 8.NN.MC.3 x64 bmi2
+Black Marlin 7.0 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Rebel-16.2
+Berserk 11.1 ------ Fire 8.NN.MC.3 x64 bmi2
+Clover 3.3.1 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Revenge 3.0
+Fire 8.NN.MC.3 x64 bmi2 ------ Tucano 10.00
+Fire 8.NN.MC.3 x64 bmi2 ------ Igel 3.4.0 64 BMI2 AVX2
+Fire 8.NN.MC.3 x64 bmi2 ------ Viridithas7.0.0-avx2
+Fire 8.NN.MC.3 x64 bmi2 ------ gogobello 3.0
+Fire 8.NN.MC.3 x64 bmi2 ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+BlackCore v6.0 ------ Fire 8.NN.MC.3 x64 bmi2
+asmFishWCP_2019-10-16_bmi2 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Seer 2.6.0
+Fire 8.NN.MC.3 x64 bmi2 ------ Uralochka v3.39d
+Fire 8.NN.MC.3 x64 bmi2 ------ Minic 3.33
+Fat Fritz 3 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Stockfish dev-20230123-596a528c
+Fire 8.NN.MC.3 x64 bmi2 ------ Houdini 6.03 Pro x64-pext
+Fire 8.NN.MC.3 x64 bmi2 ------ Halogen 11.4
+Allie_v0.8-dev New Net ------ Fire 8.NN.MC.3 x64 bmi2
+Caissa 1.7 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ Wasp 6.50
+Fire 8.NN.MC.3 x64 bmi2 ------ Koivisto 9.2
+Fire 8.NN.MC.3 x64 bmi2 ------ Velvet v5.1.0
+Alexandria 3.5 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ RukChess 3.0.15 NNUE
+Fire 8.NN.MC.3 x64 bmi2 ------ PowerFritz 18
+Fire 8.NN.MC.3 x64 bmi2 ------ Smallbrain 7
+Fire 8.NN.MC.3 x64 bmi2 ------ Frozenight 6.0.0 1b89891
+Fire 8.NN.MC.3 x64 bmi2 ------ Scorpio
+Fire 8.NN.MC.3 x64 bmi2 ------ Toga IV 1.1
+Fire 8.NN.MC.3 x64 bmi2 ------ Marvin 6.1.0
+Fire 8.NN.MC.3 x64 bmi2 ------ Rick48
+Devre 4.0 ------ Fire 8.NN.MC.3 x64 bmi2
+Arasan 23.4 ------ Fire 8.NN.MC.3 x64 bmi2
+Fire 8.NN.MC.3 x64 bmi2 ------ SlowChess Blitz 2.9 avx2
+Fire 8.NN.MC.3 x64 bmi2 ------ rofChade 3.0 BMI2 AVX2
+Fire 8.NN.MC.3 x64 bmi2 ------ RubiChess 20221203 (bmi2)
+Dragon 3.2 by Komodo Chess 64-bit ------ Fire 8.NN.MC.3 x64 bmi2
+Stockfish dev-20230123-596a528c ------ Weiss 2.1-dev
+Houdini 6.03 Pro x64-pext ------ Weiss 2.1-dev
+Halogen 11.4 ------ Weiss 2.1-dev
+Allie_v0.8-dev New Net ------ Weiss 2.1-dev
+Caissa 1.7 ------ Weiss 2.1-dev
+Wasp 6.50 ------ Weiss 2.1-dev
+Koivisto 9.2 ------ Weiss 2.1-dev
+Velvet v5.1.0 ------ Weiss 2.1-dev
+Alexandria 3.5 ------ Weiss 2.1-dev
+RukChess 3.0.15 NNUE ------ Weiss 2.1-dev
+PowerFritz 18 ------ Weiss 2.1-dev
+Smallbrain 7 ------ Weiss 2.1-dev
+Frozenight 6.0.0 1b89891 ------ Weiss 2.1-dev
+Scorpio ------ Weiss 2.1-dev
+Toga IV 1.1 ------ Weiss 2.1-dev
+Marvin 6.1.0 ------ Weiss 2.1-dev
+Rick48 ------ Weiss 2.1-dev
+Devre 4.0 ------ Weiss 2.1-dev
+Arasan 23.4 ------ Weiss 2.1-dev
+SlowChess Blitz 2.9 avx2 ------ Weiss 2.1-dev
+rofChade 3.0 BMI2 AVX2 ------ Weiss 2.1-dev
+RubiChess 20221203 (bmi2) ------ Weiss 2.1-dev
+Dragon 3.2 by Komodo Chess 64-bit ------ Weiss 2.1-dev
+Fire 8.NN.MC.3 x64 bmi2 ------ Weiss 2.1-dev
+Ethereal 14.00 (NNUE) ------ Weiss 2.1-dev
+Lc0_30 ------ Weiss 2.1-dev
+Booot 7.1_AVX2_PEXT ------ Weiss 2.1-dev
+Black Marlin 7.0 ------ Weiss 2.1-dev
+Rebel-16.2 ------ Weiss 2.1-dev
+Berserk 11.1 ------ Weiss 2.1-dev
+Clover 3.3.1 ------ Weiss 2.1-dev
+Revenge 3.0 ------ Weiss 2.1-dev
+Tucano 10.00 ------ Weiss 2.1-dev
+Igel 3.4.0 64 BMI2 AVX2 ------ Weiss 2.1-dev
+Viridithas7.0.0-avx2 ------ Weiss 2.1-dev
+gogobello 3.0 ------ Weiss 2.1-dev
+Weiss 2.1-dev ------ Xiphos 0.6.1 BMI2
+Coiled 1.1 x64 ------ Weiss 2.1-dev
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Weiss 2.1-dev
+BlackCore v6.0 ------ Weiss 2.1-dev
+asmFishWCP_2019-10-16_bmi2 ------ Weiss 2.1-dev
+Seer 2.6.0 ------ Weiss 2.1-dev
+Uralochka v3.39d ------ Weiss 2.1-dev
+Minic 3.33 ------ Weiss 2.1-dev
+Fat Fritz 3 ------ Weiss 2.1-dev
+Stockfish dev-20230123-596a528c ------ Viridithas 8.0.0
+Dragon 3.2 by Komodo Chess 64-bit ------ Viridithas 8.0.0
+Fat Fritz 3 ------ Viridithas 8.0.0
+RubiChess 20221203 (bmi2) ------ Viridithas 8.0.0
+Minic 3.33 ------ Viridithas 8.0.0
+rofChade 3.0 BMI2 AVX2 ------ Viridithas 8.0.0
+Uralochka v3.39d ------ Viridithas 8.0.0
+SlowChess Blitz 2.9 avx2 ------ Viridithas 8.0.0
+Seer 2.6.0 ------ Viridithas 8.0.0
+Arasan 23.4 ------ Viridithas 8.0.0
+asmFishWCP_2019-10-16_bmi2 ------ Viridithas 8.0.0
+Devre 4.0 ------ Viridithas 8.0.0
+BlackCore v6.0 ------ Viridithas 8.0.0
+Rick48 ------ Viridithas 8.0.0
+Nemorino 6.00 Patch 1 (AVX2/PEXT) ------ Viridithas 8.0.0
+Marvin 6.1.0 ------ Viridithas 8.0.0
+Coiled 1.1 x64 ------ Viridithas 8.0.0
+Toga IV 1.1 ------ Viridithas 8.0.0
+Viridithas 8.0.0 ------ Xiphos 0.6.1 BMI2
+Scorpio ------ Viridithas 8.0.0
+gogobello 3.0 ------ Viridithas 8.0.0
+Frozenight 6.0.0 1b89891 ------ Viridithas 8.0.0
+Smallbrain 7 ------ Viridithas 8.0.0
+Igel 3.4.0 64 BMI2 AVX2 ------ Viridithas 8.0.0
+PowerFritz 18 ------ Viridithas 8.0.0
+Tucano 10.00 ------ Viridithas 8.0.0
+RukChess 3.0.15 NNUE ------ Viridithas 8.0.0
+Revenge 3.0 ------ Viridithas 8.0.0
+Alexandria 3.5 ------ Viridithas 8.0.0
+Clover 3.3.1 ------ Viridithas 8.0.0
+Velvet v5.1.0 ------ Viridithas 8.0.0
+Berserk 11.1 ------ Viridithas 8.0.0
+Koivisto 9.2 ------ Viridithas 8.0.0
+Rebel-16.2 ------ Viridithas 8.0.0
+Viridithas 8.0.0 ------ Wasp 6.50
+Black Marlin 7.0 ------ Viridithas 8.0.0
+Caissa 1.7 ------ Viridithas 8.0.0
+Booot 7.1_AVX2_PEXT ------ Viridithas 8.0.0
+Allie_v0.8-dev New Net ------ Viridithas 8.0.0
+Lc0_30 ------ Viridithas 8.0.0
+Halogen 11.4 ------ Viridithas 8.0.0
+Ethereal 14.00 (NNUE) ------ Viridithas 8.0.0
+Houdini 6.03 Pro x64-pext ------ Viridithas 8.0.0
+Fire 8.NN.MC.3 x64 bmi2 ------ Viridithas 8.0.0
+Viridithas 8.0.0 ------ Weiss 2.1-dev
+Andscacs nnue01 ------ Weiss 2.1-dev
+Andscacs nnue01 ------ Houdini 6.03 Pro x64-pext
+Andscacs nnue01 ------ Halogen 11.4
+Allie_v0.8-dev New Net ------ Andscacs nnue01
+Andscacs nnue01 ------ Caissa 1.7
+Andscacs nnue01 ------ Wasp 6.50
+Andscacs nnue01 ------ Koivisto 9.2
+Andscacs nnue01 ------ Velvet v5.1.0
+Alexandria 3.5 ------ Andscacs nnue01
+Andscacs nnue01 ------ RukChess 3.0.15 NNUE
+Andscacs nnue01 ------ PowerFritz 18
+Andscacs nnue01 ------ Smallbrain 7
+Andscacs nnue01 ------ gogobello 3.0
+Andscacs nnue01 ------ Xiphos 0.6.1 BMI2
+Andscacs nnue01 ------ Coiled 1.1 x64
+Andscacs nnue01 ------ Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Andscacs nnue01 ------ BlackCore v6.0
+Andscacs nnue01 ------ asmFishWCP_2019-10-16_bmi2
+Andscacs nnue01 ------ Seer 2.6.0
+Andscacs nnue01 ------ Uralochka v3.39d
+Andscacs nnue01 ------ Minic 3.33
+Andscacs nnue01 ------ Fat Fritz 3
+Andscacs nnue01 ------ Stockfish dev-20230123-596a528c
+Andscacs nnue01 ------ Viridithas 8.0.0
+Andscacs nnue01 ------ Fire 8.NN.MC.3 x64 bmi2
+Andscacs nnue01 ------ Ethereal 14.00 (NNUE)
+Andscacs nnue01 ------ Lc0_30
+Andscacs nnue01 ------ Booot 7.1_AVX2_PEXT
+Andscacs nnue01 ------ Black Marlin 7.0
+Andscacs nnue01 ------ Rebel-16.2
+Andscacs nnue01 ------ Berserk 11.1
+Andscacs nnue01 ------ Clover 3.3.1
+Andscacs nnue01 ------ Revenge 3.0
+Andscacs nnue01 ------ Tucano 10.00
+Andscacs nnue01 ------ Igel 3.4.0 64 BMI2 AVX2
+Andscacs nnue01 ------ Frozenight 6.0.0 1b89891
+Andscacs nnue01 ------ Scorpio
+Andscacs nnue01 ------ Toga IV 1.1
+Andscacs nnue01 ------ Marvin 6.1.0
+Andscacs nnue01 ------ Rick48
+Andscacs nnue01 ------ Devre 4.0
+Andscacs nnue01 ------ Arasan 23.4
+Andscacs nnue01 ------ SlowChess Blitz 2.9 avx2
+Andscacs nnue01 ------ rofChade 3.0 BMI2 AVX2
+Andscacs nnue01 ------ RubiChess 20221203 (bmi2)
+Andscacs nnue01 ------ Dragon 3.2 by Komodo Chess 64-bit
+[Participants]
+Engine1=Stockfish dev-20230123-596a528c
+Engine2=Dragon 3.2 by Komodo Chess 64-bit
+Engine3=Fat Fritz 3
+Engine4=RubiChess 20221203 (bmi2)
+Engine5=Minic 3.33
+Engine6=rofChade 3.0 BMI2 AVX2
+Engine7=Uralochka v3.39d
+Engine8=SlowChess Blitz 2.9 avx2
+Engine9=Seer 2.6.0
+Engine10=Arasan 23.4
+Engine11=asmFishWCP_2019-10-16_bmi2
+Engine12=Devre 4.0
+Engine13=BlackCore v6.0
+Engine14=Rick48
+Engine15=Nemorino 6.00 Patch 1 (AVX2/PEXT)
+Engine16=Marvin 6.1.0
+Engine17=Coiled 1.1 x64
+Engine18=Toga IV 1.1
+Engine19=Xiphos 0.6.1 BMI2
+Engine20=Scorpio
+Engine21=gogobello 3.0
+Engine22=Frozenight 6.0.0 1b89891
+Engine23=Smallbrain 7
+Engine24=Igel 3.4.0 64 BMI2 AVX2
+Engine25=PowerFritz 18
+Engine26=Tucano 10.00
+Engine27=RukChess 3.0.15 NNUE
+Engine28=Revenge 3.0
+Engine29=Alexandria 3.5
+Engine30=Clover 3.3.1
+Engine31=Velvet v5.1.0
+Engine32=Berserk 11.1
+Engine33=Koivisto 9.2
+Engine34=Rebel-16.2
+Engine35=Wasp 6.50
+Engine36=Black Marlin 7.0
+Engine37=Caissa 1.7
+Engine38=Booot 7.1_AVX2_PEXT
+Engine39=Allie_v0.8-dev New Net
+Engine40=Lc0_30
+Engine41=Halogen 11.4
+Engine42=Ethereal 14.00 (NNUE)
+Engine43=Houdini 6.03 Pro x64-pext
+Engine44=Fire 8.NN.MC.3 x64 bmi2
+Engine45=Weiss 2.1-dev
+Engine46=Viridithas 8.0.0
+Engine47=Andscacs nnue01

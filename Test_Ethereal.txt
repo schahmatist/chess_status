@@ -1,0 +1,14 @@
+   Engine                        Score                              Et                             Et                             Et    S-B
+1: Ethereal-13.88-Plus-NNUE-avx2 20.0/33 ······························ 01=1101=01===1==1===1====1=01= =1=                             238.00
+2: Ethereal-pext-avx2            13.0/32 10=0010=10===0==0===0====0=10= ······························ ==                              242.00
+3: Ethereal-14-noNN_test-avx2    2.0/5   =0=                            ==                             ······························   33.00
+
+35 of 90 games played
+Name of the tournament: Test_Ethereal
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/1
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_Ethereal.pgn
+Website: 
+E-Mail Address: 

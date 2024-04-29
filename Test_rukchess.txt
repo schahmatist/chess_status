@@ -1,0 +1,13 @@
+   Engine                Score          Ru         Ru    S-B
+1: RukChess.3.0.13.NNUE  6.5/10 ·········· 11===01011   22.75
+2: RukChess.3.0.13.NNUE2 3.5/10 00===10100 ··········   22.75
+
+10 games played / Tournament is finished
+Name of the tournament: Test_rukchess
+Site/ Country: DESKTOP-50V1D33, United States
+Level: Blitz 0:02/2
+Hardware: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz with 31.9 GB Memory
+Operating system: Windows 10 Home Home Edition (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Test_rukchess.pgn
+Website: 
+E-Mail Address: 

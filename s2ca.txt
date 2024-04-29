@@ -1,0 +1,71 @@
+AI 27.0_ad9b x64m
+Avatar 260622 avx2
+Big-ballz_x64_bmi2
+Blue Marlin 15.6-bmi2
+Bluefish-NNUE-180921-bmi2
+BrainLearn21.1-x86-64-bmi2
+BrainLearn22-x86-64-bmi2
+Cfish 010422 [001]
+Charisma 240223-bmi2
+Charisma 250223-bmi2
+Charisma Blitz-bmi2
+Charisma Diamond-bmi2
+Charisma Gold-bmi2
+Charisma Light 2-bmi2
+Charisma Saphir-bmi2
+Charisma-bmi2
+Cool Iris 5.2_BMI2
+Corchess_23_03_08_x64_bmi2
+Corchess_x64_bmi2
+Crystal 5 KWK bmi2
+Dark SisTer 4.6 bmi2
+Dark Sister 1.9a_bmi2
+Dragon-3-64bit-avx2
+EMAN 8.70 64-bit BMI2
+EMAN 8.81 64-bit BMI2
+FatFritz3
+Fat_titz_2_win64-bmi2
+Fisherov chess monk 1.2 bmi2
+Flamiing Titz 230822-bmi2
+Genko 1.1 bmi2
+Honey-v14_bmi
+Kan Tactical 290722
+Kayra 1.7 bmi2
+Kookaburra v1.03a-bmi2
+Leptir 280223-bmi2
+Leptir Classic-bmi2
+Nebula-vortex_x64_bmi2
+PREDATOR_X5_230303
+PREDATOR_X5_no_books
+Patzer AI 020223
+Phobia 4.1 bmi2
+Polyfish_230115_x86-64-bmi2
+ProteusSF-Piranha-15.1-bmi2
+Quadrophenia 1 bmi2
+Raubfisch X48e_nn_sl-bmi2
+Redfish-avx2-230122
+Reksio-x86-64-avx2
+ShashChess28-x86-64-bmi2
+ShashChess29-x86-64-bmi2
+ShashChess29.1-x86-64-bmi2
+Solidor bmi2
+Solista Attack v2-bmi2
+Solo
+Spectral Tactical 1.80 bmi2
+SpectralByLOBO-bmi2
+Stockfish-15.1-x86-64-avx2
+StockfishMZ 170522 bmi2
+Stockfish_14.1_win_x64_avx2
+Stockfish_22021301_x64_bmi2
+Stockfish_23012306_x64_bmi2
+Stockfish_23022721_x64_bmi2
+Stockfish_23031407_x64_bmi2
+SugaR AI 2.50 bmi2
+Swordfish 15.3a 64-bit BMI2
+TealOracle
+Vulkan 031222-bmi2
+Yoda
+Yoda_bmi
+YuliGM PrO 4
+YuliGM+PrO+5
+Zeus 27.0_ad9b x64m
