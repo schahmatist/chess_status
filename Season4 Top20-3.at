@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=11:04:08
+LastGameTime=11:10:02
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½
@@ -250,7 +250,7 @@ PlentyChess-1.0.0-bmi2 ------ Revenge_3_(Pedone)_avx2=1½½½10½½½½1½
 Blackmarlin-9.0-windows-x86-64-v3 ------ RofChade 3.1=½0½0½0½½½½½½
 Ethereal-14.25-pext-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½1½½½1½½½1½
 Igel-x64_bmi2_avx2_3_5_0 ------ Seer_v2.8_x64_avx2_popcnt=½½0½10½1½½0½
-Caissa-1.18-x64-avx2-bmi2 ------ Stockfish_24032015_x64_bmi2=½½0½0½½00½½
+Caissa-1.18-x64-avx2-bmi2 ------ Stockfish_24032015_x64_bmi2=½½0½0½½00½½½
 Alexandria-6.1.0-avx2 ------ Dragon 3.3-64bit-avx2=0½0½½0½½½½½
 Clover.6.1-avx2 ------ Lc0 0.31-rc2=1½½½½1½½½0½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Obsidian120-avx2-pext=½½½½0½½½00½
