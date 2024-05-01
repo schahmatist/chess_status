@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=209
+CurrentPair=210
 CurrentRound=11
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3386
+LastPGNEPDindex=4960
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.04.30
-LastGameTime=21:32:17
+LastGameTime=21:37:11
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½
@@ -278,7 +278,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=½½½½1½½½½½½
 Clover.6.1-avx2 ------ Ethereal-14.25-pext-avx2=1½½½1½½½½0½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½1½1½1½½½1½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=½½½½0½0½½½½
-Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½½½½½½½
+Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½½½½½½½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=4741
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=580
@@ -489,7 +489,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=4048
 Clover.6.1-avx2 ------ Ethereal-14.25-pext-avx2=2458
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=5310
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=3386
-Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=4409
+Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=4960
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Seer_v2.8_x64_avx2_popcnt
