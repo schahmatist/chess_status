@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=184
+CurrentPair=186
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2744
+LastPGNEPDindex=1857
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=11:16:43
+LastGameTime=11:23:22
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½
@@ -253,8 +253,8 @@ Igel-x64_bmi2_avx2_3_5_0 ------ Seer_v2.8_x64_avx2_popcnt=½½0½10½1½½0½
 Caissa-1.18-x64-avx2-bmi2 ------ Stockfish_24032015_x64_bmi2=½½0½0½½00½½½
 Alexandria-6.1.0-avx2 ------ Dragon 3.3-64bit-avx2=0½0½½0½½½½½½
 Clover.6.1-avx2 ------ Lc0 0.31-rc2=1½½½½1½½½0½1
-Koivisto_9.2-windows-avx2-pgo-pext ------ Obsidian120-avx2-pext=½½½½0½½½00½
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41.dev4-avx2=0½½1½½½½½½½
+Koivisto_9.2-windows-avx2-pgo-pext ------ Obsidian120-avx2-pext=½½½½0½½½00½0
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41.dev4-avx2=0½½1½½½½½½½½
 PlentyChess-1.0.0-bmi2 ------ Rebel-16.3=11½½½1½½½½½
 RofChade 3.1 ------ RubiChess-20240112_x86-64-bmi2=½½½0½0½½½½1
 Ethereal-14.25-pext-avx2 ------ Revenge_3_(Pedone)_avx2=½½1½½½½1½½½
