@@ -28552,3 +28552,27 @@ Pairing 68/210 :    Koivisto_9.2-windows-avx2-pgo-pext  -  Seer_v2.8_x64_avx2_po
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  12 = =    5.0:5.0        7.0:5.0       2:22:24 AM     0.00    58 23.826 :21.261  2-0-10
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, May 1, 2024 2:22:27 AM
+ Blitz 1/1 
+
+Pairing 69/210 :    Stockfish_24032015_x64_bmi2  -  Dragon 3.3-64bit-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  12 B 1    5.0:4.0        8.0:4.0       2:24:24 AM   -11.59    25 21.500 :18.706  4-0-8
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, May 1, 2024 2:24:27 AM
+ Blitz 1/1 
+
+Pairing 70/210 :    Caissa-1.18-x64-avx2-bmi2  -  Berserk-13-avx2-pext
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws

@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=209
-CurrentRound=13
+CurrentPair=1
+CurrentRound=14
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5111
+LastPGNEPDindex=1001
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,9 +67,9 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=02:14:30
+LastGameTime=02:24:50
 [PairingResults]
-Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½
+Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½
 Stockfish_24032015_x64_bmi2 ------ Uralochka3.41.dev4-avx2=111½1½11½½1½1
 Berserk-13-avx2-pext ------ PlentyChess-1.0.0-bmi2=½1½½½1½1½½1½½
@@ -278,7 +278,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=½½½1½11½½½½½½
 Clover.6.1-avx2 ------ Ethereal-14.25-pext-avx2=½½1½½½½½½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½1½½1½½½½½0
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=½½0½½½½1½10½½
-Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½0½½½½½½½½
+Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½0½½½½½½½½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1001
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=422
@@ -489,7 +489,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=3861
 Clover.6.1-avx2 ------ Ethereal-14.25-pext-avx2=1687
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=2633
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=5111
-Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=463
+Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=2893
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Seer_v2.8_x64_avx2_popcnt
