@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=97
+CurrentPair=99
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2751
+LastPGNEPDindex=6629
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=04:30:31
+LastGameTime=04:38:47
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½1
@@ -166,8 +166,8 @@ Clover.6.1-avx2 ------ RofChade 3.1=1½½½½½½½½1½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ PlentyChess-1.0.0-bmi2=10½½½½½½0½½½
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41.dev4-avx2=111½½½½½1½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Obsidian120-avx2-pext=½½½½½½½½½½½½
-Berserk-13-avx2-pext ------ Lc0 0.31-rc2=1½½½½½1½10½
-Alexandria-6.1.0-avx2 ------ Stockfish_24032015_x64_bmi2=½0½0½0½0½00
+Berserk-13-avx2-pext ------ Lc0 0.31-rc2=1½½½½½1½10½1
+Alexandria-6.1.0-avx2 ------ Stockfish_24032015_x64_bmi2=½0½0½0½0½00½
 Igel-x64_bmi2_avx2_3_5_0 ------ Seer_v2.8_x64_avx2_popcnt=½½½½0½½½½10
 Rebel-16.3 ------ Revenge_3_(Pedone)_avx2=½½½½½01½½1½
 Blackmarlin-9.0-windows-x86-64-v3 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=½½½½0½½½½½½
