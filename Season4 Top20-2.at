@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=77
+CurrentPair=78
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1795
+LastPGNEPDindex=6710
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=02:54:50
+LastGameTime=03:01:13
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½1
@@ -146,7 +146,7 @@ Rebel-16.3 ------ Uralochka3.41.dev4-avx2=1½½½½0½½½½10
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Obsidian120-avx2-pext=½½½½01½½½½½½
 Clover.6.1-avx2 ------ Lc0 0.31-rc2=1½1½½½1½½½½½
 Alexandria-6.1.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½0½1½1½½½½½½
-Dragon 3.3-64bit-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=1½½½1½1½1½1
+Dragon 3.3-64bit-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=1½½½1½1½1½1½
 Caissa-1.18-x64-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½1½½½
 Berserk-13-avx2-pext ------ Stockfish_24032015_x64_bmi2=0½½½½½½½½½½
 Revenge_3_(Pedone)_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½0½½½½½½½½
