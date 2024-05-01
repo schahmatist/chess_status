@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=92
+CurrentPair=93
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7291
+LastPGNEPDindex=5201
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=04:51:50
+LastGameTime=04:58:27
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½
@@ -162,7 +162,7 @@ Alexandria-6.1.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½1½½1½1½½0½
 Rebel-16.3 ------ RubiChess-20240112_x86-64-bmi2=½½½½½½01½½½0
 Blackmarlin-9.0-windows-x86-64-v3 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=000½½½½000½0
 Koivisto_9.2-windows-avx2-pgo-pext ------ Stockfish_24032015_x64_bmi2=½½½00½½0000½
-Clover.6.1-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½½1½½1
+Clover.6.1-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½½1½½11
 Dragon 3.3-64bit-avx2 ------ Ethereal-14.25-pext-avx2=1½½½½½1½½½1
 Caissa-1.18-x64-avx2-bmi2 ------ RofChade 3.1=½½½½½½½½½½½
 PlentyChess-1.0.0-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½½½1½
