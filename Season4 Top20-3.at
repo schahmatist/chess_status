@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=8
+CurrentPair=9
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5558
+LastPGNEPDindex=1231
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.04.30
-LastGameTime=22:13:43
+LastGameTime=22:16:46
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½
@@ -77,7 +77,7 @@ Caissa-1.18-x64-avx2-bmi2 ------ RofChade 3.1=1½½½1½½½½0½1
 Dragon 3.3-64bit-avx2 ------ Ethereal-14.25-pext-avx2=½½½1½½½1½½½½
 Clover.6.1-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½111½½½½½½1½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Koivisto_9.2-windows-avx2-pgo-pext=½0½½0000½0½0
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Revenge_3_(Pedone)_avx2=½½½½½½½½½½½
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Revenge_3_(Pedone)_avx2=½½½½½½½½½½½½
 Rebel-16.3 ------ RubiChess-20240112_x86-64-bmi2=½½½½½½½½0½½
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½½½½½½1
 Stockfish_24032015_x64_bmi2 ------ Uralochka3.41.dev4-avx2=11½1½1½1½1½
