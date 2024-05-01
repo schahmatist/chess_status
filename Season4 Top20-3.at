@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=115
+CurrentPair=117
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3688
+LastPGNEPDindex=5155
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.01
-LastGameTime=06:03:07
+LastGameTime=06:09:16
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½
@@ -184,8 +184,8 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Revenge_3_(Pedone)_avx2=½½10101½½½10
 Blackmarlin-9.0-windows-x86-64-v3 ------ Clover.6.1-avx2=½0½0½0½0½0½½
 Dragon 3.3-64bit-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1½1½½11½1½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Ethereal-14.25-pext-avx2=½½½½½½½½½1½½
-RofChade 3.1 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½1½½½
-Berserk-13-avx2-pext ------ PlentyChess-1.0.0-bmi2=½1½½½½½½½½1
+RofChade 3.1 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½1½½½½
+Berserk-13-avx2-pext ------ PlentyChess-1.0.0-bmi2=½1½½½½½½½½1½
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41.dev4-avx2=1½½01½½½½½½
 Obsidian120-avx2-pext ------ Stockfish_24032015_x64_bmi2=½½½½½0½000½
 Alexandria-6.1.0-avx2 ------ Lc0 0.31-rc2=1½1½111½½½½
