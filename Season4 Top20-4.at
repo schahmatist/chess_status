@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=188
+CurrentPair=189
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4215
+LastPGNEPDindex=1284
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.02
-LastGameTime=19:49:58
+LastGameTime=19:54:30
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½00
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0
@@ -257,7 +257,7 @@ Dragon 3.3-64bit-avx2 ------ Uralochka3.41.dev4-avx2=1½½½1½111½1½½½
 Clover.6.1-avx2 ------ PlentyChess-1.0.0-bmi2=½½010½½½½½½½½1
 Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=½½½½½½½½½11½1½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Ethereal-14.25-pext-avx2=0½½½½½0½0½½½0½
-Revenge_3_(Pedone)_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=00½0½½½½½½½½½
+Revenge_3_(Pedone)_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=00½0½½½½½½½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Stockfish_24032015_x64_bmi2=0½0½0000½0½00
 Alexandria-6.1.0-avx2 ------ Rebel-16.3=½½½½½½½001½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½0½½1½½½½½1½
