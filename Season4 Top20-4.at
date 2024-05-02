@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=102
+CurrentPair=103
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4702
+LastPGNEPDindex=4673
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.02
-LastGameTime=13:23:17
+LastGameTime=13:27:27
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0
@@ -172,7 +172,7 @@ Lc0 0.31-rc2 ------ Rebel-16.3=½½½½½½½0½½½½½½
 Alexandria-6.1.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½0½0½½½½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Revenge_3_(Pedone)_avx2=½½½½½0½½½½½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Clover.6.1-avx2=½½0½½½½½½½0½½0
-Dragon 3.3-64bit-avx2 ------ Stockfish_24032015_x64_bmi2=½0½½0½½½½½0½½
+Dragon 3.3-64bit-avx2 ------ Stockfish_24032015_x64_bmi2=½0½½0½½½½½0½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=1½½½½½1½1½1½1
 Ethereal-14.25-pext-avx2 ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½½½½½½
 Berserk-13-avx2-pext ------ RofChade 3.1=1½1½1½½½111½½
