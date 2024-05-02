@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=75
+CurrentPair=76
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5398
+LastPGNEPDindex=1550
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.02
-LastGameTime=14:32:25
+LastGameTime=14:37:57
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -144,7 +144,7 @@ Revenge_3_(Pedone)_avx2 ------ RofChade 3.1=½½½½½½½½101½½½½½
 PlentyChess-1.0.0-bmi2 ------ RubiChess-20240112_x86-64-bmi2=101½½011½½½½½0½½
 Rebel-16.3 ------ Uralochka3.41.dev4-avx2=½½½½1½½½½½1½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Obsidian120-avx2-pext=½½½½½½½½½1½½½½½½
-Clover.6.1-avx2 ------ Lc0 0.31-rc2=1½½½1½½½½½½0011
+Clover.6.1-avx2 ------ Lc0 0.31-rc2=1½½½1½½½½½½00110
 Alexandria-6.1.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=1½½½1½1½½½1½½½½
 Dragon 3.3-64bit-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½11111111½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½110½½½½1½½½½½
