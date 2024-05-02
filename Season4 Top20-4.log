@@ -34684,3 +34684,16 @@ Pairing 158/210 :    Uralochka3.41.dev4-avx2  -  Stockfish_24032015_x64_bmi2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  14 W 2    5.0:4.0        4.0:10.0      5:37:04 PM      +M2    55 23.486 :21.649  0-6-8
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, May 2, 2024 5:37:07 PM
+ Blitz 1/1 
+
+Pairing 159/210 :    Viridithas-12.0.0-x86_64-win-v3  -  PlentyChess-1.0.0-bmi2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  14 = =    6.0:6.0        6.0:8.0       5:39:56 PM     0.00    38 19.300 :21.400  0-2-12
