@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=171
+CurrentPair=172
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2075
+LastPGNEPDindex=220
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.02
-LastGameTime=18:19:20
+LastGameTime=18:23:28
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½
@@ -240,7 +240,7 @@ Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41.dev4-avx2=½½½1½0½½½½0½01
 PlentyChess-1.0.0-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=1½11½½½111½½1½
 Ethereal-14.25-pext-avx2 ------ RofChade 3.1=½½1½½½½½½½1½½½
 Berserk-13-avx2-pext ------ Caissa-1.18-x64-avx2-bmi2=½½½1½½½½1½½½½½
-Dragon 3.3-64bit-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½111½1½½½½½11
+Dragon 3.3-64bit-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½111½1½½½½½11½
 Clover.6.1-avx2 ------ Stockfish_24032015_x64_bmi2=½0½0½0½0½0½½0
 Alexandria-6.1.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½½½½½½1½1½½1½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Lc0 0.31-rc2=½1½½½½½½½½1½½
