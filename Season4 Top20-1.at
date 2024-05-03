@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=205
+CurrentPair=206
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5582
+LastPGNEPDindex=4098
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.03
-LastGameTime=00:37:27
+LastGameTime=00:43:10
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -274,7 +274,7 @@ Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½0½00000½½½½½½
 Berserk-13-avx2-pext ------ Obsidian120-avx2-pext=½½1½½½1½½½½½½1½½
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41.dev4-avx2=½1½½½½½½½½½1½½1½
 Dragon 3.3-64bit-avx2 ------ PlentyChess-1.0.0-bmi2=½11½1½½½½½½½½½1½
-Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=½½½1½11½½½½½½10
+Koivisto_9.2-windows-avx2-pgo-pext ------ RofChade 3.1=½½½1½11½½½½½½101
 Clover.6.1-avx2 ------ Ethereal-14.25-pext-avx2=½½1½½½½½½½½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½1½½1½½½½½0½1
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=½½0½½½½1½10½½½½
