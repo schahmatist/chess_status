@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=2
+CurrentPair=3
 CurrentRound=15
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=784
+LastPGNEPDindex=531
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,11 +67,11 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.02
-LastGameTime=21:38:12
+LastGameTime=21:43:06
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½0
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0
-Berserk-13-avx2-pext ------ Uralochka3.41.dev4-avx2=1½½½½½1½1½11½½
+Berserk-13-avx2-pext ------ Uralochka3.41.dev4-avx2=1½½½½½1½1½11½½1
 PlentyChess-1.0.0-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½½10½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ RofChade 3.1=1½½½1½½½½0½1½½
 Dragon 3.3-64bit-avx2 ------ Ethereal-14.25-pext-avx2=½½½1½½½1½½½½½1
@@ -282,7 +282,7 @@ Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=0½½0½½½½0½½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
-Berserk-13-avx2-pext ------ Uralochka3.41.dev4-avx2=3377
+Berserk-13-avx2-pext ------ Uralochka3.41.dev4-avx2=531
 PlentyChess-1.0.0-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=7005
 Caissa-1.18-x64-avx2-bmi2 ------ RofChade 3.1=4858
 Dragon 3.3-64bit-avx2 ------ Ethereal-14.25-pext-avx2=3722
