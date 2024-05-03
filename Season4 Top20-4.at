@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=8
+CurrentPair=9
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3253
+LastPGNEPDindex=5485
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.03
-LastGameTime=13:18:10
+LastGameTime=13:21:46
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -78,7 +78,7 @@ Berserk-13-avx2-pext ------ Ethereal-14.25-pext-avx2=½½½½1½½½½½1½10½1
 Seer_v2.8_x64_avx2_popcnt ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½½½½½011½1½
 Caissa-1.18-x64-avx2-bmi2 ------ Stockfish_24032015_x64_bmi2=½½½½½½½0½½½½½0½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Dragon 3.3-64bit-avx2=00½0½0½0½00000½0
-Clover.6.1-avx2 ------ Revenge_3_(Pedone)_avx2=½½1½½½0½1½1½½½½
+Clover.6.1-avx2 ------ Revenge_3_(Pedone)_avx2=½½1½½½0½1½1½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½½½½½½½½½1½0½½½
 Lc0 0.31-rc2 ------ Uralochka3.41.dev4-avx2=½½½0101½½½1½½½½
 Alexandria-6.1.0-avx2 ------ PlentyChess-1.0.0-bmi2=½1½½½½0½0½½½½½½
