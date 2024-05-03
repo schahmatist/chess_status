@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=210
-CurrentRound=15
+CurrentPair=2
+CurrentRound=16
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4734
+LastPGNEPDindex=784
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,10 +67,10 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.03
-LastGameTime=13:10:04
+LastGameTime=13:17:18
 [PairingResults]
-Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½0
-Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0
+Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
+Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
 Berserk-13-avx2-pext ------ Uralochka3.41.dev4-avx2=1½½½½½1½1½11½½1
 PlentyChess-1.0.0-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½½10½½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ RofChade 3.1=1½½½1½½½½0½1½½1
