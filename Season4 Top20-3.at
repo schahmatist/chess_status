@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=142
+CurrentPair=143
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2620
+LastPGNEPDindex=5175
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.03
-LastGameTime=23:09:19
+LastGameTime=23:13:39
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -211,7 +211,7 @@ Lc0 0.31-rc2 ------ PlentyChess-1.0.0-bmi2=½1½0000½0½00½½½0
 Obsidian120-avx2-pext ------ Uralochka3.41.dev4-avx2=1½½1½½½½1½½½1½½½
 Dragon 3.3-64bit-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½10½½½½½1½½½½111
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Caissa-1.18-x64-avx2-bmi2=½½½½0½½½½1½½½½0½
-Rebel-16.3 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½½½½½½½½½
+Rebel-16.3 ------ Seer_v2.8_x64_avx2_popcnt=½½½½½½½½½½½½½½½½
 Berserk-13-avx2-pext ------ RubiChess-20240112_x86-64-bmi2=½½½½½½½½½1½½½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Revenge_3_(Pedone)_avx2=½½½½½1½½½½½½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Stockfish_24032015_x64_bmi2=0½0000½½0½0½000
