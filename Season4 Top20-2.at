@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=188
+CurrentPair=190
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3054
+LastPGNEPDindex=6161
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.04
-LastGameTime=01:55:10
+LastGameTime=02:04:29
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -257,8 +257,8 @@ Clover.6.1-avx2 ------ Obsidian120-avx2-pext=½½0½0½0½½0½0½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41.dev4-avx2=½½½1½½½½½½0½½½½½
 PlentyChess-1.0.0-bmi2 ------ Rebel-16.3=½½1½½1½½01½1½½½0
 RofChade 3.1 ------ RubiChess-20240112_x86-64-bmi2=½0½½½½½0½0½½½0½½
-Ethereal-14.25-pext-avx2 ------ Revenge_3_(Pedone)_avx2=½½½½½½½½½½½½½½½
-Blackmarlin-9.0-windows-x86-64-v3 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½½½½½½½0½½
+Ethereal-14.25-pext-avx2 ------ Revenge_3_(Pedone)_avx2=½½½½½½½½½½½½½½½1
+Blackmarlin-9.0-windows-x86-64-v3 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½½½½½½½0½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Stockfish_24032015_x64_bmi2=½½0½000½½½0½0½0
 Alexandria-6.1.0-avx2 ------ Berserk-13-avx2-pext=½½0½½½½½½½½½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Lc0 0.31-rc2=½1½0½½½½1½½½½½1
