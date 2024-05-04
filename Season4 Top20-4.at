@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=146
+CurrentPair=147
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4294
+LastPGNEPDindex=7118
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,9 +67,9 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.03
-LastGameTime=23:55:00
+LastGameTime=23:59:12
 [PairingResults]
-Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½000
+Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41.dev4-avx2=½½01½½½1½½½½½1½1
 PlentyChess-1.0.0-bmi2 ------ Rebel-16.3=½½½½½½½½½½½½½½½0
