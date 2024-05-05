@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=87
+CurrentPair=98
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5095
+LastPGNEPDindex=4617
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=18:07:11
+LastGameTime=18:13:04
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -288,7 +288,7 @@ Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½½½½½½½00½½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½½½½½½00½½½½
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½0½½½½½½½½1½
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=11½½½½½½½11½
-Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=1½½11½1½1½1
+Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=1½½11½1½1½1½
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=½½½½½½½½0½½
 Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=½½0½½½½½½½1
 PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=1½½1½½1½½½1
