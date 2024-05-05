@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=98
+CurrentPair=109
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2532
+LastPGNEPDindex=2343
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=02:37:18
+LastGameTime=02:43:24
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -289,6 +289,7 @@ Rebel-16.3 ------ Uralochka3.41a-avx2=½
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=1
 Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=1
+Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -510,6 +511,7 @@ Rebel-16.3 ------ Uralochka3.41a-avx2=5193
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=5209
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=6524
 Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=2532
+Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=2343
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Igel-x64_bmi2_avx2_3_5_0
