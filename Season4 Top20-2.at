@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=21
+CurrentPair=43
 CurrentRound=10
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3491
+LastPGNEPDindex=6827
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=14:44:57
+LastGameTime=14:49:28
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -282,8 +282,8 @@ Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½½½½½½½½½1½½½
 Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=½½½00½0½1
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½½½½1½½½½½
 Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=½½11½1½1½½
-RofChade 3.1 ------ Uralochka3.41a-avx2=½½½½½½0½½
-Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½1½1½½1½
+RofChade 3.1 ------ Uralochka3.41a-avx2=½½½½½½0½½½
+Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½1½1½½1½½
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½½½½½½½0
 Rebel-16.3 ------ Uralochka3.41a-avx2=½½½½½½00½
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½0½½½½½½½
