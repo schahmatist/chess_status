@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=26
+CurrentPair=44
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1690
+LastPGNEPDindex=3087
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=08:57:49
+LastGameTime=09:04:32
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -283,8 +283,8 @@ Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=1½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=½½½0½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½½½½0½
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½½½½½½
-Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=111½1
-Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=½½½½1
+Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=111½1½
+Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=½½½½1½
 PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=½½½½½
 RofChade 3.1 ------ Uralochka3.41a-avx2=1½0½½
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½1½
