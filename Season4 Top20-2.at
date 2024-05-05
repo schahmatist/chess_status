@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=21
+CurrentPair=32
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4157
+LastPGNEPDindex=1698
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=02:09:21
+LastGameTime=02:13:06
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -282,6 +282,7 @@ Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½½½½½½½½½1½½½
 Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=?
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½
 Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=½
+RofChade 3.1 ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -496,6 +497,7 @@ Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=5370
 Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=236
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=456
 Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=4157
+RofChade 3.1 ------ Uralochka3.41a-avx2=1698
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Igel-x64_bmi2_avx2_3_5_0
