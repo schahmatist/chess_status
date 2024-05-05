@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=157
+CurrentPair=168
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2915
+LastPGNEPDindex=4765
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=06:59:04
+LastGameTime=07:03:59
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -279,7 +279,7 @@ Clover.6.1-avx2 ------ Ethereal-14.25-pext-avx2=½½1½½½½½½½½½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½1½½1½½½½½0½11
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=½½0½½½½1½10½½½½0
 Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½0½½½½½½½½½0½0
-Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=1½½
+Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=1½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=½½½0
 Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½½½½
