@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=175
+CurrentPair=184
 CurrentRound=3
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4855
+LastPGNEPDindex=5457
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=05:50:19
+LastGameTime=05:56:25
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -296,7 +296,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½½½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=10½
-Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½½
+Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½½½
 Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=1½
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½
 [PairingLastPGNEPDindex]
@@ -527,7 +527,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=7201
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=5663
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=5938
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=4855
-Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=5609
+Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=5457
 Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=7350
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=3515
 [Participants]
