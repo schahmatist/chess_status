@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=168
+CurrentPair=190
 CurrentRound=3
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4765
+LastPGNEPDindex=6304
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=05:41:27
+LastGameTime=05:48:36
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -295,8 +295,8 @@ Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=1½½
 Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=½½½
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½1
 Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=½1½
-Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½½
-Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½½
+Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½½½
+Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½½½
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½½
 [PairingLastPGNEPDindex]
@@ -526,8 +526,8 @@ Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=788
 Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=1056
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=920
 Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=2915
-Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=5980
-Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=3040
+Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=130
+Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=6304
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=4027
 Rebel-16.3 ------ Uralochka3.41a-avx2=1894
 [Participants]
