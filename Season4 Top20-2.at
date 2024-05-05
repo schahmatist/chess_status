@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=54
+CurrentPair=65
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6975
+LastPGNEPDindex=5193
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=03:51:56
+LastGameTime=03:56:12
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -285,7 +285,7 @@ Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=½½
 RofChade 3.1 ------ Uralochka3.41a-avx2=½½
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½
-Rebel-16.3 ------ Uralochka3.41a-avx2=½
+Rebel-16.3 ------ Uralochka3.41a-avx2=½½
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=1
 Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=1
