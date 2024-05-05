@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=179
+CurrentPair=197
 CurrentRound=7
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5772
+LastPGNEPDindex=5045
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=11:42:23
+LastGameTime=11:49:43
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -296,8 +296,8 @@ Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=½11½½½½
 RofChade 3.1 ------ Uralochka3.41a-avx2=½½½0½01
 Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½1½½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½½½0½½½
-RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½½1½½
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=½½½½½½
+RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½½1½½½
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=½½½½½½1
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½½½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
@@ -527,8 +527,8 @@ Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=7218
 RofChade 3.1 ------ Uralochka3.41a-avx2=7043
 Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=7239
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=5772
-RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=6491
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=6319
+RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=422
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=5045
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=4220
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
