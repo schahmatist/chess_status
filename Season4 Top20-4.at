@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=147
+CurrentPair=156
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1867
+LastPGNEPDindex=5818
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.06
-LastGameTime=01:22:35
+LastGameTime=01:27:15
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -293,7 +293,7 @@ Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=010½½½0½01½½½½½0
 PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=1½½1½½½½½½1½½½0½
 Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½½½½½½½½½½½½½1½1
 Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=½11½1½½1½½1½1111
-Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½0½½½½0½½½1½½½½
+Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½0½½½½0½½½1½½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½½½½½½½½½½½½1½½
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=½1½11½½1½½½1½1½
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½½½½0½½½½½½½½½
