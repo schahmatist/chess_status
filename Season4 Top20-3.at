@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=197
-CurrentRound=15
+CurrentPair=5
+CurrentRound=16
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3077
+LastPGNEPDindex=6432
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=22:59:53
+LastGameTime=23:09:55
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -280,7 +280,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½1½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Rebel-16.3=0½½½½0½½½½½½½½00
 Revenge_3_(Pedone)_avx2 ------ RubiChess-20240112_x86-64-bmi2=0½½0½½½½0½½½½½½½
 Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=½½010½½½½½½½½½½
-Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=½½½½11½½1½1½111
+Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=½½½½11½½1½1½1111
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½½½0½½½½½½1½1½
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=½0½½½½1½½½½½½11
 PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=½½½½101½½½½½1½½
@@ -298,7 +298,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½1½½½½½½½½½1½1½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½½½0½½½½½½1½½0½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½½1½½½½½½½101½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=½½½½½½1½½½1½½½½
-Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½½½½½½½½½½½½½½
+Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½½½½½½½½½½½½½½1
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -529,7 +529,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=3682
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=5789
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=6975
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=3077
-Clover.6.1-avx2 ------ Uralochka3.41a-avx2=6541
+Clover.6.1-avx2 ------ Uralochka3.41a-avx2=3215
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
