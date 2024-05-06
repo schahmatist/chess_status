@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=192
+CurrentPair=201
 CurrentRound=13
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=177
+LastPGNEPDindex=6500
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.05
-LastGameTime=21:31:01
+LastGameTime=21:35:50
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -298,7 +298,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½½½½½½½½½½½½1
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=½1½11½½1½½½1½
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½½½½0½½½½½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=½½½½0½½½0½½½0
-RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½1½1½1½½0½½
+RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½1½1½1½½0½½1
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -529,7 +529,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=3017
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=2586
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=2434
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=177
-RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=597
+RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=6500
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
