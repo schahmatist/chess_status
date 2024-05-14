@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=313
+CurrentPair=365
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=10237
+LastPGNEPDindex=10397
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=13:15:08
+LastGameTime=13:24:56
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1745,6 +1745,8 @@ Arasanx-24.2.2-avx2-bmi2 ------ Lizard-win-x64-pext=0
 Arasanx-24.2.2-avx2-bmi2 ------ Minic_3.41_mingw_x64_skylake=1
 Arasanx-24.2.2-avx2-bmi2 ------ Wasp650-windows-avx=1
 Arasanx-24.2.2-avx2-bmi2 ------ RofChade 3.1=½
+Arasanx-24.2.2-avx2-bmi2 ------ Fritz 19 AVX2=1
+Arasanx-24.2.2-avx2-bmi2 ------ Houdini 6.03 Pro pext=1
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3422,6 +3424,8 @@ Arasanx-24.2.2-avx2-bmi2 ------ Lizard-win-x64-pext=31151
 Arasanx-24.2.2-avx2-bmi2 ------ Minic_3.41_mingw_x64_skylake=23692
 Arasanx-24.2.2-avx2-bmi2 ------ Wasp650-windows-avx=7286
 Arasanx-24.2.2-avx2-bmi2 ------ RofChade 3.1=10237
+Arasanx-24.2.2-avx2-bmi2 ------ Fritz 19 AVX2=7621
+Arasanx-24.2.2-avx2-bmi2 ------ Houdini 6.03 Pro pext=10397
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
