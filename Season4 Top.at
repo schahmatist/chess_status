@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=599
+CurrentPair=625
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3522
+LastPGNEPDindex=8531
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=03:21:52
+LastGameTime=03:26:55
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1707,6 +1707,7 @@ Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=½
 Allie_v0.8-dev New Net ------ Titan-x86_64-avx2=0
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3346,6 +3347,7 @@ Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=22034
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=17615
 Allie_v0.8-dev New Net ------ Titan-x86_64-avx2=22161
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=3522
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=8531
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
