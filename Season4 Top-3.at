@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=391
+CurrentPair=417
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=18944
+LastPGNEPDindex=3830
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=02:41:57
+LastGameTime=02:46:29
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1652,6 +1652,7 @@ RofChade 3.1 ------ Titan-x86_64-avx2=½
 Fritz 19 AVX2 ------ Titan-x86_64-avx2=½
 Starzix-4.0-avx2 ------ Titan-x86_64-avx2=0
 Houdini 6.03 Pro pext ------ Titan-x86_64-avx2=0
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=0
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3236,6 +3237,7 @@ RofChade 3.1 ------ Titan-x86_64-avx2=1917
 Fritz 19 AVX2 ------ Titan-x86_64-avx2=8655
 Starzix-4.0-avx2 ------ Titan-x86_64-avx2=8473
 Houdini 6.03 Pro pext ------ Titan-x86_64-avx2=18944
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=3830
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
