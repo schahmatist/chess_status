@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=794
+CurrentPair=818
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=20889
+LastPGNEPDindex=21753
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=14:51:11
+LastGameTime=14:56:13
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1764,6 +1764,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Obsidian120-avx2-pext=0
 Arasanx-24.2.2-avx2-bmi2 ------ Midnightv9-windows-x86-64-v3=1
 Arasanx-24.2.2-avx2-bmi2 ------ Texel 1.11=½
 Arasanx-24.2.2-avx2-bmi2 ------ Pawn-v3.0-windows-haswell=1
+Arasanx-24.2.2-avx2-bmi2 ------ Willow 4.01-v3-windows=1
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3460,6 +3461,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Obsidian120-avx2-pext=8515
 Arasanx-24.2.2-avx2-bmi2 ------ Midnightv9-windows-x86-64-v3=11237
 Arasanx-24.2.2-avx2-bmi2 ------ Texel 1.11=21874
 Arasanx-24.2.2-avx2-bmi2 ------ Pawn-v3.0-windows-haswell=20889
+Arasanx-24.2.2-avx2-bmi2 ------ Willow 4.01-v3-windows=21753
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
