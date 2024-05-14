@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1154
+CurrentPair=1178
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=34290
+LastPGNEPDindex=11577
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=19:43:19
+LastGameTime=19:47:18
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1725,7 +1725,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Koivisto_9.2-windows-avx2-pgo-pext=0½
 Arasanx-24.2.2-avx2-bmi2 ------ Devre_5.0-avx2=½½
 Arasanx-24.2.2-avx2-bmi2 ------ Booot73_avx2=½½
 Andscacsnnue01 ------ Arasanx-24.2.2-avx2-bmi2=1½
-Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=1
+Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=11
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
