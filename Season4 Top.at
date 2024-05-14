@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1058
+CurrentPair=1082
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=29475
+LastPGNEPDindex=26870
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=04:59:41
+LastGameTime=05:03:47
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1726,6 +1726,7 @@ Starzix-4.0-avx2 ------ Titan-x86_64-avx2=½
 Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½
 Rice-8.0.0-v3 ------ Titan-x86_64-avx2=½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½
+Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3384,6 +3385,7 @@ Starzix-4.0-avx2 ------ Titan-x86_64-avx2=31850
 Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=419
 Rice-8.0.0-v3 ------ Titan-x86_64-avx2=21926
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=29475
+Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=26870
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
