@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=322
+CurrentPair=364
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=15638
+LastPGNEPDindex=1380
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=06:11:45
+LastGameTime=06:19:56
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1639,7 +1639,7 @@ Altair-windows-x86-64-v3 ------ Titan-x86_64-avx2=½0
 Andscacsnnue01 ------ Titan-x86_64-avx2=½½
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=½½
 Booot73_avx2 ------ Titan-x86_64-avx2=½½
-Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=1
+Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=1½
 Devre_5.0-avx2 ------ Titan-x86_64-avx2=½
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=1
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=½
