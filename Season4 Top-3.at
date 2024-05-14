@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=842
+CurrentPair=866
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=14389
+LastPGNEPDindex=29448
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=08:23:28
+LastGameTime=08:27:42
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1670,7 +1670,7 @@ Carp-v3.0.1-win-x86_64-V3 ------ Titan-x86_64-avx2=0½
 Pawn-v3.0-windows-haswell ------ Titan-x86_64-avx2=½½
 Titan-x86_64-avx2 ------ Willow 4.01-v3-windows=11
 Equisetum 1.0 bmi2 ------ Titan-x86_64-avx2=½0
-PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=½
+PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=½½
 Slow64-avx2 ------ Titan-x86_64-avx2=½
 Superultra-2.0 ------ Titan-x86_64-avx2=½
 Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½
