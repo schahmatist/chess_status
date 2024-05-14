@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=03:49:06
+LastGameTime=03:54:58
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1659,6 +1659,7 @@ Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=0
 Clarity_6.0_x86-64-v3_BMI2 ------ Titan-x86_64-avx2=½
 Nemorino_6.00_win64_avx2 ------ Titan-x86_64-avx2=½
 Titan-x86_64-avx2 ------ Uralochka3.41.dev4-avx2=½
+Texel 1.11 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3250,6 +3251,7 @@ Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=23176
 Clarity_6.0_x86-64-v3_BMI2 ------ Titan-x86_64-avx2=31838
 Nemorino_6.00_win64_avx2 ------ Titan-x86_64-avx2=13597
 Titan-x86_64-avx2 ------ Uralochka3.41.dev4-avx2=26158
+Texel 1.11 ------ Titan-x86_64-avx2=16686
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
