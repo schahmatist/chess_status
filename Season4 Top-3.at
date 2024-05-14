@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=339
+CurrentPair=365
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=8655
+LastPGNEPDindex=8473
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=06:43:10
+LastGameTime=06:47:15
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1650,7 +1650,7 @@ Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=0½
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=½1
 RofChade 3.1 ------ Titan-x86_64-avx2=½½
 Fritz 19 AVX2 ------ Titan-x86_64-avx2=½½
-Starzix-4.0-avx2 ------ Titan-x86_64-avx2=0
+Starzix-4.0-avx2 ------ Titan-x86_64-avx2=01
 Houdini 6.03 Pro pext ------ Titan-x86_64-avx2=0
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=0
 Rice-8.0.0-v3 ------ Titan-x86_64-avx2=0
