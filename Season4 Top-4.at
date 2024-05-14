@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=157
+CurrentPair=183
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=8473
+LastPGNEPDindex=26100
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=12:42:02
+LastGameTime=12:45:53
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1685,6 +1685,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Clarity_6.0_x86-64-v3_BMI2=½
 Arasanx-24.2.2-avx2-bmi2 ------ Nemorino_6.00_win64_avx2=1
 Arasanx-24.2.2-avx2-bmi2 ------ Uralochka3.41.dev4-avx2=0
 Arasanx-24.2.2-avx2-bmi2 ------ Carp-v3.0.1-win-x86_64-V3=½
+Akimbo-1.0.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3302,6 +3303,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Clarity_6.0_x86-64-v3_BMI2=19368
 Arasanx-24.2.2-avx2-bmi2 ------ Nemorino_6.00_win64_avx2=16210
 Arasanx-24.2.2-avx2-bmi2 ------ Uralochka3.41.dev4-avx2=8457
 Arasanx-24.2.2-avx2-bmi2 ------ Carp-v3.0.1-win-x86_64-V3=8473
+Akimbo-1.0.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=26100
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
