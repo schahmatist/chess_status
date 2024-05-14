@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=365
+CurrentPair=391
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7187
+LastPGNEPDindex=32238
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=17:32:01
+LastGameTime=17:37:02
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1693,7 +1693,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Wasp650-windows-avx=½1
 Arasanx-24.2.2-avx2-bmi2 ------ RofChade 3.1=½0
 Arasanx-24.2.2-avx2-bmi2 ------ Fritz 19 AVX2=01
 Arasanx-24.2.2-avx2-bmi2 ------ Houdini 6.03 Pro pext=½½
-Arasanx-24.2.2-avx2-bmi2 ------ Blackmarlin-9.0-windows-x86-64-v3=½
+Arasanx-24.2.2-avx2-bmi2 ------ Blackmarlin-9.0-windows-x86-64-v3=½½
 Arasanx-24.2.2-avx2-bmi2 ------ RubiChess-20240112_x86-64-bmi2=0
 Arasanx-24.2.2-avx2-bmi2 ------ Rebel-16.3=½
 Arasanx-24.2.2-avx2-bmi2 ------ Clover.6.1-avx2=0
