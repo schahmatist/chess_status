@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=914
+CurrentPair=938
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1760
+LastPGNEPDindex=7677
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=04:17:37
+LastGameTime=04:22:14
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1666,6 +1666,7 @@ Equisetum 1.0 bmi2 ------ Titan-x86_64-avx2=½
 PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=½
 Slow64-avx2 ------ Titan-x86_64-avx2=0
 Superultra-2.0 ------ Titan-x86_64-avx2=0
+Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3264,6 +3265,7 @@ Equisetum 1.0 bmi2 ------ Titan-x86_64-avx2=16877
 PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=26370
 Slow64-avx2 ------ Titan-x86_64-avx2=2510
 Superultra-2.0 ------ Titan-x86_64-avx2=1760
+Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=7677
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
