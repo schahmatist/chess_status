@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=313
+CurrentPair=339
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=8870
+LastPGNEPDindex=29875
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=02:36:30
+LastGameTime=02:41:00
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1642,6 +1642,7 @@ Lizard-win-x64-pext ------ Titan-x86_64-avx2=½
 Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=½
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=½
 RofChade 3.1 ------ Titan-x86_64-avx2=1
+Fritz 19 AVX2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3216,6 +3217,7 @@ Lizard-win-x64-pext ------ Titan-x86_64-avx2=11276
 Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=11564
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=32296
 RofChade 3.1 ------ Titan-x86_64-avx2=8870
+Fritz 19 AVX2 ------ Titan-x86_64-avx2=29875
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
