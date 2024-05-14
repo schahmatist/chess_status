@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=209
+CurrentPair=261
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=31292
+LastPGNEPDindex=3691
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=02:11:00
+LastGameTime=02:19:10
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1645,6 +1645,8 @@ Texel 1.11 ------ Titan-x86_64-avx2=½
 Midnightv9-windows-x86-64-v3 ------ Titan-x86_64-avx2=½
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=1
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½
+Lizard-win-x64-pext ------ Titan-x86_64-avx2=1
+Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=0
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3222,6 +3224,8 @@ Texel 1.11 ------ Titan-x86_64-avx2=1904
 Midnightv9-windows-x86-64-v3 ------ Titan-x86_64-avx2=13669
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=10875
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=31292
+Lizard-win-x64-pext ------ Titan-x86_64-avx2=9803
+Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=3691
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
