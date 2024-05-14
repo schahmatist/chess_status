@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1219
+CurrentPair=1222
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=638
+LastPGNEPDindex=3470
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=05:10:03
+LastGameTime=05:18:55
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1678,6 +1678,7 @@ Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=½
 Obsidian120-avx2-pext ------ Titan-x86_64-avx2=1
 Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½
 Midnightv9-windows-x86-64-v3 ------ Titan-x86_64-avx2=0
+Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3288,6 +3289,7 @@ Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=34683
 Obsidian120-avx2-pext ------ Titan-x86_64-avx2=10005
 Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=25003
 Midnightv9-windows-x86-64-v3 ------ Titan-x86_64-avx2=638
+Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=3470
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
