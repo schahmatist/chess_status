@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1134
+CurrentPair=1147
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=25362
+LastPGNEPDindex=7831
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=04:29:01
+LastGameTime=04:32:06
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1668,6 +1668,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½
 Titan-x86_64-avx2 ------ Willow 4.01-v3-windows=1
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=½
 Pawn-v3.0-windows-haswell ------ Titan-x86_64-avx2=½
+Carp-v3.0.1-win-x86_64-V3 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3268,6 +3269,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=7031
 Titan-x86_64-avx2 ------ Willow 4.01-v3-windows=21327
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=33205
 Pawn-v3.0-windows-haswell ------ Titan-x86_64-avx2=25362
+Carp-v3.0.1-win-x86_64-V3 ------ Titan-x86_64-avx2=7831
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
