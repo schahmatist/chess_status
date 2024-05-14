@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=183
+CurrentPair=209
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=22970
+LastPGNEPDindex=15772
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=12:47:12
+LastGameTime=12:51:20
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1693,6 +1693,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½
 Arasanx-24.2.2-avx2-bmi2 ------ Texel 1.11=1
 Arasanx-24.2.2-avx2-bmi2 ------ Midnightv9-windows-x86-64-v3=½
 Akimbo-1.0.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=0
+Arasanx-24.2.2-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3318,6 +3319,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=18861
 Arasanx-24.2.2-avx2-bmi2 ------ Texel 1.11=19248
 Arasanx-24.2.2-avx2-bmi2 ------ Midnightv9-windows-x86-64-v3=15912
 Akimbo-1.0.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=22970
+Arasanx-24.2.2-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=15772
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
