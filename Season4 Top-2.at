@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=819
+CurrentPair=847
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=12124
+LastPGNEPDindex=22325
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=18:00:59
+LastGameTime=18:06:04
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1702,7 +1702,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Revenge_3_(Pedone)_avx2=00
 Arasanx-24.2.2-avx2-bmi2 ------ Blackmarlin-9.0-windows-x86-64-v3=½1
 Arasanx-24.2.2-avx2-bmi2 ------ Starzix-4.0-avx2=½0
 Arasanx-24.2.2-avx2-bmi2 ------ Houdini 6.03 Pro pext=11
-Arasanx-24.2.2-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½
+Arasanx-24.2.2-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½
 Arasanx-24.2.2-avx2-bmi2 ------ Fritz 19 AVX2=½
 Arasanx-24.2.2-avx2-bmi2 ------ Ethereal-14.25-pext-avx2=0
 Arasanx-24.2.2-avx2-bmi2 ------ RofChade 3.1=½
