@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=986
+CurrentPair=1034
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=11566
+LastPGNEPDindex=2502
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=04:44:01
+LastGameTime=04:54:36
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1676,6 +1676,8 @@ Superultra-2.0 ------ Titan-x86_64-avx2=½
 Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½
 Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Titan-x86_64-avx2=½
+Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½
+RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3284,6 +3286,8 @@ Superultra-2.0 ------ Titan-x86_64-avx2=13314
 Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=25175
 Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=11413
 Blackmarlin-9.0-windows-x86-64-v3 ------ Titan-x86_64-avx2=11566
+Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=21170
+RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=2502
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
