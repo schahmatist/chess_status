@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=664
+CurrentPair=697
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=34652
+LastPGNEPDindex=33261
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=02:52:42
+LastGameTime=02:55:44
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1648,6 +1648,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½
 Rebel-16.3 ------ Titan-x86_64-avx2=½
 Rice-8.0.0-v3 ------ Titan-x86_64-avx2=½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3228,6 +3229,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=12713
 Rebel-16.3 ------ Titan-x86_64-avx2=30410
 Rice-8.0.0-v3 ------ Titan-x86_64-avx2=33151
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=34652
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=33261
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
