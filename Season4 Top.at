@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=674
+CurrentPair=698
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=11634
+LastPGNEPDindex=4928
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=03:42:47
+LastGameTime=03:46:37
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1710,6 +1710,7 @@ Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=½
 Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=½
+Clarity_6.0_x86-64-v3_BMI2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3352,6 +3353,7 @@ Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=3522
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=8531
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=9280
 Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=11634
+Clarity_6.0_x86-64-v3_BMI2 ------ Titan-x86_64-avx2=4928
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
