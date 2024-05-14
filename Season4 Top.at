@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=495
+CurrentPair=521
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=33924
+LastPGNEPDindex=22034
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=03:04:46
+LastGameTime=03:08:00
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1703,6 +1703,7 @@ RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½
 Rebel-16.3 ------ Titan-x86_64-avx2=1
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=1
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=1
+Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3338,6 +3339,7 @@ RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=880
 Rebel-16.3 ------ Titan-x86_64-avx2=17942
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=9294
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=33924
+Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=22034
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
