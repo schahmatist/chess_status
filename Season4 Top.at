@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=287
+CurrentPair=313
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4065
+LastPGNEPDindex=21789
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=02:27:20
+LastGameTime=02:32:09
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1695,6 +1695,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½
 Lizard-win-x64-pext ------ Titan-x86_64-avx2=1
 Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=½
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=1
+RofChade 3.1 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3322,6 +3323,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=27023
 Lizard-win-x64-pext ------ Titan-x86_64-avx2=26907
 Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=10035
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=4065
+RofChade 3.1 ------ Titan-x86_64-avx2=21789
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
