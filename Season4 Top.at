@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=287
+CurrentPair=339
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4065
+LastPGNEPDindex=25615
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.14
-LastGameTime=06:21:42
+LastGameTime=06:29:23
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1695,8 +1695,8 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½0
 Lizard-win-x64-pext ------ Titan-x86_64-avx2=10
 Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=½½
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=11
-RofChade 3.1 ------ Titan-x86_64-avx2=½
-Fritz 19 AVX2 ------ Titan-x86_64-avx2=½
+RofChade 3.1 ------ Titan-x86_64-avx2=½1
+Fritz 19 AVX2 ------ Titan-x86_64-avx2=½½
 Houdini 6.03 Pro pext ------ Titan-x86_64-avx2=0
 Blackmarlin-9.0-windows-x86-64-v3 ------ Titan-x86_64-avx2=½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½
