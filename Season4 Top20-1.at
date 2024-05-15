@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=192
-CurrentRound=7
+CurrentPair=11
+CurrentRound=8
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1797
+LastPGNEPDindex=7197
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=19:17:28
+LastGameTime=19:25:01
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -299,7 +299,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½½½½½½½½½½½½½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½½½½½½½½½0½½0011
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½0½½½½½0½½½½½0½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½½1½½½½½½½½½½½½½
-Obsidian120-avx2-pext ------ Titan-x86_64-avx2=1½½½½½½
+Obsidian120-avx2-pext ------ Titan-x86_64-avx2=1½½½½½½½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=½001½1½
 Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½½½1½½½
 Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=½½½1½½0
@@ -318,7 +318,7 @@ Rebel-16.3 ------ Titan-x86_64-avx2=½½½½½0½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½½½½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=½01½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½½1½10
-Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1½½½1½
+Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1½½½1½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1549
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1352
@@ -569,7 +569,7 @@ Rebel-16.3 ------ Titan-x86_64-avx2=1795
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=4785
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=5834
 Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=1797
-Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=2740
+Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=2949
 [Participants]
 Engine1=Seer_v2.8_x64_avx2_popcnt
 Engine2=Stockfish_24032015_x64_bmi2
