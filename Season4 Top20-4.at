@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=78
+CurrentPair=100
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=477
+LastPGNEPDindex=4434
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=17:45:44
+LastGameTime=17:54:05
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -307,8 +307,8 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½½½½½½
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=½½½½½0
 Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½½1½½
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=1½1½½½
-Rebel-16.3 ------ Titan-x86_64-avx2=½½0½0
-Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=½½½½½
+Rebel-16.3 ------ Titan-x86_64-avx2=½½0½01
+Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=½½½½½0
 Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=1½½½½
 Obsidian120-avx2-pext ------ Titan-x86_64-avx2=½½½11
 RofChade 3.1 ------ Titan-x86_64-avx2=½½½½½
