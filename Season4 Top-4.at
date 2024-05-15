@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=866
+CurrentPair=867
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=20287
+LastPGNEPDindex=9909
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=06:08:18
+LastGameTime=06:12:59
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1638,7 +1638,7 @@ Arasan 24.2-avx2-bmi2 ------ Titan-x86_64-avx2=½01
 Carp-v3.0.1-win-x86_64-V3 ------ Titan-x86_64-avx2=01½½
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=½00½
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=01½½
-Lizard-win-x64-pext ------ Titan-x86_64-avx2=½0½
+Lizard-win-x64-pext ------ Titan-x86_64-avx2=½0½0
 Minic_3.41_mingw_x64_skylake ------ Titan-x86_64-avx2=½0½
 Titan-x86_64-avx2 ------ Wasp650-windows-avx=½½1
 RofChade 3.1 ------ Titan-x86_64-avx2=1½0
