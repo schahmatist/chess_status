@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=391
+CurrentPair=416
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=20443
+LastPGNEPDindex=11329
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=04:08:47
+LastGameTime=04:13:59
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1676,7 +1676,7 @@ Superultra-2.0 ------ Titan-x86_64-avx2=½010
 Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½½11
 Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Titan-x86_64-avx2=½00½
-Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½0½
+Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½0½½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½½1
 Rebel-16.3 ------ Titan-x86_64-avx2=½½½
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=1½½
