@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=1
+CurrentPair=12
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7255
+LastPGNEPDindex=4025
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=10:09:45
+LastGameTime=10:14:06
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -300,6 +300,7 @@ Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½½½½0½½½½½½½½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=½½½½0½½½0½½½0½½½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½1½1½1½½0½½1½½½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=½
+PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=0
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -532,6 +533,7 @@ Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=2525
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=5108
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=1708
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=7255
+PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=4025
 [Participants]
 Engine1=Titan-x86_64-avx2
 Engine2=Alexandria-6.1.0-avx2
