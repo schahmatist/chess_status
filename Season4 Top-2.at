@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1119
+CurrentPair=1120
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=15199
+LastPGNEPDindex=16874
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=06:34:42
+LastGameTime=06:39:08
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1715,7 +1715,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Lizard-win-x64-pext=½½0½
 Arasanx-24.2.2-avx2-bmi2 ------ Equisetum 1.0 bmi2=½½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½1
 Arasanx-24.2.2-avx2-bmi2 ------ Willow 4.01-v3-windows=½½½1
-Akimbo-1.0.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=00½
+Akimbo-1.0.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=00½0
 Arasanx-24.2.2-avx2-bmi2 ------ Pawn-v3.0-windows-haswell=1½1
 Arasanx-24.2.2-avx2-bmi2 ------ Carp-v3.0.1-win-x86_64-V3=½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Texel 1.11=½0½
