@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=164
+CurrentPair=173
 CurrentRound=3
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1564
+LastPGNEPDindex=6516
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=14:08:53
+LastGameTime=14:14:29
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -316,7 +316,7 @@ Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1½½
 Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=10½
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=½½1
-Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=1½
+Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=1½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½½
 [PairingLastPGNEPDindex]
@@ -567,7 +567,7 @@ Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=6030
 Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=453
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=1190
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=1564
-Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=2391
+Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=6516
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=2190
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=1151
 [Participants]
