@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=675
+CurrentPair=698
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=13337
+LastPGNEPDindex=19918
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=05:57:26
+LastGameTime=06:03:10
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1712,7 +1712,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Stockfish_24032015_x64_bmi2=00½½
 Arasanx-24.2.2-avx2-bmi2 ------ Booot73_avx2=½½1½
 Arasanx-24.2.2-avx2-bmi2 ------ Titan-x86_64-avx2=½½½0
 Arasanx-24.2.2-avx2-bmi2 ------ Uralochka3.41.dev4-avx2=½000
-Arasanx-24.2.2-avx2-bmi2 ------ Peacekeeper-240-avx2=½10
+Arasanx-24.2.2-avx2-bmi2 ------ Peacekeeper-240-avx2=½10½
 Arasanx-24.2.2-avx2-bmi2 ------ Clarity_6.0_x86-64-v3_BMI2=½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Fire-9.3_x64_avx2=½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Carp-v3.0.1-win-x86_64-V3=1½1
