@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=99
+CurrentPair=110
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1197
+LastPGNEPDindex=5352
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=10:26:10
+LastGameTime=10:31:30
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -308,6 +308,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=½
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1
 Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=½
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -548,6 +549,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=6137
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=5652
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1023
 Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=1197
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=5352
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
