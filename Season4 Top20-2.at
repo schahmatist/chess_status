@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=33
+CurrentPair=55
 CurrentRound=8
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1405
+LastPGNEPDindex=1475
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=19:22:17
+LastGameTime=19:26:40
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -302,8 +302,8 @@ Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½01½½½½½½½½0½½½
 Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=1½½½½½½½
 Obsidian120-avx2-pext ------ Titan-x86_64-avx2=½½½½1½1½
 RofChade 3.1 ------ Titan-x86_64-avx2=01½½½½½½
-Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1½½½½½½
-Rebel-16.3 ------ Titan-x86_64-avx2=½½1½½½½
+Titan-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1½½½½½½½
+Rebel-16.3 ------ Titan-x86_64-avx2=½½1½½½½½
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=½½½½½½½
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=½1½1½11
 Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=½½½1½½½
