@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=129
+CurrentPair=147
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2349
+LastPGNEPDindex=4256
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=10:41:02
+LastGameTime=10:48:38
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -311,6 +311,8 @@ Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½
 Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=0
+PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=½
+Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -554,6 +556,8 @@ Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=711
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=7027
 Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=4602
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=2349
+PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=324
+Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=4256
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
 Engine2=Koivisto_9.2-windows-avx2-pgo-pext
