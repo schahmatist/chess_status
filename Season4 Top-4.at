@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=939
+CurrentPair=962
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=14227
+LastPGNEPDindex=11081
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=06:44:02
+LastGameTime=06:47:28
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1716,7 +1716,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ PlentyChess-1.0.0-bmi2=½½½0
 Arasanx-24.2.2-avx2-bmi2 ------ Slow64-avx2=½½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Superultra-2.0=11½½
 Arasanx-24.2.2-avx2-bmi2 ------ Ethereal-14.25-pext-avx2=0½0½
-Arasanx-24.2.2-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=101
+Arasanx-24.2.2-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=1010
 Arasanx-24.2.2-avx2-bmi2 ------ Starzix-4.0-avx2=½1½
 Arasanx-24.2.2-avx2-bmi2 ------ Revenge_3_(Pedone)_avx2=00½
 Arasanx-24.2.2-avx2-bmi2 ------ Rice-8.0.0-v3=½½½
