@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=152
+CurrentPair=162
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5355
+LastPGNEPDindex=6638
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=11:47:15
+LastGameTime=11:51:53
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -333,6 +333,7 @@ Akimbo-1.0.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=0
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=0
 Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=½
 Akimbo-1.0.0-avx2 ------ Obsidian120-avx2-pext=0
+Akimbo-1.0.0-avx2 ------ RofChade 3.1=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -598,6 +599,7 @@ Akimbo-1.0.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=599
 Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=3069
 Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=5497
 Akimbo-1.0.0-avx2 ------ Obsidian120-avx2-pext=5355
+Akimbo-1.0.0-avx2 ------ RofChade 3.1=6638
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
 Engine2=Koivisto_9.2-windows-avx2-pgo-pext
