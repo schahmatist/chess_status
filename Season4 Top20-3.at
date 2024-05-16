@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=88
+CurrentPair=110
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5844
+LastPGNEPDindex=510
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=04:46:59
+LastGameTime=04:54:40
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -307,8 +307,8 @@ RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½½½½½0½1½½½1½1
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½½½½1½½½½½½½1½
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½½
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=10½½½½11½½1½½½
-Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=½½½½½1½½½½1½½
-Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½1½1½½½½½0½½1
+Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=½½½½½1½½½½1½½½
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½1½1½½½½½0½½1½
 Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=½½½½½1½½½1½½½
 Obsidian120-avx2-pext ------ Titan-x86_64-avx2=½½1½½1½½½½½½½
 RofChade 3.1 ------ Titan-x86_64-avx2=½½½10½½1½1½½½
