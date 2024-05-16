@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
-CurrentRound=3
+CurrentPair=1
+CurrentRound=4
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=670
+LastPGNEPDindex=4071
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=15:03:49
+LastGameTime=15:10:02
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -319,7 +319,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=½½0½½½01½½½½½½½½
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=½½½½½½½111½1½½11
 Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½1½½½11½½1½½½1½½
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=1½½1½½½½½½½½½½1½
-Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½0
+Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½0½
 Akimbo-1.0.0-avx2 ------ Alexandria-6.1.0-avx2=½0½
 Akimbo-1.0.0-avx2 ------ Obsidian120-avx2-pext=½0½
 Akimbo-1.0.0-avx2 ------ RofChade 3.1=½½0
@@ -339,7 +339,7 @@ Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=½½0
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½½½
 Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=0½½
-Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -611,7 +611,7 @@ Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=796
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=5778
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=5174
 Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=670
-Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=4993
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=4892
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext

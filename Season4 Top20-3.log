@@ -48796,3 +48796,16 @@ Pairing 222/231 :    Akimbo-1.0.0-avx2  -  Seer_v2.8_x64_avx2_popcnt
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   3 = =    1.0:1.0        1.0:2.0       3:06:20 PM     0.00    35 19.043 :20.391  0-1-2
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, May 16, 2024 3:06:23 PM
+ Blitz 1/1 
+
+Pairing 1/231 :    Igel-x64_bmi2_avx2_3_5_0  -  Akimbo-1.0.0-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   4 = =    1.5:1.5        2.5:1.5       3:10:02 PM    +4.32    58 16.967 :18.290  1-0-3
