@@ -46384,3 +46384,27 @@ Pairing 12/210 :    PlentyChess-1.0.0-bmi2  -  Titan-x86_64-avx2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  10 = =    3.5:3.5        4.5:5.5       10:50:18 PM     0.00    70 21.765 :21.529  1-2-7
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, May 15, 2024 10:50:21 PM
+ Blitz 1/1 
+
+Pairing 23/210 :    Titan-x86_64-avx2  -  Ethereal-14.25-pext-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  10 W 2    2.5:1.5        2.5:7.5       10:54:23 PM   +12.00    64 18.941 :21.000  1-6-3
+
+--------------------------------------------------------------
+
+Engine-Match Wednesday, May 15, 2024 10:54:25 PM
+ Blitz 1/1 
+
+Pairing 34/210 :    Stockfish_24032015_x64_bmi2  -  Titan-x86_64-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
