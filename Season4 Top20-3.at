@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=183
+CurrentPair=201
 CurrentRound=9
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=98
+LastPGNEPDindex=4428
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.15
-LastGameTime=22:11:16
+LastGameTime=22:19:52
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -317,8 +317,8 @@ Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½½½1½1½1½
 Rebel-16.3 ------ Titan-x86_64-avx2=½½½½½½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=½½0½½½01½
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=½½½½½½½11
-Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½1½½½11½
-Berserk-13-avx2-pext ------ Titan-x86_64-avx2=1½½1½½½½
+Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½1½½½11½½
+Berserk-13-avx2-pext ------ Titan-x86_64-avx2=1½½1½½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -568,8 +568,8 @@ Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=6584
 Rebel-16.3 ------ Titan-x86_64-avx2=1517
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=4122
 Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=98
-Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=7012
-Berserk-13-avx2-pext ------ Titan-x86_64-avx2=5633
+Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=2391
+Berserk-13-avx2-pext ------ Titan-x86_64-avx2=4428
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
