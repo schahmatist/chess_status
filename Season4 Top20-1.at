@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=202
+CurrentPair=212
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6206
+LastPGNEPDindex=3132
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=13:35:44
+LastGameTime=13:43:45
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -338,7 +338,7 @@ Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=0½
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0
 Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½0
-Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=0
+Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=0½
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1549
