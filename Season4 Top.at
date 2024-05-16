@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=939
+CurrentPair=962
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=07:28:39
+LastGameTime=07:32:11
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1770,7 +1770,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ PlentyChess-1.0.0-bmi2=½½½0
 Arasanx-24.2.2-avx2-bmi2 ------ Slow64-avx2=01½1
 Arasanx-24.2.2-avx2-bmi2 ------ Superultra-2.0=½1½½
 Arasanx-24.2.2-avx2-bmi2 ------ Ethereal-14.25-pext-avx2=½0½0
-Arasanx-24.2.2-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½
+Arasanx-24.2.2-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Starzix-4.0-avx2=0½½
 Arasanx-24.2.2-avx2-bmi2 ------ Revenge_3_(Pedone)_avx2=½½0
 Arasanx-24.2.2-avx2-bmi2 ------ Rice-8.0.0-v3=0½½
