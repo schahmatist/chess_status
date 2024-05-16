@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=88
+CurrentPair=99
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5157
+LastPGNEPDindex=2332
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=06:24:06
+LastGameTime=06:27:54
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -307,7 +307,7 @@ Rebel-16.3 ------ Titan-x86_64-avx2=½½1½½½½½0½½½½½½1
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½½½0
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=½1½1½11½½1½½½½½½
 Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=½½½1½½½½½½1½½½½½
-Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½½½½1½1½½½½½½½
+Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½½½½1½1½½½½½½½½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½½0
 Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=½½½½½½½½½0½½½½0
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=0½½½1½0½½½½0½½½
