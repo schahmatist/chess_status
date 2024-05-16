@@ -46876,3 +46876,27 @@ Pairing 23/210 :    Titan-x86_64-avx2  -  Ethereal-14.25-pext-avx2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  12 = =    2.5:2.5        3.5:8.5       1:55:15 AM     0.00    22 20.857 :23.071  1-6-5
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, May 16, 2024 1:55:19 AM
+ Blitz 1/1 
+
+Pairing 34/210 :    Stockfish_24032015_x64_bmi2  -  Titan-x86_64-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  12 B 1    4.5:3.5        8.5:3.5       1:59:35 AM   -32.54    64 19.658 :20.421  5-0-7
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, May 16, 2024 1:59:37 AM
+ Blitz 1/1 
+
+Pairing 45/210 :    Titan-x86_64-avx2  -  CSTal-2.00-v21-E1019-Elo.opt-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
