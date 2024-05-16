@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=167
+CurrentPair=179
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2236
+LastPGNEPDindex=5623
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=13:28:38
+LastGameTime=13:31:52
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -335,7 +335,7 @@ Akimbo-1.0.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=0½
 Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=0½
 Akimbo-1.0.0-avx2 ------ Alexandria-6.1.0-avx2=½0
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=½0
-Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½
+Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½
 Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=0
 Akimbo-1.0.0-avx2 ------ PlentyChess-1.0.0-bmi2=½
