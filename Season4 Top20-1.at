@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=22
+CurrentPair=44
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=571
+LastPGNEPDindex=1937
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=06:38:29
+LastGameTime=06:44:55
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -301,8 +301,8 @@ Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½0½½½½½0½½½½½0½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½½1½½½½½½½½½½½½½
 Obsidian120-avx2-pext ------ Titan-x86_64-avx2=1½½½½½½½½½½1½½½½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=½001½1½½0½½11½0½
-Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½½½1½½½½½1½½½½½
-Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=½½½1½½0½½½½½½1½
+Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½½½1½½½½½1½½½½½1
+Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=½½½1½½0½½½½½½1½½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=1½01½½½½10½½½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½½½½½0½½½1½½½0½
 Clover.6.1-avx2 ------ Titan-x86_64-avx2=1½½½½½½½½11½0½½
