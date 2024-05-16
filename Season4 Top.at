@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=771
+CurrentPair=794
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=27540
+LastPGNEPDindex=14339
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=06:19:37
+LastGameTime=06:24:18
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1763,7 +1763,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=01½½
 Arasanx-24.2.2-avx2-bmi2 ------ Obsidian120-avx2-pext=00½0
 Arasanx-24.2.2-avx2-bmi2 ------ Midnightv9-windows-x86-64-v3=110½
 Arasanx-24.2.2-avx2-bmi2 ------ Texel 1.11=½1½½
-Arasanx-24.2.2-avx2-bmi2 ------ Pawn-v3.0-windows-haswell=11½
+Arasanx-24.2.2-avx2-bmi2 ------ Pawn-v3.0-windows-haswell=11½0
 Arasanx-24.2.2-avx2-bmi2 ------ Willow 4.01-v3-windows=11½
 Arasanx-24.2.2-avx2-bmi2 ------ Equisetum 1.0 bmi2=½10
 Arasanx-24.2.2-avx2-bmi2 ------ PlentyChess-1.0.0-bmi2=½½½
