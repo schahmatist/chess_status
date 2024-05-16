@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=215
-CurrentRound=5
+CurrentPair=8
+CurrentRound=6
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4231
+LastPGNEPDindex=4454
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=18:16:58
+LastGameTime=18:24:13
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -319,7 +319,7 @@ Dragon 3.3-64bit-avx2 ------ Titan-x86_64-avx2=½½11½11½½½½1½½½1
 Seer_v2.8_x64_avx2_popcnt ------ Titan-x86_64-avx2=1½½½0½½½½½½½½½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½½½½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½½½½1½½½½01½½½½½
-Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=0½0½0
+Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=0½0½00
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=00½½½
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½½0½0
 Akimbo-1.0.0-avx2 ------ Caissa-1.18-x64-avx2-bmi2=½00½½
@@ -339,7 +339,7 @@ Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½1½½
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½½½
 Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=0½00½
 Akimbo-1.0.0-avx2 ------ PlentyChess-1.0.0-bmi2=½½½½½
-Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=½0½½
+Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=½0½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -611,7 +611,7 @@ Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=5099
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=5228
 Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=2976
 Akimbo-1.0.0-avx2 ------ PlentyChess-1.0.0-bmi2=4231
-Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=6925
+Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=4025
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
