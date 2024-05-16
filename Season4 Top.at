@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1
+CurrentPair=2
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=33333
+LastPGNEPDindex=23009
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=01:19:08
+LastGameTime=01:22:42
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1707,7 +1707,7 @@ Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½0
 Berserk-13-avx2-pext ------ Titan-x86_64-avx2=½½1
 Allie_v0.8-dev New Net ------ Titan-x86_64-avx2=01½
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1½½
-Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½½½
+Igel-x64_bmi2_avx2_3_5_0 ------ Titan-x86_64-avx2=½½½½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=½1½
 Peacekeeper-240-avx2 ------ Titan-x86_64-avx2=½½½
 Clarity_6.0_x86-64-v3_BMI2 ------ Titan-x86_64-avx2=½01
