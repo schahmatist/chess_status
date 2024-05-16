@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=129
+CurrentPair=138
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6608
+LastPGNEPDindex=364
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=03:49:41
+LastGameTime=03:53:18
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -311,7 +311,7 @@ Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½½½½1½1½½½½½½
 RubiChess-20240112_x86-64-bmi2 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½½
 Alexandria-6.1.0-avx2 ------ Titan-x86_64-avx2=½½½½½½½½½0½½½½
 Lc0 0.31-rc2 ------ Titan-x86_64-avx2=0½½½1½0½½½½0½½
-PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½
+PlentyChess-1.0.0-bmi2 ------ Titan-x86_64-avx2=½½½½½½½½½½½½½1
 Ethereal-14.25-pext-avx2 ------ Titan-x86_64-avx2=½½½½½½1½½½½½½
 Revenge_3_(Pedone)_avx2 ------ Titan-x86_64-avx2=½0½½½½½10½0½1
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½½½½½01½½½½½½
