@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=73
+CurrentPair=85
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6146
+LastPGNEPDindex=2397
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=15:31:54
+LastGameTime=15:37:17
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -326,7 +326,7 @@ Akimbo-1.0.0-avx2 ------ RofChade 3.1=½½0½
 Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=00½0
 Akimbo-1.0.0-avx2 ------ Revenge_3_(Pedone)_avx2=½½00
 Akimbo-1.0.0-avx2 ------ Rebel-16.3=0½½0
-Akimbo-1.0.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½00
+Akimbo-1.0.0-avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½001
 Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=00½
 Akimbo-1.0.0-avx2 ------ Caissa-1.18-x64-avx2-bmi2=0½0
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=00½
