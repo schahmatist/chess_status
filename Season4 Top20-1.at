@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=201
-CurrentRound=16
+CurrentPair=1
+CurrentRound=1
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=210
+LastPGNEPDindex=499
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=07:56:31
+LastGameTime=10:59:27
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -319,6 +319,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=½½½½½½½1½½½½½0½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=½01½½½½½½½½½½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=½½½1½10½½½1½½½½1
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=1½½½1½½½½½1½1½½½
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1549
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1352
@@ -570,6 +571,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Titan-x86_64-avx2=1595
 Koivisto_9.2-windows-avx2-pgo-pext ------ Titan-x86_64-avx2=5967
 Caissa-1.18-x64-avx2-bmi2 ------ Titan-x86_64-avx2=4844
 Stockfish_24032015_x64_bmi2 ------ Titan-x86_64-avx2=210
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=499
 [Participants]
 Engine1=Seer_v2.8_x64_avx2_popcnt
 Engine2=Stockfish_24032015_x64_bmi2
@@ -592,3 +594,4 @@ Engine18=PlentyChess-1.0.0-bmi2
 Engine19=Obsidian120-avx2-pext
 Engine20=Alexandria-6.1.0-avx2
 Engine21=Titan-x86_64-avx2
+Engine22=Akimbo-1.0.0-avx2
