@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=182
+CurrentPair=202
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3588
+LastPGNEPDindex=7034
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=19:22:29
+LastGameTime=19:27:08
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -336,8 +336,8 @@ Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=½½½½½½
 Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=½0½½½0
 Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=0½0½½½
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½0½0
-Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½½
-Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½0½½0
+Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½½½
+Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½0½½00
 Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=0½000
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=½0½½½
 [PairingLastPGNEPDindex]
