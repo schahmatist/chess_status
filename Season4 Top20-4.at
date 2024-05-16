@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=44
+CurrentPair=65
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=415
+LastPGNEPDindex=2314
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=11:09:10
+LastGameTime=11:14:32
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -323,6 +323,8 @@ Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=0
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=0
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½
 Akimbo-1.0.0-avx2 ------ Caissa-1.18-x64-avx2-bmi2=½
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½
+Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -578,6 +580,8 @@ Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=4746
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=1844
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=7248
 Akimbo-1.0.0-avx2 ------ Caissa-1.18-x64-avx2-bmi2=415
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=6584
+Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=2314
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
