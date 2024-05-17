@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=162
+CurrentPair=172
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2932
+LastPGNEPDindex=3276
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.17
-LastGameTime=08:57:05
+LastGameTime=09:01:12
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -334,7 +334,7 @@ Akimbo-1.0.0-avx2 ------ Titan-x86_64-avx2=0½½½0½½½1½½½½½00
 Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=½½0½½0½½½½10½0½0
 Akimbo-1.0.0-avx2 ------ Obsidian120-avx2-pext=00½0000½½½0½0½0½
 Akimbo-1.0.0-avx2 ------ RofChade 3.1=½0½½½½0½½½½½½0½½
-Akimbo-1.0.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=0½½10½½½0½0½0½½
+Akimbo-1.0.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=0½½10½½½0½0½0½½½
 Akimbo-1.0.0-avx2 ------ Rebel-16.3=½½½01½½½1½½½0½½
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½00½0½½½0½0½½½1
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=00½000½½½½½½½0½
