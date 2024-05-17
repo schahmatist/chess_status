@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=182
+CurrentPair=202
 CurrentRound=11
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=548
+LastPGNEPDindex=4156
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.17
-LastGameTime=02:17:36
+LastGameTime=02:23:03
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -336,8 +336,8 @@ Akimbo-1.0.0-avx2 ------ Obsidian120-avx2-pext=00½0000½½½0
 Akimbo-1.0.0-avx2 ------ RofChade 3.1=½0½½½½0½½½½
 Akimbo-1.0.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=0½½10½½½0½0
 Akimbo-1.0.0-avx2 ------ Rebel-16.3=½½½01½½½1½½
-Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½00½0½½½0½
-Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=00½000½½½½
+Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½00½0½½½0½0
+Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=00½000½½½½½
 Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=000½½00½0½
 Akimbo-1.0.0-avx2 ------ Caissa-1.18-x64-avx2-bmi2=0½0½0½½0½0
 [PairingLastPGNEPDindex]
@@ -608,8 +608,8 @@ Akimbo-1.0.0-avx2 ------ Obsidian120-avx2-pext=3540
 Akimbo-1.0.0-avx2 ------ RofChade 3.1=6968
 Akimbo-1.0.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=3596
 Akimbo-1.0.0-avx2 ------ Rebel-16.3=548
-Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=6883
-Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=507
+Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=5823
+Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=4156
 Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=2717
 Akimbo-1.0.0-avx2 ------ Caissa-1.18-x64-avx2-bmi2=3992
 [Participants]
