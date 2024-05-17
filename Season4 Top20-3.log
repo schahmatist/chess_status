@@ -50201,3 +50201,26 @@ PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
    9 = =    3.5:3.5        5.5:3.5       11:24:50 PM     0.00    76 18.545 :18.030  2-0-7
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, May 16, 2024 11:25:09 PM
+ Blitz 1/1 
+
+Pairing 142/231 :    Akimbo-1.0.0-avx2  -  Lc0 0.31-rc2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   9 B 2    3.5:2.5        3.5:5.5       11:27:52 PM   -29.24    37 18.179 :10.448  1-3-5
+
+--------------------------------------------------------------
+
+Engine-Match Thursday, May 16, 2024 11:27:55 PM
+ Blitz 1/1 
+
+Pairing 152/231 :    PlentyChess-1.0.0-bmi2  -  Akimbo-1.0.0-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
