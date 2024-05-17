@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=191
+CurrentPair=203
 CurrentRound=9
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4176
+LastPGNEPDindex=4521
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=23:42:13
+LastGameTime=23:46:31
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -337,7 +337,7 @@ Akimbo-1.0.0-avx2 ------ Alexandria-6.1.0-avx2=½00½½½0½0
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=½0000½½½0
 Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½1½½½½½½
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½½½½0½0
-Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=0½00½00½
+Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=0½00½00½½
 Akimbo-1.0.0-avx2 ------ PlentyChess-1.0.0-bmi2=½½½½½½½1
 Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=½0½½½½½0
 [PairingLastPGNEPDindex]
@@ -609,7 +609,7 @@ Akimbo-1.0.0-avx2 ------ Alexandria-6.1.0-avx2=301
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=1344
 Akimbo-1.0.0-avx2 ------ Igel-x64_bmi2_avx2_3_5_0=259
 Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=4176
-Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=2327
+Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=4521
 Akimbo-1.0.0-avx2 ------ PlentyChess-1.0.0-bmi2=6413
 Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=23
 [Participants]
