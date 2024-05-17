@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
+CurrentPair=222
 CurrentRound=7
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1648
+LastPGNEPDindex=5273
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.16
-LastGameTime=21:04:55
+LastGameTime=21:07:52
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -339,7 +339,7 @@ Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½00½½
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=½½0½½0½
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½½½½½0½
 Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=0½½00½0
-Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½0½½
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½0½½0
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -611,7 +611,7 @@ Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=6304
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=2294
 Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=1743
 Akimbo-1.0.0-avx2 ------ Stockfish_24032015_x64_bmi2=1648
-Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=2735
+Akimbo-1.0.0-avx2 ------ Seer_v2.8_x64_avx2_popcnt=5273
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
