@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=37
+CurrentPair=49
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4106
+LastPGNEPDindex=3599
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.17
-LastGameTime=05:24:06
+LastGameTime=05:31:39
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -323,7 +323,7 @@ Akimbo-1.0.0-avx2 ------ RubiChess-20240112_x86-64-bmi2=½½00½½0½0½0000
 Akimbo-1.0.0-avx2 ------ Alexandria-6.1.0-avx2=0½0½0½000½½½½½
 Akimbo-1.0.0-avx2 ------ Lc0 0.31-rc2=½½½½0½½1½½½1½0
 Akimbo-1.0.0-avx2 ------ PlentyChess-1.0.0-bmi2=½½½0½0½½0½½½½½
-Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=½½½00000½½½0½
+Akimbo-1.0.0-avx2 ------ Ethereal-14.25-pext-avx2=½½½00000½½½0½0
 Akimbo-1.0.0-avx2 ------ Revenge_3_(Pedone)_avx2=0½½½½½½½½½½1½
 Akimbo-1.0.0-avx2 ------ CSTal-2.00-v21-E1019-Elo.opt-avx2=½0½½0½0½½½½0½
 Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=½½000½½00½0½0
