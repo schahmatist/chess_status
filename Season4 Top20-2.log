@@ -52672,3 +52672,27 @@ Pairing 97/231 :    Stormphrax-4.1.0-avx2-bmi2  -  Stockfish_24032015_x64_bmi2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   3 B 2    1.5:0.5        0.5:2.5       6:30:27 PM      -M6    73 23.378 :21.955  0-2-1
+
+--------------------------------------------------------------
+
+Engine-Match Friday, May 17, 2024 6:30:29 PM
+ Blitz 1/1 
+
+Pairing 109/231 :    Igel-x64_bmi2_avx2_3_5_0  -  Stormphrax-4.1.0-avx2-bmi2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   3 = =    1.5:1.5        1.5:1.5       6:33:21 PM     0.00    35 20.778 :25.536  0-0-3
+
+--------------------------------------------------------------
+
+Engine-Match Friday, May 17, 2024 6:33:23 PM
+ Blitz 1/1 
+
+Pairing 121/231 :    Stormphrax-4.1.0-avx2-bmi2  -  Koivisto_9.2-windows-avx2-pgo-pext
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
