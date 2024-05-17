@@ -51040,3 +51040,27 @@ Pairing 202/231 :    Akimbo-1.0.0-avx2  -  Clover.6.1-avx2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  12 = =    5.0:5.0        5.0:7.0       4:11:02 AM     0.00    97 19.021 :20.083  0-2-10
+
+--------------------------------------------------------------
+
+Engine-Match Friday, May 17, 2024 4:11:23 AM
+ Blitz 1/1 
+
+Pairing 212/231 :    Stockfish_24032015_x64_bmi2  -  Akimbo-1.0.0-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  12 = =    3.0:3.0        9.0:3.0       4:14:12 AM     0.00    38 21.111 :17.600  6-0-6
+
+--------------------------------------------------------------
+
+Engine-Match Friday, May 17, 2024 4:14:14 AM
+ Blitz 1/1 
+
+Pairing 222/231 :    Akimbo-1.0.0-avx2  -  Seer_v2.8_x64_avx2_popcnt
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
