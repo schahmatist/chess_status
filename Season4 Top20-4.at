@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=109
+CurrentPair=121
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3349
+LastPGNEPDindex=573
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=14:33:18
+LastGameTime=14:38:04
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -350,7 +350,7 @@ Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½½½11½1½½1
 Caissa-1.18-x64-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½111½1½1½
 Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=11½111½1½1½1
 Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=11½½1½½½½½1½
-RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½1½1½½½½½
+RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½1½1½½½½½1
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=½½0½½00½½00
 Obsidian120-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½1½½111½1½
 RofChade 3.1 ------ Stormphrax-4.1.0-avx2-bmi2=½½½½½11½00½
