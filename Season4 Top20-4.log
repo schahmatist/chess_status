@@ -54640,3 +54640,27 @@ Pairing 37/231 :    Ethereal-14.25-pext-avx2  -  Stormphrax-4.1.0-avx2-bmi2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  11 = =    2.5:2.5        7.5:3.5       6:20:43 AM     0.00    42 22.667 :24.316  5-1-5
+
+--------------------------------------------------------------
+
+Engine-Match Saturday, May 18, 2024 6:20:46 AM
+ Blitz 1/1 
+
+Pairing 49/231 :    Stormphrax-4.1.0-avx2-bmi2  -  Stockfish_24032015_x64_bmi2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+  11 B 2    2.5:1.5        2.5:8.5       6:24:43 AM   -15.20    58 22.375 :21.467  1-7-3
+
+--------------------------------------------------------------
+
+Engine-Match Saturday, May 18, 2024 6:24:45 AM
+ Blitz 1/1 
+
+Pairing 61/231 :    CSTal-2.00-v21-E1019-Elo.opt-avx2  -  Stormphrax-4.1.0-avx2-bmi2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
