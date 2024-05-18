@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=182
+CurrentPair=202
 CurrentRound=5
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1993
+LastPGNEPDindex=6439
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=03:48:14
+LastGameTime=03:52:45
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -357,8 +357,8 @@ Lc0 0.31-rc2 ------ Stormphrax-4.1.0-avx2-bmi2=½½½01
 Ethereal-14.25-pext-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½11
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=½½0½0
 RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½½111
-Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=½½1½
-Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½
+Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=½½1½½
+Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½½
 Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½½½
 Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½111
 [PairingLastPGNEPDindex]
@@ -650,8 +650,8 @@ Lc0 0.31-rc2 ------ Stormphrax-4.1.0-avx2-bmi2=920
 Ethereal-14.25-pext-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=3385
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=5959
 RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=1993
-Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=1717
-Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=2191
+Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=4788
+Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=6439
 Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1285
 Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=5924
 [Participants]
