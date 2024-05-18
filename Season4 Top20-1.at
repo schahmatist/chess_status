@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=1
+CurrentPair=13
 CurrentRound=10
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4902
+LastPGNEPDindex=381
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=16:58:25
+LastGameTime=17:01:44
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -341,7 +341,7 @@ Akimbo-1.0.0-avx2 ------ Clover.6.1-avx2=½0½½00½0½0½0½½00
 Akimbo-1.0.0-avx2 ------ Dragon 3.3-64bit-avx2=0½000½0½0½0½0½½½
 Akimbo-1.0.0-avx2 ------ Berserk-13-avx2-pext=½0½½½00½½000½0½½
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½½1½1½1½½½
-Alexandria-6.1.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=111½½½1½½
+Alexandria-6.1.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=111½½½1½½½
 PlentyChess-1.0.0-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½101½101½
 RofChade 3.1 ------ Stormphrax-4.1.0-avx2-bmi2=½½1½½0½½1
 Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½1½½
