@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=85
+CurrentPair=97
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5708
+LastPGNEPDindex=5751
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=04:38:06
+LastGameTime=04:43:22
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -348,7 +348,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½
 Revenge_3_(Pedone)_avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½½½½½
 Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=0½1½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½1½11
-Koivisto_9.2-windows-avx2-pgo-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½½½½
+Koivisto_9.2-windows-avx2-pgo-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=1½1½1
 Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½11
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=00½½½
