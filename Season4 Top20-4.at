@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=132
+CurrentPair=142
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6795
+LastPGNEPDindex=4234
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.17
-LastGameTime=23:17:43
+LastGameTime=23:20:51
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -352,7 +352,7 @@ Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=11½111
 Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=11½½1½
 RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½1½1
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=½½0½½0
-Obsidian120-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½1½½
+Obsidian120-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½1½½1
 RofChade 3.1 ------ Stormphrax-4.1.0-avx2-bmi2=½½½½½
 Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=0½½½1
 Revenge_3_(Pedone)_avx2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½½
