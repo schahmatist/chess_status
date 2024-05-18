@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=49
+CurrentPair=61
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3899
+LastPGNEPDindex=735
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=14:02:46
+LastGameTime=14:06:20
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -345,7 +345,7 @@ Alexandria-6.1.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½½½½1½½½½½½
 Lc0 0.31-rc2 ------ Stormphrax-4.1.0-avx2-bmi2=00½½½½½1111½
 PlentyChess-1.0.0-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½1½1½½½½½
 Ethereal-14.25-pext-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½11½½1½1½1
-Revenge_3_(Pedone)_avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½½011½½½½½
+Revenge_3_(Pedone)_avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½½011½½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½½½½1½1½1½
 Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=111½111½1½½
 Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½111½1½1½11
