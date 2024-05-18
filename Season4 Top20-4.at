@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=85
+CurrentPair=97
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4700
+LastPGNEPDindex=6404
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=17:26:37
+LastGameTime=17:33:09
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -348,7 +348,7 @@ Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=1½1011½½11111½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½011½½1½0½½1½
 Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½½½11½1½½1½1
 Caissa-1.18-x64-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½111½1½1½½½
-Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=11½111½1½1½1½
+Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=11½111½1½1½1½1
 Igel-x64_bmi2_avx2_3_5_0 ------ Stormphrax-4.1.0-avx2-bmi2=11½½1½½½½½1½½
 RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½1½1½½½½½1½
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=½½0½½00½½00½½
