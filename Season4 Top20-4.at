@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
+CurrentPair=222
 CurrentRound=13
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4226
+LastPGNEPDindex=3543
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=16:48:36
+LastGameTime=16:53:43
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -360,7 +360,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Stormphrax-4.1.0-avx2-bmi2=111½½½½1½½½
 Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½111½111½11½
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½1½10111½½½½½
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½½½00½½½½0½½½
-Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=½½½1½½½0½½½1
+Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=½½½1½½½0½½½1½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -653,7 +653,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Stormphrax-4.1.0-avx2-bmi2=4326
 Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=3310
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=6573
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=4226
-Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=1505
+Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=3543
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
