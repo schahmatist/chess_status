@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=132
+CurrentPair=142
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=655
+LastPGNEPDindex=1178
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=01:58:53
+LastGameTime=02:02:09
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -352,7 +352,7 @@ Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½½1
 Caissa-1.18-x64-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=1½½½
 Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½11
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½½½½
-Lc0 0.31-rc2 ------ Stormphrax-4.1.0-avx2-bmi2=0½½
+Lc0 0.31-rc2 ------ Stormphrax-4.1.0-avx2-bmi2=0½½1
 PlentyChess-1.0.0-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½½1
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=½½½
 Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½
