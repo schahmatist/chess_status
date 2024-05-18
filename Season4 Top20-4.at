@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=192
+CurrentPair=202
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5598
+LastPGNEPDindex=6489
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.17
-LastGameTime=20:32:20
+LastGameTime=20:35:57
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -358,7 +358,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=0½½½
 Revenge_3_(Pedone)_avx2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Stormphrax-4.1.0-avx2-bmi2=111½
 Dragon 3.3-64bit-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½11
-Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½1½
+Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½1½1
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½½½
 Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=½½½
 [PairingLastPGNEPDindex]

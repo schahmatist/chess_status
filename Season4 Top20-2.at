@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=172
+CurrentPair=182
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3426
+LastPGNEPDindex=2457
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.17
-LastGameTime=20:33:39
+LastGameTime=20:36:50
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -356,7 +356,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=½½0½
 Obsidian120-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½1½
 RofChade 3.1 ------ Stormphrax-4.1.0-avx2-bmi2=1½½1
 Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½
-Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=½½½
+Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=½½½1
 Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½1
 Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½1
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½½½
