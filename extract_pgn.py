@@ -1,6 +1,6 @@
 #file='Weak_League_041623_replaced.pgn'
 #file="Banksia_Weak_League_070823a_replaced.pgn"
-file='Season4_Top_combined.pgn'
+file='Season4 Top20.pgn'
 #file='Banksia_Top_v3c_replaced.pgn'
 #new = 'partial_older_versions.pgn'
 filtered = 'filtered_versions.pgn'
