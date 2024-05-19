@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=202
+CurrentPair=222
 CurrentRound=13
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3370
+LastPGNEPDindex=4923
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.19
-LastGameTime=18:18:24
+LastGameTime=18:23:29
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -380,8 +380,8 @@ Revenge_3_(Pedone)_avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½½½½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½½01½½0
 Dragon 3.3-64bit-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½1½1½11½½½½1
 Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=01½1½½½1½½½½½
-Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=10010½1½1½½1
-Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=½½½½01½11½½½
+Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=10010½1½1½½1½
+Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=½½½½01½11½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -694,8 +694,8 @@ Revenge_3_(Pedone)_avx2 ------ Velvet-v7.3.0-x86_64-avx2=4436
 Koivisto_9.2-windows-avx2-pgo-pext ------ Velvet-v7.3.0-x86_64-avx2=962
 Dragon 3.3-64bit-avx2 ------ Velvet-v7.3.0-x86_64-avx2=5893
 Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=3370
-Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1727
-Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=6963
+Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=3390
+Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=4923
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
