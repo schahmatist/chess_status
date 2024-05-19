@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=172
+CurrentPair=182
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=697
+LastPGNEPDindex=6835
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.19
-LastGameTime=06:48:27
+LastGameTime=06:54:39
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -377,7 +377,7 @@ Uralochka3.41a-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½
 Obsidian120-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=1½½½1½
 RofChade 3.1 ------ Velvet-v7.3.0-x86_64-avx2=½½½½11
 Velvet-v7.3.0-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½0½½
-Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½
+Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½
 Berserk-13-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=½1½½½
 Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=11½½1
