@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
+CurrentPair=222
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6346
+LastPGNEPDindex=2544
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=23:27:26
+LastGameTime=23:35:04
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -361,7 +361,7 @@ Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½1½½1½½½½½11½1½
 Berserk-13-avx2-pext ------ Stormphrax-4.1.0-avx2-bmi2=½½1½1½½1½½11½1½1
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½½½½1½½11½½01½0½
 Caissa-1.18-x64-avx2-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=11½1½½½1½1½½½1½1
-RubiChess-20240112_x86-64-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=1
+RubiChess-20240112_x86-64-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=11
 Alexandria-6.1.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½
 Lc0 0.31-rc2 ------ Velvet-v7.3.0-x86_64-avx2=½
 PlentyChess-1.0.0-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½
@@ -381,6 +381,7 @@ Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=½
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½
 Berserk-13-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=½
 Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=1
+Caissa-1.18-x64-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -694,6 +695,7 @@ Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=239
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=5456
 Berserk-13-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=3956
 Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=6346
+Caissa-1.18-x64-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=2544
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
 Engine2=Koivisto_9.2-windows-avx2-pgo-pext
