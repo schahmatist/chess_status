@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=202
+CurrentPair=212
 CurrentRound=11
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2293
+LastPGNEPDindex=3614
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.18
-LastGameTime=19:52:57
+LastGameTime=19:56:40
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -359,7 +359,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½½½101
 RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=1½½½½1110½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=1½11½1½½½½1
 Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=11½½½1½1½½0
-Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½11½½11½½½
+Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=½11½½11½½½1
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½1½11½½½½1
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
@@ -652,7 +652,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Viridithas-12.0.0-x86_64-win-v3=3413
 RubiChess-20240112_x86-64-bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=2467
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=2108
 Clover.6.1-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=2293
-Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=3747
+Stockfish_24032015_x64_bmi2 ------ Stormphrax-4.1.0-avx2-bmi2=3614
 Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=51
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
