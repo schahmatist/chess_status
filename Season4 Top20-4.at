@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
+CurrentPair=222
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1956
+LastPGNEPDindex=7007
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=04:08:10
+LastGameTime=04:13:50
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -402,6 +402,7 @@ Fire-9.3_x64_avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=0
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=1
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0
 Fire-9.3_x64_avx2 ------ Titan-x86_64-avx2=½
+Fire-9.3_x64_avx2 ------ Rebel-16.3=1
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -736,6 +737,7 @@ Fire-9.3_x64_avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=1447
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=6773
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7044
 Fire-9.3_x64_avx2 ------ Titan-x86_64-avx2=1956
+Fire-9.3_x64_avx2 ------ Rebel-16.3=7007
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
