@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=162
+CurrentPair=172
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2528
+LastPGNEPDindex=3582
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=06:28:49
+LastGameTime=06:36:19
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -376,7 +376,7 @@ Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½1½½½½1½½½0½½1½
 Obsidian120-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=½½½½½1½½1½½1½½½½
 Lc0 0.31-rc2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½0½½½01½0½0
 Ethereal-14.25-pext-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½1½½0½½½½½½111½½
-Uralochka3.41a-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½11½1½½½1
+Uralochka3.41a-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½11½1½½½1½
 RubiChess-20240112_x86-64-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½0½½1½1½½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Velvet-v7.3.0-x86_64-avx2=½½1½½½0½½½½½½½½
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½1½½½10½½
