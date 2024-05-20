@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=109
+CurrentPair=121
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6664
+LastPGNEPDindex=4641
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -66,8 +66,8 @@ OS=Windows 10 Home Home Edition (Build 9200) 64 bit
 Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
-LastGameDate=2024.05.19
-LastGameTime=23:59:59
+LastGameDate=2024.05.20
+LastGameTime=00:03:39
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -371,7 +371,7 @@ Rebel-16.3 ------ Velvet-v7.3.0-x86_64-avx2=½½½0½½½½½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1½½½½½11½0½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Velvet-v7.3.0-x86_64-avx2=½½1½½½½½01½1
 Caissa-1.18-x64-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½½1½½½½½½½1½
-Stockfish_24032015_x64_bmi2 ------ Velvet-v7.3.0-x86_64-avx2=1½½1½1½1½1½
+Stockfish_24032015_x64_bmi2 ------ Velvet-v7.3.0-x86_64-avx2=1½½1½1½1½1½1
 Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½1½½½½1½½½
 Obsidian120-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=½½½½½1½½1½½
 Lc0 0.31-rc2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½0½½½0
