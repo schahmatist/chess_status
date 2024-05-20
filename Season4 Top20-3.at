@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=85
+CurrentPair=97
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=793
+LastPGNEPDindex=821
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=14:28:33
+LastGameTime=14:33:03
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -390,6 +390,7 @@ Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½
 Fire-9.3_x64_avx2 ------ Revenge_3_(Pedone)_avx2=0
 Fire-9.3_x64_avx2 ------ Rebel-16.3=0
 Fire-9.3_x64_avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=½
+Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=1
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -712,6 +713,7 @@ Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=6072
 Fire-9.3_x64_avx2 ------ Revenge_3_(Pedone)_avx2=1507
 Fire-9.3_x64_avx2 ------ Rebel-16.3=5442
 Fire-9.3_x64_avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=793
+Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=821
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
