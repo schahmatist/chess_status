@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=37
+CurrentPair=49
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1082
+LastPGNEPDindex=5400
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=02:59:22
+LastGameTime=03:01:57
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -386,6 +386,7 @@ Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½
 Alexandria-6.1.0-avx2 ------ Fire-9.3_x64_avx2=½
 Fire-9.3_x64_avx2 ------ Lc0 0.31-rc2=½
 Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=½
+Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -704,6 +705,7 @@ Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=7066
 Alexandria-6.1.0-avx2 ------ Fire-9.3_x64_avx2=2940
 Fire-9.3_x64_avx2 ------ Lc0 0.31-rc2=3979
 Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=1082
+Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=5400
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
 Engine2=Koivisto_9.2-windows-avx2-pgo-pext
