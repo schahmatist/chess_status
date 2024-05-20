@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=202
+CurrentPair=212
 CurrentRound=7
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7319
+LastPGNEPDindex=5661
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=13:33:57
+LastGameTime=13:38:24
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -401,7 +401,7 @@ Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½111½½½
 Fire-9.3_x64_avx2 ------ Rebel-16.3=½½00½½½
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=1½½½10½
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=1½1½½1½
-Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½0½0½
+Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½0½0½0
 Caissa-1.18-x64-avx2-bmi2 ------ Fire-9.3_x64_avx2=½1½½½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
@@ -736,7 +736,7 @@ Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=6768
 Fire-9.3_x64_avx2 ------ Rebel-16.3=4958
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=4592
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=7319
-Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=2898
+Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=5661
 Caissa-1.18-x64-avx2-bmi2 ------ Fire-9.3_x64_avx2=4280
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
