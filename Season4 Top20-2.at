@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=202
+CurrentPair=212
 CurrentRound=10
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2886
+LastPGNEPDindex=5294
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=18:06:18
+LastGameTime=18:12:18
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -401,7 +401,7 @@ Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½111½½½½10
 Fire-9.3_x64_avx2 ------ Rebel-16.3=½½00½½½0½0
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=1½½½10½½1½
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=1½1½½1½½½½
-Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½0½0½0½½
+Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½0½0½0½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Fire-9.3_x64_avx2=½1½½½½½1½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
