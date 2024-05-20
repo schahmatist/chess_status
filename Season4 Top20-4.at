@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=1
+CurrentPair=13
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6720
+LastPGNEPDindex=1997
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.19
-LastGameTime=21:44:20
+LastGameTime=21:49:25
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -362,7 +362,7 @@ Seer_v2.8_x64_avx2_popcnt ------ Stormphrax-4.1.0-avx2-bmi2=½1½10111½½½½½1½½
 Stormphrax-4.1.0-avx2-bmi2 ------ Titan-x86_64-avx2=½½½00½½½½0½½½½1½
 Rebel-16.3 ------ Stormphrax-4.1.0-avx2-bmi2=½½½1½½½0½½½1½½½½
 Alexandria-6.1.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½1½1½1½½½½½½½
-Lc0 0.31-rc2 ------ Velvet-v7.3.0-x86_64-avx2=½0½½½½½½½½111½½
+Lc0 0.31-rc2 ------ Velvet-v7.3.0-x86_64-avx2=½0½½½½½½½½111½½½
 PlentyChess-1.0.0-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½1½0½½1½½½0½1½½
 Ethereal-14.25-pext-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½1½½011½½½1½½1
 Stockfish_24032015_x64_bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½1111111½½½11½½
