@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=85
+CurrentPair=97
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3496
+LastPGNEPDindex=1992
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=03:17:01
+LastGameTime=03:20:59
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -390,6 +390,7 @@ Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=½
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=1
 Caissa-1.18-x64-avx2-bmi2 ------ Fire-9.3_x64_avx2=1
+Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -712,6 +713,7 @@ Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=3055
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=5404
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=379
 Caissa-1.18-x64-avx2-bmi2 ------ Fire-9.3_x64_avx2=3496
+Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=1992
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
