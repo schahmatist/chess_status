@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=1
+CurrentPair=13
 CurrentRound=8
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4835
+LastPGNEPDindex=5788
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=13:48:43
+LastGameTime=13:50:30
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -383,7 +383,7 @@ Berserk-13-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=½1½½½½111½½1½1½½
 Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=11½½10½01½1½0½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½11111½½01½½½½½½
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½0½½½½½
-Alexandria-6.1.0-avx2 ------ Fire-9.3_x64_avx2=½½1½1½1
+Alexandria-6.1.0-avx2 ------ Fire-9.3_x64_avx2=½½1½1½1½
 Fire-9.3_x64_avx2 ------ Lc0 0.31-rc2=½½0½½00
 Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=½0½½½½½
 Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½½½½½½½
