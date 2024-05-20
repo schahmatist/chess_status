@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=152
+CurrentPair=172
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4737
+LastPGNEPDindex=822
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=05:37:07
+LastGameTime=05:43:22
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -375,8 +375,8 @@ Berserk-13-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=1111½1½1½11½½½½1
 Titan-x86_64-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1½½½½½½½1½0½½½½½
 Lc0 0.31-rc2 ------ Velvet-v7.3.0-x86_64-avx2=0½½½0½½½0½½½½½½½
 PlentyChess-1.0.0-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½½½1½½½1½½1½½½1½
-Uralochka3.41a-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½1½½½½½½½
-Velvet-v7.3.0-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1½1½0½½1½½½½0½0
+Uralochka3.41a-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½1½½½½½½½½
+Velvet-v7.3.0-x86_64-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1½1½0½½1½½½½0½0½
 RubiChess-20240112_x86-64-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½0½1½½½1½1½111½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½1½0½½½0½
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½½½½½½½½½
