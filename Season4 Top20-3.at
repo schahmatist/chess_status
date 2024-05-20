@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
+CurrentPair=222
 CurrentRound=13
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5061
+LastPGNEPDindex=5818
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=01:19:56
+LastGameTime=01:22:44
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -381,7 +381,7 @@ RubiChess-20240112_x86-64-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=½0½1½½½1½1½11
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½1½0½½½
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½½½½½½½
 Stockfish_24032015_x64_bmi2 ------ Velvet-v7.3.0-x86_64-avx2=1½½1½½1½1½½11
-Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=11½0½½½½1½½½
+Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=11½0½½½½1½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -695,7 +695,7 @@ RubiChess-20240112_x86-64-bmi2 ------ Velvet-v7.3.0-x86_64-avx2=5549
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Velvet-v7.3.0-x86_64-avx2=5301
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=2746
 Stockfish_24032015_x64_bmi2 ------ Velvet-v7.3.0-x86_64-avx2=5061
-Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=1483
+Seer_v2.8_x64_avx2_popcnt ------ Velvet-v7.3.0-x86_64-avx2=5818
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
