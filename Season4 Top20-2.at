@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=61
+CurrentPair=73
 CurrentRound=8
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3579
+LastPGNEPDindex=1372
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=14:08:01
+LastGameTime=14:12:19
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -388,7 +388,7 @@ Fire-9.3_x64_avx2 ------ Lc0 0.31-rc2=½½0½½00½
 Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=½0½½½½½1
 Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½½½½½½½½
 Fire-9.3_x64_avx2 ------ Revenge_3_(Pedone)_avx2=0½½½0000
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=½11½½1½
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=½11½½1½1
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=1½½½½½½
 Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=½00½0½½
 Fire-9.3_x64_avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½½½0
