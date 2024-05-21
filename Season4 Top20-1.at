@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=192
+CurrentPair=202
 CurrentRound=5
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4952
+LastPGNEPDindex=6776
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=21:33:02
+LastGameTime=21:37:36
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -400,7 +400,7 @@ Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½1½1½
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=½½½½½
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½½
 Fire-9.3_x64_avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½½
-Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=½½½1
+Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=½½½1½
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=½½11
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=½1½½
 [PairingLastPGNEPDindex]
@@ -735,7 +735,7 @@ Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=2155
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=2566
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=4766
 Fire-9.3_x64_avx2 ------ Igel-x64_bmi2_avx2_3_5_0=4952
-Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=194
+Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=6776
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=5959
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=6268
 [Participants]
