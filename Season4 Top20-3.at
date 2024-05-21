@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=192
+CurrentPair=212
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=2529
+LastPGNEPDindex=5824
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.21
-LastGameTime=07:58:53
+LastGameTime=08:09:36
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -400,8 +400,8 @@ Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=½0½½½½½½½½0½
 Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=01½½11½½½½½½
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½0½0½½½0½0
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=1½½½11½½½½½1
-Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=½½½1½½½½½½0
-Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=0½0½0½00000
+Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=½½½1½½½½½½0½
+Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=0½0½0½00000½
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½100½½½½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
