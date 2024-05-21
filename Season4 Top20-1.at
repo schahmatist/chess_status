@@ -3,8 +3,8 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=212
-CurrentRound=5
+CurrentPair=1
+CurrentRound=6
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3426
+LastPGNEPDindex=4625
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=21:41:36
+LastGameTime=21:49:23
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -382,7 +382,7 @@ Igel-x64_bmi2_avx2_3_5_0 ------ Velvet-v7.3.0-x86_64-avx2=½½1½½½0½½½½½½½½1
 Clover.6.1-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½1½½½10½½½
 Dragon 3.3-64bit-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1½½½½½11½1½½1½½½
 Berserk-13-avx2-pext ------ Velvet-v7.3.0-x86_64-avx2=½½½½½½½111½111½1
-Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½11½0
+Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½11½0½
 Alexandria-6.1.0-avx2 ------ Fire-9.3_x64_avx2=½½1½1
 Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=½0010
 Fire-9.3_x64_avx2 ------ RofChade 3.1=0½0½0
@@ -402,7 +402,7 @@ Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½½½
 Fire-9.3_x64_avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½½
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=½½½1½
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=½½111
-Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=½1½½
+Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=½1½½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1549
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1352
@@ -737,7 +737,7 @@ Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=4766
 Fire-9.3_x64_avx2 ------ Igel-x64_bmi2_avx2_3_5_0=4952
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=6776
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=3426
-Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=6268
+Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=3299
 [Participants]
 Engine1=Seer_v2.8_x64_avx2_popcnt
 Engine2=Stockfish_24032015_x64_bmi2
