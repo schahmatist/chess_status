@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=202
+CurrentPair=212
 CurrentRound=9
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4330
+LastPGNEPDindex=6114
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.21
-LastGameTime=03:32:31
+LastGameTime=03:36:43
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -401,7 +401,7 @@ Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=01½½11½½½
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½0½0½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=1½½½11½½½
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=½½½1½½½½½
-Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=0½0½0½00
+Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=0½0½0½000
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½100½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
@@ -736,7 +736,7 @@ Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=6251
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=4176
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=14
 Clover.6.1-avx2 ------ Fire-9.3_x64_avx2=4330
-Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=1329
+Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=6114
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=1634
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
