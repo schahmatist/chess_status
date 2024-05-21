@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=37
+CurrentPair=49
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3895
+LastPGNEPDindex=2913
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.21
-LastGameTime=02:05:14
+LastGameTime=02:10:16
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -386,7 +386,7 @@ Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½0½½½½½½½½½0½00
 Alexandria-6.1.0-avx2 ------ Fire-9.3_x64_avx2=½½1½1½1½0½½½½½½½
 Fire-9.3_x64_avx2 ------ Lc0 0.31-rc2=½½0½½00½½½101½½½
 Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=½0½½½½½100½½00½0
-Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½½½½½½½½½1½½½½1
+Ethereal-14.25-pext-avx2 ------ Fire-9.3_x64_avx2=½½½½½½½½½1½½½½11
 Fire-9.3_x64_avx2 ------ Revenge_3_(Pedone)_avx2=0½½½0000½½1101½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=½11½½1½1½1½½½½½
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=1½½½½½½½½½½½½½½
