@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=109
+CurrentPair=121
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3808
+LastPGNEPDindex=337
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.20
-LastGameTime=20:25:21
+LastGameTime=20:31:47
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -392,7 +392,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Fire-9.3_x64_avx2=½11½½1½1½1½½
 Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=1½½½½½½½½½½½
 Fire-9.3_x64_avx2 ------ Stockfish_24032015_x64_bmi2=½00½0½½000½0
 Fire-9.3_x64_avx2 ------ Igel-x64_bmi2_avx2_3_5_0=½½½½½½0½½½½1
-Fire-9.3_x64_avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=0½½0½½½0½0½
+Fire-9.3_x64_avx2 ------ Koivisto_9.2-windows-avx2-pgo-pext=0½½0½½½0½0½½
 Fire-9.3_x64_avx2 ------ Titan-x86_64-avx2=0½01½½½0½½½
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=½0½0½00½00½
 Fire-9.3_x64_avx2 ------ Obsidian120-avx2-pext=000½0½00½½0
