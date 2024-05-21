@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=142
+CurrentPair=152
 CurrentRound=10
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=4738
+LastPGNEPDindex=6434
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.21
-LastGameTime=04:38:33
+LastGameTime=04:41:27
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -395,7 +395,7 @@ Caissa-1.18-x64-avx2-bmi2 ------ Fire-9.3_x64_avx2=1½½1½0111½
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=½1½1½½½½½1
 Fire-9.3_x64_avx2 ------ Titan-x86_64-avx2=000½01½½½0
 Fire-9.3_x64_avx2 ------ Lc0 0.31-rc2=0½½½½½1½½½
-Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=0½½½0½0½½
+Fire-9.3_x64_avx2 ------ PlentyChess-1.0.0-bmi2=0½½½0½0½½½
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=½0½½½½½½½
 Fire-9.3_x64_avx2 ------ Viridithas-12.0.0-x86_64-win-v3=01½½11½½½
 Fire-9.3_x64_avx2 ------ RubiChess-20240112_x86-64-bmi2=½½½0½0½½½
