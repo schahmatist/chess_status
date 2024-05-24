@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=08:13:38
+LastGameTime=08:20:01
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1806,7 +1806,7 @@ Berserk-13-avx2-pext ------ Starzix-5.0-avx2=01
 Allie_v0.8-dev New Net ------ Starzix-5.0-avx2=½0
 Starzix-5.0-avx2 ------ Stockfish_24032015_x64_bmi2=0½
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=0½
-Arasanx-24.2.2-avx2-bmi2 ------ Starzix-5.0-avx2=½
+Arasanx-24.2.2-avx2-bmi2 ------ Starzix-5.0-avx2=½0
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½
 Peacekeeper-240-avx2 ------ Starzix-5.0-avx2=½
 Clarity_6.0_x86-64-v3_BMI2 ------ Starzix-5.0-avx2=0
