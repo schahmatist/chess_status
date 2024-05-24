@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1224
+CurrentPair=1225
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7507
+LastPGNEPDindex=7124
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=05:27:03
+LastGameTime=05:31:14
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1778,6 +1778,7 @@ Peacekeeper-240-avx2 ------ Starzix-5.0-avx2=½
 Nemorino_6.00_win64_avx2 ------ Starzix-5.0-avx2=0
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=1
 Starzix-5.0-avx2 ------ Titan-x86_64-avx2=0
+Arasanx-24.2.2-avx2-bmi2 ------ Starzix-5.0-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3488,6 +3489,7 @@ Peacekeeper-240-avx2 ------ Starzix-5.0-avx2=30621
 Nemorino_6.00_win64_avx2 ------ Starzix-5.0-avx2=17668
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=27870
 Starzix-5.0-avx2 ------ Titan-x86_64-avx2=7507
+Arasanx-24.2.2-avx2-bmi2 ------ Starzix-5.0-avx2=7124
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
