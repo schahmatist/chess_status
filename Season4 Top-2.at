@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1054
+CurrentPair=1072
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=24013
+LastPGNEPDindex=26349
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=04:23:34
+LastGameTime=04:26:34
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1761,6 +1761,7 @@ Minic_3.41_mingw_x64_skylake ------ Starzix-5.0-avx2=0
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½
 Lizard-win-x64-pext ------ Starzix-5.0-avx2=½
 Equisetum 1.0 bmi2 ------ Starzix-5.0-avx2=½
+Starzix-5.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3454,6 +3455,7 @@ Minic_3.41_mingw_x64_skylake ------ Starzix-5.0-avx2=6121
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=16966
 Lizard-win-x64-pext ------ Starzix-5.0-avx2=22201
 Equisetum 1.0 bmi2 ------ Starzix-5.0-avx2=24013
+Starzix-5.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=26349
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
