@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1
+CurrentPair=53
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=25488
+LastPGNEPDindex=31504
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=02:09:30
+LastGameTime=02:19:35
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1735,6 +1735,8 @@ Altair-windows-x86-64-v3 ------ Arasanx-24.2.2-avx2-bmi2=½½0½
 Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=11½½
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½11
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=1
+Starzix-5.0-avx2 ------ Titan-x86_64-avx2=½
+Starzix-5.0-avx2 ------ Uralochka3.41.dev4-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3402,6 +3404,8 @@ Altair-windows-x86-64-v3 ------ Arasanx-24.2.2-avx2-bmi2=17525
 Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=30892
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=23540
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=25488
+Starzix-5.0-avx2 ------ Titan-x86_64-avx2=29903
+Starzix-5.0-avx2 ------ Uralochka3.41.dev4-avx2=31504
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
