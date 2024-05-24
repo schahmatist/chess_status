@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1154
+CurrentPair=1178
 CurrentRound=3
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=29888
+LastPGNEPDindex=4541
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=14:06:09
+LastGameTime=14:10:41
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1828,7 +1828,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½½1
 Devre_5.0-avx2 ------ Starzix-5.0-avx2=½½½
 Booot73_avx2 ------ Starzix-5.0-avx2=½½½
 Altair-windows-x86-64-v3 ------ Starzix-5.0-avx2=000
-Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½
+Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½½
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=1½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
@@ -3590,7 +3590,7 @@ Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=11789
 Devre_5.0-avx2 ------ Starzix-5.0-avx2=3231
 Booot73_avx2 ------ Starzix-5.0-avx2=3827
 Altair-windows-x86-64-v3 ------ Starzix-5.0-avx2=29888
-Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=32350
+Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=4541
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=24426
 [Participants]
 Engine1=Andscacsnnue01
