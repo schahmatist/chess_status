@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1054
+CurrentPair=1072
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=24013
+LastPGNEPDindex=26349
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=08:04:23
+LastGameTime=08:08:46
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1761,7 +1761,7 @@ Minic_3.41_mingw_x64_skylake ------ Starzix-5.0-avx2=0½
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½½
 Lizard-win-x64-pext ------ Starzix-5.0-avx2=½½
 Equisetum 1.0 bmi2 ------ Starzix-5.0-avx2=½½
-Starzix-5.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½
+Starzix-5.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½0
 Starzix-5.0-avx2 ------ Willow 4.01-v3-windows=1
 Akimbo-1.0.0-avx2 ------ Starzix-5.0-avx2=½
 Pawn-v3.0-windows-haswell ------ Starzix-5.0-avx2=½
