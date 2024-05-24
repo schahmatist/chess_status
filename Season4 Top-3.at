@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=698
+CurrentPair=746
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=32389
+LastPGNEPDindex=29337
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=16:25:14
+LastGameTime=16:34:21
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1762,8 +1762,8 @@ Booot73_avx2 ------ Starzix-5.0-avx2=½½½½
 Arasanx-24.2.2-avx2-bmi2 ------ Starzix-5.0-avx2=1½½½
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½½½½
 Nemorino_6.00_win64_avx2 ------ Starzix-5.0-avx2=½100
-Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½½1
-Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½
+Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½½1½
+Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½
 Starzix-5.0-avx2 ------ Texel 1.11=1½½
 Midnightv9-windows-x86-64-v3 ------ Starzix-5.0-avx2=000
 Akimbo-1.0.0-avx2 ------ Starzix-5.0-avx2=½½½
