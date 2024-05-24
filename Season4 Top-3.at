@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1058
+CurrentPair=1082
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=26091
+LastPGNEPDindex=14111
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=05:29:56
+LastGameTime=05:35:27
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1777,6 +1777,7 @@ Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=½
 Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=1
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½
 Rebel-16.3 ------ Starzix-5.0-avx2=½
+Clover.6.1-avx2 ------ Starzix-5.0-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3486,6 +3487,7 @@ Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=32346
 Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=15768
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=9261
 Rebel-16.3 ------ Starzix-5.0-avx2=26091
+Clover.6.1-avx2 ------ Starzix-5.0-avx2=14111
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2

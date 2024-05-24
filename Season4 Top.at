@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=986
+CurrentPair=1010
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=31028
+LastPGNEPDindex=23718
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=05:33:23
+LastGameTime=05:39:29
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1821,6 +1821,7 @@ Starzix-5.0-avx2 ------ Wasp650-windows-avx=1
 RofChade 3.1 ------ Starzix-5.0-avx2=½
 Fritz 19 AVX2 ------ Starzix-5.0-avx2=0
 Houdini 6.03 Pro pext ------ Starzix-5.0-avx2=0
+Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3574,6 +3575,7 @@ Starzix-5.0-avx2 ------ Wasp650-windows-avx=6080
 RofChade 3.1 ------ Starzix-5.0-avx2=24540
 Fritz 19 AVX2 ------ Starzix-5.0-avx2=2956
 Houdini 6.03 Pro pext ------ Starzix-5.0-avx2=31028
+Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=23718
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
