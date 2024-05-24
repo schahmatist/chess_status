@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=866
+CurrentPair=914
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=12074
+LastPGNEPDindex=15252
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=16:55:03
+LastGameTime=17:03:57
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1769,8 +1769,8 @@ Midnightv9-windows-x86-64-v3 ------ Starzix-5.0-avx2=0000
 Akimbo-1.0.0-avx2 ------ Starzix-5.0-avx2=½½½0
 Starzix-5.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½1½½
 Lizard-win-x64-pext ------ Starzix-5.0-avx2=½½0½
-Minic_3.41_mingw_x64_skylake ------ Starzix-5.0-avx2=½00
-Starzix-5.0-avx2 ------ Wasp650-windows-avx=1½1
+Minic_3.41_mingw_x64_skylake ------ Starzix-5.0-avx2=½000
+Starzix-5.0-avx2 ------ Wasp650-windows-avx=1½11
 RofChade 3.1 ------ Starzix-5.0-avx2=½10
 Fritz 19 AVX2 ------ Starzix-5.0-avx2=½½0
 Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=½½½
