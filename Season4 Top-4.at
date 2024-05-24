@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=365
+CurrentPair=417
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=32367
+LastPGNEPDindex=20503
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=06:54:56
+LastGameTime=07:03:31
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1742,8 +1742,8 @@ Slow64-avx2 ------ Starzix-5.0-avx2=½0
 Starzix-5.0-avx2 ------ Superultra-2.0=½1
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=½½
 Starzix-5.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½
-Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=½
-RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½
+Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=½½
+RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½1
 Rebel-16.3 ------ Starzix-5.0-avx2=½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=½
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=½
