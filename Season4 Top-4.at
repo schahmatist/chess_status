@@ -3,8 +3,8 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1203
-CurrentRound=4
+CurrentPair=1
+CurrentRound=1
 Level=2 1\0/1#0
 [Options]
 QuitAfterTournament=0
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=9722
+LastPGNEPDindex=32486
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -66,8 +66,8 @@ OS=Windows 10 Home Home Edition (Build 9200) 64 bit
 Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
-LastGameDate=2024.05.15
-LastGameTime=08:31:23
+LastGameDate=2024.05.24
+LastGameTime=02:10:09
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1727,6 +1727,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Booot73_avx2=½½½½
 Andscacsnnue01 ------ Arasanx-24.2.2-avx2-bmi2=1½½1
 Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=11½½
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½
+Altair-windows-x86-64-v3 ------ Starzix-5.0-avx2=0
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3386,6 +3387,7 @@ Arasanx-24.2.2-avx2-bmi2 ------ Booot73_avx2=26563
 Andscacsnnue01 ------ Arasanx-24.2.2-avx2-bmi2=9425
 Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=27829
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=25140
+Altair-windows-x86-64-v3 ------ Starzix-5.0-avx2=32486
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0

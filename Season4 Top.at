@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1
+CurrentPair=27
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=16897
+LastPGNEPDindex=34378
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=02:08:55
+LastGameTime=02:12:00
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1782,6 +1782,7 @@ Altair-windows-x86-64-v3 ------ Arasanx-24.2.2-avx2-bmi2=½1½½
 Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=1½½1
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½
 Andscacsnnue01 ------ Starzix-5.0-avx2=½
+Starzix-5.0-avx2 ------ Titan-x86_64-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3496,6 +3497,7 @@ Altair-windows-x86-64-v3 ------ Arasanx-24.2.2-avx2-bmi2=9150
 Alexandria-6.1.0-avx2 ------ Arasanx-24.2.2-avx2-bmi2=3254
 Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=22152
 Andscacsnnue01 ------ Starzix-5.0-avx2=16897
+Starzix-5.0-avx2 ------ Titan-x86_64-avx2=34378
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
