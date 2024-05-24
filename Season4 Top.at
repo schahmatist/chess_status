@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=03:44:46
+LastGameTime=03:50:01
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1800,6 +1800,7 @@ Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=½
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½
 Rebel-16.3 ------ Starzix-5.0-avx2=½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=½
+Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=1
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3532,6 +3533,7 @@ Blackmarlin-9.0-windows-x86-64-v3 ------ Starzix-5.0-avx2=25095
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=4532
 Rebel-16.3 ------ Starzix-5.0-avx2=5810
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=25476
+Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=12242
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
