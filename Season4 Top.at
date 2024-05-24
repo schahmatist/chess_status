@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=770
+CurrentPair=794
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=25896
+LastPGNEPDindex=19462
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=16:44:14
+LastGameTime=16:48:36
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1812,7 +1812,7 @@ Peacekeeper-240-avx2 ------ Starzix-5.0-avx2=½0½½
 Clarity_6.0_x86-64-v3_BMI2 ------ Starzix-5.0-avx2=0½0½
 Fire-9.3_x64_avx2 ------ Starzix-5.0-avx2=½½½½
 Starzix-5.0-avx2 ------ Uralochka3.41.dev4-avx2=½000
-Carp-v3.0.1-win-x86_64-V3 ------ Starzix-5.0-avx2=½½½
+Carp-v3.0.1-win-x86_64-V3 ------ Starzix-5.0-avx2=½½½½
 Akimbo-1.0.0-avx2 ------ Starzix-5.0-avx2=0½0
 Starzix-5.0-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½½1
 Lizard-win-x64-pext ------ Starzix-5.0-avx2=½½½
