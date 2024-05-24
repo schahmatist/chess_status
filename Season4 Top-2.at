@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=445
+CurrentPair=484
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=31822
+LastPGNEPDindex=12291
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=06:28:01
+LastGameTime=06:36:25
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1740,7 +1740,7 @@ Booot73_avx2 ------ Starzix-5.0-avx2=1½
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=½½
 Devre_5.0-avx2 ------ Starzix-5.0-avx2=00
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=1½
-Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½
+Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=1
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Starzix-5.0-avx2=½
 Rebel-16.3 ------ Starzix-5.0-avx2=½
