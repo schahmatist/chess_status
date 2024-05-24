@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=53
+CurrentPair=105
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=31194
+LastPGNEPDindex=18457
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=02:16:47
+LastGameTime=02:24:46
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1784,6 +1784,8 @@ Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=½½½½
 Andscacsnnue01 ------ Starzix-5.0-avx2=½
 Starzix-5.0-avx2 ------ Titan-x86_64-avx2=½
 Nemorino_6.00_win64_avx2 ------ Starzix-5.0-avx2=0
+Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½
+Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3500,6 +3502,8 @@ Arasanx-24.2.2-avx2-bmi2 ------ Seer_v2.8_x64_avx2_popcnt=22152
 Andscacsnnue01 ------ Starzix-5.0-avx2=16897
 Starzix-5.0-avx2 ------ Titan-x86_64-avx2=34378
 Nemorino_6.00_win64_avx2 ------ Starzix-5.0-avx2=31194
+Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=32281
+Obsidian120-avx2-pext ------ Starzix-5.0-avx2=18457
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
