@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1154
+CurrentPair=1202
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=15890
+LastPGNEPDindex=20174
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.24
-LastGameTime=09:40:50
+LastGameTime=09:49:57
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1781,8 +1781,8 @@ Clover.6.1-avx2 ------ Starzix-5.0-avx2=½½
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=½½
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=11
 Altair-windows-x86-64-v3 ------ Starzix-5.0-avx2=10
-Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½
-Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½
+Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½
+Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
