@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=224
+CurrentPair=234
 CurrentRound=3
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=953
+LastPGNEPDindex=6939
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=04:01:11
+LastGameTime=04:07:18
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -423,7 +423,7 @@ Starzix-5.0-avx2 ------ Uralochka3.41a-avx2=½½½
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½1½
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=½½½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=1½½
-Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=½½
+Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=½½½
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1549
@@ -780,7 +780,7 @@ Starzix-5.0-avx2 ------ Uralochka3.41a-avx2=5671
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=4896
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=993
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=953
-Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=4247
+Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=6939
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=579
 [Participants]
 Engine1=Seer_v2.8_x64_avx2_popcnt
