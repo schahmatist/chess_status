@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=223
+CurrentPair=243
 CurrentRound=9
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=995
+LastPGNEPDindex=2104
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=13:52:23
+LastGameTime=13:59:48
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -423,8 +423,8 @@ Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½½01½½½1½
 Rebel-16.3 ------ Starzix-5.0-avx2=0½½½½½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½½0½1½½1½
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=1½½1½½1½½
-Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=1½½½½101
-Berserk-13-avx2-pext ------ Starzix-5.0-avx2=1½½½1½½½
+Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=1½½½½101½
+Berserk-13-avx2-pext ------ Starzix-5.0-avx2=1½½½1½½½½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -780,8 +780,8 @@ Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=732
 Rebel-16.3 ------ Starzix-5.0-avx2=911
 Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=1519
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=995
-Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=2833
-Berserk-13-avx2-pext ------ Starzix-5.0-avx2=6786
+Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=1086
+Berserk-13-avx2-pext ------ Starzix-5.0-avx2=2104
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
