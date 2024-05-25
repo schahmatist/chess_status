@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=143
+CurrentPair=153
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1285
+LastPGNEPDindex=3007
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=00:29:56
+LastGameTime=00:34:00
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -415,6 +415,7 @@ Starzix-5.0-avx2 ------ Stockfish_24032015_x64_bmi2=½
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=½
 Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½
+Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=313
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=784
@@ -762,6 +763,7 @@ Starzix-5.0-avx2 ------ Stockfish_24032015_x64_bmi2=761
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=3645
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=1197
 Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1285
+Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=3007
 [Participants]
 Engine1=Igel-x64_bmi2_avx2_3_5_0
 Engine2=Berserk-13-avx2-pext
