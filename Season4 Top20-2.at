@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=59
+CurrentPair=71
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=857
+LastPGNEPDindex=7182
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -66,8 +66,8 @@ OS=Windows 10 Home Home Edition (Build 9200) 64 bit
 Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
-LastGameDate=2024.05.24
-LastGameTime=23:58:59
+LastGameDate=2024.05.25
+LastGameTime=00:03:10
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -408,6 +408,7 @@ Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=0
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=1
+Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=0
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -748,6 +749,7 @@ Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=5045
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=5003
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=2081
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=857
+Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=7182
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
 Engine2=Koivisto_9.2-windows-avx2-pgo-pext
