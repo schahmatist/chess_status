@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=71
+CurrentPair=83
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1448
+LastPGNEPDindex=4387
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=17:27:11
+LastGameTime=17:30:27
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -409,7 +409,7 @@ Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½½½0½00½½½½½
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½½½½½1½½½½1½
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=11111½½½½½1½
 Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=0½½0½½½½½½1½
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Starzix-5.0-avx2=½½1½½½½½1½1
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Starzix-5.0-avx2=½½1½½½½½1½1½
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=½111½½1½½1½
 Starzix-5.0-avx2 ------ Stockfish_24032015_x64_bmi2=0½0½0½½½0½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=½½½½½½0½0½0
