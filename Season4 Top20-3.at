@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=153
+CurrentPair=163
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=3007
+LastPGNEPDindex=5597
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=01:59:41
+LastGameTime=02:03:43
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -416,7 +416,7 @@ Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½½
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=½½
 Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½0
 Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½
-Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½
+Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½½
 RofChade 3.1 ------ Starzix-5.0-avx2=½
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=0
 Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½
