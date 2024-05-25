@@ -64611,3 +64611,27 @@ Pairing 163/253 :    PlentyChess-1.0.0-bmi2  -  Starzix-5.0-avx2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   2 = =    0.5:0.5        1.5:0.5       2:35:08 AM     0.00    82 20.611 :20.789  1-0-1
+
+--------------------------------------------------------------
+
+Engine-Match Saturday, May 25, 2024 2:35:11 AM
+ Blitz 1/1 
+
+Pairing 173/253 :    Starzix-5.0-avx2  -  Ethereal-14.25-pext-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   2 = =    1.0:1.0        1.0:1.0       2:39:02 AM     0.00    51 22.667 :21.721  0-0-2
+
+--------------------------------------------------------------
+
+Engine-Match Saturday, May 25, 2024 2:39:04 AM
+ Blitz 1/1 
+
+Pairing 183/253 :    Stockfish_24032015_x64_bmi2  -  Starzix-5.0-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws

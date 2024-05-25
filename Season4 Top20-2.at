@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=224
+CurrentPair=234
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5387
+LastPGNEPDindex=3156
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=02:30:25
+LastGameTime=02:38:30
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -423,7 +423,7 @@ Starzix-5.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½
 Rebel-16.3 ------ Starzix-5.0-avx2=½½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=11
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=0½
-Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½
+Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½½
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
