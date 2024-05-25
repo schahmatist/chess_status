@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=48
+CurrentPair=60
 CurrentRound=12
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1259
+LastPGNEPDindex=3733
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=18:38:27
+LastGameTime=18:43:14
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -407,7 +407,7 @@ Starzix-5.0-avx2 ------ Uralochka3.41a-avx2=½½½½½½0½½½00
 Obsidian120-avx2-pext ------ Starzix-5.0-avx2=1½111½1½½½1½
 RofChade 3.1 ------ Starzix-5.0-avx2=½½½½½11½½½½0
 Starzix-5.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½½1½½½½½
-Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½½½½½½½1½½0
+Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½½½½½½½1½½0½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½0½0½½½½½½½
 Dragon 3.3-64bit-avx2 ------ Starzix-5.0-avx2=½½½½½1½1½½½
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½01½½½½½½½½
