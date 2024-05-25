@@ -65331,3 +65331,27 @@ Pairing 96/253 :    Clover.6.1-avx2  -  Starzix-5.0-avx2
 PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   5 = =    1.0:1.0        4.0:1.0       6:30:30 AM    +0.01    24 29.867 :27.067  3-0-2
+
+--------------------------------------------------------------
+
+Engine-Match Saturday, May 25, 2024 6:30:32 AM
+ Blitz 1/1 
+
+Pairing 108/253 :    Starzix-5.0-avx2  -  Stockfish_24032015_x64_bmi2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   5 B 2    2.0:1.0        1.0:4.0       6:34:34 AM   -27.45    56 21.368 :23.778  0-3-2
+
+--------------------------------------------------------------
+
+Engine-Match Saturday, May 25, 2024 6:34:37 AM
+ Blitz 1/1 
+
+Pairing 120/253 :    Seer_v2.8_x64_avx2_popcnt  -  Starzix-5.0-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top20.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
