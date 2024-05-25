@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=132
+CurrentPair=153
 CurrentRound=8
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1908
+LastPGNEPDindex=3974
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=12:37:38
+LastGameTime=12:44:31
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -414,8 +414,8 @@ Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½01½½½½½
 Starzix-5.0-avx2 ------ Titan-x86_64-avx2=½½½½1½½½
 Rebel-16.3 ------ Starzix-5.0-avx2=½1½½½½½½
 Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½1½1½½½½
-Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½01½
-Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½0½0½0½
+Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½½½½01½½
+Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½0½0½0½½
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=1½½½½½1
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=½½½11½1
 Starzix-5.0-avx2 ------ Stockfish_24032015_x64_bmi2=½00½0½½
