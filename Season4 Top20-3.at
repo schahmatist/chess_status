@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=48
+CurrentPair=60
 CurrentRound=6
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=5535
+LastPGNEPDindex=2045
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=07:45:51
+LastGameTime=07:53:56
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -407,7 +407,7 @@ Starzix-5.0-avx2 ------ Titan-x86_64-avx2=1½½0½½
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½010½½
 PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½½0½½½
 Starzix-5.0-avx2 ------ Uralochka3.41a-avx2=½½½½½½
-Starzix-5.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½1
+Starzix-5.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½1½
 RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=1½½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Starzix-5.0-avx2=½½½½½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=11½1½
