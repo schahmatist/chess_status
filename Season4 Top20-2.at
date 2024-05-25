@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-2
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=234
+CurrentPair=244
 CurrentRound=9
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1772
+LastPGNEPDindex=3542
 FirstGameDate=2024.04.23
 FirstGameTime=13:07:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=13:32:56
+LastGameTime=13:38:59
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=1101½½½0½½½1½0½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=1½1½11½½1½½11½1½
@@ -424,7 +424,7 @@ Rebel-16.3 ------ Starzix-5.0-avx2=½½½½½½½½½
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=11½1½11½½
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=0½½1½1½½½
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½½½0½10½½
-Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=½½½½½½½½
+Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=½½½½½½½½½
 [PairingLastPGNEPDindex]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=3713
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=6849
@@ -781,7 +781,7 @@ Rebel-16.3 ------ Starzix-5.0-avx2=1583
 Clover.6.1-avx2 ------ Starzix-5.0-avx2=2324
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=3753
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=1772
-Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=1649
+Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=3542
 [Participants]
 Engine1=RubiChess-20240112_x86-64-bmi2
 Engine2=Koivisto_9.2-windows-avx2-pgo-pext
