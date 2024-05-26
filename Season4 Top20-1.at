@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=23
+CurrentPair=47
 CurrentRound=14
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=842
+LastPGNEPDindex=3528
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=20:14:50
+LastGameTime=20:24:37
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -405,8 +405,8 @@ Dragon 3.3-64bit-avx2 ------ Fire-9.3_x64_avx2=½½1111½11½1½½½11
 Berserk-13-avx2-pext ------ Fire-9.3_x64_avx2=½1½½½½½½½1½1½1½½
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½00½½½½½½11½1½
 Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½½½½1½½½0½½½½
-PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½½1½½½½½½½½½½
-RofChade 3.1 ------ Starzix-5.0-avx2=½0½½½½½1½1½½½
+PlentyChess-1.0.0-bmi2 ------ Starzix-5.0-avx2=½½1½½½½½½½½½½½
+RofChade 3.1 ------ Starzix-5.0-avx2=½0½½½½½1½1½½½½
 Starzix-5.0-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½½0½½½1½½½
 Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½11½½1½1½1½½0
 Rebel-16.3 ------ Starzix-5.0-avx2=1½½0½½½½½01½½
