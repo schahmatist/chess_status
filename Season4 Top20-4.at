@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-4
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=233
+CurrentPair=243
 CurrentRound=13
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=6371
+LastPGNEPDindex=5456
 FirstGameDate=2024.04.23
 FirstGameTime=14:03:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.25
-LastGameTime=21:28:22
+LastGameTime=21:31:57
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=00½½0½00½½0½0000
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=½½½½½0½0½½½½½0½½
@@ -424,7 +424,7 @@ Clover.6.1-avx2 ------ Starzix-5.0-avx2=½½½½½½½½½½1½1
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=½½½½½½½½½½1½½
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=½½1½1½½½½½½01
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=0½½½½½½½0½01½
-RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½½½½½½½½½½½½
+RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=½½½½½½½½½½½½1
 [PairingLastPGNEPDindex]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=7118
 Alexandria-6.1.0-avx2 ------ Obsidian120-avx2-pext=5893
@@ -781,7 +781,7 @@ Clover.6.1-avx2 ------ Starzix-5.0-avx2=590
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=5122
 Berserk-13-avx2-pext ------ Starzix-5.0-avx2=4384
 Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=6371
-RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=234
+RubiChess-20240112_x86-64-bmi2 ------ Starzix-5.0-avx2=5456
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=RubiChess-20240112_x86-64-bmi2
