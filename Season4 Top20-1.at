@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-1
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=131
+CurrentPair=154
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=805
+LastPGNEPDindex=3493
 FirstGameDate=2024.04.22
 FirstGameTime=13:35:28
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=00:22:06
+LastGameTime=00:29:08
 [PairingResults]
 Igel-x64_bmi2_avx2_3_5_0 ------ Lc0 0.31-rc2=0½½½½10½1½½½½½½½
 Obsidian120-avx2-pext ------ Seer_v2.8_x64_avx2_popcnt=½½½½1½1½1½1½½½1½
@@ -414,8 +414,8 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Starzix-5.0-avx2=½½½½11½½½½00½½½½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½½1½½½10½1½½½½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Starzix-5.0-avx2=½½0½½½½½½1½½½1½½
 Starzix-5.0-avx2 ------ Stockfish_24032015_x64_bmi2=½½0½000½½0½00½½0
-Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1½½½½0½½½½½½½½½
-Starzix-5.0-avx2 ------ Titan-x86_64-avx2=½½½½½½½½½11½½½½
+Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1½½½½0½½½½½½½½½½
+Starzix-5.0-avx2 ------ Titan-x86_64-avx2=½½½½½½½½½11½½½½½
 Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½½½½½½½½11½½½½½
 Lc0 0.31-rc2 ------ Starzix-5.0-avx2=½0½½½½½½½½0½½½½
 Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=½001½½½½11½1½½½
