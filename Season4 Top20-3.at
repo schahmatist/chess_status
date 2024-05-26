@@ -3,7 +3,7 @@ TournamentName=Season4 Top20-3
 Type=0
 CurrSwissRound=0
 Rounds=16
-CurrentPair=163
+CurrentPair=183
 CurrentRound=16
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=887
+LastPGNEPDindex=7333
 FirstGameDate=2024.04.23
 FirstGameTime=13:25:12
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=00:50:03
+LastGameTime=00:58:11
 [PairingResults]
 Lc0 0.31-rc2 ------ Stockfish_24032015_x64_bmi2=½½0½00½½0½000½00
 Igel-x64_bmi2_avx2_3_5_0 ------ Obsidian120-avx2-pext=½½½00½0½½½0½½½0½
@@ -417,8 +417,8 @@ Igel-x64_bmi2_avx2_3_5_0 ------ Starzix-5.0-avx2=½½½½½½½½0½½½½½½½
 Starzix-5.0-avx2 ------ Velvet-v7.3.0-x86_64-avx2=½001½½½10½½1½1½½
 Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½½½½1½½½½½½½½½½
 Obsidian120-avx2-pext ------ Starzix-5.0-avx2=½½½½111½½½½1½½½½
-RofChade 3.1 ------ Starzix-5.0-avx2=½½½½00½½0½½1½½½
-Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=0½1½½½101½½11½½
+RofChade 3.1 ------ Starzix-5.0-avx2=½½½½00½½0½½1½½½1
+Ethereal-14.25-pext-avx2 ------ Starzix-5.0-avx2=0½1½½½101½½11½½½
 Revenge_3_(Pedone)_avx2 ------ Starzix-5.0-avx2=½½01½½½1½½½½½½1
 Rebel-16.3 ------ Starzix-5.0-avx2=0½½½½½½½½½101½1
 Koivisto_9.2-windows-avx2-pgo-pext ------ Starzix-5.0-avx2=½½0½1½½1½½½1½½½
