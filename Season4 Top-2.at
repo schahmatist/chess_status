@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=629
+CurrentPair=630
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=14693
+LastPGNEPDindex=18554
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=09:47:18
+LastGameTime=09:51:23
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1808,7 +1808,7 @@ CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=½½
 Peacekeeper-300-avx2 ------ Rebel-16.3=½0
 Rebel-16.3 ------ Uralochka3.41a-avx2=½0
 Peacekeeper-300-avx2 ------ Rice-8.0.0-v3=½½
-Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=½
+Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=½0
 Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½
 Igel-x64_bmi2_avx2_3_5_0 ------ Peacekeeper-300-avx2=0
