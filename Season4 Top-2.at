@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1014
+CurrentPair=1015
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=16601
+LastPGNEPDindex=29175
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=03:32:28
+LastGameTime=03:37:16
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1836,6 +1836,7 @@ Slow64-avx2 ------ Uralochka3.41a-avx2=1
 Minic_3.41_mingw_x64_skylake ------ Peacekeeper-300-avx2=½
 Minic_3.41_mingw_x64_skylake ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ PlentyChess-1.0.0-bmi2=½
+PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3604,6 +3605,7 @@ Slow64-avx2 ------ Uralochka3.41a-avx2=30288
 Minic_3.41_mingw_x64_skylake ------ Peacekeeper-300-avx2=16819
 Minic_3.41_mingw_x64_skylake ------ Uralochka3.41a-avx2=19771
 Peacekeeper-300-avx2 ------ PlentyChess-1.0.0-bmi2=16601
+PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=29175
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
