@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=03:29:46
+LastGameTime=03:34:59
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1893,6 +1893,7 @@ Midnightv9-windows-x86-64-v3 ------ Peacekeeper-300-avx2=0
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=½
 Carp-v3.0.1-win-x86_64-V3 ------ Peacekeeper-300-avx2=½
 Texel 1.11 ------ Uralochka3.41a-avx2=0
+Akimbo-1.0.0-avx2 ------ Peacekeeper-300-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3718,6 +3719,7 @@ Midnightv9-windows-x86-64-v3 ------ Peacekeeper-300-avx2=24858
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=19082
 Carp-v3.0.1-win-x86_64-V3 ------ Peacekeeper-300-avx2=9114
 Texel 1.11 ------ Uralochka3.41a-avx2=11055
+Akimbo-1.0.0-avx2 ------ Peacekeeper-300-avx2=28557
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
