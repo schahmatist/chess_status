@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=143
+CurrentPair=144
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=24723
+LastPGNEPDindex=31223
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=22:44:43
+LastGameTime=22:50:28
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1784,6 +1784,7 @@ Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=1
 Allie_v0.8-dev New Net ------ Peacekeeper-300-avx2=½
 Allie_v0.8-dev New Net ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Stockfish_24032015_x64_bmi2=0
+Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3500,6 +3501,7 @@ Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=19821
 Allie_v0.8-dev New Net ------ Peacekeeper-300-avx2=29787
 Allie_v0.8-dev New Net ------ Uralochka3.41a-avx2=19506
 Peacekeeper-300-avx2 ------ Stockfish_24032015_x64_bmi2=24723
+Stockfish_24032015_x64_bmi2 ------ Uralochka3.41a-avx2=31223
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
