@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=842
+CurrentPair=843
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=34263
+LastPGNEPDindex=11431
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=12:49:10
+LastGameTime=12:51:22
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1896,7 +1896,7 @@ Texel 1.11 ------ Uralochka3.41a-avx2=0½
 Akimbo-1.0.0-avx2 ------ Peacekeeper-300-avx2=½½
 Pawn-v3.0-windows-haswell ------ Uralochka3.41a-avx2=½0
 Peacekeeper-300-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½1
-Uralochka3.41a-avx2 ------ Willow 4.01-v3-windows=1
+Uralochka3.41a-avx2 ------ Willow 4.01-v3-windows=1½
 Lizard-win-x64-pext ------ Peacekeeper-300-avx2=0
 Equisetum 1.0 bmi2 ------ Uralochka3.41a-avx2=½
 Minic_3.41_mingw_x64_skylake ------ Peacekeeper-300-avx2=½
