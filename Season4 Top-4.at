@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=417
+CurrentPair=439
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=32187
+LastPGNEPDindex=23014
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=00:58:18
+LastGameTime=01:02:34
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1809,6 +1809,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Peacekeeper-300-avx2=½
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½
 Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½
+Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3550,6 +3551,7 @@ Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=29147
 Blackmarlin-9.0-windows-x86-64-v3 ------ Peacekeeper-300-avx2=3827
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=9183
 Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=32187
+Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=23014
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
