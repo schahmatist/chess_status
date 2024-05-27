@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=13:49:25
+LastGameTime=14:00:01
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1852,7 +1852,7 @@ Pawn-v3.0-windows-haswell ------ Uralochka3.41a-avx2=½0
 Carp-v3.0.1-win-x86_64-V3 ------ Peacekeeper-300-avx2=½½
 Carp-v3.0.1-win-x86_64-V3 ------ Uralochka3.41a-avx2=00
 Peacekeeper-300-avx2 ------ Texel 1.11=½1
-Texel 1.11 ------ Uralochka3.41a-avx2=½
+Texel 1.11 ------ Uralochka3.41a-avx2=½0
 Fire-9.3_x64_avx2 ------ Peacekeeper-300-avx2=½
 Fire-9.3_x64_avx2 ------ Uralochka3.41a-avx2=0
 Clarity_6.0_x86-64-v3_BMI2 ------ Peacekeeper-300-avx2=½
