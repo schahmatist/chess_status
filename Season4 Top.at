@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=417
+CurrentPair=443
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7021
+LastPGNEPDindex=21672
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=00:59:56
+LastGameTime=01:09:36
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1864,6 +1864,8 @@ Houdini 6.03 Pro pext ------ Uralochka3.41a-avx2=½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Peacekeeper-300-avx2=½
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½
+Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=0
+Peacekeeper-300-avx2 ------ Rebel-16.3=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3660,6 +3662,8 @@ Houdini 6.03 Pro pext ------ Uralochka3.41a-avx2=33264
 Blackmarlin-9.0-windows-x86-64-v3 ------ Peacekeeper-300-avx2=12671
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=11524
 Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=7021
+Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=13220
+Peacekeeper-300-avx2 ------ Rebel-16.3=21672
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
