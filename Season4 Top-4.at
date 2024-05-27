@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1158
+CurrentPair=1178
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=11197
+LastPGNEPDindex=14341
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=06:29:23
+LastGameTime=06:39:12
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1869,6 +1869,7 @@ Booot73_avx2 ------ Peacekeeper-300-avx2=½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=½
 Andscacsnnue01 ------ Peacekeeper-300-avx2=0
 Devre_5.0-avx2 ------ Uralochka3.41a-avx2=0
+Alexandria-6.1.0-avx2 ------ Peacekeeper-300-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3670,6 +3671,7 @@ Booot73_avx2 ------ Peacekeeper-300-avx2=17199
 Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=1700
 Andscacsnnue01 ------ Peacekeeper-300-avx2=3169
 Devre_5.0-avx2 ------ Uralochka3.41a-avx2=11197
+Alexandria-6.1.0-avx2 ------ Peacekeeper-300-avx2=14341
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
