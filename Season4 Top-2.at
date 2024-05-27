@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=948
+CurrentPair=949
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=32148
+LastPGNEPDindex=28548
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=02:55:45
+LastGameTime=03:09:56
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1830,6 +1830,8 @@ RofChade 3.1 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Superultra-2.0=½
 Superultra-2.0 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Wasp650-windows-avx=½
+Uralochka3.41a-avx2 ------ Wasp650-windows-avx=½
+Peacekeeper-300-avx2 ------ Slow64-avx2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3592,6 +3594,8 @@ RofChade 3.1 ------ Uralochka3.41a-avx2=6500
 Peacekeeper-300-avx2 ------ Superultra-2.0=21800
 Superultra-2.0 ------ Uralochka3.41a-avx2=5682
 Peacekeeper-300-avx2 ------ Wasp650-windows-avx=32148
+Uralochka3.41a-avx2 ------ Wasp650-windows-avx=28548
+Peacekeeper-300-avx2 ------ Slow64-avx2=13921
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
