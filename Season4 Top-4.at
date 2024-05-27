@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=231
+CurrentPair=235
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=30489
+LastPGNEPDindex=4224
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=23:39:05
+LastGameTime=23:47:18
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1794,6 +1794,7 @@ Pawn-v3.0-windows-haswell ------ Peacekeeper-300-avx2=½
 Texel 1.11 ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ Willow 4.01-v3-windows=1
 Pawn-v3.0-windows-haswell ------ Uralochka3.41a-avx2=½
+Equisetum 1.0 bmi2 ------ Peacekeeper-300-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3520,6 +3521,7 @@ Pawn-v3.0-windows-haswell ------ Peacekeeper-300-avx2=9241
 Texel 1.11 ------ Uralochka3.41a-avx2=28666
 Peacekeeper-300-avx2 ------ Willow 4.01-v3-windows=7688
 Pawn-v3.0-windows-haswell ------ Uralochka3.41a-avx2=30489
+Equisetum 1.0 bmi2 ------ Peacekeeper-300-avx2=4224
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
