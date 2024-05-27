@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=183
+CurrentPair=208
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=32745
+LastPGNEPDindex=3006
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=23:29:39
+LastGameTime=23:32:11
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1846,6 +1846,7 @@ Midnightv9-windows-x86-64-v3 ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ Texel 1.11=½
 Carp-v3.0.1-win-x86_64-V3 ------ Uralochka3.41a-avx2=0
 Pawn-v3.0-windows-haswell ------ Peacekeeper-300-avx2=1
+Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3624,6 +3625,7 @@ Midnightv9-windows-x86-64-v3 ------ Uralochka3.41a-avx2=18507
 Peacekeeper-300-avx2 ------ Texel 1.11=3045
 Carp-v3.0.1-win-x86_64-V3 ------ Uralochka3.41a-avx2=14031
 Pawn-v3.0-windows-haswell ------ Peacekeeper-300-avx2=32745
+Akimbo-1.0.0-avx2 ------ Uralochka3.41a-avx2=3006
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
