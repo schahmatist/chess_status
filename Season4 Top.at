@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1035
+CurrentPair=1058
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=30638
+LastPGNEPDindex=17006
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=14:21:54
+LastGameTime=14:25:39
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1913,7 +1913,7 @@ Peacekeeper-300-avx2 ------ Revenge_3_(Pedone)_avx2=10
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=0½
 Peacekeeper-300-avx2 ------ Rice-8.0.0-v3=½½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½½
-CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Peacekeeper-300-avx2=½
+CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Peacekeeper-300-avx2=½½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Peacekeeper-300-avx2=½
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=1
