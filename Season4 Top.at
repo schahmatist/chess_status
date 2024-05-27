@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=338
+CurrentPair=339
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=1864
+LastPGNEPDindex=31459
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=00:24:41
+LastGameTime=00:29:45
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1857,6 +1857,7 @@ Peacekeeper-300-avx2 ------ Slow64-avx2=1
 Uralochka3.41a-avx2 ------ Wasp650-windows-avx=½
 Peacekeeper-300-avx2 ------ Superultra-2.0=1
 RofChade 3.1 ------ Uralochka3.41a-avx2=½
+Ethereal-14.25-pext-avx2 ------ Peacekeeper-300-avx2=1
 [PairingLastPGNEPDindex]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=252
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=9072
@@ -3646,6 +3647,7 @@ Peacekeeper-300-avx2 ------ Slow64-avx2=14162
 Uralochka3.41a-avx2 ------ Wasp650-windows-avx=9208
 Peacekeeper-300-avx2 ------ Superultra-2.0=25539
 RofChade 3.1 ------ Uralochka3.41a-avx2=1864
+Ethereal-14.25-pext-avx2 ------ Peacekeeper-300-avx2=31459
 [Participants]
 Engine1=Andscacsnnue01
 Engine2=Igel-x64_bmi2_avx2_3_5_0
