@@ -74966,3 +74966,26 @@ PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top.pgn
 
 No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
    1 W 1    1.0:0.0        1.0:0.0       6:24:29 AM   +96.60    74 18.774 :6.635  1-0-0
+
+--------------------------------------------------------------
+
+Engine-Match Monday, May 27, 2024 6:25:07 AM
+ Blitz 1/1 
+
+Pairing 1202/1225 :    Peacekeeper-300-avx2  -  Seer_v2.8_x64_avx2_popcnt
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
+   1 = =    0.5:0.5        0.5:0.5       6:28:53 AM     0.00    47 17.278 :18.944  0-0-1
+
+--------------------------------------------------------------
+
+Engine-Match Monday, May 27, 2024 6:29:25 AM
+ Blitz 1/1 
+
+Pairing 1203/1225 :    Stockfish_24032015_x64_bmi2  -  Uralochka3.41a-avx2
+
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Season4 Top.pgn
+
+No:  B/W 1/2     W:B       1:2           Time        Value Moves Dep 1:2       1-2-Draws
