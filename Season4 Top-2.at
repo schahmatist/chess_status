@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=819
+CurrentPair=846
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=13210
+LastPGNEPDindex=431
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=02:14:47
+LastGameTime=02:17:29
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1821,6 +1821,7 @@ Houdini 6.03 Pro pext ------ Peacekeeper-300-avx2=0
 Houdini 6.03 Pro pext ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=1
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½
+Fritz 19 AVX2 ------ Peacekeeper-300-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3574,6 +3575,7 @@ Houdini 6.03 Pro pext ------ Peacekeeper-300-avx2=17218
 Houdini 6.03 Pro pext ------ Uralochka3.41a-avx2=4834
 Peacekeeper-300-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=15051
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=13210
+Fritz 19 AVX2 ------ Peacekeeper-300-avx2=431
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
