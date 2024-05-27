@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=728
+CurrentPair=729
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=25186
+LastPGNEPDindex=7519
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=01:37:37
+LastGameTime=01:43:40
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1814,6 +1814,7 @@ RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½
 Igel-x64_bmi2_avx2_3_5_0 ------ Peacekeeper-300-avx2=0
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Revenge_3_(Pedone)_avx2=½
+Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3560,6 +3561,7 @@ RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=2229
 Igel-x64_bmi2_avx2_3_5_0 ------ Peacekeeper-300-avx2=16411
 Igel-x64_bmi2_avx2_3_5_0 ------ Uralochka3.41a-avx2=3762
 Peacekeeper-300-avx2 ------ Revenge_3_(Pedone)_avx2=25186
+Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=7519
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
