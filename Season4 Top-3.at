@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=2
+CurrentPair=26
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=26666
+LastPGNEPDindex=21204
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=07:11:59
+LastGameTime=07:17:55
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1785,7 +1785,7 @@ Alexandria-6.1.0-avx2 ------ Starzix-5.0-avx2=½½½½
 Seer_v2.8_x64_avx2_popcnt ------ Starzix-5.0-avx2=½10½
 Caissa-1.18-x64-avx2-bmi2 ------ Peacekeeper-300-avx2=½½
 Booot73_avx2 ------ Uralochka3.41a-avx2=½½
-Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½
+Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½1
 Peacekeeper-300-avx2 ------ Starzix-5.0-avx2=0
 Arasanx-24.2.2-avx2-bmi2 ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ Titan-x86_64-avx2=½
