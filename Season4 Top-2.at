@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1072
+CurrentPair=1089
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=34257
+LastPGNEPDindex=13653
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=04:11:35
+LastGameTime=04:19:08
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1843,6 +1843,8 @@ Equisetum 1.0 bmi2 ------ Peacekeeper-300-avx2=½
 Equisetum 1.0 bmi2 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=½
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=0
+Peacekeeper-300-avx2 ------ Willow 4.01-v3-windows=½
+Uralochka3.41a-avx2 ------ Willow 4.01-v3-windows=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3618,6 +3620,8 @@ Equisetum 1.0 bmi2 ------ Peacekeeper-300-avx2=30889
 Equisetum 1.0 bmi2 ------ Uralochka3.41a-avx2=13679
 Peacekeeper-300-avx2 ------ Stormphrax-4.1.0-avx2-bmi2=18541
 Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=34257
+Peacekeeper-300-avx2 ------ Willow 4.01-v3-windows=13103
+Uralochka3.41a-avx2 ------ Willow 4.01-v3-windows=13653
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
