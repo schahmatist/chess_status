@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=573
+CurrentPair=595
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7157
+LastPGNEPDindex=20953
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=02:07:33
+LastGameTime=02:11:25
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1821,6 +1821,7 @@ Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=1
 Berserk-13-avx2-pext ------ Peacekeeper-300-avx2=½
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=½
 Allie_v0.8-dev New Net ------ Peacekeeper-300-avx2=½
+Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3574,6 +3575,7 @@ Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=4917
 Berserk-13-avx2-pext ------ Peacekeeper-300-avx2=29166
 Caissa-1.18-x64-avx2-bmi2 ------ Uralochka3.41a-avx2=11524
 Allie_v0.8-dev New Net ------ Peacekeeper-300-avx2=7157
+Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=20953
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
