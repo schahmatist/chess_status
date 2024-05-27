@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=483
+CurrentPair=484
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=11677
+LastPGNEPDindex=26907
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=00:25:00
+LastGameTime=00:30:55
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1800,6 +1800,7 @@ Devre_5.0-avx2 ------ Uralochka3.41a-avx2=0
 Dragon 3.3-64bit-avx2 ------ Peacekeeper-300-avx2=1
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=½
 Koivisto_9.2-windows-avx2-pgo-pext ------ Peacekeeper-300-avx2=1
+Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3532,6 +3533,7 @@ Devre_5.0-avx2 ------ Uralochka3.41a-avx2=31843
 Dragon 3.3-64bit-avx2 ------ Peacekeeper-300-avx2=25633
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=14941
 Koivisto_9.2-windows-avx2-pgo-pext ------ Peacekeeper-300-avx2=11677
+Koivisto_9.2-windows-avx2-pgo-pext ------ Uralochka3.41a-avx2=26907
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
