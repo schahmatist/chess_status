@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=14:38:51
+LastGameTime=14:44:58
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1861,7 +1861,7 @@ Peacekeeper-300-avx2 ------ Seer_v2.8_x64_avx2_popcnt=01
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½½
 Obsidian120-avx2-pext ------ Peacekeeper-300-avx2=½1
 Obsidian120-avx2-pext ------ Uralochka3.41a-avx2=½½
-Peacekeeper-300-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1
+Peacekeeper-300-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1½
 Uralochka3.41a-avx2 ------ Velvet-v7.3.0-x86_64-avx2=1
 Midnightv9-windows-x86-64-v3 ------ Peacekeeper-300-avx2=½
 Midnightv9-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½
