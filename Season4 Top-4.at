@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=179
+CurrentPair=183
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=7491
+LastPGNEPDindex=9241
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=23:22:01
+LastGameTime=23:25:53
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1790,6 +1790,7 @@ Nemorino_6.00_win64_avx2 ------ Peacekeeper-300-avx2=½
 Clarity_6.0_x86-64-v3_BMI2 ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ Texel 1.11=½
 Nemorino_6.00_win64_avx2 ------ Uralochka3.41a-avx2=0
+Pawn-v3.0-windows-haswell ------ Peacekeeper-300-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3512,6 +3513,7 @@ Nemorino_6.00_win64_avx2 ------ Peacekeeper-300-avx2=29630
 Clarity_6.0_x86-64-v3_BMI2 ------ Uralochka3.41a-avx2=25801
 Peacekeeper-300-avx2 ------ Texel 1.11=20519
 Nemorino_6.00_win64_avx2 ------ Uralochka3.41a-avx2=7491
+Pawn-v3.0-windows-haswell ------ Peacekeeper-300-avx2=9241
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0

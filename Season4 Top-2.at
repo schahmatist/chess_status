@@ -3,7 +3,7 @@ TournamentName=Season4 Top-2
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=278
+CurrentPair=279
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=15379
+LastPGNEPDindex=3808
 FirstGameDate=2024.04.05
 FirstGameTime=11:45:59
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.26
-LastGameTime=23:23:14
+LastGameTime=23:29:09
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1790,6 +1790,7 @@ Altair-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½
 Andscacsnnue01 ------ Peacekeeper-300-avx2=½
 Andscacsnnue01 ------ Uralochka3.41a-avx2=½
 Berserk-13-avx2-pext ------ Peacekeeper-300-avx2=½
+Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=1
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3512,6 +3513,7 @@ Altair-windows-x86-64-v3 ------ Uralochka3.41a-avx2=26585
 Andscacsnnue01 ------ Peacekeeper-300-avx2=22217
 Andscacsnnue01 ------ Uralochka3.41a-avx2=23929
 Berserk-13-avx2-pext ------ Peacekeeper-300-avx2=15379
+Berserk-13-avx2-pext ------ Uralochka3.41a-avx2=3808
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
