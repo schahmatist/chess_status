@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=938
+CurrentPair=942
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=24141
+LastPGNEPDindex=2588
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=04:41:35
+LastGameTime=04:50:30
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1850,6 +1850,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ Wasp650-windows-avx=1
 Lizard-win-x64-pext ------ Uralochka3.41a-avx2=0
 Peacekeeper-300-avx2 ------ RofChade 3.1=0
+Minic_3.41_mingw_x64_skylake ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=33334
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=28544
@@ -3632,6 +3633,7 @@ Stormphrax-4.1.0-avx2-bmi2 ------ Uralochka3.41a-avx2=6643
 Peacekeeper-300-avx2 ------ Wasp650-windows-avx=10993
 Lizard-win-x64-pext ------ Uralochka3.41a-avx2=16045
 Peacekeeper-300-avx2 ------ RofChade 3.1=24141
+Minic_3.41_mingw_x64_skylake ------ Uralochka3.41a-avx2=2588
 [Participants]
 Engine1=Altair-windows-x86-64-v3
 Engine2=Igel-x64_bmi2_avx2_3_5_0
