@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=413
+CurrentPair=417
 CurrentRound=2
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=9183
+LastPGNEPDindex=32187
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=09:40:34
+LastGameTime=09:45:41
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1808,7 +1808,7 @@ Peacekeeper-300-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½
 Ethereal-14.25-pext-avx2 ------ Uralochka3.41a-avx2=½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Peacekeeper-300-avx2=½½
 Uralochka3.41a-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½1
-Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½
+Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Rebel-16.3=0
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½
