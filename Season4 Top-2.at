@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=15:24:23
+LastGameTime=15:30:01
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1869,7 +1869,7 @@ Nemorino_6.00_win64_avx2 ------ Peacekeeper-300-avx2=00
 Nemorino_6.00_win64_avx2 ------ Uralochka3.41a-avx2=½0
 Lc0 0.31-rc2 ------ Peacekeeper-300-avx2=½½
 Lc0 0.31-rc2 ------ Uralochka3.41a-avx2=½0
-Peacekeeper-300-avx2 ------ Titan-x86_64-avx2=½
+Peacekeeper-300-avx2 ------ Titan-x86_64-avx2=½1
 Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=½
 Arasanx-24.2.2-avx2-bmi2 ------ Peacekeeper-300-avx2=½
 Arasanx-24.2.2-avx2-bmi2 ------ Uralochka3.41a-avx2=½
