@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=02:33:09
+LastGameTime=02:40:02
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1833,6 +1833,7 @@ Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Stockfish_24032015_x64_bmi2=½
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=½
 Booot73_avx2 ------ Peacekeeper-300-avx2=½
+Peacekeeper-300-avx2 ------ Uralochka3.41a-avx2=0
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3598,6 +3599,7 @@ Alexandria-6.1.0-avx2 ------ Uralochka3.41a-avx2=11842
 Peacekeeper-300-avx2 ------ Stockfish_24032015_x64_bmi2=15450
 Seer_v2.8_x64_avx2_popcnt ------ Uralochka3.41a-avx2=24229
 Booot73_avx2 ------ Peacekeeper-300-avx2=14609
+Peacekeeper-300-avx2 ------ Uralochka3.41a-avx2=31929
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
