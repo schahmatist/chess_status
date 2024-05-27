@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=698
+CurrentPair=699
 CurrentRound=1
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=11167
+LastPGNEPDindex=11683
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=02:54:25
+LastGameTime=02:58:56
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1837,6 +1837,7 @@ Peacekeeper-300-avx2 ------ Uralochka3.41a-avx2=0
 Arasanx-24.2.2-avx2-bmi2 ------ Peacekeeper-300-avx2=0
 Starzix-5.0-avx2 ------ Uralochka3.41a-avx2=½
 Lc0 0.31-rc2 ------ Peacekeeper-300-avx2=½
+Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=7785
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1791
@@ -3606,6 +3607,7 @@ Peacekeeper-300-avx2 ------ Uralochka3.41a-avx2=31929
 Arasanx-24.2.2-avx2-bmi2 ------ Peacekeeper-300-avx2=6144
 Starzix-5.0-avx2 ------ Uralochka3.41a-avx2=28133
 Lc0 0.31-rc2 ------ Peacekeeper-300-avx2=11167
+Titan-x86_64-avx2 ------ Uralochka3.41a-avx2=11683
 [Participants]
 Engine1=Caissa-1.18-x64-avx2-bmi2
 Engine2=Booot73_avx2
