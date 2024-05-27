@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.27
-LastGameTime=01:14:44
+LastGameTime=01:19:58
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=½0½½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=1111
@@ -1809,6 +1809,7 @@ Peacekeeper-300-avx2 ------ Rebel-16.3=½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½
 Peacekeeper-300-avx2 ------ Rice-8.0.0-v3=½
 Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=½
+Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½
 [PairingLastPGNEPDindex]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=34360
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=32735
@@ -3550,6 +3551,7 @@ Peacekeeper-300-avx2 ------ Rebel-16.3=34106
 Rebel-16.3 ------ Uralochka3.41a-avx2=25131
 Peacekeeper-300-avx2 ------ Rice-8.0.0-v3=14693
 Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=18554
+Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=10234
 [Participants]
 Engine1=Alexandria-6.1.0-avx2
 Engine2=Allie_v0.8-dev New Net
