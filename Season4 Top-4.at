@@ -3,7 +3,7 @@ TournamentName=Season4 Top-4
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=990
+CurrentPair=1010
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=16909
+LastPGNEPDindex=2372
 FirstGameDate=2024.04.05
 FirstGameTime=11:48:01
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.28
-LastGameTime=08:02:29
+LastGameTime=08:12:25
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1855,7 +1855,7 @@ Fritz 19 AVX2 ------ Peacekeeper-300-avx2=0½00
 Uralochka3.41a-avx2 ------ Wasp650-windows-avx=½½½½
 Houdini 6.03 Pro pext ------ Peacekeeper-300-avx2=0000
 RofChade 3.1 ------ Uralochka3.41a-avx2=½½11
-Peacekeeper-300-avx2 ------ Revenge_3_(Pedone)_avx2=½½½
+Peacekeeper-300-avx2 ------ Revenge_3_(Pedone)_avx2=½½½½
 Fritz 19 AVX2 ------ Uralochka3.41a-avx2=0½0
 Peacekeeper-300-avx2 ------ Rice-8.0.0-v3=1½½
 Houdini 6.03 Pro pext ------ Uralochka3.41a-avx2=0½0
