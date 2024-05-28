@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.28
-LastGameTime=06:54:31
+LastGameTime=06:59:58
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1901,7 +1901,7 @@ Lizard-win-x64-pext ------ Peacekeeper-300-avx2=0½½½
 Equisetum 1.0 bmi2 ------ Uralochka3.41a-avx2=½½½0
 Minic_3.41_mingw_x64_skylake ------ Peacekeeper-300-avx2=½½0½
 PlentyChess-1.0.0-bmi2 ------ Uralochka3.41a-avx2=½½½½
-Peacekeeper-300-avx2 ------ Wasp650-windows-avx=111
+Peacekeeper-300-avx2 ------ Wasp650-windows-avx=1111
 Slow64-avx2 ------ Uralochka3.41a-avx2=00½
 Peacekeeper-300-avx2 ------ RofChade 3.1=½½1
 Superultra-2.0 ------ Uralochka3.41a-avx2=½½½
