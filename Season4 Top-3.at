@@ -3,7 +3,7 @@ TournamentName=Season4 Top-3
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=1082
+CurrentPair=1083
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=28010
+LastPGNEPDindex=5096
 FirstGameDate=2024.04.05
 FirstGameTime=11:46:54
 Country=United States
