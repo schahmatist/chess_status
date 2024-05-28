@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.28
-LastGameTime=04:19:31
+LastGameTime=04:25:00
 [PairingResults]
 Fire-9.3_x64_avx2 ------ Seer_v2.8_x64_avx2_popcnt=0½0½
 Stockfish_24032015_x64_bmi2 ------ Tenax 0.95=½111
@@ -1814,7 +1814,7 @@ Peacekeeper-300-avx2 ------ Rebel-16.3=01½½
 RubiChess-20240112_x86-64-bmi2 ------ Uralochka3.41a-avx2=½1½½
 Clover.6.1-avx2 ------ Peacekeeper-300-avx2=½1½½
 Rebel-16.3 ------ Uralochka3.41a-avx2=½½½½
-Dragon 3.3-64bit-avx2 ------ Peacekeeper-300-avx2=½½1
+Dragon 3.3-64bit-avx2 ------ Peacekeeper-300-avx2=½½1½
 Clover.6.1-avx2 ------ Uralochka3.41a-avx2=½½½
 Caissa-1.18-x64-avx2-bmi2 ------ Peacekeeper-300-avx2=½1½
 Dragon 3.3-64bit-avx2 ------ Uralochka3.41a-avx2=111
