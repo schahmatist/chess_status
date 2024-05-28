@@ -3,7 +3,7 @@ TournamentName=Season4 Top
 Type=0
 CurrSwissRound=0
 Rounds=4
-CurrentPair=416
+CurrentPair=442
 CurrentRound=4
 Level=2 1\0/1#0
 [Options]
@@ -56,7 +56,7 @@ SaveGamesFCH=0
 FCHdir=
 FCHnames=
 [Data]
-LastPGNEPDindex=19478
+LastPGNEPDindex=9065
 FirstGameDate=2024.04.03
 FirstGameTime=15:01:52
 Country=United States
@@ -67,7 +67,7 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2024.05.28
-LastGameTime=03:36:51
+LastGameTime=03:44:16
 [PairingResults]
 Peacekeeper-230-avx2 ------ Seer_v2.8_x64_avx2_popcnt=½½
 Stockfish_24032015_x64_bmi2 ------ Texel 1.11=½½11
@@ -1863,8 +1863,8 @@ Peacekeeper-300-avx2 ------ Viridithas-12.0.0-x86_64-win-v3=½½½½
 Houdini 6.03 Pro pext ------ Uralochka3.41a-avx2=½½½½
 Blackmarlin-9.0-windows-x86-64-v3 ------ Peacekeeper-300-avx2=½½½½
 Revenge_3_(Pedone)_avx2 ------ Uralochka3.41a-avx2=½½½½
-Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½
-Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=0½½
+Peacekeeper-300-avx2 ------ RubiChess-20240112_x86-64-bmi2=½0½½
+Rice-8.0.0-v3 ------ Uralochka3.41a-avx2=0½½½
 Peacekeeper-300-avx2 ------ Rebel-16.3=½½½
 CSTal-2.00-v21-E1019-Elo.opt-avx2 ------ Uralochka3.41a-avx2=1½½
 Clover.6.1-avx2 ------ Peacekeeper-300-avx2=½½½
